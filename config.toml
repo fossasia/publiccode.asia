@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "http://pmpc.mehl.mx"
 title = "Public Money, Public Code"
 theme = "universal"
 languageCode = "en-us"

@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>http://pmpc.mehl.mx/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/faq/</loc>
+    <loc>http://pmpc.mehl.mx/faq/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://pmpc.mehl.mx/</loc>
     <priority>0</priority>
   </url>
   

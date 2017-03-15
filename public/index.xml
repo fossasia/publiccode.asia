@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Money, Public Code</title>
-    <link>https://example.org/index.xml</link>
+    <link>http://pmpc.mehl.mx/index.xml</link>
     <description>Recent content on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 Free Software Foundation Europe. Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved. </copyright>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pmpc.mehl.mx/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>http://pmpc.mehl.mx/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>http://pmpc.mehl.mx/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>FAQ</title>
-      <link>https://example.org/faq/</link>
+      <link>http://pmpc.mehl.mx/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/faq/</guid>
+      <guid>http://pmpc.mehl.mx/faq/</guid>
       <description>
 
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
