@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
