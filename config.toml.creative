@@ -1,0 +1,107 @@
+baseurl = "http://pmpc.mehl.mx/"
+languageCode = "en-us"
+title = "Public Money, Public Code"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+  # You can use Markdown syntax for urls [text](//url.to/source) for
+  # most longer texts.
+
+  # All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # All projects of the portfolio are defined in their own files.
+  # You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+  # folder into the 'data' directory at the root of this Hugo site.
+  # For more information take a look at the README.
+
+  # To provide some metadata for search engines feel free to add some
+  # information about you and your website.
+  name = "Free Software Foundation Europe"
+  description = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
+
+  # The path must be relative to the static folder
+  favicon = "favicon.ico"
+
+
+  # Navigation
+  [params.navigation]
+    brand = "Public Money, Public Code"
+
+    [params.navigation.links]
+      about     = "About"
+      services  = "Advantages"
+      portfolio = "Resources"
+      contact   = "Contact"
+
+
+  # Hero section
+  [params.hero]
+    # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+    slogan     = "Public Money – Public Code"
+    subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
+    buttonText = "Find out more"
+
+
+  # About section
+  [params.about]
+    headline    = "Sounds complex? No, it's super easy!"
+    description = "VIDEO"
+    buttonText  = "More advantages"
+
+
+  # Service section
+  [params.services]
+    headline = "More reasons to free public code"
+
+  [[params.services.list]]
+    icon = "fa-diamond"
+    title = "Tax savings"
+    description = "Our templates are updated regularly so they don't break."
+
+  [[params.services.list]]
+    icon = "fa-paper-plane"
+    title = "Collaboration"
+    description = "You can use this theme as is, or you can make changes!"
+
+  [[params.services.list]]
+    icon = "fa-newspaper-o"
+    title = "Serving the public"
+    description = "We update dependencies to keep things fresh."
+
+  [[params.services.list]]
+    icon = "fa-heart"
+    title = "Fostering innovation"
+    description = "You have to make your websites with love these days!"
+
+
+  # Portfolio modals
+  [params.portfolio.modal]
+    client = "Client"
+    date = "Date"
+    category = "Category"
+    buttonText = "Close"
+
+  # Aside section
+  [params.aside]
+    headline = "Get the Creative Theme for Hugo"
+
+  [params.aside.button]
+    text = "Download now"
+    link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+  # Contact section
+  [params.contact]
+    headline = "Let's Get In Touch!"
+    description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+    phone = "123-456-6789"
+    email = "feedback@startbootstrap.com"
+
+  # Google Maps section
+  # [params.location]
+  #   latitude  = "34.007850"
+  #   longitude = "-118.499305"
+  #   maps_api_key = ""
