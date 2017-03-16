@@ -43,7 +43,7 @@ googleAnalytics = ""
     # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
     slogan     = "Public Money – Public Code"
     subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
-    buttonText = "Find out more"
+    buttonText = "See the video"
 
 
   # About section
