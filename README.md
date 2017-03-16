@@ -48,19 +48,12 @@ In the newly created folder `pmpc-website` you'll find all source files the webs
 Now we will modify the website a bit, review the changes and push them to the repository to make them available to other users and the live website.
 
 1. Navigate to the website's root directory (in the last example `~/FSFE/PMPC/website/`) and open a terminal window there. Type in `git pull`. This will get the latest changes from the server
-
 2. After you received the latest version, you can edit the website. For testing purposes, open the file `CONTRIBUTORS.md`, scroll to the very end, and add your name there. No worries, this won't have any visible effect on the website.
-
 3. Now check whether the website looks fine. Execute `hugo server` on your terminal. You will see a link containing `localhost:1313`. Open it and you see a preview of what the website looks like. This will help you to understand whether your changes actually have the effect you wanted.
-
 4. If you're happy with it, execute just `hugo`. This will build the website in its final form. The output is written to the subfolder `public` which in turn will be used by the website server.
-
 5. Check with `git status` what files have been changed on your side. In this example, you should see the file `CONTRIBUTORS.md` marked red. This means that the file has been changed but you didn't mark it as to be pushed to the server yet. If there're more files listed, make sure that you actually intended to modify these files!
-
 6. Add the changed file to the commit queue with `git add CONTRIBUTORS.md`. In case you have changed more files, you can also type `git add .` to add all files at once. With `git status` you should see all files marked green now, which means that they're ready to be committed.
-
 7. Commit the files with `git commit -m "added myself to the contributors list"`. In the comment after `-m` you should always write something meaningful that helps people to understand what you actually did.
-
 8. Unlike with SVN, you're not finished yet. You will have to execute `git push` to actually upload the modifications to the server.
 
 
