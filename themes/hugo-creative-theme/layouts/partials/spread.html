@@ -1,0 +1,19 @@
+{{ "<!-- SPREAD -->" | safeHTML }}
+<section id="spread" class="bg-dark">
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+              {{ with .Site.Params.spread.headline }}
+                  <h2 class="section-heading">{{ . }}</h2>
+              {{ end }}
+              {{ if and .Site.Params.spread.headline .Site.Params.spread.text }}
+                  <hr class="light">
+              {{ end }}
+              {{ with .Site.Params.spread.text }}
+                  <p class="text-faded">{{ . | markdownify }}</p>
+              {{ end }}
+                  <a href="{{ .Site.Params.spread.buttonLink }}" class="btn btn-default btn-xl page-scroll">{{ .Site.Params.spread.buttonText }}</a>
+            </div>
+        </div>
+    </div>
+</section>

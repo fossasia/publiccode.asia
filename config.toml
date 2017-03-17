@@ -85,13 +85,12 @@ googleAnalytics = ""
     category = "Category"
     buttonText = "Close"
 
-  # Aside section
-  [params.aside]
-    headline = "Get the Creative Theme for Hugo"
-
-  [params.aside.button]
-    text = "Download now"
-    link = "//github.com/digitalcraftsman/hugo-creative-theme"
+  # Spreat the word section
+  [params.spread]
+    headline = "Spread the word!"
+    text = "Obtain the coolest promotion material from [fsfe.org](https://fsfe.org/promo)"
+    buttonText = "Share on Facebook"
+    buttonLink = "https://facebook.com"
 
   # Contact section
   [params.contact]
