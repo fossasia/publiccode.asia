@@ -35,6 +35,7 @@ googleAnalytics = ""
       about     = "About"
       services  = "Advantages"
       portfolio = "Resources"
+      spread = "Spread"
       contact   = "Contact"
 
 
