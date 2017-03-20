@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
 }
 
-.portfolio-modal .modal-content {
+.resources-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -27,20 +27,20 @@ body {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.resources-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content img {
+.resources-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content .item-details {
+.resources-modal .modal-content .item-details {
     margin: 30px 0;
 }
 
-.portfolio-modal .close-modal {
+.resources-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -50,11 +50,11 @@ body {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.resources-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.resources-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -65,7 +65,7 @@ body {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.resources-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
@@ -75,7 +75,7 @@ body {
     transform: rotate(90deg);
 }
 
-.portfolio-modal .modal-backdrop {
+.resources-modal .modal-backdrop {
     display: none;
     opacity: 0;
 }
