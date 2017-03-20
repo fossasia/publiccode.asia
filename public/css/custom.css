@@ -4,6 +4,9 @@
     background-color: #333;
     padding: 20px;
 }
+#language p {
+  margin-bottom: 5px;
+}
 #language ul {
   padding: 0px;
 }
