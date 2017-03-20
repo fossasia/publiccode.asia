@@ -5,7 +5,7 @@ theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
 
 [params]
-  name = "Free Software Foundation Europe (FSFE)"
+  author = "Free Software Foundation Europe (FSFE)"
   description = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
   favicon = "favicon.ico"
 
@@ -86,78 +86,60 @@ DefaultContentLanguage = "en"
 
 
   # === TRANSLATIONS ===
-  
   [Languages]
   [Languages.en]
   
-  # GERMAN
+  # == GERMAN ==
   [Languages.de]
     languageCode = "de-DE"
     description = "Public Money, Public Code - Eine Kampagne zur Veröffentlichung öffentlich finanzierter Software als Freie Software"
-
+  [Languages.de.navigation]
+    brand = "Public Money, Public Code"
   [Languages.de.navigation.links]
     about     = "Über"
     reasons   = "Gründe"
     resources = "Ressourcen"
     spread    = "Verbreiten"
     contact   = "Kontakt"
-
   # Start banner
   [Languages.de.start]
     slogan     = "Public Money – Public Code"
-    subtitle   = "Warum wird Software, das von Steuerzahlern finanziert wird, nicht als Freie Software veröffentlicht? Von Allen bezahlter Code sollte Allen zur Verfügung stehen."
+    subtitle   = "Warum wird Software, die von Steuerzahlern finanziert wird, nicht als Freie Software veröffentlicht? Von Allen bezahlter Code sollte Allen zur Verfügung stehen."
     buttonText = "Video anschauen"
-
-
   # About section
   [Languages.de.about]
     headline    = "Klingt komplziert? Nein, es ist super einfach!"
     description = "VIDEO"
     buttonText  = "Mehr Vorteile"
-
   # Reasons section
   [Languages.de.reasons]
     headline = "Mehr Gründe zur Befreiung öffentlichen Codes"
-
   [[Languages.de.reasons.list]]
     icon = "fa-eur"
     title = "Steuerersparnis"
-    description = "Similar applications don't have to be programmed from scratch every time."
-
+    description = "Ähnliche Anwendungen müssen nicht jedes Mal von neu auf programmiert werden."
   [[Languages.de.reasons.list]]
     icon = "fa-plus"
     title = "Zusammenarbeit"
-    description = "Efforts on major projects can be joint to share expertise and costs."
-
+    description = "Bei großen Projekten können Expertise und Kosten zusammengelegt werden."
   [[Languages.de.reasons.list]]
     icon = "fa-users"
     title = "Für die Allgemeinheit"
-    description = "Applications paid by the public should be available for everyone."
-
+    description = "Anwendungen, die von Allen finanziert werde, müssen Allen zur Verfügung gestellt werden."
   [[Languages.de.reasons.list]]
     icon = "fa-lightbulb-o"
     title = "Innovation fördern"
-    description = "With transparent processes others don't have to reinvent the wheel."
-
-
+    description = "Dank transparenter Prozesse müssen Andere das Rad nicht neu erfinden."
   # Portfolio modals
   [Languages.de.resources.modal]
     client = "Kunde"
     date = "Datum"
     category = "Kategorie"
     buttonText = "Schließen"
-
   # Spread the word section
   [Languages.de.spread]
     headline = "Sag es weiter!"
-    promoText = "Obtain the latest stickers and flyers from FSFE"
-    promoButtonText = "Get promo material"
+    promoText = "Hol' Dir die neuesten Sticker und Flyer von der FSFE"
+    promoButtonText = "Promomaterial bestellen"
     promoButtonLink = "https://fsfe.org/promo#pmpc"
-    shareText = "Tell your friends and followers about Public Code"
-
-  # Contact section
-  [Languages.de.contact]
-    headline = "Let's Get In Touch!"
-    description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-    phone = "123-456-6789"
-    email = "feedback@startbootstrap.com"
+    shareText = "Erzähle Deinen Freunden und Followern von PMPC"
