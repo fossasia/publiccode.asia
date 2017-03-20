@@ -35,7 +35,7 @@ googleAnalytics = ""
       about     = "About"
       services  = "Advantages"
       portfolio = "Resources"
-      spread = "Spread"
+      spread    = "Spread"
       contact   = "Contact"
 
 
@@ -86,12 +86,13 @@ googleAnalytics = ""
     category = "Category"
     buttonText = "Close"
 
-  # Spreat the word section
+  # Spread the word section
   [params.spread]
     headline = "Spread the word!"
-    text = "Obtain the coolest promotion material from [fsfe.org](https://fsfe.org/promo)"
-    buttonText = "Share on Facebook"
-    buttonLink = "https://facebook.com"
+    promoText = "Obtain the latest stickers and flyers from FSFE"
+    promoButtonText = "Get promo material"
+    promoButtonLink = "https://fsfe.org/promo#pmpc"
+    shareText = "Tell your friends and followers about Public Code"
 
   # Contact section
   [params.contact]

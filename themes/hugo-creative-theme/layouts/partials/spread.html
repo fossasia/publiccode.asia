@@ -6,13 +6,20 @@
               {{ with .Site.Params.spread.headline }}
                   <h2 class="section-heading">{{ . }}</h2>
               {{ end }}
-              {{ if and .Site.Params.spread.headline .Site.Params.spread.text }}
-                  <hr class="light">
-              {{ end }}
-              {{ with .Site.Params.spread.text }}
+              {{ with .Site.Params.spread.promoText }}
                   <p class="text-faded">{{ . | markdownify }}</p>
               {{ end }}
-                  <a href="{{ .Site.Params.spread.buttonLink }}" class="btn btn-default btn-xl page-scroll">{{ .Site.Params.spread.buttonText }}</a>
+                  <a href="{{ .Site.Params.spread.promoButtonLink }}" class="btn btn-default btn-xl page-scroll">{{ .Site.Params.spread.promoButtonText }}</a>
+              <hr class="light">
+              {{ with .Site.Params.spread.shareText }}
+                  <p class="text-faded">{{ . | markdownify }}</p>
+              {{ end }}
+              
+              <div class="share-buttons">
+              {{ range .Site.Data.share }}
+                <a id="{{ .id }}" href="{{ .link }}" title="Share via {{ .text }}" target="_blank">{{ .text }}</a>
+              {{ end }}
+              </div>
             </div>
         </div>
     </div>
