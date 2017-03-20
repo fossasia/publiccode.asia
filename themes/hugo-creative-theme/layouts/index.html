@@ -35,6 +35,8 @@
         {{ if .Site.Data.resources }}
             {{ partial "modals.html" . }}
         {{ end }}
+        
+        {{ partial "sharecolumn.html" . }}
 
         {{ partial "js.html" . }}
     </body>
