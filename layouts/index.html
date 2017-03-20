@@ -32,6 +32,10 @@
         {{ if .Site.Params.contact }}
             {{ partial "contact.html" . }}
         {{ end }}
+        
+        {{ if .Site.Params.language }}
+            {{ partial "language.html" . }}
+        {{ end }}
 
         {{ if $data.resources }}
             {{ partial "modals.html" . }}

@@ -20,7 +20,11 @@ DefaultContentLanguage = "en"
   resources = "Resources"
   spread    = "Spread"
   contact   = "Contact"
+  language  = "Language"
 
+# Language selection
+[params.language]
+  description = "Read this page in another language"
 
 # Start banner
 [params.start]
@@ -101,6 +105,10 @@ DefaultContentLanguage = "en"
   resources = "Ressourcen"
   spread    = "Verbreiten"
   contact   = "Kontakt"
+  language  = "Sprache"
+# Language selection
+[Languages.de.language]
+  description = "Diese Seite in einer anderen Sprache lesen"
 # Start banner
 [Languages.de.start]
   slogan     = "Public Money – Public Code"
