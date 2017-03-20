@@ -58,24 +58,24 @@ theme = "hugo-creative-theme"
     headline = "More reasons to free public code"
 
   [[params.reasons.list]]
-    icon = "fa-diamond"
+    icon = "fa-eur"
     title = "Tax savings"
-    description = "Our templates are updated regularly so they don't break."
+    description = "Similar applications don't have to be programmed from scratch every time."
 
   [[params.reasons.list]]
-    icon = "fa-paper-plane"
+    icon = "fa-plus"
     title = "Collaboration"
-    description = "You can use this theme as is, or you can make changes!"
+    description = "Efforts on major projects can be joint to share expertise and costs."
 
   [[params.reasons.list]]
-    icon = "fa-newspaper-o"
+    icon = "fa-users"
     title = "Serving the public"
-    description = "We update dependencies to keep things fresh."
+    description = "Applications paid by the public should be available for everyone."
 
   [[params.reasons.list]]
-    icon = "fa-heart"
+    icon = "fa-lightbulb-o"
     title = "Fostering innovation"
-    description = "You have to make your websites with love these days!"
+    description = "With transparent processes others don't have to reinvent the wheel."
 
 
   # Portfolio modals
