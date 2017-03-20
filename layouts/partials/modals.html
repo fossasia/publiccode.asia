@@ -1,5 +1,6 @@
 {{ "<!-- resources Modals -->" | safeHTML }}
-{{ range .Site.Data.resources }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ range $data.resources }}
 <div class="resources-modal modal fade" id="resourcesModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
