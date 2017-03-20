@@ -35,6 +35,7 @@ googleAnalytics = ""
       about     = "About"
       services  = "Advantages"
       portfolio = "Resources"
+      spread    = "Spread"
       contact   = "Contact"
 
 
@@ -85,13 +86,13 @@ googleAnalytics = ""
     category = "Category"
     buttonText = "Close"
 
-  # Aside section
-  [params.aside]
-    headline = "Get the Creative Theme for Hugo"
-
-  [params.aside.button]
-    text = "Download now"
-    link = "//github.com/digitalcraftsman/hugo-creative-theme"
+  # Spread the word section
+  [params.spread]
+    headline = "Spread the word!"
+    promoText = "Obtain the latest stickers and flyers from FSFE"
+    promoButtonText = "Get promo material"
+    promoButtonLink = "https://fsfe.org/promo#pmpc"
+    shareText = "Tell your friends and followers about Public Code"
 
   # Contact section
   [params.contact]
