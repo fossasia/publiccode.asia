@@ -2,7 +2,6 @@ baseurl = "http://pmpc.mehl.mx/"
 languageCode = "en-us"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
 
 [params]
 
@@ -33,14 +32,14 @@ googleAnalytics = ""
 
     [params.navigation.links]
       about     = "About"
-      services  = "Advantages"
-      portfolio = "Resources"
+      reasons   = "Reasons"
+      resources = "Resources"
       spread    = "Spread"
       contact   = "Contact"
 
 
-  # Hero section
-  [params.hero]
+  # Start banner
+  [params.start]
     # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
     slogan     = "Public Money – Public Code"
     subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
@@ -54,33 +53,33 @@ googleAnalytics = ""
     buttonText  = "More advantages"
 
 
-  # Service section
-  [params.services]
+  # Reasons section
+  [params.reasons]
     headline = "More reasons to free public code"
 
-  [[params.services.list]]
+  [[params.reasons.list]]
     icon = "fa-diamond"
     title = "Tax savings"
     description = "Our templates are updated regularly so they don't break."
 
-  [[params.services.list]]
+  [[params.reasons.list]]
     icon = "fa-paper-plane"
     title = "Collaboration"
     description = "You can use this theme as is, or you can make changes!"
 
-  [[params.services.list]]
+  [[params.reasons.list]]
     icon = "fa-newspaper-o"
     title = "Serving the public"
     description = "We update dependencies to keep things fresh."
 
-  [[params.services.list]]
+  [[params.reasons.list]]
     icon = "fa-heart"
     title = "Fostering innovation"
     description = "You have to make your websites with love these days!"
 
 
   # Portfolio modals
-  [params.portfolio.modal]
+  [params.resources.modal]
     client = "Client"
     date = "Date"
     category = "Category"
@@ -100,9 +99,3 @@ googleAnalytics = ""
     description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
     phone = "123-456-6789"
     email = "feedback@startbootstrap.com"
-
-  # Google Maps section
-  # [params.location]
-  #   latitude  = "34.007850"
-  #   longitude = "-118.499305"
-  #   maps_api_key = ""
