@@ -1,4 +1,5 @@
 {{ "<!-- SPREAD -->" | safeHTML }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 <section id="spread" class="bg-dark">
     <div class="container">
         <div class="row">
@@ -16,8 +17,9 @@
               {{ end }}
               
               <div class="share-buttons">
-              {{ range .Site.Data.share }}
-                <a id="{{ .id }}" href="{{ .link }}" title="Share via {{ .text }}" target="_blank">{{ .text }}</a>
+              {{ .Site.Params.spread.shareTitle }}
+              {{ range $data.share }}
+                <a id="{{ .id }}" href="{{ .link }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" target="_blank">{{ .name }}</a>
               {{ end }}
               </div>
             </div>

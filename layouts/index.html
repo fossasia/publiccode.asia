@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{{ $data := index .Site.Data .Site.Language.Lang }}
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         {{ partial "head.html" . }}
@@ -20,7 +21,7 @@
             {{ partial "reasons.html" . }}
         {{ end }}
 
-        {{ if .Site.Data.resources }}
+        {{ if $data.resources }}
             {{ partial "resources.html" . }}
         {{ end }}
 
@@ -31,8 +32,12 @@
         {{ if .Site.Params.contact }}
             {{ partial "contact.html" . }}
         {{ end }}
+        
+        {{ if .Site.Params.language }}
+            {{ partial "language.html" . }}
+        {{ end }}
 
-        {{ if .Site.Data.resources }}
+        {{ if $data.resources }}
             {{ partial "modals.html" . }}
         {{ end }}
         

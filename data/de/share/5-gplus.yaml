@@ -1,3 +1,5 @@
 id: gplus
-text: Google+
+name: Google+
+titleBefore: Auf
+titleAfter: teilen
 link: https://test.fsfe.org/cgi-bin/share.php?service=gplus&ref=pmpc&url=https://publicmoneypubliccode.org&title=Public%20Money%3F%20Public%20Code!%20%23pmpc

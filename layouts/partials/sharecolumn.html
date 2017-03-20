@@ -1,5 +1,6 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
 <aside class="sharecolumn">
-  {{ range .Site.Data.share }}
-    <a id="{{ .id }}-left" href="{{ .link }}" title="Share on {{ .text }}" target="_blank">&nbsp;</a>
+  {{ range $data.share }}
+    <a id="{{ .id }}-left" href="{{ .link }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" target="_blank">&nbsp;</a>
   {{ end }}
 </aside>

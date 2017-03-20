@@ -1,10 +1,11 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
 <section class="no-padding" id="resources">
     <div class="container-fluid">
         <div class="row no-gutter">
-            {{ range .Site.Data.resources }}
+            {{ range $data.resources }}
                 <div class="col-lg-4 col-sm-6">
                     <a href="#resourcesModal{{ .modalID }}" class="resources-box resources-link" data-toggle="modal">
-                        <img src="img/resources/{{ .img }}" class="img-responsive" alt="">
+                        <img src="/img/resources/{{ .img }}" class="img-responsive" alt="">
                         {{ if and .category .title }}
                             <div class="resources-box-caption">
                                 <div class="resources-box-caption-content">

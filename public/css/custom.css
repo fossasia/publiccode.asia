@@ -1,3 +1,21 @@
+/* LANGUAGE SECTION */
+#language {
+    color: #fff;
+    background-color: #333;
+    padding: 20px;
+}
+#language ul {
+  padding: 0px;
+}
+#language li {
+  display: inline-block;
+  margin-right: 10px;
+}
+#language li::before {
+  content: "› ";
+}
+
+/* SHARE BUTTONS IN "SPREAD THE WORD" SECTION */
 .share-buttons a {
   background-position: left 5px center;
   background-repeat: no-repeat;
@@ -89,7 +107,7 @@
   background-color: #dd3500 !important;
 }
 
-
+/* SHARE BUTTONS ON LEFT SIDE */
 aside.sharecolumn {
   display: none;
   left: 0;
