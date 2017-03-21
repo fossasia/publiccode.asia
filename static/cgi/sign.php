@@ -29,6 +29,8 @@ for ($row = 0; $row <= $total; $row++) {
     echo "email $email already exists!";
     $error = 1;
     break 1;
+  } else {
+    return null;
   }
 }
 
@@ -52,12 +54,14 @@ if ($error === 0) {   // only make entry if no error happened
   unset($allsig);
   
   // Send email asking for confirmation
-  $to      = $email;
-  $subject = "One step left to sign the open letter";
-  $message = "Please confirm $code";
-  $headers = "From: noreply@mehl.mx" . "\r\n" .
-      "Message-ID: confirmation-$code@fsfe.org" . "\r\n" .
-      "X-Mailer: PHP/" . phpversion();
+  $to       = $email;
+  $subject  = "One step left to sign the \"Public Money - Public Code\" letter";
+  $message  = "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
+              "In order to confirm your signature, please visit following link:\r\n http://pmpc-test.mehl.mx/cgi/sign.php?action=confirm&code=$code \r\n\r\n" .
+              "If your confirmation succeeds, your signature will appear on the website within the next few hours.";
+  $headers  = "From: noreply@mehl.mx" . "\r\n" .
+              "Message-ID: <confirmation-$code@fsfe.org>" . "\r\n" .
+              "X-Mailer: PHP/" . phpversion();
 
   mail($to, $subject, $message, $headers);
 }
