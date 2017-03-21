@@ -2,6 +2,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <section class="no-padding" id="resources">
     <div class="container-fluid">
+      <h2 class="hidden">{{ .Site.Params.navigation.links.resources }}</h2>
         <div class="row no-gutter">
             {{ range $data.resources }}
                 <div class="col-lg-4 col-sm-6">
