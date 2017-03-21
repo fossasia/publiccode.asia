@@ -31,6 +31,45 @@
   font-size: 0.8em;
 }
 
+/* SIGN FORM */
+#sign form {
+  color: #333;
+  font-size: 18px;
+}
+#sign form label {
+  font-weight: 400;
+}
+.sign-input {
+  position: relative;
+}
+.sign-input:before {
+  font-family: "FontAwesome";
+  font-size: 20px;
+  position: absolute;
+  left: 4px;
+  top: 2px;
+}
+.sign-input input {
+  text-indent: 24px;
+}
+.form-na:before {
+  content: "\f2c3";
+}
+.form-em:before {
+  content: "\f003";
+}
+.form-cn:before {
+  content: "\f041";
+  padding-left: 4px;
+}
+.form-zp:before {
+  content: "\f08d";
+  padding-left: 3px;
+}
+.form-pe {
+  max-width: 600px;
+}
+
 /* SHARE BUTTONS IN "SPREAD THE WORD" SECTION */
 .share-buttons a {
   background-position: left 5px center;

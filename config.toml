@@ -74,6 +74,11 @@ DefaultContentLanguage = "en"
   category = "Category"
   buttonText = "Close"
 
+# Sign section
+[params.sign]
+  headline = "Sign our open letter!"
+  description = "Show that you want to free publicly financed code by signing our open letter."
+
 # Spread the word section
 [params.spread]
   headline = "Spread the word!"
