@@ -1,5 +1,4 @@
 baseurl = "http://pmpc.mehl.mx/"
-languageCode = "en-us"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
@@ -7,6 +6,8 @@ DefaultContentLanguage = "en"
 [params]
   author = "Free Software Foundation Europe (FSFE)"
   description = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
+  languageCode = "en-us"
+  languageName = "English"
   favicon = "favicon.ico"
 
 
@@ -104,7 +105,9 @@ DefaultContentLanguage = "en"
 # == GERMAN ==
 [Languages.de]
   languageCode = "de-DE"
+  languageName = "Deutsch"
   description = "Public Money, Public Code - Eine Kampagne zur Veröffentlichung öffentlich finanzierter Software als Freie Software"
+# Navigation
 [Languages.de.navigation]
   brand = "Public Money, Public Code"
 [Languages.de.navigation.links]

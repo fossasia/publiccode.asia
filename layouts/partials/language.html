@@ -7,8 +7,10 @@
         <p>{{ .Site.Params.language.description }}:</p>
         <p style="font-size:25px;"><i class="fa fa-globe" aria-hidden="true" style="font-size:1.5em;vertical-align:top;"></i></p>
         <ul>
-          <li><a href="/">English</a></li>
-          <li><a href="/de">Deutsch</a></li>
+          {{ range .Translations }}
+            <li><a href="{{ if eq .Lang "en" }}/{{else}}/{{ .Lang }}/{{end}}">{{ .Site.Params.languageName }}</a></li>
+          {{end}}
+          <li><a href="{{ if eq .Lang "en" }}/{{else}}/{{ .Lang }}/{{end}}">{{ .Site.Params.languageName }}</a></li>
         </ul>
       </div>
     </div>
