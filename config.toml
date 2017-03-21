@@ -1,4 +1,4 @@
-baseurl = "http://pmpc.mehl.mx/"
+baseurl = "/"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
