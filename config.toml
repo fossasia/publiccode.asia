@@ -88,6 +88,14 @@ DefaultContentLanguage = "en"
   phone = "123-456-6789"
   email = "feedback@startbootstrap.com"
 
+# Legal Section
+[params.legal]
+  by = "This is a campaign by Free Software Foundation Europe"
+  imprint = "Imprint"
+  privacy = "Privacy"
+  transparency = "Transparency"
+  license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+
 
 # === TRANSLATIONS ===
 [Languages]
@@ -151,3 +159,10 @@ DefaultContentLanguage = "en"
   promoButtonText = "Promomaterial bestellen"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Erzähle Deinen Freunden und Followern von PMPC"
+# Legal Section
+[Languages.de.legal]
+  by = "Eine Kampagne der Free Software Foundation Europe"
+  imprint = "Impressum"
+  privacy = "Datenschutz"
+  transparency = "Transparenz"
+  license = "Die unveränderte Wiedergabe und Verteilung dieses gesamten Textes in beliebiger Form ist gestattet, sofern dieser Hinweis erhalten bleibt."

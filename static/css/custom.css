@@ -18,6 +18,19 @@
   content: "› ";
 }
 
+/* LEGAL SECTION */
+#legal {
+  color: #fff;
+  background-color: #000;
+  padding: 10px;
+  margin: 0px;
+}
+#legal p {
+  padding: 0px;
+  margin: 0px;
+  font-size: 0.8em;
+}
+
 /* SHARE BUTTONS IN "SPREAD THE WORD" SECTION */
 .share-buttons a {
   background-position: left 5px center;

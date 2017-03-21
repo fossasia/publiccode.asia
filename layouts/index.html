@@ -36,6 +36,8 @@
         {{ if .Site.Params.language }}
             {{ partial "language.html" . }}
         {{ end }}
+        
+        {{ partial "legal.html" . }}
 
         {{ if $data.resources }}
             {{ partial "modals.html" . }}
