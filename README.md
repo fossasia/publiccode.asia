@@ -8,7 +8,7 @@ Since the page is still in an early draft version, the page hasn't been released
 
 ### Prerequisites
 
-In order to modify the website, you need `hugo` and `git` installed on your computer. If Hugo isn't available in your package manager, obtain it from its [official website](https://gohugo.io).
+In order to modify the website, you need `hugo` and `git` installed on your computer. If Hugo isn't available in your package manager, obtain it from its [official website](https://gohugo.io). The latest Hugo version is 0.19, older versions haven't been tested. Please make sure that you use an as recent version as possible to avoid errors.
 
 ### Configuring Git
 
@@ -72,4 +72,4 @@ The website structure is very easy. The most important files and directories are
 
 ## Technical background information
 
-The public folder will be downloaded every 5 minutes to the live website on pmpc.mehl.mx. So please wait a bit until your modifications are visible.
+The repository will be downloaded and built every 5 minutes to the live website on pmpc.mehl.mx. So please wait a bit until your modifications are visible. It shouldn't look different from what `hugo server` shows you.
