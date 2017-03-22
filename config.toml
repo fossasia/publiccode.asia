@@ -16,6 +16,7 @@ DefaultContentLanguage = "en"
   brand = "Public Money, Public Code"
 
 [params.navigation.links]
+  start     = "Start"
   about     = "About"
   reasons   = "Reasons"
   resources = "Resources"

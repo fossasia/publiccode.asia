@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<html lang="en-US">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+        {{ partial "navpage.html" . }}
+
+        {{ partial "404.html" . }}
+        
+        {{ partial "language.html" . }}
+        
+        {{ partial "legal.html" . }}
+        
+        {{ partial "sharecolumn.html" . }}
+
+        {{ partial "js.html" . }}
+    </body>
+</html>
