@@ -96,6 +96,12 @@ DefaultContentLanguage = "en"
   privacy = "Privacy"
   transparency = "Transparency"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+  
+# 404 Error Page
+[params.error]
+  headline = "Error 404 - Page not found"
+  description = "The page you're looking for does not exist."
+  button = "Back to start page"
 
 
 # === TRANSLATIONS ===
