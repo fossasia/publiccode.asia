@@ -1,6 +1,7 @@
 <?php
 
-$error = 0;  // error status
+$error = 0;           // error status
+$codemod = 2138367;   // modificator with which the confirmation ID will be obfuscated
 
 // Database path
 $db = "../userdata/signatures.json";
@@ -23,11 +24,12 @@ if(empty($action)) {
     exit(1);
   }
 } else if ($action === "confirm") {
-  $code = isset($_GET['code']) ? $_GET['code'] : false;
+  $confirmcode = isset($_GET['code']) ? $_GET['code'] : false;
+  $confirmid = isset($_GET['id']) ? $_GET['id'] : false;
   
   // Check for missing required fields
-  if(empty($code)) {
-    echo "Confirmation code is missing.";
+  if(empty($confirmcode) || empty($confirmid)) {
+    echo "Confirmation code or ID is missing.";
     exit(1);
   }
 } else {
@@ -63,6 +65,7 @@ if ($action === "sign") {
     $id = $total;
     // Create a random string for email verification
     $code = rand(1000000000,9999999999) . uniqid();
+    $codeid = $id + $codemod;   // this is to obfuscate the real ID of the user if we don't want to publish this number
 
     // Append new signature to array
     $newsig = array("id" => $id,
@@ -71,7 +74,8 @@ if ($action === "sign") {
                     "country" => $country,
                     "zip" => $zip,
                     "perm" => $perm,
-                    "code" => $code);
+                    "code" => $code,
+                    "confirmed" => "no");
     $data[] = $newsig;  // newsig is a separated variable for debugging purposes
 
     // Encode to JSON again and write to file
@@ -83,7 +87,7 @@ if ($action === "sign") {
     $to       = $email;
     $subject  = "One step left to sign the \"Public Money - Public Code\" letter";
     $message  = "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
-                "In order to confirm your signature, please visit following link:\r\n http://pmpc-test.mehl.mx/cgi/sign.php?action=confirm&code=$code \r\n\r\n" .
+                "In order to confirm your signature, please visit following link:\r\n http://pmpc-test.mehl.mx/cgi/sign.php?action=confirm&id=$codeid&code=$code \r\n\r\n" .
                 "If your confirmation succeeds, your signature will appear on the website within the next few hours.";
     $headers  = "From: noreply@mehl.mx" . "\r\n" .
                 "Message-ID: <confirmation-$code@fsfe.org>" . "\r\n" .
@@ -91,6 +95,34 @@ if ($action === "sign") {
 
     mail($to, $subject, $message, $headers);
   }
+} else if ($action === "confirm") {
+  /// CONFIRMATION ///
+  
+  $id = $confirmid - $codemod;              // substract the obfuscation number from the given ID
+  $email = $data[$id]['email'];             // Get the user's email in case we need it
+  $code = $data[$id]['code'];               // The confirmation code according to the DB
+  $confirmed = $data[$id]['confirmed'];     // The current confirmation status
+  
+  // Check whether the confirmation code is what we saved in the DB
+  if ($confirmed === "no") {
+    if ($confirmcode === $code) {
+      echo "Your signature with the Email &lt;$email&gt; has been confirmed. <br />";
+      echo "Thank you for signing the open letter!";
+      
+      // Set the user's confirmation key to "yes"
+      $data[$id]['confirmed'] = "yes";
+      // Encode to JSON again and write to file
+      $allsig = json_encode($data, JSON_PRETTY_PRINT);
+      file_put_contents($db, $allsig, LOCK_EX);
+      unset($allsig);
+      
+    } else {
+      echo "The given signature code is incorrect.";
+    }
+  } else {
+    echo "You already confirmed your email address.";
+  }
+  
 }
 
 echo "<pre>";
