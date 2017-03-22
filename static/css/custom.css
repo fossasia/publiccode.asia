@@ -50,7 +50,9 @@
   top: 2px;
 }
 .sign-input input {
-  text-indent: 24px;
+  background-color: rgb(255, 255, 255, 0.5);
+  border-radius: 7px;
+  text-indent: 30px;
 }
 .form-na:before {
   content: "\f2c3";
@@ -68,6 +70,9 @@
 }
 .form-pe {
   max-width: 600px;
+}
+input#honey {
+  display: none;
 }
 
 /* SHARE BUTTONS IN "SPREAD THE WORD" SECTION */

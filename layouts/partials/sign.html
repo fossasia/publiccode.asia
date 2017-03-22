@@ -9,10 +9,10 @@
                 
                 <form action="/cgi/sign.php" method="get">
                   <label class="sign-input form-na">
-                    <input name="name" placeholder="Full name / nickname" type="text" required />
+                    <input name="name" placeholder="Name (required)" type="text" required />
                   </label>
                   <label class="sign-input form-em">
-                    <input name="email" placeholder="Email" type="email" required />
+                    <input name="email" placeholder="Email (required)" type="email" required />
                   </label>
                   <label class="sign-input form-cn">
                     <input name="country" placeholder="Country" type="text" />
@@ -25,7 +25,7 @@
                     <input name="permission" value="yes" type="checkbox" required /> I have read the privacy statement and would like to stay informed about the future of this campaign
                   </label>
                   
-                  <input name="url" value="I am a spam robot" style="display:none;" type="submit" />
+                  <input id="honey" name="url" value="yes" type="submit" /> <!-- Honeypot for spam -->
                   <br />
                   <button name="action" value="sign" type="submit">Sign</button>
                 </form>
