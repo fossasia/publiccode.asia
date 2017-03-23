@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-{{ $data := index .Site.Data .Site.Language.Lang }}
-<html lang="en-US">
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         {{ partial "head.html" . }}
     </head>
