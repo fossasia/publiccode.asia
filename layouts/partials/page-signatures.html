@@ -1,0 +1,27 @@
+{{ "<!-- SUBPAGE SIGNATURES -->" | safeHTML }}
+<header>
+    <div class="header-content">
+        <div class="header-content-inner">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <table class="signatures">
+              <tbody>
+                <tr>
+                  <th>Name</th>
+                  <th>Country</th>
+                  <th>Zip Code</th>
+                </tr>
+                {{ range $.Site.Data.signatures }}
+                  {{ range . }}
+                   <tr>
+                      <td>{{ .name }}</td>
+                      <td>{{ .country }}</td>
+                      <td>{{ .zip }}</td>
+                   </tr>
+                  {{end}}
+                {{ end }}
+              </tbody>
+            </table>
+          </div>
+        </div>
+    </div>
+</header>
