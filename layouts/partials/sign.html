@@ -34,7 +34,10 @@
                     </label>
                   </p>
                   
-                  <input id="honey" name="url" value="yes" type="submit" /> <!-- Honeypot for spam -->
+                  <label id="honey"> <!-- Honeypot for spam -->
+                    <p>Please do not put anything here:</p>
+                    <input name="url" type="text" />
+                  </label>
                   <br />
                   <button name="action" value="sign" type="submit">{{ .Site.Params.sign.formSubmit }}</button>
                 </form>

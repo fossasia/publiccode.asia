@@ -7,6 +7,13 @@ $db = "../userdata/signatures.json";  // Signature database path
 
 // Get info from form
 $action = isset($_GET['action']) ? $_GET['action'] : false;
+$honeypot = isset($_GET['url']) ? $_GET['url'] : false;
+
+if (! empty($honeypot)) {
+  $output .= "Invalid input. Error code: 5|°4m";
+  show_page($output, 1);
+}
+
 if(empty($action)) {
   $output .= "No action defined.";
   show_page($output, 1);
