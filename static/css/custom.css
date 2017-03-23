@@ -68,8 +68,14 @@
   content: "\f08d";
   padding-left: 3px;
 }
-.form-pe {
-  max-width: 600px;
+p.form-pe {
+  text-align: left;
+  max-width: 530px; /* to not let the checkboxed go far more left than the input boxes above */
+  margin: 0 auto;
+}
+p.form-pe a {
+  color: inherit;
+  text-decoration: underline;
 }
 input#honey {
   display: none;

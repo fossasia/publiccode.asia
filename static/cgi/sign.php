@@ -16,10 +16,12 @@ if(empty($action)) {
   $email = isset($_GET['email']) ? $_GET['email'] : false;
   $country = isset($_GET['country']) ? $_GET['country'] : false;
   $zip = isset($_GET['zip']) ? $_GET['zip'] : false;
-  $perm = isset($_GET['permission']) ? $_GET['permission'] : false;
+  $permPriv = isset($_GET['permissionPriv']) ? $_GET['permissionPriv'] : false;
+  $permNews = isset($_GET['permissionNews']) ? $_GET['permissionNews'] : false;
+  $permPub = isset($_GET['permissionPub']) ? $_GET['permissionPub'] : false;
   
   // Check for missing required fields
-  if(empty($name) || empty($email) || empty($perm)) {
+  if(empty($name) || empty($email) || empty($permPriv)) {
     echo "At least one required variable is empty.";
     exit(1);
   }
@@ -73,7 +75,9 @@ if ($action === "sign") {
                     "email" => $email,
                     "country" => $country,
                     "zip" => $zip,
-                    "perm" => $perm,
+                    "permPriv" => $permPriv,
+                    "permNews" => $permNews,
+                    "permPub" => $permPub,
                     "code" => $code,
                     "confirmed" => "no");
     $data[] = $newsig;  // newsig is a separated variable for debugging purposes

@@ -84,7 +84,9 @@ DefaultContentLanguage = "en"
   formEmail = "Email (required)"
   formCountry = "Country"
   formZip = "ZIP Code"
-  formPermission1 = "I have read the privacy statement and would like to stay informed about the future of this campaign"
+  formPermissionPriv = "I have read and accepted the [privacy statement](#)"
+  formPermissionNews = "I want to stay informed about the future of PMPC"
+  formPermissionPub = "I want my signature to appear in the [list of signatures](/signatures)"
   formSubmit = "Sign"
 
 # Spread the word section
