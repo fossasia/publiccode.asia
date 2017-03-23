@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        <!--{{ partial "nav.html" . }}-->
+        {{ partial "navpage.html" . }}
 
-        {{ partial "404.html" . }}
+        {{ partial "page-signatures.html" . }}
+        
+        {{ partial "language.html" . }}
         
         {{ partial "legal.html" . }}
         
