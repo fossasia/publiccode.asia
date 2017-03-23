@@ -9,25 +9,25 @@
                 
                 <form action="/cgi/sign.php" method="get">
                   <label class="sign-input form-na">
-                    <input name="name" placeholder="Name (required)" type="text" required />
+                    <input name="name" placeholder="{{ .Site.Params.sign.formName }}" type="text" required />
                   </label>
                   <label class="sign-input form-em">
-                    <input name="email" placeholder="Email (required)" type="email" required />
+                    <input name="email" placeholder="{{ .Site.Params.sign.formEmail }}" type="email" required />
                   </label>
                   <label class="sign-input form-cn">
-                    <input name="country" placeholder="Country" type="text" />
+                    <input name="country" placeholder="{{ .Site.Params.sign.formCountry }}" type="text" />
                   </label>
                   <label class="sign-input form-zp">
-                    <input name="zip" placeholder="Zip Code" type="text" />
+                    <input name="zip" placeholder="{{ .Site.Params.sign.formZip }}" type="text" />
                   </label>
                   <br />
                   <label class="form-pe">
-                    <input name="permission" value="yes" type="checkbox" required /> I have read the privacy statement and would like to stay informed about the future of this campaign
+                    <input name="permission" value="yes" type="checkbox" required /> {{ .Site.Params.sign.formPermission1 }}
                   </label>
                   
                   <input id="honey" name="url" value="yes" type="submit" /> <!-- Honeypot for spam -->
                   <br />
-                  <button name="action" value="sign" type="submit">Sign</button>
+                  <button name="action" value="sign" type="submit">{{ .Site.Params.sign.formSubmit }}</button>
                 </form>
             </div>
         </div>

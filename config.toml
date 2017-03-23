@@ -79,6 +79,12 @@ DefaultContentLanguage = "en"
 [params.sign]
   headline = "Sign our open letter!"
   description = "Show that you want to free publicly financed code by signing our open letter."
+  formName = "Name (required)"
+  formEmail = "Email (required)"
+  formCountry = "Country"
+  formZip = "ZIP Code"
+  formPermission1 = "I have read the privacy statement and would like to stay informed about the future of this campaign"
+  formSubmit = "Sign"
 
 # Spread the word section
 [params.spread]
@@ -102,6 +108,17 @@ DefaultContentLanguage = "en"
   privacy = "Privacy"
   transparency = "Transparency"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+  
+# Subpages
+[params.subpage]
+
+# Signatures Subpage
+[params.subpage.signatures]
+  headline = "Signatures"
+  id = "ID"
+  name = "Name"
+  country = "Country"
+  zip = "ZIP Code"
   
 # 404 Error Page
 [params.error]
