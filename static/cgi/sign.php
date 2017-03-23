@@ -4,7 +4,6 @@ $codemod = 2138367;   // modificator with which the confirmation ID will be obfu
 $output = "";
 $selfurl = "http://pmpc-test.mehl.mx/cgi/sign.php";  // absolute URL of this PHP script
 $db = "../userdata/signatures.json";  // Signature database path
-$data = "";
 
 // Get info from form
 $action = isset($_GET['action']) ? $_GET['action'] : false;
@@ -57,6 +56,8 @@ function read_db($db) {
 
 /// SIGNING ///
 if ($action === "sign") {
+  read_db($db);
+  
   // Test whether email is a duplicate
   $total = count($data);
   for ($row = 0; $row < $total; $row++) {
@@ -65,8 +66,6 @@ if ($action === "sign") {
       show_page($output, 1);
     }
   }
-  
-  read_db($db);
   
   // Take sequential ID
   $id = $total;
@@ -113,6 +112,7 @@ if ($action === "sign") {
   /// CONFIRMATION ///
   
   $id = $confirmid - $codemod;              // substract the obfuscation number from the given ID
+  
   if ($id < 0) {
     $output .= "Invalid signature ID.";
     show_page($output, 1);
@@ -139,12 +139,12 @@ if ($action === "sign") {
       file_put_contents($db, $allsig, LOCK_EX);
       unset($allsig);
       
-      $output .= "Your email address ($email) has been confirmed. <br /><br />";
+      $output .= "Your email address has been confirmed. <br /><br />";
       $output .= "Thank you for signing the open letter! Your signature will appear on the website within the next hours.";
       show_page($output, 0);
       
     } else {
-      $output .= "The provided signature code is incorrect.";
+      $output .= "The provided confirmation code is incorrect.";
       show_page($output, 1);
     }
   } else if ($confirmed === "yes") {
