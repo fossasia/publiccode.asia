@@ -75,6 +75,17 @@ input#honey {
   display: none;
 }
 
+/* SIGNATURE TABLE */
+table.signatures {
+  margin: 0 auto;
+}
+table.signatures th, table.signatures td {
+  border: 1px solid darkgrey;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 2px;
+}
+
 /* SHARE BUTTONS IN "SPREAD THE WORD" SECTION */
 .share-buttons a {
   background-position: left 5px center;

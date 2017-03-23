@@ -6,9 +6,9 @@
 {{ .Hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 {{ "<!-- Translations -->" | safeHTML }}
-<link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ if eq .Lang "en" }}/{{else}}/{{ .Lang }}/{{end}}" title="{{ .Site.Params.languageName }}">
+<link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ .RelPermalink }}" title="{{ .Site.Params.languageName }}">
 {{ range .Translations }}
-  <link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ if eq .Lang "en" }}/{{else}}/{{ .Lang }}/{{end}}" title="{{ .Site.Params.languageName }}">
+  <link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ .RelPermalink }}" title="{{ .Site.Params.languageName }}">
 {{end}}
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="{{ .Site.Params.favicon | absURL }}">

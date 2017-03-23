@@ -1,0 +1,33 @@
+{{ "<!-- SUBPAGE SIGNATURES -->" | safeHTML }}
+<header>
+    <div class="header-content">
+        <div class="header-content-inner">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h1>Signatures</h1>
+            <hr />
+            <table class="signatures">
+              <tbody>
+                <tr>
+                  <th>ID</th>
+                  <th>Name</th>
+                  <th>Country</th>
+                  <th>Zip Code</th>
+                </tr>
+                {{ range $.Site.Data.signatures }}
+                  {{ range . }}
+                    {{ if eq .confirmed "yes" }}
+                     <tr>
+                        <td>{{ .id }}</td>
+                        <td>{{ .name }}</td>
+                        <td>{{ .country }}</td>
+                        <td>{{ .zip }}</td>
+                     </tr>
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              </tbody>
+            </table>
+          </div>
+        </div>
+    </div>
+</header>
