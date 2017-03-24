@@ -81,7 +81,7 @@ if ($action === "sign") {
   $codeid = $id + $codemod;   // this is to obfuscate the real ID of the user if we don't want to publish this number
 
   // Append new signature to array
-  $$data[] = array("id" => $id,
+  $data[] = array("id" => $id,
                   "name" => $name, 
                   "email" => $email,
                   "country" => $country,
