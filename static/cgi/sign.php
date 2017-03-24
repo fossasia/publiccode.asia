@@ -5,9 +5,13 @@ $output = "";
 $selfurl = "http://pmpc-test.mehl.mx/cgi/sign.php";  // absolute URL of this PHP script
 $db = "../../signatures.json";  // Signature database path
 
-// Get info from form
-$action = isset($_GET['action']) ? $_GET['action'] : false;
-$honeypot = isset($_GET['url']) ? $_GET['url'] : false;
+// Get basic info from form
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  $action = isset($_POST['action']) ? $_POST['action'] : false;
+} else {
+  $action = isset($_GET['action']) ? $_GET['action'] : false;
+}
+$honeypot = isset($_POST['url']) ? $_POST['url'] : false;
 
 if (! empty($honeypot)) {   // honeypot input field isn't empty
   $output .= "Invalid input. Error code: 5|°4m";
@@ -18,13 +22,13 @@ if(empty($action)) {
   $output .= "No action defined.";
   show_page($output, 1);
 } else if ($action === "sign") {
-  $name = isset($_GET['name']) ? $_GET['name'] : false;
-  $email = isset($_GET['email']) ? $_GET['email'] : false;
-  $country = isset($_GET['country']) ? $_GET['country'] : false;
-  $zip = isset($_GET['zip']) ? $_GET['zip'] : false;
-  $permPriv = isset($_GET['permissionPriv']) ? $_GET['permissionPriv'] : false;
-  $permNews = isset($_GET['permissionNews']) ? $_GET['permissionNews'] : false;
-  $permPub = isset($_GET['permissionPub']) ? $_GET['permissionPub'] : false;
+  $name = isset($_POST['name']) ? $_POST['name'] : false;
+  $email = isset($_POST['email']) ? $_POST['email'] : false;
+  $country = isset($_POST['country']) ? $_POST['country'] : false;
+  $zip = isset($_POST['zip']) ? $_POST['zip'] : false;
+  $permPriv = isset($_POST['permissionPriv']) ? $_POST['permissionPriv'] : false;
+  $permNews = isset($_POST['permissionNews']) ? $_POST['permissionNews'] : false;
+  $permPub = isset($_POST['permissionPub']) ? $_POST['permissionPub'] : false;
   
   // Check for missing required fields
   if(empty($name) || empty($email) || empty($permPriv)) {
