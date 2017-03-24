@@ -8,7 +8,6 @@
             <table class="signatures">
               <tbody>
                 <tr>
-                  <th>{{ .Site.Params.Subpage.Signatures.id }}</th>
                   <th>{{ .Site.Params.Subpage.Signatures.name }}</th>
                   <th>{{ .Site.Params.Subpage.Signatures.country }}</th>
                   <th>{{ .Site.Params.Subpage.Signatures.zip }}</th>
@@ -17,7 +16,6 @@
                   {{ range sort . "id" "desc" }}
                     {{ if (eq .confirmed "yes") | and (eq .permPub "yes")  }}
                      <tr>
-                        <td>{{ .id }}</td>
                         <td>{{ .name }}</td>
                         <td>{{ .country }}</td>
                         <td>{{ .zip }}</td>
