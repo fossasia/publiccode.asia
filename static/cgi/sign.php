@@ -3,7 +3,7 @@
 $codemod = 2138367;   // modificator with which the confirmation ID will be obfuscated
 $output = "";
 $selfurl = "http://pmpc-test.mehl.mx/cgi/sign.php";  // absolute URL of this PHP script
-$db = "../userdata/signatures.json";  // Signature database path
+$db = "../../signatures.json";  // Signature database path
 
 // Get info from form
 $action = isset($_GET['action']) ? $_GET['action'] : false;

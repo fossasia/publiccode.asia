@@ -13,9 +13,9 @@
                   <th>{{ .Site.Params.Subpage.Signatures.country }}</th>
                   <th>{{ .Site.Params.Subpage.Signatures.zip }}</th>
                 </tr>
-                {{ range $.Site.Data.signatures }}
-                  {{ range . }}
-                    {{ if eq .confirmed "yes" }}
+                {{ range .Site.Data.signatures }}
+                  {{ range sort . "id" "desc" }}
+                    {{ if (eq .confirmed "yes") | and (eq .permPub "yes")  }}
                      <tr>
                         <td>{{ .id }}</td>
                         <td>{{ .name }}</td>
