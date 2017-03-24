@@ -25,6 +25,10 @@
             {{ partial "resources.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.sign }}
+            {{ partial "sign.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.spread }}
             {{ partial "spread.html" . }}
         {{ end }}

@@ -31,7 +31,57 @@
   font-size: 0.8em;
 }
 
-/* Signature table */
+/* SIGN FORM */
+#sign form {
+  color: #333;
+  font-size: 18px;
+}
+#sign form label {
+  font-weight: 400;
+}
+.sign-input {
+  position: relative;
+}
+.sign-input:before {
+  font-family: "FontAwesome";
+  font-size: 20px;
+  position: absolute;
+  left: 4px;
+  top: 2px;
+}
+.sign-input input {
+  background-color: rgb(255, 255, 255, 0.5);
+  border-radius: 7px;
+  text-indent: 30px;
+}
+.form-na:before {
+  content: "\f2c3";
+}
+.form-em:before {
+  content: "\f003";
+}
+.form-cn:before {
+  content: "\f041";
+  padding-left: 4px;
+}
+.form-zp:before {
+  content: "\f08d";
+  padding-left: 3px;
+}
+p.form-pe {
+  text-align: left;
+  max-width: 530px; /* to not let the checkboxed go far more left than the input boxes above */
+  margin: 0 auto;
+}
+p.form-pe a {
+  color: inherit;
+  text-decoration: underline;
+}
+#honey {
+  display: none;
+}
+
+/* SIGNATURE TABLE */
 table.signatures {
   margin: 0 auto;
 }

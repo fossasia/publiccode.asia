@@ -1,4 +1,4 @@
-baseurl = "http://pmpc.mehl.mx/"
+baseurl = "/"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
@@ -20,6 +20,7 @@ DefaultContentLanguage = "en"
   about     = "About"
   reasons   = "Reasons"
   resources = "Resources"
+  sign      = "Sign"
   spread    = "Spread"
   contact   = "Contact"
   language  = "Language"
@@ -75,6 +76,19 @@ DefaultContentLanguage = "en"
   category = "Category"
   buttonText = "Close"
 
+# Sign section
+[params.sign]
+  headline = "Sign our open letter!"
+  description = "Show that you want to free publicly financed code by signing our open letter."
+  formName = "Name (required)"
+  formEmail = "Email (required)"
+  formCountry = "Country"
+  formZip = "ZIP Code"
+  formPermissionPriv = "I have read and accepted the [privacy statement](#)"
+  formPermissionNews = "I want to stay informed about the future of PMPC"
+  formPermissionPub = "I want my signature to appear in the [list of signatures](/signatures)"
+  formSubmit = "Sign"
+
 # Spread the word section
 [params.spread]
   headline = "Spread the word!"
@@ -97,6 +111,17 @@ DefaultContentLanguage = "en"
   privacy = "Privacy"
   transparency = "Transparency"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+  
+# Subpages
+[params.subpage]
+
+# Signatures Subpage
+[params.subpage.signatures]
+  headline = "Signatures"
+  id = "ID"
+  name = "Name"
+  country = "Country"
+  zip = "ZIP Code"
   
 # 404 Error Page
 [params.error]
@@ -122,6 +147,7 @@ DefaultContentLanguage = "en"
   about     = "Über"
   reasons   = "Gründe"
   resources = "Ressourcen"
+  sign      = "Unterzeichnen"
   spread    = "Verbreiten"
   contact   = "Kontakt"
   language  = "Sprache"
