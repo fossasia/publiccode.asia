@@ -9,7 +9,7 @@ $db = "../../signatures.json";  // Signature database path
 $action = isset($_GET['action']) ? $_GET['action'] : false;
 $honeypot = isset($_GET['url']) ? $_GET['url'] : false;
 
-if (! empty($honeypot)) {
+if (! empty($honeypot)) {   // honeypot input field isn't empty
   $output .= "Invalid input. Error code: 5|°4m";
   show_page($output, 1);
 }
@@ -81,7 +81,7 @@ if ($action === "sign") {
   $codeid = $id + $codemod;   // this is to obfuscate the real ID of the user if we don't want to publish this number
 
   // Append new signature to array
-  $newsig = array("id" => $id,
+  $$data[] = array("id" => $id,
                   "name" => $name, 
                   "email" => $email,
                   "country" => $country,
@@ -91,7 +91,6 @@ if ($action === "sign") {
                   "permPub" => $permPub,
                   "code" => $code,
                   "confirmed" => "no");
-  $data[] = $newsig;  // newsig is a separated variable for debugging purposes
 
   // Encode to JSON again and write to file
   $allsig = json_encode($data, JSON_PRETTY_PRINT);
@@ -101,13 +100,14 @@ if ($action === "sign") {
   // Send email asking for confirmation
   $to       = $email;
   $subject  = "One step left to sign the \"Public Money - Public Code\" letter";
-  $message  = "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
+  $message  = "Dear $name, \r\n\r\n" .
+              "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
               "In order to confirm your signature, please visit following link:\r\n" . 
               "$selfurl?action=confirm&id=$codeid&code=$code \r\n\r\n" .
               "If your confirmation succeeds, your signature will appear on the website within the next few hours.";
-  $headers  = "From: noreply@fsfe.org" . "\r\n" .
-              "Message-ID: <confirmation-$code@fsfe.org>" . "\r\n" .
-              "X-Mailer: PHP/" . phpversion();
+  $headers  = "From: noreply@fsfe.org \r\n" .
+              "Message-ID: <confirmation-$code@fsfe.org> \r\n" .
+              "X-Mailer: PHP";
 
   mail($to, $subject, $message, $headers);
   
@@ -120,14 +120,14 @@ if ($action === "sign") {
   
   $id = $confirmid - $codemod;              // substract the obfuscation number from the given ID
   
-  if ($id < 0) {
+  if ($id < 0) {                            // $confirmid is less than $codemod
     $output .= "Invalid signature ID.";
     show_page($output, 1);
   }
   
   read_db($db);
   
-  if (empty($data[$id])) {
+  if (empty($data[$id])) {                  // there is no array element with this ID
     $output .= "The signature ID does not exist.";
     show_page($output, 1);
   }
@@ -142,12 +142,12 @@ if ($action === "sign") {
       // Set the user's confirmation key to "yes"
       $data[$id]['confirmed'] = "yes";
       // Encode to JSON again and write to file
-      $allsig = json_encode($data, JSON_PRETTY_PRINT);
+      $allsig = json_encode($data, JSON_PRETTY_PRINT);    // TODO: JSON_PRETTY_PRINT could be turned off to make file smaller
       file_put_contents($db, $allsig, LOCK_EX);
       unset($allsig);
       
       $output .= "Your email address has been confirmed. <br /><br />";
-      $output .= "Thank you for signing the open letter! Your signature will appear on the website within the next hours.";
+      $output .= "Thank you for signing the open letter! Your signature will appear <a href='/signatures/'>in the signature list</a> within the next hours.";
       show_page($output, 0);
       
     } else {
@@ -155,7 +155,7 @@ if ($action === "sign") {
       show_page($output, 1);
     }
   } else if ($confirmed === "yes") {
-    $output .= "This email address is already confirmed. It can take a few hours until your signature appears online.";
+    $output .= "This email address is already confirmed. It can take a few hours until your signature appears <a href='/signatures/'>in the signature list</a>.";
     show_page($output, 1);
   } else {
     $output .= "This signature ID does not exist or the confirmation status is broken.";
@@ -177,7 +177,7 @@ function show_page($output, $exit) {
     $notice = "";
   } else if ($exit === 1) {
     $headline = "Error";
-    $notice = "This error could have happened because one or more fields contained invalid information. Please try again. If you think that you see this error by mistake, please contact us.";
+    $notice = "<p>This error could have happened because one or more fields contained invalid information. Please try again. If you think that you see this error by mistake, please contact us.</p>";
   } else {
     $headline = "Thank you";
   }
