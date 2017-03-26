@@ -50,9 +50,18 @@
   top: 2px;
 }
 .sign-input input {
-  background-color: rgb(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
   border-radius: 7px;
-  text-indent: 30px;
+  padding: 0 0 0 30px;
+  width: 270px;
+  height: 31px;
+}
+.sign-input select {
+  background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
+  border-radius: 7px;
+  padding: 0 0 0 30px;
+  width: 270px;
+  height: 31px;
 }
 .form-na:before {
   content: "\f2c3";
