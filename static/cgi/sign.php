@@ -1,4 +1,5 @@
 <?php
+$timer_start = microtime(true);  // Start counter for PHP execution time tracking
 
 $codemod = 2138367;   // modificator with which the confirmation ID will be obfuscated
 $output = "";
@@ -249,6 +250,11 @@ function show_page($output, $exit) {
   $page = replace_page($page, ':BODY2:', $notice);
   echo $page;
   unset($data);
+  
+  // PHP execution time tracking
+  global $timer_start;
+  echo "<!-- PHP execution time: " . (microtime(true) - $timer_start)*1000 . " ms -->";
+  
   exit($exit);
 }
 ?>
