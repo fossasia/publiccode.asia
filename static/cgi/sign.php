@@ -272,7 +272,7 @@ function show_page($output, $exit) {
   
   // PHP execution time tracking
   global $timer_start;
-  echo "<!-- PHP execution time: " . (microtime(true) - $timer_start)*1000 . " ms -->";
+  echo "<!-- PHP execution time: " . (microtime(true) - $timer_start)*1000 . " ms -->\n";
   
   exit($exit);
 }
