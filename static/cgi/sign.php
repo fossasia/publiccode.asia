@@ -4,6 +4,8 @@ $codemod = 2138367;   // modificator with which the confirmation ID will be obfu
 $output = "";
 $selfurl = "http://pmpc.mehl.mx/cgi/sign.php";  // absolute URL of this PHP script
 $db = "../../signatures.json";  // Signature database path
+$ipdb = "../../ips.json";  // IP database path
+$spamdb = "../../spammer_" . date('Y-m-d') . ".json";  // This day's potential spammer database
 
 // Get basic info from form
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -15,6 +17,51 @@ $honeypot = isset($_POST['url']) ? $_POST['url'] : false;
 
 if (! empty($honeypot)) {   // honeypot input field isn't empty
   $output .= "Invalid input. Error code: 5|°4m";
+  show_page($output, 1);
+}
+
+// Check whether IP submitted too often
+$limit_hits = 5;          // Max. X hits...
+$limit_time = 180;        // in X seconds
+$limit_spam = 15;         // More than X hits in $limit_time will get this IP to a special DB
+$limit_exceeded = FALSE;  // Will be set TRUE if more hits with this IP in $limit_time than $limit_hits 
+$now = time();  // Current UNIX time
+$ip = sha1(php_uname() . $_SERVER['REMOTE_ADDR']);  // Hashed IP of visitor
+read_ips($ipdb);
+
+$ip_unknown = TRUE;
+foreach ($ips as $key => &$entry) {
+  if ($now - $limit_time > $entry['time']) { // Delete entries that are older than $limit_time
+    unset($ips[$key]);
+  } else if ($entry['ip'] === $ip) {  // IP matches, and entry under $limit_time
+    $ip_unknown = FALSE;
+    if ($entry['hits'] >= $limit_hits) {  // Try limit exceeded, iterate and set abort variable
+      $entry['hits'] = $entry['hits'] + 1;
+      $limit_exceeded = TRUE;
+      if ($entry['hits'] > $limit_spam) { // IP exceeds spam limit
+        $realip = $_SERVER['REMOTE_ADDR'];
+        $spammer = file_get_contents($spamdb);
+        $pattern = preg_quote($realip);
+        if (! preg_match("/$pattern/", $spammer, $match)) {
+          file_put_contents($spamdb, $realip, FILE_APPEND | LOCK_EX);
+        }
+      }
+    } else {  // Try limit not exceeded, just iterate
+      $entry['hits'] = $entry['hits'] + 1;
+    }
+  }
+}
+// Extend IP database if this IP was unknown
+if ($ip_unknown) {
+  $ips[] = array("time" => $now, "ip" => $ip, "hits" => 1);
+}
+// Write IP database back to file
+file_put_contents($ipdb, json_encode($ips, JSON_PRETTY_PRINT), LOCK_EX);
+unset($ips);
+
+// Abort if IP limit is exceeded
+if ($limit_exceeded) {
+  $output .= "Too many submits with your IP. Please try again in a few minutes.";
   show_page($output, 1);
 }
 
@@ -53,7 +100,7 @@ if(empty($action)) {
 // Validate input
 //TODO
 
-// Read database (should only be called if really needed)
+// Read signatures database (should only be called if really needed)
 function read_db($db) {
   global $data;   // declare $data a global variable to access it outside this function
   if (! file_exists($db)) {
@@ -61,6 +108,17 @@ function read_db($db) {
   }
   $file = file_get_contents($db, true);
   $data = json_decode($file, true);
+  unset($file);
+}
+
+// Read IP database
+function read_ips($ipdb) {
+  global $ips;   // declare $data a global variable to access it outside this function
+  if (! file_exists($ipdb)) {
+    touch($ipdb);
+  }
+  $file = file_get_contents($ipdb, true);
+  $ips = json_decode($file, true);
   unset($file);
 }
 
