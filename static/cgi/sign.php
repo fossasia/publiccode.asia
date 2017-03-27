@@ -8,14 +8,12 @@ $db = "../../signatures.json";  // Signature database path
 $ipdb = "../../ips.json";  // IP database path
 $spamdb = "../../spammer_" . date('Y-m-d') . ".json";  // This day's potential spammer database
 
-// Get basic info from form
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-  $action = isset($_POST['action']) ? $_POST['action'] : false;
-} else {
-  $action = isset($_GET['action']) ? $_GET['action'] : false;
-}
-$honeypot = isset($_POST['url']) ? $_POST['url'] : false;
+///////////////////
+/// SPAM CHECKS ///
+///////////////////
 
+// Test whether visitor fell for honeypot
+$honeypot = isset($_POST['url']) ? $_POST['url'] : false;
 if (! empty($honeypot)) {   // honeypot input field isn't empty
   $output .= "Invalid input. Error code: 5|°4m";
   show_page($output, 1);
@@ -66,10 +64,23 @@ if ($limit_exceeded) {
   show_page($output, 1);
 }
 
+///////////////////////
+/// FORM EVALUATION ///
+///////////////////////
+
+// Get basic info from form
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  $action = isset($_POST['action']) ? $_POST['action'] : false;
+} else {
+  $action = isset($_GET['action']) ? $_GET['action'] : false;
+}
+
+// Continue only if action = sign/confirmation
+// Depending on action, get important variables
 if(empty($action)) {
   $output .= "No action defined.";
   show_page($output, 1);
-} else if ($action === "sign") {
+} else if ($action === "sign") {  // sign
   $name = isset($_POST['name']) ? $_POST['name'] : false;
   $email = isset($_POST['email']) ? $_POST['email'] : false;
   $country = isset($_POST['country']) ? $_POST['country'] : false;
@@ -83,7 +94,7 @@ if(empty($action)) {
     $output .= "At least one required variable is empty.";
     show_page($output, 1);
   }
-} else if ($action === "confirm") {
+} else if ($action === "confirm") { // confirm
   $confirmcode = isset($_GET['code']) ? $_GET['code'] : false;
   $confirmid = isset($_GET['id']) ? $_GET['id'] : false;
   
@@ -92,39 +103,17 @@ if(empty($action)) {
     $output .= "Confirmation code or ID is missing.";
     show_page($output, 1);
   }
-} else {
+} else {  // invalid
   $output .= "Invalid action.";
   show_page($output, 1);
 }
-// Continue only if action = sign/confirmation
 
 // Validate input
 //TODO
 
-// Read signatures database (should only be called if really needed)
-function read_db($db) {
-  global $data;   // declare $data a global variable to access it outside this function
-  if (! file_exists($db)) {
-    touch($db);
-  }
-  $file = file_get_contents($db, true);
-  $data = json_decode($file, true);
-  unset($file);
-}
-
-// Read IP database
-function read_ips($ipdb) {
-  global $ips;   // declare $data a global variable to access it outside this function
-  if (! file_exists($ipdb)) {
-    touch($ipdb);
-  }
-  $file = file_get_contents($ipdb, true);
-  $ips = json_decode($file, true);
-  unset($file);
-}
-
-
+///////////////
 /// SIGNING ///
+///////////////
 if ($action === "sign") {
   read_db($db);
   
@@ -179,7 +168,9 @@ if ($action === "sign") {
   show_page($output, 0);
 
 } else if ($action === "confirm") {
-  /// CONFIRMATION ///
+////////////////////
+/// CONFIRMATION ///
+////////////////////
   
   $id = $confirmid - $codemod;              // substract the obfuscation number from the given ID
   
@@ -227,13 +218,40 @@ if ($action === "sign") {
   
 } // END confirm
 
-// --- PRINT OUTPUT IN TEMPLATE FILE ---
 
+////////////////
+// FUNCTIONS ///
+////////////////
+
+// Read signatures database (should only be called if really needed)
+function read_db($db) {
+  global $data;   // declare $data a global variable to access it outside this function
+  if (! file_exists($db)) {
+    touch($db);
+  }
+  $file = file_get_contents($db, true);
+  $data = json_decode($file, true);
+  unset($file);
+}
+
+// Read IP database
+function read_ips($ipdb) {
+  global $ips;   // declare $data a global variable to access it outside this function
+  if (! file_exists($ipdb)) {
+    touch($ipdb);
+  }
+  $file = file_get_contents($ipdb, true);
+  $ips = json_decode($file, true);
+  unset($file);
+}
+
+// Replace a given placeholder in a template HTML page with given content
 function replace_page($template, $placeholder, $content){
     $vars = array($placeholder=>$content);
     return str_replace(array_keys($vars), $vars, $template);
 }
 
+// Show the filled template page, depending on exit code
 function show_page($output, $exit) {
   if ($exit === 0) {
     $headline = "Success";
