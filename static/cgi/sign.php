@@ -38,11 +38,12 @@ foreach ($ips as $key => &$entry) {
       $entry['hits'] = $entry['hits'] + 1;
       $limit_exceeded = TRUE;
       if ($entry['hits'] > $limit_spam) { // IP exceeds spam limit
+        if (! file_exists($spamdb)) { touch($spamdb); }
         $realip = $_SERVER['REMOTE_ADDR'];
         $spammer = file_get_contents($spamdb);
         $pattern = preg_quote($realip);
         if (! preg_match("/$pattern/", $spammer, $match)) {
-          file_put_contents($spamdb, $realip, FILE_APPEND | LOCK_EX);
+          file_put_contents($spamdb, $realip . "\n", FILE_APPEND | LOCK_EX);
         }
       }
     } else {  // Try limit not exceeded, just iterate
