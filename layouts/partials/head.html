@@ -10,6 +10,22 @@
 {{ range .Translations }}
   <link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ .RelPermalink }}" title="{{ .Site.Params.languageName }}">
 {{end}}
+
+{{ "<!-- Facebook meta-data -->" | safeHTML }}
+<meta property="og:title" content="{{ .Site.Title }}"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="{{ .Site.Params.image_url }}"/>
+<meta property="og:url" content="{{ .Site.Params.url }}"/>
+<meta property="og:description" content="{{ .Site.Params.description }}"/>
+<meta property="fb:admins" content="{{ .Site.Params.fb_admin }}"/>
+
+{{ "<!-- Twitter meta-data -->" | safeHTML }}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="{{ .Site.Params.url }}">
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Site.Params.description }}">
+<meta name="twitter:image" content="{{ .Site.Params.image_url }}">
+
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="{{ .Site.Params.favicon | absURL }}">
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}

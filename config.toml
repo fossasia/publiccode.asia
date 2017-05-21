@@ -9,6 +9,9 @@ DefaultContentLanguage = "en"
   languageCode = "en-us"
   languageName = "English"
   favicon = "favicon.ico"
+  url = "http://pmpc.mehl.mx/"
+  image_url = "http://pmpc.mehl.mx/img/header.jpg"
+  fb_admin = "mehl.max"
 
 
 # Navigation
