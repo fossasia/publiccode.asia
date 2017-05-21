@@ -248,7 +248,7 @@ aside.sharecolumn a#facebook-left {
 
 /* Media Query to resize social links for portrait tablet view */
 
-@media screen and (max-height: 1100px) {
+@media screen and (max-height: 770px) {
   aside.sharecolumn a {
     background-size: 3.7vh auto;
     height: 6vh;
