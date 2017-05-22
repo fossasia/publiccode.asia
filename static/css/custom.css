@@ -248,3 +248,13 @@ aside.sharecolumn a#facebook-left {
 aside.sharecolumn a#support-left {
   background-image: url("/img/share/support_red.png");
 }
+
+/* Media Query to resize social links for portrait tablet view */
+
+@media screen and (max-height: 770px) {
+  aside.sharecolumn a {
+    background-size: 3.7vh auto;
+    height: 6vh;
+    width: 6vh;
+  }
+}
