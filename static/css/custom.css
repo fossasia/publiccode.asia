@@ -245,6 +245,9 @@ aside.sharecolumn a#gplus-left {
 aside.sharecolumn a#facebook-left {
   background-image: url("/img/share/facebook_white.png");
 }
+aside.sharecolumn a#support-left {
+  background-image: url("/img/share/support_red.png");
+}
 
 /* Media Query to resize social links for portrait tablet view */
 
