@@ -161,12 +161,12 @@ table.signatures th, table.signatures td {
   background-color: #5a7f2e !important;
 }
 .share-buttons a#support {
-  background-color: #202d79;
-  background-image: url("/img/share/fsfe_white.png");
+  background-color: #47a447;
+  background-image: url("/img/share/support_red.png");
   color: #fff;
 }
 .share-buttons a#support:hover {
-  background-color: #0a1763 !important;
+  background-color: #2a872a !important;
 }
 .share-buttons a#reddit {
   background-color: #ff5700;
