@@ -2,7 +2,7 @@
 
 // Change these variables
 $gnusocialuser = "fsfe@quitter.no";
-$twitteruser = "@fsfe";
+$twitteruser = "fsfe";
 $flattruser = "fsfe";
 $supporturl = "https://fsfe.org/donate?pmpc";
 
