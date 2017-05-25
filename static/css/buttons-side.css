@@ -1,4 +1,4 @@
-div.sharecolumn .share-buttons-side {
+div.sharecolumn .share-buttons.side {
   display: flex;
   left: 0;
   padding: 0.1vh 0.5vh;
@@ -9,13 +9,13 @@ div.sharecolumn .share-buttons-side {
   flex-direction: column;
 }
 @media(max-width:767px) {
-  .share-buttons-side {
+  .share-buttons.side {
     display: none !important;
   }
 }
 
-.share-buttons-side button.button,
-.share-buttons-side label.button {
+.share-buttons.side button.button,
+.share-buttons.side label.button {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 2.7vh auto;
@@ -33,49 +33,49 @@ div.sharecolumn .share-buttons-side {
 }
 
 /* Single services with their colours and logos */
-.share-buttons-side button:hover, .share-buttons-side label:hover {
+.share-buttons.side button:hover, .share-buttons.side label:hover {
   background-color: #F05F40;
 }
-.share-buttons-side .share-diaspora {
+.share-buttons.side .share-diaspora {
   background-image: url("/img/share/diaspora_white.png");
 }
-.share-buttons-side .share-gnusocial {
+.share-buttons.side .share-gnusocial {
   background-image: url("/img/share/gnusocial_white.png");
 }
-.share-buttons-side .share-reddit {
+.share-buttons.side .share-reddit {
   background-image: url("/img/share/reddit_white.png");
 }
-.share-buttons-side .share-flattr {
+.share-buttons.side .share-flattr {
   background-image: url("/img/share/flattr_white.png");
   display: none !important;
 }
-.share-buttons-side .share-hnews {
+.share-buttons.side .share-hnews {
   background-image: url("/img/share/hackernews_white.png");
   display: none !important;
 }
-.share-buttons-side .share-twitter {
+.share-buttons.side .share-twitter {
   background-image: url("/img/share/twitter_white.png");
 }
-.share-buttons-side .share-facebook {
+.share-buttons.side .share-facebook {
   background-image: url("/img/share/facebook_white.png");
 }
-.share-buttons-side .share-gplus {
+.share-buttons.side .share-gplus {
   background-image: url("/img/share/gplus_white.png");
   display: none !important;
 }
-.share-buttons-side .share-support {
+.share-buttons.side .share-support {
   background-image: url("/img/share/support_red.png");
 }
 
 /* Share pop-up behaviour hacks */
-.share-buttons-side input[type="radio"],
-.share-buttons-side input[type="radio"] + span,
-.share-buttons-side input[type="checkbox"],
-.share-buttons-side input[type="checkbox"] + span {
+.share-buttons.side input[type="radio"],
+.share-buttons.side input[type="radio"] + span,
+.share-buttons.side input[type="checkbox"],
+.share-buttons.side input[type="checkbox"] + span {
   display: none;
 }
-.share-buttons-side input[type="radio"]:checked + span,
-.share-buttons-side input[type="checkbox"]:checked + span {
+.share-buttons.side input[type="radio"]:checked + span,
+.share-buttons.side input[type="checkbox"]:checked + span {
   position: absolute;
   margin-top: 3.5em; margin-left: -10em;
   padding: .5em;
@@ -84,8 +84,8 @@ div.sharecolumn .share-buttons-side {
   border-radius: .5em;
   display: inline-block;
 }
-.share-buttons-side input[type="radio"]:checked + span:before,
-.share-buttons-side input[type="checkbox"]:checked + span:before {
+.share-buttons.side input[type="radio"]:checked + span:before,
+.share-buttons.side input[type="checkbox"]:checked + span:before {
   content: '';
   position: absolute;
   top: -1em;
@@ -95,10 +95,10 @@ div.sharecolumn .share-buttons-side {
   border-right: 1em solid transparent;
   z-index: 3;
 }
-.share-buttons-side input[type="radio"] + span > *{
+.share-buttons.side input[type="radio"] + span > *{
   vertical-align: middle;
 }
-.share-buttons-side input[type="radio"] + span > button {
+.share-buttons.side input[type="radio"] + span > button {
   margin: 2.5px 0 2.5px 5px;
   min-width: 4em;
   padding: .25em;
@@ -106,7 +106,7 @@ div.sharecolumn .share-buttons-side {
   font-size: 1em;
   line-height: normal;
 }
-.share-buttons-side input[type="radio"] + span > label {
+.share-buttons.side input[type="radio"] + span > label {
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
   z-index: -1;
@@ -114,7 +114,7 @@ div.sharecolumn .share-buttons-side {
 }
 
 /* Separate share buttons form from possibly floating content */
-form.share-buttons-side {
+form.share-buttons.side {
   clear: both;
 }
 
@@ -125,8 +125,8 @@ form.share-buttons-side {
 
 /* Media Query to resize social links for portrait tablet view */
 @media screen and (max-height: 770px) {
-  .share-buttons-side button.button,
-  .share-buttons-side label.button {
+  .share-buttons.side button.button,
+  .share-buttons.side label.button {
     background-size: 3.7vh auto;
     height: 6vh;
     width: 6vh;
