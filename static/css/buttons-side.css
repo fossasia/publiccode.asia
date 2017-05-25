@@ -1,5 +1,5 @@
-div.sharecolumn {
-  display: none;
+div.sharecolumn .share-buttons-side {
+  display: flex;
   left: 0;
   padding: 0.1vh 0.5vh;
   position: fixed;
@@ -8,50 +8,14 @@ div.sharecolumn {
   z-index: 10;
   flex-direction: column;
 }
-@media(min-width:768px) {
-  div.sharecolumn {
-    display: flex;
+@media(max-width:767px) {
+  .share-buttons-side {
+    display: none !important;
   }
-}
-
-/* General button look */
-.share-buttons-side {
-  left: 0;
-  padding: 0.1vh 0.5vh;
-  position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 10;
-  flex-direction: column;
 }
 
 .share-buttons-side button.button,
 .share-buttons-side label.button {
-/*
-  display: inline-block;
-  margin: 2.5px 5px 2.5px 0;
-  color: #fff;
-  font-weight: normal;
-  font-size: 1em;
-  font-family: sans-serif;
-  line-height: normal;
-  text-align: center;
-  text-decoration: none;
-  padding: 7px 7px 7px 20px;
-  width: 19%;
-  min-width: 90px;
-  max-width: 110px;
-  box-sizing: border-box;
-  display: inline-block;
-  border-radius: 3px;
-  background-position: left 5px center;
-  background-repeat: no-repeat;
-  background-size: 20px auto;
-  opacity: 0.9;
-  vertical-align: top;
-  line-height: 1.2em;
-*/
-
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 2.7vh auto;
