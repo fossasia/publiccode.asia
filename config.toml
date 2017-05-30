@@ -9,7 +9,12 @@ DefaultContentLanguage = "en"
   languageCode = "en-us"
   languageName = "English"
   favicon = "favicon.ico"
+  url = "http://pmpc.mehl.mx"
 
+[params.sharemeta]
+  previewImage = "img/header.jpg"
+  fbPageID = "336939393138306"
+  twitterUser = "@fsfe"
 
 # Navigation
 [params.navigation]
