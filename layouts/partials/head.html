@@ -13,7 +13,7 @@
 
 {{ "<!-- Facebook meta-data -->" | safeHTML }}
 <meta property="og:title" content="{{ .Site.Title }}"/>
-<meta property="og:url" content="{{ .Site.Params.url }}"/>
+<meta property="og:url" content="{{ .Site.Params.url }}{{ .RelPermalink }}"/>
 <meta property="og:image" content="{{ .Site.Params.url }}/{{ .Site.Params.Sharemeta.previewImage }}"/>
 <meta property="og:description" content="{{ .Site.Params.description }}"/>
 <meta property="og:type" content="website"/>
@@ -22,7 +22,7 @@
 
 {{ "<!-- Twitter meta-data -->" | safeHTML }}
 <meta name="twitter:title" content="{{ .Site.Title }}">
-<meta name="twitter:url" content="{{ .Site.Params.url }}">
+<meta name="twitter:url" content="{{ .Site.Params.url }}{{ .RelPermalink }}">
 <meta name="twitter:image" content="{{ .Site.Params.url }}/{{ .Site.Params.Sharemeta.previewImage }}">
 <meta name="twitter:description" content="{{ .Site.Params.description }}">
 <meta name="twitter:card" content="summary">
