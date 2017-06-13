@@ -1,4 +1,6 @@
 <?php
+require '/var/www/html/vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
+
 $timer_start = microtime(true);  // Start counter for PHP execution time tracking
 
 $codemod = 2138367;   // modificator with which the confirmation ID will be obfuscated
@@ -149,20 +151,23 @@ if ($action === "sign") {
   $allsig = json_encode($data, JSON_PRETTY_PRINT);
   file_put_contents($db, $allsig, LOCK_EX);
   unset($allsig);
-  
+ 
+  $mail = new PHPMailer;
+
+  $mail->isSMTP();
+  $mail->Host  = "mail.fsfe.org";
+  $mail->setFrom('noreply@fsfe.org', 'Public Money, Public Code');
+ 
   // Send email asking for confirmation
-  $to       = $email;
-  $subject  = "One step left to sign the \"Public Money - Public Code\" letter";
-  $message  = "Dear $name, \r\n\r\n" .
+  $mail->addAddress($email)
+  $mail->Subject  = "One step left to sign the \"Public Money - Public Code\" letter";
+  $mail->Body  = "Dear $name, \r\n\r\n" .
               "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
               "In order to confirm your signature, please visit following link:\r\n" . 
               "$selfurl?action=confirm&id=$codeid&code=$code \r\n\r\n" .
               "If your confirmation succeeds, your signature will appear on the website within the next few hours.";
-  $headers  = "From: noreply@fsfe.org \r\n" .
-              "Message-ID: <confirmation-$code@fsfe.org> \r\n" .
-              "X-Mailer: PHP";
 
-  mail($to, $subject, $message, $headers);
+  $mail->Send()
   
   $output .= "Thank you for signing our open letter! <br /><br />";
   $output .= "We just sent an email to your address ($email) for you to confirm your signature.";
