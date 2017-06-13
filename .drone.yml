@@ -1,0 +1,8 @@
+pipeline:
+  publish:
+    image: rics3n/drone-ansible
+    inventory: hosts
+    playbook: playbook.yml
+    when:
+       branch: master
+
