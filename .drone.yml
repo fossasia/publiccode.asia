@@ -3,6 +3,8 @@ pipeline:
     image: rics3n/drone-ansible
     inventory: hosts
     playbook: playbook.yml
+    commands:
+      - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chomd 0600 /root/.ssh/id_rsa
     when:
        branch: master
 
