@@ -1,14 +1,13 @@
-build:
+pipeline:
+  build:
     image: rics3n/drone-ansible
     commands:
         - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
 
-deploy:
-  ansible:
+  deploy:
     image: rics3n/drone-ansible
     inventory: hosts
     playbook: playbook.yml
-    commands:
     when:
        branch: master
 
