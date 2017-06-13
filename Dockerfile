@@ -1,6 +1,7 @@
 FROM php:7.0-apache
 
-ENV PATH ${PATH}:/usr/local/go/bin:/srv/go/bin:${HOME}/go/bin/
+ENV HOME /srv
+ENV PATH ${PATH}:/usr/local/go/bin:/srv/go/bin
 ENV GOPATH /srv/go
 RUN mkdir /srv/go
 
@@ -15,8 +16,6 @@ RUN go get github.com/kardianos/govendor
 RUN govendor get github.com/spf13/hugo
 
 COPY site/ /usr/share/blog
-
-RUN find / -name "hugo"
 
 RUN /usr/share/blog/build/build.sh
 RUN rmdir /var/www/html/
