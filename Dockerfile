@@ -5,7 +5,11 @@ RUN mkdir /srv/go
 
 RUN mkdir /usr/share/blog
 RUN apt-get update && apt-get upgrade -y && \
-    apt-get install -y golang-go git
+    apt-get install -y git curl
+RUN curl -O https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz
+RUN tar xvf go1.8.3.linux-amd64.tar.gz
+RUN mv go /usr/local
+
 RUN go get github.com/kardianos/govendor
 RUN govendor get github.com/spf13/hugo
 
