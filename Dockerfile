@@ -4,7 +4,7 @@ ENV HUGO_VERSION 0.20.7
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 RUN apt-get update && apt-get upgrade -y && \
-    apt-get install -y git curl unzip
+    apt-get install -y git curl unzip python3
 
 RUN curl -sS https://getcomposer.org/installer \
     | php -- --install-dir=/usr/local/bin --filename=composer
@@ -19,5 +19,4 @@ RUN mkdir /usr/share/blog
 COPY site/ /usr/share/blog
 
 RUN /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json
-RUN cp -a /usr/share/blog/public/* /var/www/html
-
+RUN sed -i.bak "s;/var/www/html;/usr/share/blog/public;" /etc/apache2/sites-enabled/000-default.conf
