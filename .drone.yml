@@ -5,6 +5,7 @@ pipeline:
     playbook: playbook.yml
     commands:
       - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chmod 0600 /root/.ssh/id_rsa
+      - /bin/drone-ansible
     when:
        branch: master
 
