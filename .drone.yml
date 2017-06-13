@@ -4,7 +4,6 @@ pipeline:
     commands:
         - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
 
-
   deploy:
     image: rics3n/drone-ansible
     environment:
