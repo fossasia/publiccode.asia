@@ -1,5 +1,8 @@
 FROM php:7.0-apache
 
+ENV GOPATH /srv/go
+RUN mkdir /srv/go
+
 RUN mkdir /usr/share/blog
 RUN apt-get update && apt-get upgrade -y && \
     apt-get install -y golang-go
