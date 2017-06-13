@@ -16,4 +16,5 @@
           - 1313:1313
         env:
           HUGO_BASE_URL: http://lund.fsfeurope.org:1313/
-
+        volumes:
+          - "/srv/pmpc-signatures:/usr/share/blog/data/signatures"
