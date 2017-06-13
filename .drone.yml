@@ -7,6 +7,8 @@ pipeline:
 
   deploy:
     image: rics3n/drone-ansible
+    environment:
+      - SSH_KEY: ${SSH_KEY}
     commands:
       - env
       - echo "$SSH_KEY"
