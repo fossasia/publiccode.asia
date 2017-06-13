@@ -11,7 +11,6 @@ RUN dpkg -i /tmp/hugo.deb \
 	&& rm /tmp/hugo.deb
 
 RUN mkdir /usr/share/blog
-RUN chown www-data:www-data /usr/share/blog/data/signatures
 COPY site/ /usr/share/blog
 
 RUN /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json
