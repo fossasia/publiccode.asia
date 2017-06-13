@@ -15,6 +15,5 @@ RUN mkdir /usr/share/blog
 COPY site/ /usr/share/blog
 
 RUN /usr/share/blog/build/build.sh
-RUN rmdir /var/www/html/
-RUN ln -s /usr/share/blog/public /var/www/html
+RUN cp -a /usr/share/blog/public/* /var/www/html
 
