@@ -14,6 +14,6 @@ RUN mkdir /usr/share/blog
 
 COPY site/ /usr/share/blog
 
-RUN /usr/share/blog/build/build.sh
+RUN /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json
 RUN cp -a /usr/share/blog/public/* /var/www/html
 
