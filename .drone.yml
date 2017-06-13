@@ -8,7 +8,6 @@ pipeline:
     image: rics3n/drone-ansible
     secrets: [ ssh_key ]
     commands:
-      - env
       - echo "$SSH_KEY"
       - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chmod 0600 /root/.ssh/id_rsa
       - ansible-playbook playbook.yml -i hosts
