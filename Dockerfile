@@ -1,19 +1,16 @@
 FROM php:7.0-apache
 
-ENV HOME /srv
-ENV PATH ${PATH}:/usr/local/go/bin:/srv/go/bin
-ENV GOPATH /srv/go
-RUN mkdir /srv/go
+ENV HUGO_VERSION 0.20.7
+ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.deb
 
-RUN mkdir /usr/share/blog
 RUN apt-get update && apt-get upgrade -y && \
     apt-get install -y git curl
-RUN curl -O https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz
-RUN tar xvf go1.8.3.linux-amd64.tar.gz
-RUN mv go /usr/local
 
-RUN go get github.com/kardianos/govendor
-RUN govendor get github.com/spf13/hugo
+ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} /tmp/hugo.deb
+RUN dpkg -i /tmp/hugo.deb \
+	&& rm /tmp/hugo.deb
+
+RUN mkdir /usr/share/blog
 
 COPY site/ /usr/share/blog
 
