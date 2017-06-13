@@ -159,7 +159,7 @@ if ($action === "sign") {
   $mail->setFrom('noreply@fsfe.org', 'Public Money, Public Code');
  
   // Send email asking for confirmation
-  $mail->addAddress($email)
+  $mail->addAddress($email);
   $mail->Subject  = "One step left to sign the \"Public Money - Public Code\" letter";
   $mail->Body  = "Dear $name, \r\n\r\n" .
               "Thank you for signing the open \"Public Money - Public Code\" letter! \r\n\r\n" .
@@ -167,7 +167,7 @@ if ($action === "sign") {
               "$selfurl?action=confirm&id=$codeid&code=$code \r\n\r\n" .
               "If your confirmation succeeds, your signature will appear on the website within the next few hours.";
 
-  $mail->Send()
+  $mail->Send();
   
   $output .= "Thank you for signing our open letter! <br /><br />";
   $output .= "We just sent an email to your address ($email) for you to confirm your signature.";
