@@ -1,5 +1,6 @@
 FROM php:7.0-apache
 
+ENV PATH ${PATH}:/usr/local/go/bin
 ENV GOPATH /srv/go
 RUN mkdir /srv/go
 
