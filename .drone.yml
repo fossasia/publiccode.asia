@@ -4,6 +4,7 @@ pipeline:
     commands:
         - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
 
+
   deploy:
     image: williamyeh/ansible
     secrets: [ ssh_key ]
