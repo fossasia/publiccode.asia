@@ -1,11 +1,11 @@
 pipeline:
   build:
-    image: rics3n/drone-ansible
+    image: williamyeh/ansible
     commands:
         - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
 
   deploy:
-    image: rics3n/drone-ansible
+    image: williamyeh/ansible
     secrets: [ ssh_key ]
     commands:
       - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chmod 0600 /root/.ssh/id_rsa
