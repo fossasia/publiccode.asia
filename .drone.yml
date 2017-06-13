@@ -6,8 +6,9 @@ pipeline:
 
   deploy:
     image: rics3n/drone-ansible
-    inventory: hosts
-    playbook: playbook.yml
+    commands:
+      - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chmod 0600 /root/.ssh/id_rsa
+      - ansible-playbook playbook.yml -i hosts
     when:
        branch: master
 
