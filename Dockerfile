@@ -5,7 +5,7 @@ RUN mkdir /srv/go
 
 RUN mkdir /usr/share/blog
 RUN apt-get update && apt-get upgrade -y && \
-    apt-get install -y golang-go
+    apt-get install -y golang-go git
 RUN go get github.com/kardianos/govendor
 RUN govendor get github.com/spf13/hugo
 
