@@ -15,7 +15,7 @@
         env:
           HUGO_BASE_URL: https://publiccode.eu/
           VIRTUAL_HOST: publiccode.eu
-          LETSENCRYPT_HOST: publicode.eu
+          LETSENCRYPT_HOST: publiccode.eu
           LETSENCRYPT_EMAIL: jonas@fsfe.org
         volumes:
           - "/srv/pmpc-signatures:/usr/share/blog/data/signatures:rw"
