@@ -4,7 +4,7 @@
 
   tasks:
     - name: build the pmpc container
-      command: docker build -t pmpc https://git.fsfe.org/jonas/pmpc.git
+      command: docker build -t pmpc https://git.fsfe.org/pmpc/website.git
 
     - name: run pmpc
       docker_container:
@@ -12,9 +12,10 @@
         image: pmpc
         state: started
         restart: yes
-        ports:
-          - 1313:80
         env:
-          HUGO_BASE_URL: http://lund.fsfeurope.org:1313/
+          HUGO_BASE_URL: https://publiccode.eu/
+          VIRTUAL_HOST: publiccode.eu
+          LETSENCRYPT_HOST: publiccode.eu
+          LETSENCRYPT_EMAIL: jonas@fsfe.org
         volumes:
           - "/srv/pmpc-signatures:/usr/share/blog/data/signatures:rw"
