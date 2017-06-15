@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
   languageCode = "en-us"
   languageName = "English"
   favicon = "favicon.ico"
-  url = "http://pmpc.mehl.mx"
+  url = "https://publiccode.eu"
 
 [params.sharemeta]
   previewImage = "img/header.jpg"
