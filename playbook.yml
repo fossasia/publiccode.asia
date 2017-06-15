@@ -1,0 +1,20 @@
+---
+- hosts: lund.fsfeurope.org
+  remote_user: root
+
+  tasks:
+    - name: build the pmpc container
+      command: docker build -t pmpc https://git.fsfe.org/jonas/pmpc.git
+
+    - name: run pmpc
+      docker_container:
+        name: pmpc
+        image: pmpc
+        state: started
+        restart: yes
+        ports:
+          - 1313:80
+        env:
+          HUGO_BASE_URL: http://lund.fsfeurope.org:1313/
+        volumes:
+          - "/srv/pmpc-signatures:/usr/share/blog/data/signatures:rw"
