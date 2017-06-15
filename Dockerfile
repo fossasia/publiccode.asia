@@ -15,7 +15,6 @@ ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINA
 RUN dpkg -i /tmp/hugo.deb \
 	&& rm /tmp/hugo.deb
 
-RUN mkdir /usr/share/blog
 COPY site/ /usr/share/blog
 
 RUN /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json
