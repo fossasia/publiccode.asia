@@ -2,7 +2,7 @@
 
 This website is the core of the "Public Money, Public Code" campaign. It is based on [Hugo](https://gohugo.io/), a modern static website generator.
 
-Since the page is still in an early draft version, the page hasn't been released officially yet. However, you can see the current status of the `public` folder on [pmpc.mehl.mx](http://pmpc.mehl.mx). Please do not spread this URL.
+The page is visible at [publiccode.eu](https://publiccode.eu). Please do not spread this URL.
 
 ## Contributing to the website
 
