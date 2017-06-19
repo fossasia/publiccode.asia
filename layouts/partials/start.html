@@ -2,9 +2,8 @@
 <header>
     <div class="header-content">
         <div class="header-content-inner">
-            {{ with .Site.Params.start.slogan }}
-                <h1>{{ . | markdownify  }}</h1>
-            {{ end }}
+           <img src="../img/logo.png" alt="Logo" />
+
             {{ if and .Site.Params.start.slogan .Site.Params.start.subtitle }}
                 <hr>
             {{ end }}
