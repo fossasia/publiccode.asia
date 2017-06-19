@@ -1,8 +1,8 @@
 /*!
- * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+* Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+* Code licensed under the Apache License v2.0.
+* For details, see http://www.apache.org/licenses/LICENSE-2.0.
+*/
 
 html,
 body {
@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    border-color: #2093C4;
     border-width: 3px;
 }
 
@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #2093C4;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -33,7 +33,8 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #2093C4;
+    text-decoration: none;
 }
 
 #about a {
@@ -61,7 +62,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #2093C4;
 }
 
 .bg-dark {
@@ -91,6 +92,11 @@ aside {
     margin: -4px 2px 0 0;
 }
 
+.navbar-header img {
+    height: 30px;
+    margin: 10px 0;
+}
+
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
@@ -104,30 +110,30 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #2093C4;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #4CBD38;
 }
 
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
     text-transform: uppercase;
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 500;
     color: #222;
 }
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #f05f40;
+    color: #2093C4;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #f05f40!important;
+    color: #2093C4!important;
     background-color: transparent;
 }
 
@@ -168,12 +174,12 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #f05f40;
+        color: #2093C4;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #4CBD38;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -183,7 +189,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #f05f40;
+        color: #2093C4;
     }
 }
 
@@ -208,6 +214,11 @@ header .header-content {
     text-align: center;
 }
 
+header .header-content img {
+    width: 100%;
+    max-width: 1000px;
+}
+
 header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
@@ -222,8 +233,9 @@ header .header-content .header-content-inner hr {
 header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
-    font-weight: 300;
-    color: rgba(255,255,255,.7);
+    font-weight: 500;
+    color: rgba(255,255,255,.9);
+    text-shadow: 1px 1px 2px black;
 }
 
 @media(min-width:768px) {
@@ -289,7 +301,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: rgba(76, 189, 56, .9);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -338,7 +350,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #f05f40;
+    color: #2093C4;
 }
 
 .no-gutter > [class*=col-] {
@@ -400,9 +412,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    border-color: #2093C4;
     color: #fff;
-    background-color: #f05f40;
+    background-color: #2093C4;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -416,7 +428,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: #ed431f;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #2093C4;
 }
 
 .btn-primary:active,
@@ -443,12 +455,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #f05f40;
-    background-color: #f05f40;
+    border-color: #2093C4;
+    background-color: #2093C4;
 }
 
 .btn-primary .badge {
-    color: #f05f40;
+    color: #2093C4;
     background-color: #fff;
 }
 

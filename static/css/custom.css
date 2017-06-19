@@ -14,9 +14,6 @@
   display: inline-block;
   margin-right: 10px;
 }
-#language li::before {
-  content: "› ";
-}
 
 /* LEGAL SECTION */
 #legal {
@@ -30,6 +27,14 @@
   margin: 0px;
   font-size: 0.8em;
 }
+#legal a {
+    color: #83bdd6;
+}
+#legal a:hover {
+    color: #2093C4;
+}
+
+#contact .fa { margin: 10px 0 }
 
 /* SIGN FORM */
 #sign form {
