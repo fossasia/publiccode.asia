@@ -17,6 +17,6 @@ RUN dpkg -i /tmp/hugo.deb \
 
 COPY site/ /usr/share/blog
 
-RUN sed -i.bak "s;/var/www/html;/usr/share/blog/public;" /etc/apache2/sites-enabled/000-default.conf
+COPY 000-default.conf /etc/apache2/sites-enabled/
 
 CMD /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json && apache2-foreground
