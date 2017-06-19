@@ -12,6 +12,8 @@
         image: pmpc
         state: started
         restart: yes
+        ports:
+          - 81:80
         env:
           HUGO_BASE_URL: https://publiccode.eu/
           VIRTUAL_HOST: publiccode.eu
