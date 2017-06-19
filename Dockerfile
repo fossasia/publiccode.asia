@@ -11,6 +11,8 @@ RUN curl -sS https://getcomposer.org/installer \
 
 RUN composer require phpmailer/phpmailer
 
+RUN a2enmod rewrite
+
 ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY} /tmp/hugo.deb
 RUN dpkg -i /tmp/hugo.deb \
 	&& rm /tmp/hugo.deb
