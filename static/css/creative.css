@@ -85,6 +85,12 @@ aside {
     padding: 0;
 }
 
+.nav .fa {
+    font-size: 1.3em !important;
+    vertical-align: middle !important;
+    margin: -4px 2px 0 0;
+}
+
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
