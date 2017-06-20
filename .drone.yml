@@ -1,0 +1,16 @@
+pipeline:
+  build:
+    image: williamyeh/ansible:debian8
+    commands:
+        - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
+
+  deploy:
+    image: williamyeh/ansible:debian8
+    secrets: [ ssh_key ]
+    commands:
+      - mkdir /root/.ssh && echo "$SSH_KEY" > /root/.ssh/id_rsa && chmod 0600 /root/.ssh/id_rsa
+      - ssh-keyscan -H lund.fsfeurope.org >> ~/.ssh/known_hosts
+      - ansible-playbook playbook.yml -i hosts
+    when:
+       branch: master
+

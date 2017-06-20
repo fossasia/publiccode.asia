@@ -1,7 +1,0 @@
-{{ "<!-- SHARE COLUMN -->" | safeHTML }}
-{{ $data := index .Site.Data .Site.Language.Lang }}
-<aside class="sharecolumn">
-  {{ range $data.share }}
-    <a id="{{ .id }}-left" href="{{ .link }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" target="_blank">&nbsp;</a>
-  {{ end }}
-</aside>

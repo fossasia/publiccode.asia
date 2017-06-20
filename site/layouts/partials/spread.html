@@ -1,0 +1,55 @@
+{{ "<!-- SPREAD -->" | safeHTML }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<section id="spread" class="bg-dark">
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+              {{ with .Site.Params.spread.headline }}
+                  <h2 class="section-heading">{{ . }}</h2>
+              {{ end }}
+              {{ with .Site.Params.spread.promoText }}
+                  <p class="text-faded">{{ . | markdownify }}</p>
+              {{ end }}
+                  <a href="{{ .Site.Params.spread.promoButtonLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ .Site.Params.spread.promoButtonText }}</a>
+              <hr class="light">
+              {{ with .Site.Params.spread.shareText }}
+                  <p class="text-faded">{{ . | markdownify }}</p>
+              {{ end }}
+              
+              <div class="share-buttons">
+              {{ .Site.Params.spread.shareTitle }}
+<!--
+              {{ range $data.share }}
+                <a id="{{ .id }}" href="{{ .link }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" target="_blank">{{ .name }}</a>
+              {{ end }}
+-->
+                <form action="/cgi/share.php" method="GET" class="share-buttons spread" target="_blank">
+                  <input name="popup" id="no-share-popup-spread" type="radio" />
+                  <input name="ref" value="pmpc-spread" type="hidden" />
+                  <input name="url" value="{{ .Site.Params.url }}#TEST" type="hidden" />
+                  <input name="title" value="Public Money, Public Code!" type="hidden" />
+                  <input class="n" name="website" placeholder="Please do not put anything here" />
+                  
+                  {{ range $data.share }}
+                    {{ if eq .userinput true }}
+                      <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-spread">{{ .name }}</label>
+                        <input name="popup" id="{{ .id }}-share-spread" type="radio" />
+                        <span class="popup {{ .id }}">
+                          <label for="no-share-popup-spread"></label>
+                          <input name="{{ .id }}pod" value="" placeholder="{{ .name }} URL ({{ .id }}.tld)" type="text" />
+                          <button type="submit" name="service" value="{{ .id }}">OK</button>
+                        </span>
+                    {{ end }}
+                  {{ end }}
+                  
+                  {{ range $data.share }}
+                    {{ if ne .userinput true }}
+                      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}">{{ .name }}</button>
+                    {{ end }}
+                  {{ end }}
+                </form>
+              </div>
+            </div>
+        </div>
+    </div>
+</section>
