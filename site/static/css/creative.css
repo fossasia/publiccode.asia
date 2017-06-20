@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #2093C4;
+    color: #006d9e;
     text-decoration: none;
 }
 
@@ -426,9 +426,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #006798;
     color: #fff;
-    background-color: #2093C4;
+    background-color: #006d9e;
 }
 
 .btn-primary:active,
