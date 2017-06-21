@@ -92,10 +92,22 @@ aside {
     margin: -4px 2px 0 0;
 }
 
-.navbar-header img {
-    height: 30px;
-    margin: 10px 0;
+.navbar .logo {
+    margin: 15px 10px;
 }
+
+.navbar .logo .logo-blue,
+.navbar .logo .logo-green {
+    padding: 4px 7px;
+    color: white;
+}
+
+.navbar .logo .logo-blue {
+    background: #168EC1;
+    margin-right: 5px;
+}
+
+.navbar .logo .logo-green { background: #4cbd38 }
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
@@ -215,15 +227,61 @@ header .header-content {
 }
 
 header .header-content img {
-    width: 100%;
-    max-width: 1000px;
+    display: block;
+    width: 15em;
+    margin: 0 auto 2em;
 }
 
-header .header-content .header-content-inner h1 {
-    margin-top: 0;
-    margin-bottom: 0;
+header .header-content h1 {
+    display: block;
+    vertical-align: bottom;
+    font-size: 35px !important;
+    text-align: left;
+    margin: 0 auto;
     text-transform: uppercase;
     font-weight: 700;
+    width: 300px;
+}
+
+header .header-content h1 .logo-blue,
+header .header-content h1 .logo-green {
+    padding: 10px 12px;
+    color: white;
+}
+
+header .header-content h1 .logo-blue {
+    display: block;
+    background: #168EC1;
+    margin-right: 5px;
+}
+
+header .header-content h1 .logo-green {
+    display: block;
+    background: #4cbd38;
+    margin-top: 7px;
+}
+
+header .header-content h2 {
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 5px 0 0 200px;
+    color: #168EC1;
+}
+
+@media(min-width:768px) {
+    header .header-content img {
+      display: inline-block;
+      margin: 0;
+    }
+
+    header .header-content h1 {
+        display: inline-block;
+        margin: 0 10px 0 20px;
+    }
+  
+    header .header-content h2 {
+        margin: 0 0 -5px 0;
+    }
 }
 
 header .header-content .header-content-inner hr {
@@ -245,7 +303,7 @@ header .header-content .header-content-inner p {
 
     header .header-content {
         position: absolute;
-        top: 50%;
+        top: 55%;
         padding: 0 50px;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);

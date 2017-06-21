@@ -37,7 +37,10 @@ DefaultContentLanguage = "en"
 # Start banner
 [params.start]
   # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-  slogan     = "Public Money – Public Code"
+  slogan_1   = "Public Money"
+  slogan_2   = "Public Code"
+  fsfe       = "fsfe.org"
+  alt        = "Public Money, Public Code"
   subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
   buttonText = "See the video"
 
