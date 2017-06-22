@@ -65,7 +65,7 @@
       for(var i = 0; i < closeButtons.length; i++) {
         closeButtons[i].onclick = function() {
           modal.style.display = 'none';
-          modal.className -= ' in';
+          modal.classList.remove('in');
         };
       }
     }

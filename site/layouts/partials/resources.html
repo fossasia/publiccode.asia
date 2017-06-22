@@ -6,9 +6,9 @@
         <div class="row no-gutter">
             {{ range $data.resources }}
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#{{ .modalName }}" class="resources-box resources-link" data-toggle="modal">
+                    <a href="#{{ .shortLink }}" class="resources-box resources-link" data-toggle="modal">
                         <img src="/img/resources/{{ .img }}" class="img-responsive" alt="">
-                        {{ if and .category .title }}
+                        {{ if .title }}
                             <div class="resources-box-caption">
                                 <div class="resources-box-caption-content">
                                     {{ with .title }}
