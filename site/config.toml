@@ -8,7 +8,6 @@ DefaultContentLanguage = "en"
   description = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
   languageCode = "en-us"
   languageName = "English"
-  favicon = "favicon.ico"
   url = "https://publiccode.eu"
 
 [params.sharemeta]
