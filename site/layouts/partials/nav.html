@@ -10,7 +10,11 @@
                 <span class="icon-bar"></span>
             </button>
             {{ with .Site.Params.navigation.brand }}
-                <a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>
+              <div class="logo">
+                <span class="logo-blue">Public Money</span>
+                <span class="logo-green">Public Code</span>
+              </div>
+                <!--<a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>-->
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}

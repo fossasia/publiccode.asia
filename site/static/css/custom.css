@@ -30,6 +30,14 @@
   margin: 0px;
   font-size: 0.8em;
 }
+#legal a {
+    color: #83bdd6;
+}
+#legal a:hover {
+    color: #2093C4;
+}
+
+#contact .fa { margin: 10px 0 }
 
 /* SIGN FORM */
 #sign form {
@@ -99,4 +107,31 @@ table.signatures th, table.signatures td {
   border-collapse: collapse;
   text-align: left;
   padding: 2px;
+}
+
+/* SPECIAL LINK UNDERLINE EFFECT */
+a:not(.btn) {
+  box-shadow: 0 0 1px transparent;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  transform: perspective(1px) translateZ(0px);
+  vertical-align: middle;
+}
+a:not(.btn)::before {
+  background: #006d9e none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 50%;
+  position: absolute;
+  right: 50%;
+  transition-duration: 0.3s;
+  transition-property: left, right;
+  transition-timing-function: ease-out;
+  z-index: -1;
+}
+a:not(.btn):hover::before, a:not(.btn):focus::before, a:not(.btn):active::before {
+  left: 0;
+  right: 0;
 }
