@@ -10,7 +10,8 @@
                 <span class="icon-bar"></span>
             </button>
             {{ with .Site.Params.navigation.brand }}
-                <a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>
+               <img src="../img/logo-header.png" alt="Logo" />
+                <!--<a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>-->
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}

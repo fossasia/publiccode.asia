@@ -33,7 +33,7 @@ div.sharecolumn .share-buttons.side {
 
 /* Single services with their colours and logos */
 .share-buttons.side button:hover, .share-buttons.side label:hover {
-  background-color: #F05F40;
+  background-color: #4CBD38;
 }
 .share-buttons.side .share-diaspora {
   background-image: url("/img/share/diaspora_white.png");
