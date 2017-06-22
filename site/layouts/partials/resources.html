@@ -11,11 +11,6 @@
                         {{ if and .category .title }}
                             <div class="resources-box-caption">
                                 <div class="resources-box-caption-content">
-                                    {{ with .category }}
-                                        <div class="resource-category text-faded">
-                                            {{ . }}
-                                        </div>
-                                    {{ end }}
                                     {{ with .title }}
                                         <div class="resource-name">
                                             {{ . }}
