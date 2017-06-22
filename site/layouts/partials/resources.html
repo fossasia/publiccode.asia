@@ -6,7 +6,7 @@
         <div class="row no-gutter">
             {{ range $data.resources }}
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#resourcesModal{{ .modalID }}" class="resources-box resources-link" data-toggle="modal">
+                    <a href="#{{ .modalName }}" class="resources-box resources-link" data-toggle="modal">
                         <img src="/img/resources/{{ .img }}" class="img-responsive" alt="">
                         {{ if and .category .title }}
                             <div class="resources-box-caption">
