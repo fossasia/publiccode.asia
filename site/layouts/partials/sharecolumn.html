@@ -2,7 +2,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <div class="sharecolumn">
   
-<form action="/cgi/share.php" method="GET" class="share-buttons side" target="_blank">
+<form action="/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
   <input name="url" value="{{ .Site.Params.url }}" type="hidden" />  <!-- replace with your URL -->

@@ -23,10 +23,10 @@
                 <a id="{{ .id }}" href="{{ .link }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" target="_blank">{{ .name }}</a>
               {{ end }}
 -->
-                <form action="/cgi/share.php" method="GET" class="share-buttons spread" target="_blank">
+                <form action="/share" method="GET" class="share-buttons spread" target="_blank">
                   <input name="popup" id="no-share-popup-spread" type="radio" />
                   <input name="ref" value="pmpc-spread" type="hidden" />
-                  <input name="url" value="{{ .Site.Params.url }}#TEST" type="hidden" />
+                  <input name="url" value="{{ .Site.Params.url }}" type="hidden" />
                   <input name="title" value="Public Money, Public Code!" type="hidden" />
                   <input class="n" name="website" placeholder="Please do not put anything here" />
                   
