@@ -4,11 +4,11 @@
         <div class="header-content-inner">
             <div class="logo">
                 <img src="../img/logo.svg" alt="{{ .Site.Params.start.alt }}" />
-                <h1>
+                <h1 id="start">
                     <span class="logo-blue">{{ .Site.Params.start.slogan_1 }}</span>
                     <span class="logo-green">{{ .Site.Params.start.slogan_2 }}</span>
                 </h1>
-                <h2>{{ .Site.Params.start.fsfe }}</h2>
+                <h2 id="start">{{ .Site.Params.start.fsfe }}</h2>
             </div>
 
             {{ if and .Site.Params.start.slogan_1 .Site.Params.start.subtitle }}

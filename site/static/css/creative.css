@@ -232,7 +232,7 @@ header .header-content img {
     margin: 0 auto 2em;
 }
 
-header .header-content h1 {
+header .header-content h1#start {
     display: block;
     vertical-align: bottom;
     font-size: 35px !important;
@@ -273,12 +273,12 @@ header .header-content h2 {
       margin: 0;
     }
 
-    header .header-content h1 {
+    header .header-content h1#start {
         display: inline-block;
         margin: 0 10px 0 20px;
     }
   
-    header .header-content h2 {
+    header .header-content h2#start {
         margin: 0 0 -5px 0;
     }
 }
