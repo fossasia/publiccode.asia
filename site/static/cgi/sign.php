@@ -5,7 +5,7 @@ $timer_start = microtime(true);  // Start counter for PHP execution time trackin
 
 $codemod = 2138367;   // modificator with which the confirmation ID will be obfuscated
 $output = "";
-$selfurl = "https://publiccode.eu/cgi/sign.php";  // absolute URL of this PHP script
+$selfurl = "https://publiccode.eu/sign";  // absolute URL of this PHP script
 $db = "/usr/share/blog/data/signatures/signatures.json";  // Signature database path
 $ipdb = "/usr/share/blog/data/signatures/ips.json";  // IP database path
 $spamdb = "/usr/share/blog/data/signatures/spammer_" . date('Y-m-d') . ".json";  // This day's potential spammer database
