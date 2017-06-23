@@ -80,7 +80,6 @@ DefaultContentLanguage = "en"
 [params.resources.modal]
   client = "Client"
   date = "Date"
-  category = "Category"
   buttonText = "Close"
 
 # Sign section

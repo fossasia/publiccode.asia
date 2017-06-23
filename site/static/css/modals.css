@@ -16,6 +16,8 @@ body {
   margin: 0 auto;
 }
 
+.modal { overflow-y: scroll }
+
 .resources-modal .modal-content {
   padding: 50px 0;
   min-height: 100%;

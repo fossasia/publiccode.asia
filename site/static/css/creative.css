@@ -357,8 +357,7 @@ header .header-content .header-content-inner p {
     height: 100%;
     text-align: center;
     color: #fff;
-    opacity: 0;
-    background: rgba(76, 189, 56, .9);
+    background: rgba(0, 0, 0, .4);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -389,7 +388,7 @@ header .header-content .header-content-inner p {
 }
 
 .resources-box:hover .resources-box-caption {
-    opacity: 1;
+    background: rgba(76, 189, 56, .9);
 }
 
 @media(min-width:768px) {
