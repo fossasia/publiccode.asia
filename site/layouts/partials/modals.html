@@ -25,8 +25,8 @@
                         {{ end }}
                         {{ if .date }}
                             <ul class="list-inline item-details">
-                                <li>{{ with $.Site.Params.resources.modal.date }}{{.}}: {{ end }}
-                                    <strong><a href="#">{{ .date }}</a></strong>
+                                <li><strong>{{ with $.Site.Params.resources.modal.date }}{{.}}</strong>: {{ end }}
+                                    {{ .date }}
                                 </li>
                             </ul>
                         {{ end }}
