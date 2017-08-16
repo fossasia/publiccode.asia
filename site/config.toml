@@ -26,7 +26,6 @@ DefaultContentLanguage = "en"
   resources = "Resources"
   action    = "Take Action"
   spread    = "Spread"
-  contact   = "Contact"
   language  = "Language"
 
 # Language selection
@@ -103,13 +102,6 @@ DefaultContentLanguage = "en"
   promoButtonText = "Get promo material"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Tell your friends and followers about Public Code"
-
-# Contact section
-[params.contact]
-  headline = "Let's Get In Touch!"
-  description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-  phone = "123-456-6789"
-  email = "feedback@startbootstrap.com"
 
 # Legal Section
 [params.legal]
