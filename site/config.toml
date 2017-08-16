@@ -24,7 +24,7 @@ DefaultContentLanguage = "en"
   about     = "About"
   arguments = "Arguments"
   resources = "Resources"
-  sign      = "Sign"
+  action    = "Take Action"
   spread    = "Spread"
   contact   = "Contact"
   language  = "Language"
@@ -82,8 +82,8 @@ DefaultContentLanguage = "en"
   date = "Date"
   buttonText = "Close"
 
-# Sign section
-[params.sign]
+# Action section
+[params.action]
   headline = "Sign our open letter!"
   description = "Show that you want to free publicly financed code by signing our open letter."
   formName = "Name (required)"

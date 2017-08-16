@@ -1,22 +1,22 @@
 {{ "<!-- SIGN -->" | safeHTML }}
-<section class="bg-primary" id="sign">
+<section class="bg-primary" id="action">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">{{ .Site.Params.sign.headline }}</h2>
+                <h2 class="section-heading">{{ .Site.Params.action.headline }}</h2>
                 <hr class="light">
-                <p class="text-faded">{{ .Site.Params.sign.description | markdownify }}</p>
+                <p class="text-faded">{{ .Site.Params.action.description | markdownify }}</p>
                 
                 <form action="/sign" method="post">
                   <label class="sign-input form-na">
-                    <input name="name" placeholder="{{ .Site.Params.sign.formName }}" type="text" required />
+                    <input name="name" placeholder="{{ .Site.Params.action.formName }}" type="text" required />
                   </label>
                   <label class="sign-input form-em">
-                    <input name="email" placeholder="{{ .Site.Params.sign.formEmail }}" type="email" required />
+                    <input name="email" placeholder="{{ .Site.Params.action.formEmail }}" type="email" required />
                   </label>
                   <label class="sign-input form-cn">
                     <select name="country">
-                      <option value="">{{ .Site.Params.sign.formCountry }}</option>
+                      <option value="">{{ .Site.Params.action.formCountry }}</option>
                       <option value="Austria">Austria</option>
                       <option value="Belgium">Belgium</option>
                       <option value="Bulgaria">Bulgaria</option>
@@ -49,19 +49,19 @@
                     </select>
                   </label>
                   <label class="sign-input form-zp">
-                    <input name="zip" placeholder="{{ .Site.Params.sign.formZip }}" type="text" />
+                    <input name="zip" placeholder="{{ .Site.Params.action.formZip }}" type="text" />
                   </label>
                   <p class="form-pe">
                     <label class="form-pe">
-                      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.sign.formPermissionPriv | markdownify }}
+                      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.formPermissionPriv | markdownify }}
                     </label>
                     <br />
                     <label class="form-pe">
-                      <input name="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.sign.formPermissionNews }}
+                      <input name="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.formPermissionNews }}
                     </label>
                     <br />
                     <label class="form-pe">
-                      <input name="permissionPub" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.sign.formPermissionPub | markdownify}}
+                      <input name="permissionPub" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.formPermissionPub | markdownify}}
                     </label>
                   </p>
                   
@@ -70,7 +70,7 @@
                     <input name="url" type="text" />
                   </label>
                   <br />
-                  <button name="action" value="sign" type="submit">{{ .Site.Params.sign.formSubmit }}</button>
+                  <button name="action" value="sign" type="submit">{{ .Site.Params.action.formSubmit }}</button>
                 </form>
             </div>
         </div>

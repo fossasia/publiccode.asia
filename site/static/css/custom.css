@@ -40,11 +40,11 @@
 #contact .fa { margin: 10px 0 }
 
 /* SIGN FORM */
-#sign form {
+#action form {
   color: #333;
   font-size: 18px;
 }
-#sign form label {
+#action form label {
   font-weight: 400;
 }
 .sign-input {
