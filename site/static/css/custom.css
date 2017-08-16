@@ -108,7 +108,7 @@ table.signatures th, table.signatures td {
 }
 
 /* SPECIAL LINK UNDERLINE EFFECT */
-a:not(.btn) {
+a:not(.btn):not(.hiddenlink) {
   box-shadow: 0 0 1px transparent;
   display: inline-block;
   overflow: hidden;
@@ -116,7 +116,7 @@ a:not(.btn) {
   transform: perspective(1px) translateZ(0px);
   vertical-align: middle;
 }
-a:not(.btn)::before {
+a:not(.btn):not(.hiddenlink)::before {
   background: #006d9e none repeat scroll 0 0;
   bottom: 0;
   content: "";
@@ -129,7 +129,7 @@ a:not(.btn)::before {
   transition-timing-function: ease-out;
   z-index: -1;
 }
-a:not(.btn):hover::before, a:not(.btn):focus::before, a:not(.btn):active::before {
+a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::before, a:not(.btn):not(.hiddenlink):active::before {
   left: 0;
   right: 0;
 }
