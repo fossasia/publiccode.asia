@@ -10,11 +10,13 @@
                 <span class="icon-bar"></span>
             </button>
             {{ with .Site.Params.navigation.brand }}
+            <a class="page-scroll" href="#page-top">
               <div class="logo">
                 <img src="/img/logo.svg" alt="Logo of the campaign" />
                 <span class="logo-blue">Public Money</span>
                 <span class="logo-green">Public Code</span>
               </div>
+            </a>
                 <!--<a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>-->
             {{ end }}
         </div>
