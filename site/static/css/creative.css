@@ -93,18 +93,24 @@ aside {
 }
 
 .navbar .logo {
-    margin: 15px 10px;
+    margin: 7px 10px;
+    height: 36px;
+}
+
+.navbar .logo img {
+  height: 100%;
 }
 
 .navbar .logo .logo-blue,
 .navbar .logo .logo-green {
     padding: 4px 7px;
     color: white;
+    vertical-align: middle;
+    margin-left: 5px;
 }
 
 .navbar .logo .logo-blue {
     background: #168EC1;
-    margin-right: 5px;
 }
 
 .navbar .logo .logo-green { background: #4cbd38 }
