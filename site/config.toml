@@ -84,14 +84,15 @@ DefaultContentLanguage = "en"
 
 # Action section
 [params.action]
-  headline = "Sign our open letter!"
-  description = "Show that you want to free publicly financed code by signing our open letter."
+  headline = "Tell Your Representatives!"
+  subheadline = "Public Money? Public Code!"
+  description = "More than XY organisations support this call for action. Help us to make an impact by signing our open letter. We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
   formName = "Name (required)"
   formEmail = "Email (required)"
   formCountry = "Country"
   formZip = "ZIP Code"
   formPermissionPriv = "I have read and accepted the [privacy statement](#)"
-  formPermissionNews = "I want to stay informed about the future of PMPC"
+  formPermissionNews = "I want to stay informed about the future of this campaign"
   formPermissionPub = "I want my signature to appear in the [list of signatures](/signatures)"
   formSubmit = "Sign"
 

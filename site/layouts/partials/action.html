@@ -5,7 +5,8 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">{{ .Site.Params.action.headline }}</h2>
                 <hr class="light">
-                <p class="text-faded">{{ .Site.Params.action.description | markdownify }}</p>
+                <p><strong>{{ .Site.Params.action.subheadline}}</strong> <br />
+                {{ .Site.Params.action.description | markdownify }}</p>
                 
                 <form action="/sign" method="post">
                   <label class="sign-input form-na">
