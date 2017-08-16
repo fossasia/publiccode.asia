@@ -17,8 +17,8 @@
             {{ partial "about.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.reasons.list }}
-            {{ partial "reasons.html" . }}
+        {{ if .Site.Params.arguments.list }}
+            {{ partial "arguments.html" . }}
         {{ end }}
 
         {{ if $data.resources }}

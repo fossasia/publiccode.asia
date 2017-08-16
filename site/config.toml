@@ -22,7 +22,7 @@ DefaultContentLanguage = "en"
 [params.navigation.links]
   start     = "Start"
   about     = "About"
-  reasons   = "Reasons"
+  arguments = "Arguments"
   resources = "Resources"
   sign      = "Sign"
   spread    = "Spread"
@@ -51,26 +51,26 @@ DefaultContentLanguage = "en"
   buttonText  = "More advantages"
 
 
-# Reasons section
-[params.reasons]
-  headline = "More reasons to free public code"
+# Arguments section
+[params.arguments]
+  headline = "Reasons to free public code"
 
-[[params.reasons.list]]
+[[params.arguments.list]]
   icon = "fa-eur"
   title = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
 
-[[params.reasons.list]]
+[[params.arguments.list]]
   icon = "fa-plus"
   title = "Collaboration"
   description = "Efforts on major projects can be joint to share expertise and costs."
 
-[[params.reasons.list]]
+[[params.arguments.list]]
   icon = "fa-users"
   title = "Serving the public"
   description = "Applications paid by the public should be available for everyone."
 
-[[params.reasons.list]]
+[[params.arguments.list]]
   icon = "fa-lightbulb-o"
   title = "Fostering innovation"
   description = "With transparent processes others don't have to reinvent the wheel."
