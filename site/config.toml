@@ -109,6 +109,8 @@ DefaultContentLanguage = "en"
   imprint = "Imprint"
   privacy = "Privacy"
   transparency = "Transparency"
+  contribute1 = "The code of this website is Free Software." 
+  contribute2 = "You're welcome to contribute!"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
   
 # Subpages
