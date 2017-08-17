@@ -28,7 +28,7 @@
 #legal p {
   padding: 0px;
   margin: 0px;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 #legal a {
     color: #83bdd6;
@@ -115,10 +115,11 @@ a:not(.btn):not(.hiddenlink) {
   position: relative;
   transform: perspective(1px) translateZ(0px);
   vertical-align: middle;
+  margin-top: -3px;
 }
 a:not(.btn):not(.hiddenlink)::before {
   background: #006d9e none repeat scroll 0 0;
-  bottom: 0;
+  bottom: 2px;
   content: "";
   height: 1px;
   left: 50%;
