@@ -9,10 +9,16 @@
   text-align: center;
 }
 
-/* VIDEO in About section */
+/* ABOUT SECTION w/ video */
 #about video {
   width: 100%    !important;
   height: auto   !important;
+}
+
+/* ARGUMENTS SECTION */
+#arguments #arguments-followup p {
+  margin-top: 50px;
+  font-size: 18px;
 }
 
 /* LANGUAGE SECTION */

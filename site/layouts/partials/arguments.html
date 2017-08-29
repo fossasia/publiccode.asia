@@ -24,5 +24,9 @@
             </div>
             {{ end }}
         </div>
+        <div class="col-lg-8 col-lg-offset-2 text-center" id="arguments-followup">
+          <p>{{ .Site.Params.arguments.followup | markdownify }}</p>
+          <a href="#action" class="btn btn-primary btn-xl page-scroll">{{ .Site.Params.arguments.buttonText }}</a>
+        </div>
     </div>
 </section>

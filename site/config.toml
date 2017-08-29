@@ -48,7 +48,9 @@ DefaultContentLanguage = "en"
 
 # Arguments section
 [params.arguments]
-  headline = "4 out of many reasons to free public code"
+  headline = "Only 4 of many reasons for public code"
+  followup = "Do you believe that Free Software must be the default option for publicly financed software? **Then let's convince your political representatives!**"
+  buttonText = "Sign the Open Letter"
 [[params.arguments.list]]
   icon = "fa-eur"
   title = "Tax savings"
@@ -79,7 +81,7 @@ DefaultContentLanguage = "en"
   formPermissionPriv = "I have read and accepted the [privacy statement](/privacy)"
   formPermissionNews = "I want to stay informed about the future of this campaign"
   formPermissionPub = "I want my signature to appear in the [list of signatures](/openletter#signatures)"
-  formSubmit = "Sign"
+  formSubmit = "Sign Now!"
 
 
 # Resources boxes section
