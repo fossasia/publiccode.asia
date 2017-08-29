@@ -5,7 +5,7 @@
 {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 {{ .Hugo.Generator }}
-<title>{{ .Site.Title }}</title>
+<title>{{ with .Params.Title }}{{ . }} - {{ end }}{{ .Site.Title }}</title>
 {{ "<!-- Translations -->" | safeHTML }}
 <link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ .RelPermalink }}" title="{{ .Site.Params.languageName }}">
 {{ range .Translations }}
