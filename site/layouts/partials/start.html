@@ -18,8 +18,11 @@
                 <p>{{ . | markdownify }}</p>
             {{ end }}
             {{ with .Site.Params.start.buttonText }}
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>
+                <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>-->
             {{ end }}
+            <div class="arrow-bounce">
+              <a class="fa fa-chevron-down fa-3x hiddenlink page-scroll" href="#about"></a>
+            </div>
         </div>
     </div>
 </header>

@@ -134,3 +134,32 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
   left: 0;
   right: 0;
 }
+
+/* Bouncing down arrow */
+
+.arrow-bounce {
+  text-align: center;
+  margin: -30px 0;
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+.arrow-bounce a {
+  color: #168EC1;
+  padding: 30px;
+}
+.arrow-bounce a:hover {
+  color: #0F5E80;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
