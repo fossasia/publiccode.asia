@@ -34,9 +34,10 @@ DefaultContentLanguage = "en"
   # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
   slogan_1   = "Public Money"
   slogan_2   = "Public Code"
-  fsfe       = "fsfe.org"
   alt        = "Public Money, Public Code"
-  subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
+  subtitle1  = "Why is software that is programmed with taxpayers' money not released as Free Software?"
+  subtitle2  = "We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence. If it is public money, it should be public code as well."
+  subtitle3  = "**Code paid by all people should be available to all people!**" 
 
 
 # About section

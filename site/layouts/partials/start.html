@@ -8,15 +8,17 @@
                     <span class="logo-blue">{{ .Site.Params.start.slogan_1 }}</span>
                     <span class="logo-green">{{ .Site.Params.start.slogan_2 }}</span>
                 </h1>
-                <h2 id="start">{{ .Site.Params.start.fsfe }}</h2>
+                {{ with .Site.Params.start.fsfe }}<h2 id="start">{{ . }}</h2>{{ end }}
             </div>
 
-            {{ if and .Site.Params.start.slogan_1 .Site.Params.start.subtitle }}
-                <hr>
+            {{ if and .Site.Params.start.slogan_1 .Site.Params.start.subtitle1 }}
+                <hr />
             {{ end }}
-            {{ with .Site.Params.start.subtitle }}
-                <p>{{ . | markdownify }}</p>
-            {{ end }}
+            <p>{{ with .Site.Params.start.subtitle1 }}{{ . | markdownify }}{{ end }}
+            <br /><br />
+            {{ with .Site.Params.start.subtitle2 }}{{ . | markdownify }}{{ end }}
+            <br /><br />
+            {{ with .Site.Params.start.subtitle3 }}{{ . | markdownify }}{{ end }}</p>
             {{ with .Site.Params.start.buttonText }}
                 <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>-->
             {{ end }}
