@@ -28,9 +28,6 @@ DefaultContentLanguage = "en"
   spread    = "Spread"
   language  = "Language"
 
-# Language selection
-[params.language]
-  description = "Read this page in another language"
 
 # Start banner
 [params.start]
@@ -40,7 +37,6 @@ DefaultContentLanguage = "en"
   fsfe       = "fsfe.org"
   alt        = "Public Money, Public Code"
   subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
-  buttonText = "See the video"
 
 
 # About section
@@ -53,22 +49,18 @@ DefaultContentLanguage = "en"
 # Arguments section
 [params.arguments]
   headline = "4 out of many reasons to free public code"
-
 [[params.arguments.list]]
   icon = "fa-eur"
   title = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
-
 [[params.arguments.list]]
   icon = "fa-plus"
   title = "Collaboration"
-  description = "Efforts on major projects can be joint to share expertise and costs."
-
+  description = "Efforts on major projects can be joint to share expertise and costs."  
 [[params.arguments.list]]
   icon = "fa-users"
   title = "Serving the public"
   description = "Applications paid by the public should be available for everyone."
-
 [[params.arguments.list]]
   icon = "fa-lightbulb-o"
   title = "Fostering innovation"
@@ -92,19 +84,16 @@ DefaultContentLanguage = "en"
 
 # Resources boxes section
 [params.resources]
-
 [[params.resources.list]]
   title = "Latest News"
   description = "The latest updates about this campaign and public code in Europe"
   img = "news.jpg"
   link = "/news/"
-
 [[params.resources.list]]
   title = "Take Further Action"
   description = "Already signed the Open Letter? Learn what else you can do"
   img = "action.jpg"
   link = "/getactive/"
-
 [[params.resources.list]]
   title = "Press Contact"
   description = "Contact information for press and interested public"
@@ -130,6 +119,11 @@ DefaultContentLanguage = "en"
   contribute1 = "The code of this website is Free Software." 
   contribute2 = "You're welcome to contribute!"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+
+
+# Language selection
+[params.language]
+  description = "Read this page in another language"
 
 
 # 404 Error Page
