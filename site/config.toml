@@ -23,14 +23,11 @@ DefaultContentLanguage = "en"
   start     = "Start"
   about     = "About"
   arguments = "Arguments"
-  resources = "Resources"
   action    = "Take Action"
+  resources = "Resources"
   spread    = "Spread"
   language  = "Language"
 
-# Language selection
-[params.language]
-  description = "Read this page in another language"
 
 # Start banner
 [params.start]
@@ -40,7 +37,6 @@ DefaultContentLanguage = "en"
   fsfe       = "fsfe.org"
   alt        = "Public Money, Public Code"
   subtitle   = "Why is software that is programmed with taxpayers' money not released as Free Software? Code paid by all people should be available to all people."
-  buttonText = "See the video"
 
 
 # About section
@@ -53,47 +49,57 @@ DefaultContentLanguage = "en"
 # Arguments section
 [params.arguments]
   headline = "4 out of many reasons to free public code"
-
 [[params.arguments.list]]
   icon = "fa-eur"
   title = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
-
 [[params.arguments.list]]
   icon = "fa-plus"
   title = "Collaboration"
-  description = "Efforts on major projects can be joint to share expertise and costs."
-
+  description = "Efforts on major projects can be joint to share expertise and costs."  
 [[params.arguments.list]]
   icon = "fa-users"
   title = "Serving the public"
   description = "Applications paid by the public should be available for everyone."
-
 [[params.arguments.list]]
   icon = "fa-lightbulb-o"
   title = "Fostering innovation"
   description = "With transparent processes others don't have to reinvent the wheel."
 
 
-# Portfolio modals
-[params.resources.modal]
-  client = "Client"
-  date = "Date"
-  buttonText = "Close"
-
 # Action section
 [params.action]
   headline = "Tell Your Representatives!"
-  subheadline = "Public Money? Public Code!"
-  description = "More than XY organisations support this call for action. Help us to make an impact by signing our open letter. We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  subheadline = "We demand: **„Implement legislation requiring that, as a default setting, publicly financed software must be made publicly available under a Free Software licence.“**"
+  description = "More than XY organisations support this call for action by signing our [open letter](/openletter). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
   formName = "Name (required)"
   formEmail = "Email (required)"
   formCountry = "Country"
   formZip = "ZIP Code"
-  formPermissionPriv = "I have read and accepted the [privacy statement](#)"
+  formPermissionPriv = "I have read and accepted the [privacy statement](/privacy)"
   formPermissionNews = "I want to stay informed about the future of this campaign"
-  formPermissionPub = "I want my signature to appear in the [list of signatures](/signatures)"
+  formPermissionPub = "I want my signature to appear in the [list of signatures](/openletter#signatures)"
   formSubmit = "Sign"
+
+
+# Resources boxes section
+[params.resources]
+[[params.resources.list]]
+  title = "Latest News"
+  description = "The latest updates about this campaign and public code in Europe"
+  img = "news.jpg"
+  link = "/news/"
+[[params.resources.list]]
+  title = "Take Further Action"
+  description = "Already signed the Open Letter? Learn what else you can do"
+  img = "action.jpg"
+  link = "/getactive/"
+[[params.resources.list]]
+  title = "Press Contact"
+  description = "Contact information for press and interested public"
+  img = "press.jpg"
+  link = "/contact/"
+
 
 # Spread the word section
 [params.spread]
@@ -102,6 +108,7 @@ DefaultContentLanguage = "en"
   promoButtonText = "Get promo material"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Tell your friends and followers about Public Code"
+
 
 # Legal Section
 [params.legal]
@@ -112,18 +119,13 @@ DefaultContentLanguage = "en"
   contribute1 = "The code of this website is Free Software." 
   contribute2 = "You're welcome to contribute!"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
-  
-# Subpages
-[params.subpage]
 
-# Signatures Subpage
-[params.subpage.signatures]
-  headline = "Signatures"
-  id = "ID"
-  name = "Name"
-  country = "Country"
-  zip = "ZIP Code"
-  
+
+# Language selection
+[params.language]
+  description = "Read this page in another language"
+
+
 # 404 Error Page
 [params.error]
   headline = "Error 404 - Page not found"

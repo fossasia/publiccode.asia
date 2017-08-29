@@ -383,14 +383,14 @@ header .header-content .header-content-inner p {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-.resources-box .resources-box-caption .resources-box-caption-content .resource-category {
-    text-transform: uppercase;
+.resources-box .resources-box-caption .resources-box-caption-content .resource-description {
+    margin-top: 10px;
     font-size: 14px;
     font-weight: 600;
 }
 
 .resources-box .resources-box-caption .resources-box-caption-content .resource-name {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .resources-box:hover .resources-box-caption {
@@ -398,8 +398,8 @@ header .header-content .header-content-inner p {
 }
 
 @media(min-width:768px) {
-    .resources-box .resources-box-caption .resources-box-caption-content .resource-category {
-        font-size: 16px;
+    .resources-box .resources-box-caption .resources-box-caption-content .resource-description {
+        font-size: 14px;
     }
 
     .resources-box .resources-box-caption .resources-box-caption-content .resource-name {

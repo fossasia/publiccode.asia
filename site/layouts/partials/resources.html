@@ -4,15 +4,20 @@
     <div class="container-fluid">
       <h2 class="hidden">{{ .Site.Params.navigation.links.resources }}</h2>
         <div class="row no-gutter">
-            {{ range $data.resources }}
+            {{ range .Site.Params.resources.list }}
                 <div class="col-lg-4 col-sm-6">
-                    <a href="#{{ .shortLink }}" class="resources-box resources-link" data-toggle="modal">
+                    <a href="{{ .link }}" class="resources-box resources-link">
                         <img src="/img/resources/{{ .img }}" class="img-responsive" alt="">
                         {{ if .title }}
                             <div class="resources-box-caption">
                                 <div class="resources-box-caption-content">
                                     {{ with .title }}
                                         <div class="resource-name">
+                                            {{ . }}
+                                        </div>
+                                    {{ end }}
+                                    {{ with .description }}
+                                        <div class="resource-description">
                                             {{ . }}
                                         </div>
                                     {{ end }}

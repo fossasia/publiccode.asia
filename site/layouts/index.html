@@ -21,12 +21,12 @@
             {{ partial "arguments.html" . }}
         {{ end }}
 
-        {{ if $data.resources }}
-            {{ partial "resources.html" . }}
-        {{ end }}
-
         {{ if .Site.Params.action }}
             {{ partial "action.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.resources }}
+            {{ partial "resources.html" . }}
         {{ end }}
 
         {{ if .Site.Params.spread }}
@@ -38,10 +38,6 @@
         {{ end }}
         
         {{ partial "legal.html" . }}
-
-        {{ if $data.resources }}
-            {{ partial "modals.html" . }}
-        {{ end }}
         
         {{ partial "sharecolumn.html" . }}
 

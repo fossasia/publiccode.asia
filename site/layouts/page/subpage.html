@@ -4,9 +4,21 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        {{ partial "page-nav.html" . }}
+        {{ partial "subpage_navbar.html" . }}
 
-        {{ partial "page-signatures.html" . }}
+        {{ partial "subpage_before.html" . }}
+
+        <h1>{{ .Params.Title }}</h1>
+        
+        <hr />
+        
+        {{ .Content }}
+        
+        {{ if eq .Params.sigtable true }}
+          {{ partial "subpage_sigtable.html" . }}
+        {{ end }}
+        
+        {{ partial "subpage_after.html" . }}
         
         {{ partial "language.html" . }}
         

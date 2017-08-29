@@ -1,3 +1,14 @@
+/* SUBPAGES */
+.subpage {
+  background-image: url(../img/header.jpg);
+  background-size: cover;
+  color: #fff;
+  min-height: 90%
+}
+.subpage h1 {
+  text-align: center;
+}
+
 /* LANGUAGE SECTION */
 #language {
     color: #fff;
@@ -97,10 +108,10 @@ p.form-pe a {
 }
 
 /* SIGNATURE TABLE */
-table.signatures {
+table#signatures {
   margin: 0 auto;
 }
-table.signatures th, table.signatures td {
+table#signatures th, table#signatures td {
   border: 1px solid darkgrey;
   border-collapse: collapse;
   text-align: left;

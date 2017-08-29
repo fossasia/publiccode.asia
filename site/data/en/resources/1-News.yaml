@@ -1,6 +1,0 @@
-modalID: 4
-title: Latest News
-date: 
-img: news.jpg
-shortLink: latestNews
-description: Here should be an auto-generated list of news and their teasers from fsfe.org which are tagged with [pmpc](https://fsfe.org/tags/tagged-pmpc.en.html). There's no tag-specific RSS yet so we have to hack that. See issue https://git.fsfe.org/pmpc/website/issues/2
