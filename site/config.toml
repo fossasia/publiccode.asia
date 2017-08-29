@@ -75,12 +75,6 @@ DefaultContentLanguage = "en"
   description = "With transparent processes others don't have to reinvent the wheel."
 
 
-# Portfolio modals
-[params.resources.modal]
-  client = "Client"
-  date = "Date"
-  buttonText = "Close"
-
 # Action section
 [params.action]
   headline = "Tell Your Representatives!"
@@ -95,6 +89,7 @@ DefaultContentLanguage = "en"
   formPermissionPub = "I want my signature to appear in the [list of signatures](/openletter#signatures)"
   formSubmit = "Sign"
 
+
 # Spread the word section
 [params.spread]
   headline = "Spread the word!"
@@ -102,6 +97,7 @@ DefaultContentLanguage = "en"
   promoButtonText = "Get promo material"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Tell your friends and followers about Public Code"
+
 
 # Legal Section
 [params.legal]
@@ -112,10 +108,8 @@ DefaultContentLanguage = "en"
   contribute1 = "The code of this website is Free Software." 
   contribute2 = "You're welcome to contribute!"
   license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
-  
-# Subpages
-[params.subpage]
-  
+
+
 # 404 Error Page
 [params.error]
   headline = "Error 404 - Page not found"
