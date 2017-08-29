@@ -4,7 +4,7 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        {{ partial "page-nav.html" . }}
+        {{ partial "subpage_navbar.html" . }}
 
         {{ partial "subpage_before.html" . }}
 
@@ -13,6 +13,10 @@
         <hr />
         
         {{ .Content }}
+        
+        {{ if eq .Params.sigtable true }}
+          {{ partial "subpage_sigtable.html" . }}
+        {{ end }}
         
         {{ partial "subpage_after.html" . }}
         

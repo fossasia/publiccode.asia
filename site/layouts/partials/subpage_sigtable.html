@@ -1,0 +1,20 @@
+<table id="signatures">
+  <tbody>
+    <tr>
+      <th>{{ .Params.tableName }}</th>
+      <th>{{ .Params.tableCountry }}</th>
+      <th>{{ .Params.tableZip }}</th>
+    </tr>
+    {{ range .Site.Data.signatures.data }}
+      {{ range sort . "id" "desc" }}
+        {{ if (eq .confirmed "yes") | and (eq .permPub "yes")  }}
+         <tr>
+            <td>{{ .name }}</td>
+            <td>{{ .country }}</td>
+            <td>{{ .zip }}</td>
+         </tr>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </tbody>
+</table>

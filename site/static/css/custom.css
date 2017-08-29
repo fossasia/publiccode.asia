@@ -108,10 +108,10 @@ p.form-pe a {
 }
 
 /* SIGNATURE TABLE */
-table.signatures {
+table#signatures {
   margin: 0 auto;
 }
-table.signatures th, table.signatures td {
+table#signatures th, table#signatures td {
   border: 1px solid darkgrey;
   border-collapse: collapse;
   text-align: left;
