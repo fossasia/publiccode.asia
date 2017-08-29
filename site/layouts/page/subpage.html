@@ -20,6 +20,10 @@
         
         {{ partial "subpage_after.html" . }}
         
+        {{ if eq .Params.sigtable true }}
+          {{ partial "organisations.html" . }}
+        {{ end }}
+        
         {{ partial "language.html" . }}
         
         {{ partial "legal.html" . }}

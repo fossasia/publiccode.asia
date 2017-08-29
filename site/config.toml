@@ -84,6 +84,11 @@ DefaultContentLanguage = "en"
   formSubmit = "Sign Now!"
 
 
+# Organisations section
+[params.organisations]
+  headline = "Supporting Organisations"
+  text = "Following organisations support our [Open Letter](/openletter). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+
 # Resources boxes section
 [params.resources]
 [[params.resources.list]]

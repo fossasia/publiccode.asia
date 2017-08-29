@@ -25,6 +25,10 @@
             {{ partial "action.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.organisations }}
+            {{ partial "organisations.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.resources }}
             {{ partial "resources.html" . }}
         {{ end }}

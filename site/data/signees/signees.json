@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Associação Ensino Livre",
+    "img": "aelivre.png",
+    "url": "https://ensinolivre.pt"
+  },
+  {
+    "name": "Associação Nacional para o Software Livre",
+    "img": "ansol.png",
+    "url": "https://ansol.org"
+  },
+  {
+    "name": "Linux User Group Of Slovenia",
+    "img": "lugos.png",
+    "url": "http://www.lugos.si"
+  },
+  {
+    "name": "Dyne.org Foundation",
+    "img": "dyne.png",
+    "url": "https://dyne.org"
+  },
+  {
+    "name": "European Digital Rights",
+    "img": "edri.png",
+    "url": "https://edri.org"
+  },
+  {
+    "name": "ePaństwo Foundation",
+    "img": "epanstwo.png",
+    "url": "https://epf.org.pl"
+  },
+  {
+    "name": "Free Software Foundation Europe",
+    "img": "fsfe.png",
+    "url": "https://fsfe.org"
+  },
+  {
+    "name": "K Desktop Environment",
+    "img": "kde.png",
+    "url": "https://ev.kde.org"
+  },
+  {
+    "name": "Modern Poland Foundation",
+    "img": "nowoczesnapolska.png",
+    "url": "https://nowoczesnapolska.org.pl"
+  },
+  {
+    "name": "Open Knowledge Foundation Deutschland",
+    "img": "okf.png",
+    "url": "https://okfn.de"
+  },
+  {
+    "name": "Open Software Business Alliance",
+    "img": "osba.png",
+    "url": "http://osb-alliance.de"
+  },
+  {
+    "name": "The Document Foundation",
+    "img": "tdf.png",
+    "url": "https://www.documentfoundation.org"
+  },
+  {
+    "name": "Wikimedia Deutschland",
+    "img": "wikimedia-de.png",
+    "url": "https://wikimedia.de"
+  }
+]

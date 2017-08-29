@@ -60,6 +60,40 @@
     color: #2093C4;
 }
 
+/* ORGANISATIONS SECTION */
+#organisations ul {
+  display: block;
+  position: relative;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+#organisations ul li {
+  display: inline-block;
+  position: relative;
+  list-style: none;
+}
+#organisations ul li a {
+  display: block;
+  position: relative;
+  width: 12vw;
+  height: 8vw;
+  max-width: 120px;
+  max-height: 80px;
+  min-width: 120px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: scale(0.8);
+  opacity: 1;
+  transition: opacity .5s, transform .5s, background-color .5s, filter .5s;
+}
+#organisations ul li a:hover {
+  opacity: 1;
+  transform: scale(0.9);
+  z-index: 5;
+}
+
 /* SIGN FORM */
 #action form {
   color: #333;
@@ -113,7 +147,6 @@ p.form-pe {
 }
 p.form-pe a {
   color: inherit;
-  text-decoration: underline;
 }
 #honey {
   display: none;
