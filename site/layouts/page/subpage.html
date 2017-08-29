@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+        {{ partial "page-nav.html" . }}
+
+        {{ partial "subpage_before.html" . }}
+
+        <h1>{{ .Params.Title }}</h1>
+        
+        {{ .Content }}
+        
+        {{ partial "subpage_after.html" . }}
+        
+        {{ partial "language.html" . }}
+        
+        {{ partial "legal.html" . }}
+        
+        {{ partial "sharecolumn.html" . }}
+
+        {{ partial "js.html" . }}
+    </body>
+</html>
