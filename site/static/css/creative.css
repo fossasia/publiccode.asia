@@ -37,12 +37,14 @@ a:focus {
     text-decoration: none;
 }
 
-#about a {
+#about a, #action a {
     color: rgba(52, 52, 52, .7);
 }
 
 #about a:hover,
-#about a:focus {
+#about a:focus,
+#action a:hover,
+#action a:focus {
     color: rgb(52, 52, 52);
 }
 
