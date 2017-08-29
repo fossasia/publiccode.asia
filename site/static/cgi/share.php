@@ -20,8 +20,8 @@ else {
   $service = htmlspecialchars($service);
   $diasporapod = htmlspecialchars($diasporapod);
   $gnusocialpod = htmlspecialchars($gnusocialpod);
-  $url = urlencode(htmlspecialchars($url));
-  $title = urlencode(htmlspecialchars($title));
+  $url = urlencode($url);
+  $title = urlencode($title);
   
   if ($service === "diaspora") {
     $diasporapod = validateurl($diasporapod);

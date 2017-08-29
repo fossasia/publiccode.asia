@@ -5,9 +5,9 @@
 <form action="/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="{{ .Site.Params.url }}" type="hidden" />  <!-- replace with your URL -->
-  <input name="title" value="{{ .Site.Title }}" type="hidden" />       <!-- replace with site/share title -->
-  <input class="n" name="website" placeholder="Please do not put anything here" />  <!-- stupid bot detection -->
+  <input name="url" value="{{ .Site.Params.url }}{{ .RelPermalink }}" type="hidden" />
+  <input name="title" value="{{ with .Params.Title }}{{ . }} - {{ end }}{{ .Site.Title }}" type="hidden" />
+  <input class="n" name="website" placeholder="Please do not put anything here" />
   
   {{ range $data.share }}
     {{ if eq .userinput true }}
