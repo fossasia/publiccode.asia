@@ -1,3 +1,14 @@
+/* SUBPAGES */
+.subpage {
+  background-image: url(../img/header.jpg);
+  background-size: cover;
+  color: #fff;
+  min-height: 90%
+}
+.subpage h1 {
+  text-align: center;
+}
+
 /* LANGUAGE SECTION */
 #language {
     color: #fff;
