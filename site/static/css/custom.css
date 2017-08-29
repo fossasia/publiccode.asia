@@ -218,3 +218,23 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
     transform: translateY(-10px);
   }
 }
+
+/* Scroll to top arrow */
+#scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.7);
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+  border-radius: 50%;
+}
+#scroll-to-top i {
+  color: #fff;
+  margin: 0;
+  position: relative;
+  left: 16px;
+  top: 13px;
+  font-size: 19px;
+}
