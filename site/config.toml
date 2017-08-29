@@ -46,13 +46,13 @@ DefaultContentLanguage = "en"
 # About section
 [params.about]
   headline    = "Sounds complex? No, it's super easy!"
-  description = "VIDEO"
+  description = "Here could be a short description of the video if we want it. Suggestions welcome!"
   buttonText  = "More advantages"
 
 
 # Arguments section
 [params.arguments]
-  headline = "Reasons to free public code"
+  headline = "4 out of many reasons to free public code"
 
 [[params.arguments.list]]
   icon = "fa-eur"
