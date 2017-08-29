@@ -9,6 +9,12 @@
   text-align: center;
 }
 
+/* VIDEO in About section */
+#about video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
 /* LANGUAGE SECTION */
 #language {
     color: #fff;
@@ -147,7 +153,6 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
 }
 
 /* Bouncing down arrow */
-
 .arrow-bounce {
   text-align: center;
   margin: -30px 0;
