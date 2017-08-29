@@ -25,7 +25,7 @@
             {{ partial "action.html" . }}
         {{ end }}
 
-        {{ if $data.resources }}
+        {{ if .Site.Params.resources }}
             {{ partial "resources.html" . }}
         {{ end }}
 
@@ -38,10 +38,6 @@
         {{ end }}
         
         {{ partial "legal.html" . }}
-
-        {{ if $data.resources }}
-            {{ partial "modals.html" . }}
-        {{ end }}
         
         {{ partial "sharecolumn.html" . }}
 

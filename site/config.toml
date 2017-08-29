@@ -90,6 +90,28 @@ DefaultContentLanguage = "en"
   formSubmit = "Sign"
 
 
+# Resources boxes section
+[params.resources]
+
+[[params.resources.list]]
+  title = "Latest News"
+  description = "The latest updates about this campaign and public code in Europe"
+  img = "news.jpg"
+  link = "/news/"
+
+[[params.resources.list]]
+  title = "Take Further Action"
+  description = "Already signed the Open Letter? Learn what else you can do"
+  img = "action.jpg"
+  link = "/getactive/"
+
+[[params.resources.list]]
+  title = "Press Contact"
+  description = "Contact information for press and interested public"
+  img = "press.jpg"
+  link = "/contact/"
+
+
 # Spread the word section
 [params.spread]
   headline = "Spread the word!"

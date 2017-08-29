@@ -46,27 +46,3 @@
     new WOW().init();
 
 })(jQuery); // End of use strict
-
-
-/* 
-* This function allows you to open a modal box by defining it in the URL
-* e.g. https://localhost:1313/#resourcesModal1
-*/
-(function() {
-    if (window.location.href.indexOf('#') > -1) {
-      var modalID = window.location.href.split('#')[1];
-      var modal = document.getElementById(modalID);
-      
-      modal.className += ' in';
-      modal.style.display = 'block';
-      
-      var closeButtons = document.getElementsByClassName('close-modal');
-      
-      for(var i = 0; i < closeButtons.length; i++) {
-        closeButtons[i].onclick = function() {
-          modal.style.display = 'none';
-          modal.classList.remove('in');
-        };
-      }
-    }
-})();
