@@ -101,6 +101,7 @@
 }
 #action form label {
   font-weight: 400;
+  margin: 5px 3px;
 }
 .sign-input {
   position: relative;
@@ -118,6 +119,9 @@
   padding: 0 0 0 30px;
   width: 270px;
   height: 31px;
+}
+.sign-input.form-co input {
+  width: 554px;
 }
 .sign-input select {
   background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
@@ -138,6 +142,10 @@
 }
 .form-zp:before {
   content: "\f08d";
+  padding-left: 3px;
+}
+.form-co:before {
+  content: "\f27a";
   padding-left: 3px;
 }
 p.form-pe {
