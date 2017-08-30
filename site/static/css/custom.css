@@ -194,7 +194,7 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
 /* Bouncing down arrow */
 .arrow-bounce {
   text-align: center;
-  margin: -30px 0;
+  margin: -60px 0 -20px 0;
   -moz-animation: bounce 2s infinite;
   -webkit-animation: bounce 2s infinite;
   animation: bounce 2s infinite;
