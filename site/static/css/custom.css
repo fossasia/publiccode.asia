@@ -238,3 +238,29 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
   top: 13px;
   font-size: 19px;
 }
+
+/* DEFINITION BOX */
+.definition {
+  margin: 20px 10px;
+  padding: 0px;
+  background-image: linear-gradient(white, white),
+                    linear-gradient(white, white),
+                    linear-gradient(white, white),
+                    linear-gradient(white, white),
+                    linear-gradient(rgba(288, 288, 288, 0.3), rgba(288, 288, 288, 0.3));
+  background-repeat: no-repeat;
+  background-size: 4px 30px, 30px 4px, 4px 30px, 30px 4px, calc(100% - 8px) calc(100% - 8px);
+  background-position: left top, left top, right bottom, right bottom, 4px 4px;
+}
+.definition.blue {
+  background-image: linear-gradient(#2093C4, #2093C4),
+                    linear-gradient(#2093C4, #2093C4),
+                    linear-gradient(#2093C4, #2093C4),
+                    linear-gradient(#2093C4, #2093C4),
+                    linear-gradient(rgba(32, 147, 196, 0.2), rgba(32, 147, 196, 0.2));
+}
+.definition p {
+  margin: 0;
+  padding: 20px 30px;
+  font-style: italic;
+}

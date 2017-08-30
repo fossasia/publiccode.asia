@@ -8,7 +8,9 @@ tableName: Name
 tableCountry: Country
 ---
 
-Publicly funded software has to be Free Software. While there are plenty of good reasons for that, many politicians don't know about the importance of software yet.
+Publicly funded software has to be [Free Software][fs]. While there are plenty of good reasons for that, many politicians don't know about the importance of software yet.
+
+{{< fsdefinition type="box">}}
 
 That's where you can help! Sign the open letter to give our message more weight. We will hand over the letter and signatures to your representatives and make sure that they understand: Public Money? Public Code!
 
@@ -33,3 +35,5 @@ That's where you can help! Sign the open letter to give our message more weight.
 > **"Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence."**
 
 Following people have signed the letter already and agreed to have their signature be public. Will you be the next?
+
+[fs]: https://fsfe.org/freesoftware/basics/summary.html "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."

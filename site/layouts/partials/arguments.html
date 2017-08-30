@@ -1,15 +1,13 @@
 {{ "<!-- ARGUMENTS -->" | safeHTML }}
 <section id="arguments">
-    {{ with .Site.Params.arguments.headline }}
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">{{ . }}</h2>
-                    <hr class="primary">
-                </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ .Site.Params.arguments.headline }}</h2>
+                <hr class="primary">
             </div>
         </div>
-    {{ end }}
+    </div>
     <div class="container">
         <div class="row">
             {{ range .Site.Params.arguments.list }}
@@ -24,6 +22,7 @@
             </div>
             {{ end }}
         </div>
+        <div class="definition blue"><p>{{ .Site.Params.fsdefinition }}</p></div>
         <div class="col-lg-8 col-lg-offset-2 text-center" id="arguments-followup">
           <p>{{ .Site.Params.arguments.followup | markdownify }}</p>
           <a href="#action" class="btn btn-primary btn-xl page-scroll">{{ .Site.Params.arguments.buttonText }}</a>
