@@ -3,9 +3,9 @@ title: Open Letter
 type: page
 layout: subpage
 sigtable: true
-tableZip: Zip Code
 tableName: Name
 tableCountry: Country
+tableComment: Comment
 ---
 
 Publicly funded software has to be [Free Software][fs]. While there are plenty of good reasons for that, many politicians don't know about the importance of software yet.
