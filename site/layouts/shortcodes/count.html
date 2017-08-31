@@ -1,0 +1,5 @@
+{{ if eq (.Get "type") "organisations" }}
+  {{ partial "functions/count_organisations.html" . }}
+{{ else if eq (.Get "type") "signatures" }}
+  {{ partial "functions/count_signatures.html" . }}
+{{ end }}
