@@ -8,12 +8,13 @@
                 <p>{{ .Site.Params.action.subheadline | markdownify }}</p>
                 <p>{{ (replace (replace .Site.Params.action.description "$ORGS" (partial "functions/count_organisations.html" .) ) "$INDS" (partial "functions/count_signatures.html" .))  | markdownify }}</p>
                 
-                <form action="/sign" method="post">
+                <form action="https://forms.fsfe.org/email" method="post">
+                  <input name="appid" type="hidden" value="pmpc-sign" />
                   <label class="sign-input form-na">
                     <input name="name" placeholder="{{ .Site.Params.action.formName }}" type="text" required />
                   </label>
                   <label class="sign-input form-em">
-                    <input name="email" placeholder="{{ .Site.Params.action.formEmail }}" type="email" required />
+                    <input name="confirm" placeholder="{{ .Site.Params.action.formEmail }}" type="email" required />
                   </label>
                   <label class="sign-input form-cn">
                     <select name="country">
