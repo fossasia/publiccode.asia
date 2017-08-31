@@ -6,7 +6,7 @@
                 <h2 class="section-heading">{{ .Site.Params.action.headline }}</h2>
                 <hr class="light">
                 <p>{{ .Site.Params.action.subheadline | markdownify }}</p>
-                <p>{{ .Site.Params.action.description | markdownify }}</p>
+                <p>{{ (replace (replace .Site.Params.action.description "$ORGS" (partial "functions/count_organisations.html" .) ) "$INDS" (partial "functions/count_signatures.html" .))  | markdownify }}</p>
                 
                 <form action="/sign" method="post">
                   <label class="sign-input form-na">

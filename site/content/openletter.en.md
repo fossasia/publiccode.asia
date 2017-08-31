@@ -12,7 +12,7 @@ Publicly funded software has to be [Free Software][fs]. While there are plenty o
 
 {{< fsdefinition type="box">}}
 
-That's where you can help! Sign the open letter to give our message more weight. We will hand over the letter and signatures to your representatives and make sure that they understand: Public Money? Public Code!
+That's where you can help! Sign the open letter to give our message more weight, like **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** before you did. We will hand over the letter and signatures to your representatives and make sure that they understand: Public Money? Public Code!
 
 > ## Public Money? Public Code!
 > 

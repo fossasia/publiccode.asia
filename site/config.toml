@@ -76,7 +76,7 @@ DefaultContentLanguage = "en"
 [params.action]
   headline = "Tell Your Representatives!"
   subheadline = "We demand: **„Implement legislation requiring that, as a default setting, publicly financed software must be made publicly available under a [Free Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.“**"
-  description = "More than XY organisations support this call for action by signing our [Open Letter](/openletter). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  description = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [Open Letter](/openletter). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
   formName = "Name (required)"
   formEmail = "Email (required)"
   formCountry = "Your Country"
