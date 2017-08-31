@@ -52,6 +52,9 @@
                   <label class="sign-input form-zp">
                     <input name="zip" placeholder="{{ .Site.Params.action.formZip }}" type="text" />
                   </label>
+                  <label class="sign-input form-co">
+                    <input name="comment" placeholder="{{ .Site.Params.action.formComment }}" type="text" maxlength="140" />
+                  </label>
                   <p class="form-pe">
                     <label class="form-pe">
                       <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.formPermissionPriv | markdownify }}

@@ -101,6 +101,7 @@
 }
 #action form label {
   font-weight: 400;
+  margin: 5px 3px;
 }
 .sign-input {
   position: relative;
@@ -118,6 +119,9 @@
   padding: 0 0 0 30px;
   width: 270px;
   height: 31px;
+}
+.sign-input.form-co input {
+  width: 554px;
 }
 .sign-input select {
   background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
@@ -140,6 +144,10 @@
   content: "\f08d";
   padding-left: 3px;
 }
+.form-co:before {
+  content: "\f27a";
+  padding-left: 3px;
+}
 p.form-pe {
   text-align: left;
   max-width: 530px; /* to not let the checkboxed go far more left than the input boxes above */
@@ -154,14 +162,48 @@ p.form-pe a {
 
 /* SIGNATURE TABLE */
 table#signatures {
-  margin: 0 auto;
+  display: table;
+  width: 100%;
+}
+table#signatures thead, table#signatures tbody {
+  width: 100%;
+}
+table#signatures td:nth-child(1), table#signatures th:nth-child(1) {
+  width: 25%;
+}
+table#signatures td:nth-child(2), table#signatures th:nth-child(2) {
+  width: 25%;
+}
+table#signatures td:nth-child(3), table#signatures th:nth-child(3) {
+  width: 50%;
+}
+table#signatures thead {
+  overflow-y: scroll;
+  display: table;
+  width: calc(100% - 16px);
+  background-color: rgba(230, 230, 230, 0.2);
+}
+table#signatures tbody {
+  overflow: auto;
+  height: 250px;
+  display: block;
+}
+table#signatures tr {
+  width: 100%;
+  display: table;
+  text-align: left;
 }
 table#signatures th, table#signatures td {
-  border: 1px solid darkgrey;
-  border-collapse: collapse;
+  border-bottom: 1px solid darkgrey;
   text-align: left;
-  padding: 2px;
+  padding: 5px;
 }
+table#signatures tr:nth-child(even) {
+  background-color: rgba(230, 230, 230, 0.05);
+} 
+table#signatures tr:hover {
+  background-color: rgba(230, 230, 230, 0.1);
+} 
 
 /* SPECIAL LINK UNDERLINE EFFECT */
 a:not(.btn):not(.hiddenlink) {

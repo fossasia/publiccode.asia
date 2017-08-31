@@ -88,6 +88,7 @@ if(empty($action)) {
   $email = isset($_POST['email']) ? $_POST['email'] : false;
   $country = isset($_POST['country']) ? $_POST['country'] : false;
   $zip = isset($_POST['zip']) ? $_POST['zip'] : false;
+  $comment = isset($_POST['comment']) ? $_POST['comment'] : false;
   $permPriv = isset($_POST['permissionPriv']) ? $_POST['permissionPriv'] : false;
   $permNews = isset($_POST['permissionNews']) ? $_POST['permissionNews'] : false;
   $permPub = isset($_POST['permissionPub']) ? $_POST['permissionPub'] : false;
@@ -141,6 +142,7 @@ if ($action === "sign") {
                   "email" => $email,
                   "country" => $country,
                   "zip" => $zip,
+                  "comment" => $comment,
                   "permPriv" => $permPriv,
                   "permNews" => $permNews,
                   "permPub" => $permPub,

@@ -1,17 +1,19 @@
 <table id="signatures">
-  <tbody>
+  <thead>
     <tr>
       <th>{{ .Params.tableName }}</th>
       <th>{{ .Params.tableCountry }}</th>
-      <th>{{ .Params.tableZip }}</th>
+      <th>{{ .Params.tableComment }}</th>
     </tr>
+  </thead>
+  <tbody>
     {{ range .Site.Data.signatures.data }}
       {{ range sort . "id" "desc" }}
         {{ if (eq .confirmed "yes") | and (eq .permPub "yes")  }}
          <tr>
             <td>{{ .name }}</td>
             <td>{{ .country }}</td>
-            <td>{{ .zip }}</td>
+            <td>{{ .comment }}</td>
          </tr>
         {{ end }}
       {{ end }}
