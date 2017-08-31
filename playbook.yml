@@ -19,3 +19,5 @@
           LETSENCRYPT_EMAIL: jonas@fsfe.org
         volumes:
           - "/srv/pmpc-signatures:/usr/share/blog/data/signatures:rw"
+          - "/srv/forms/pmpc:/usr/share/more-signatures:ro"
+
