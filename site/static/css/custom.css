@@ -139,6 +139,15 @@ blockquote p {
 .sign-input.form-co input {
   width: 554px;
 }
+@media screen and (max-width:586px) {
+  .sign-input.form-co input {
+    max-width: 100%;
+  }
+  label.sign-input.form-co {
+    max-width: 80%;
+    min-width: 270px;
+  }
+}
 .form-na:before {
   content: "\f2c3";
 }
@@ -147,6 +156,7 @@ blockquote p {
 }
 .form-cn select {
   padding-left: 30px !important;
+  background-color: #2597B5;
 }
 .form-cn:before {
   content: "\f041";
@@ -170,6 +180,19 @@ p.form-pe a {
 }
 #honey {
   display: none;
+}
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color:    #98CEDC;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+ color:    #98CEDC;
+ opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color:    #98CEDC;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+ color:    #98CEDC;
 }
 
 /* SIGNATURE TABLE */
