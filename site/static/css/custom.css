@@ -6,6 +6,9 @@
   margin-top: 30px;
   margin-bottom: 20px;
 }
+blockquote p {
+  font-size: 17.5px;
+}
 
 /* SUBPAGES */
 .subpage {
