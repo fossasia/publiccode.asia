@@ -1,7 +1,7 @@
 <?php
 
 // Change these variables
-$gnusocialuser = "fsfe@quitter.no";
+$gnusocialuser = "@fsfe@quitter.no";
 $twitteruser = "fsfe";
 $flattruser = "fsfe";
 $supporturl = "https://fsfe.org/donate?pmpc";
@@ -30,7 +30,7 @@ else {
     die();
   } elseif($service === "gnusocial") {
     $gnusocialpod = validateurl($gnusocialpod);
-    header("Location: " . $gnusocialpod . "/notice/new?status_textarea=" . $title . " " . $url . " via " . $gnusocialuser);
+    header("Location: " . $gnusocialpod . "/notice/new?status_textarea=" . $title . " " . $url);
     die();
   } elseif($service === "reddit") {
     header("Location: https://reddit.com/submit?url=" . $url . "&title=" . $title);
@@ -42,7 +42,7 @@ else {
     header("Location: https://news.ycombinator.com/submitlink?u=" . $url . "&t=" . $title);
     die();
   } elseif($service === "twitter") {
-    header("Location: https://twitter.com/share?url=" . $url . "&text=" . $title . "&via=" . $twitteruser);
+    header("Location: https://twitter.com/share?url=" . $url . "&text=" . $title);
     die();
   } elseif($service === "facebook") {
     header("Location: https://www.facebook.com/sharer/sharer.php?u=" . $url);
