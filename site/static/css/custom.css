@@ -2,6 +2,10 @@
 .bg-primary a {
   color: #fff;
 }
+h2 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
 
 /* SUBPAGES */
 .subpage {
