@@ -65,6 +65,11 @@
     "url": "http://osb-alliance.de"
   },
   {
+    "name": "Open Source Initiative",
+    "img": "OpenSourceInitiative.png",
+    "url": "https://opensource.org/"
+  },
+  {
     "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
     "url": "http://quintessenz.at"
