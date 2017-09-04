@@ -130,7 +130,7 @@ DefaultContentLanguage = "en"
   transparency = "Transparency"
   contribute1 = "The code of this website is Free Software." 
   contribute2 = "You're welcome to contribute!"
-  license = "Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved."
+  license = "This work is licensed under a [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection

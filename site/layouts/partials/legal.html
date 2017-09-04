@@ -8,7 +8,7 @@
     | <a href="/privacy/">{{ .Site.Params.legal.privacy }}</a> 
     | <a href="https://fsfe.org/about/transparency-commitment.{{ .Lang }}.html" target="_blank">{{ .Site.Params.legal.transparency }}</a> 
     – Copyright &copy; {{ (now).Year }}</p>
-    <p>{{ .Site.Params.legal.license }}</p>
+    <p>{{ .Site.Params.legal.license | markdownify }}</p>
   </div>
 </section>
 
