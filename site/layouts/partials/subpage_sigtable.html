@@ -7,15 +7,15 @@
     </tr>
   </thead>
   <tbody>
-    {{ range .Site.Data.signatures.data }}
-      {{ range sort . "id" "desc" }}
-        {{ if (eq .confirmed "yes") | and (eq .permPub "yes")  }}
+    {{ range .Site.Data.signatures }}
+      {{ range . }}
+        {{ if (eq .include_vars.permissionPub "yes") }}
          <tr>
-            <td>{{ .name }}</td>
-            <td>{{ .country }}</td>
-            <td>{{ .comment }}</td>
+            <td>{{ .include_vars.name }}</td>
+            <td>{{ .include_vars.country }}</td>
+            <td>{{ .include_vars.comment }}</td>
          </tr>
-        {{ end }}
+         {{ end }}
       {{ end }}
     {{ end }}
   </tbody>
