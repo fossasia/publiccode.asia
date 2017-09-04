@@ -45,6 +45,11 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "Linuxwochen",
+    "img": "linuxwoche.png",
+    "url": "https://www.linuxwochen.at/"
+  },
+  {
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
