@@ -3,3 +3,5 @@ name: GNU Social
 titleBefore: Auf
 titleAfter: teilen
 userinput: true
+# This "customText" shouldn't have more than 115 characters!
+customText: "Öffentliches Geld muss öffentlichen Code bedeuten! Ich unterstütze den Aufruf der @fsfe@quitter.no für mehr #publiccode: "

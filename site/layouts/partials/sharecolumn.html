@@ -5,8 +5,8 @@
 <form action="/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="{{ .Site.Params.url }}{{ .RelPermalink }}" type="hidden" />
-  <input name="title" value="{{ with .Params.Title }}{{ . }} - {{ end }}{{ .Site.Title }}" type="hidden" />
+  <input name="url" value="{{ .Site.Params.url }}" type="hidden" />
+  <input id="sharetitle-side" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
   {{ range $data.share }}
@@ -16,14 +16,14 @@
         <span class="popup {{ .id }}">
           <label for="no-share-popup-side"></label>
           <input name="{{ .id }}pod" value="" placeholder="{{ .name }} URL ({{ .id }}.tld)" type="text" />
-          <button type="submit" name="service" value="{{ .id }}">OK</button>
+          <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">OK</button>
         </span>
     {{ end }}
   {{ end }}
   
   {{ range $data.share }}
     {{ if ne .userinput true }}
-      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}">&nbsp;</button>
+      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">&nbsp;</button>
     {{ end }}
   {{ end }}
 </form>
