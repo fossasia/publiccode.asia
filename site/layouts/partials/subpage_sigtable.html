@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     {{ range .Site.Data.signatures }}
-      {{ range . }}
-        {{ if (eq .include_vars.permissionPub "yes") }}
+      {{ range sort . "timestamp" "desc" }}
+        {{ if (eq .include_vars.permissionPub "yes") | and (eq .include_vars.permissionPriv "yes") }}
          <tr>
             <td>{{ .include_vars.name }}</td>
             <td>{{ .include_vars.country }}</td>
