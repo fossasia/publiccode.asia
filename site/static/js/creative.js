@@ -39,3 +39,12 @@
     new WOW().init();
 
 })(jQuery); // End of use strict
+
+function changeTitle(val){
+    document.getElementById('sharetitle-spread').value = val;
+    return true;
+}
+function changeTitleSide(val){
+    document.getElementById('sharetitle-side').value = val;
+    return true;
+}

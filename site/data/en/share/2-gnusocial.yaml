@@ -3,3 +3,5 @@ name: GNU Social
 titleBefore: Share on
 titleAfter: 
 userinput: true
+# This "customText" shouldn't have more than 115 characters!
+customText: "If it is public money, it should be public code as well! I support @fsfe@quitter.no's call for more #publiccode: "
