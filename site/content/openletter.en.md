@@ -8,7 +8,7 @@ tableCountry: Country
 tableComment: Comment
 ---
 
-Publicly funded software has to be [Free Software][fs]. While there are plenty of good reasons for that, many politicians don't know about the importance of software yet.
+Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for that, many politicians don’t know about them yet.
 
 {{< fsdefinition type="box">}}
 
