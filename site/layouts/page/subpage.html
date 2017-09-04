@@ -14,14 +14,14 @@
         
         {{ .Content }}
         
-        {{ if eq .Params.sigtable true }}
-          {{ partial "sub-pages/sigtable.html" . }}
-        {{ end }}
-        
         {{ partial "sub-pages/section_end.html" . }}
         
         {{ if eq .Params.sigtable true }}
           {{ partial "organisations.html" . }}
+        {{ end }}
+
+        {{ if eq .Params.sigtable true }}
+          {{ partial "sub-pages/sigtable.html" . }}
         {{ end }}
         
         {{ partial "language.html" . }}

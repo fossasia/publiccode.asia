@@ -145,6 +145,13 @@ DefaultContentLanguage = "en"
   button = "Back to start page"
 
 
+# Specific sub-pages
+[params.subpage]
+[params.subpage.signatures]
+  headline = "Individual Open Letter Signatures"
+  description = "Following people have signed the letter already and agreed to have their signature be public. Will you be the next?"
+
+
 # === TRANSLATIONS ===
 [Languages]
 [Languages.en]
