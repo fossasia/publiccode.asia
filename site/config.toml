@@ -59,7 +59,7 @@ DefaultContentLanguage = "en"
   title = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
 [[params.arguments.list]]
-  icon = "fa-plus"
+  icon = "fa-handshake-o"
   title = "Collaboration"
   description = "Efforts on major projects can be joint to share expertise and costs."  
 [[params.arguments.list]]

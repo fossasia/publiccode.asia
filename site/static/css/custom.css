@@ -9,7 +9,7 @@
 
 /* SUBPAGES */
 .subpage {
-  background-image: url(../img/header.jpg);
+  background-image: url(../img/header_subpage.jpg);
   background-size: cover;
   color: #fff;
   min-height: 90%
@@ -104,8 +104,12 @@
 }
 
 /* SIGN FORM */
+#action a {
+  color: #fff;
+  text-decoration: underline;
+}
 #action form {
-  color: #333;
+  color: #fff;
   font-size: 18px;
 }
 #action form label {
@@ -119,31 +123,27 @@
   font-family: "FontAwesome";
   font-size: 20px;
   position: absolute;
-  left: 4px;
-  top: 2px;
+  left: 10px;
 }
-.sign-input input {
-  background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
-  border-radius: 7px;
-  padding: 0 0 0 30px;
+.sign-input input, .sign-input select {
+  background: rgba(76, 189, 56, 0.1) none repeat scroll 0 0;
+  border-radius: 15px;
+  padding: 0 0 0 36px;
   width: 270px;
   height: 31px;
+  font-weight: 600;
 }
 .sign-input.form-co input {
   width: 554px;
-}
-.sign-input select {
-  background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
-  border-radius: 7px;
-  padding: 0 0 0 30px;
-  width: 270px;
-  height: 31px;
 }
 .form-na:before {
   content: "\f2c3";
 }
 .form-em:before {
   content: "\f003";
+}
+.form-cn select {
+  padding-left: 30px !important;
 }
 .form-cn:before {
   content: "\f041";
