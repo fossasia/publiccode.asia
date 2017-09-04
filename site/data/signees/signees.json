@@ -10,6 +10,11 @@
     "url": "https://ansol.org"
   },
   {
+    "name": "Chaos Computer Club",
+    "img": "CCC.png",
+    "url": "https://www.ccc.de"
+  },
+  {
     "name": "Linux User Group Of Slovenia",
     "img": "lugos.png",
     "url": "http://www.lugos.si"
@@ -40,6 +45,11 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "Linuxwochen",
+    "img": "linuxwoche.png",
+    "url": "https://www.linuxwochen.at/"
+  },
+  {
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
@@ -53,6 +63,16 @@
     "name": "Open Software Business Alliance",
     "img": "osba.png",
     "url": "http://osb-alliance.de"
+  },
+  {
+    "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
+    "img": "quintessenz.png",
+    "url": "http://quintessenz.at"
+  },
+   {
+    "name": "Software Liberty Association Taiwan",
+    "img": "slat.png",
+    "url": "https://slat.org/"
   },
   {
     "name": "The Document Foundation",
