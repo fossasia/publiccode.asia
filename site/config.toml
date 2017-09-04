@@ -120,6 +120,7 @@ DefaultContentLanguage = "en"
   promoButtonText = "Get promo material"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Tell your friends and followers about Public Code"
+  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
 
 
 # Legal Section
@@ -218,6 +219,7 @@ DefaultContentLanguage = "en"
   promoButtonText = "Promomaterial bestellen"
   promoButtonLink = "https://fsfe.org/promo#pmpc"
   shareText = "Erzähle Deinen Freunden und Followern von PMPC"
+  defaultSocialText = "Wenn es mit öffentlichem Geld bezahlt wird, muss es immer öffentlicher Code sein! Ich unterstütze diesen Aufruf, damit es mehr öffentlichen Code unter einer Freie-Software-Lizenz gibt: "
 # Legal Section
 [Languages.de.legal]
   by = "Eine Kampagne der Free Software Foundation Europe"
