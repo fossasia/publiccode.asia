@@ -1,0 +1,42 @@
+{{ "<!-- SIGNATURES -->" | safeHTML }}
+<section class="bg-primary" id="signatures">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                {{ with .Site.Params.subpage.signatures.headline }}
+                    <h2 class="section-heading">{{ . }}</h2>
+                {{ end }}
+                {{ if and .Site.Params.subpage.signatures.headline .Site.Params.subpage.signatures.description }}
+                    <hr class="light">
+                {{ end }}
+
+                <p class="text-faded">{{ .Site.Params.subpage.signatures.description | markdownify }} 
+                <a href="/{{ .Lang }}/#action"><strong>{{ .Site.Params.action.formSubmit }}</strong></a></p>
+
+                <table id="sigtable">
+                  <thead>
+                    <tr>
+                      <th>{{ .Params.tableName }}</th>
+                      <th>{{ .Params.tableCountry }}</th>
+                      <th>{{ .Params.tableComment }}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {{ range .Site.Data.signatures }}
+                      {{ range sort . "timestamp" "desc" }}
+                        {{ if (eq .include_vars.permissionPub "yes") | and (eq .include_vars.permissionPriv "yes") }}
+                         <tr>
+                            <td>{{ .include_vars.name }}</td>
+                            <td>{{ .include_vars.country }}</td>
+                            <td>{{ .include_vars.comment }}</td>
+                         </tr>
+                         {{ end }}
+                      {{ end }}
+                    {{ end }}
+                  </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</section>

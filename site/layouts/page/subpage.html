@@ -4,9 +4,9 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        {{ partial "subpage_navbar.html" . }}
+        {{ partial "sub-pages/navbar.html" . }}
 
-        {{ partial "subpage_before.html" . }}
+        {{ partial "sub-pages/section_begin.html" . }}
 
         <h1>{{ .Params.Title }}</h1>
         
@@ -14,14 +14,14 @@
         
         {{ .Content }}
         
-        {{ if eq .Params.sigtable true }}
-          {{ partial "subpage_sigtable.html" . }}
-        {{ end }}
-        
-        {{ partial "subpage_after.html" . }}
+        {{ partial "sub-pages/section_end.html" . }}
         
         {{ if eq .Params.sigtable true }}
           {{ partial "organisations.html" . }}
+        {{ end }}
+
+        {{ if eq .Params.sigtable true }}
+          {{ partial "sub-pages/sigtable.html" . }}
         {{ end }}
         
         {{ partial "language.html" . }}

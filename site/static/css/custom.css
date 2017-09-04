@@ -1,3 +1,8 @@
+/* GENERAL STYLING */
+.bg-primary a {
+  color: #fff;
+}
+
 /* SUBPAGES */
 .subpage {
   background-image: url(../img/header.jpg);
@@ -161,47 +166,47 @@ p.form-pe a {
 }
 
 /* SIGNATURE TABLE */
-table#signatures {
+table#sigtable {
   display: table;
   width: 100%;
 }
-table#signatures thead, table#signatures tbody {
+table#sigtable thead, table#sigtable tbody {
   width: 100%;
 }
-table#signatures td:nth-child(1), table#signatures th:nth-child(1) {
+table#sigtable td:nth-child(1), table#sigtable th:nth-child(1) {
   width: 25%;
 }
-table#signatures td:nth-child(2), table#signatures th:nth-child(2) {
+table#sigtable td:nth-child(2), table#sigtable th:nth-child(2) {
   width: 25%;
 }
-table#signatures td:nth-child(3), table#signatures th:nth-child(3) {
+table#sigtable td:nth-child(3), table#sigtable th:nth-child(3) {
   width: 50%;
 }
-table#signatures thead {
+table#sigtable thead {
   overflow-y: scroll;
   display: table;
   width: calc(100% - 16px);
   background-color: rgba(230, 230, 230, 0.2);
 }
-table#signatures tbody {
+table#sigtable tbody {
   overflow: auto;
-  height: 250px;
+  max-height: 250px;
   display: block;
 }
-table#signatures tr {
+table#sigtable tr {
   width: 100%;
   display: table;
   text-align: left;
 }
-table#signatures th, table#signatures td {
+table#sigtable th, table#sigtable td {
   border-bottom: 1px solid darkgrey;
   text-align: left;
   padding: 5px;
 }
-table#signatures tr:nth-child(even) {
+table#sigtable tr:nth-child(even) {
   background-color: rgba(230, 230, 230, 0.05);
 } 
-table#signatures tr:hover {
+table#sigtable tr:hover {
   background-color: rgba(230, 230, 230, 0.1);
 } 
 
