@@ -21,4 +21,4 @@ COPY site/ /usr/share/blog
 
 COPY 000-default.conf /etc/apache2/sites-enabled/
 
-CMD /usr/share/blog/build/build.sh /usr/share/blog/data/signatures/signatures.json && apache2-foreground
+CMD /usr/share/blog/build/build.sh && apache2-foreground
