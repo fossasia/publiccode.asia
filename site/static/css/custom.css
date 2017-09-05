@@ -56,20 +56,20 @@ blockquote p {
 /* LEGAL SECTION */
 #legal {
   color: #fff;
-  background-color: #000;
+  background-color: #367836;
   padding: 10px;
   margin: 0px;
 }
 #legal p {
   padding: 0px;
   margin: 0px;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 #legal a {
-    color: #83bdd6;
+    color: #CCC;
 }
 #legal a:hover {
-    color: #2093C4;
+    color: #EEE;
 }
 
 /* ORGANISATIONS SECTION */
@@ -108,8 +108,10 @@ blockquote p {
 
 /* SIGN FORM */
 #action a {
-  color: #fff;
-  text-decoration: underline;
+  color: #CCC;
+}
+#action a:hover {
+  color: #EEE;
 }
 #action form {
   color: #fff;
@@ -121,19 +123,21 @@ blockquote p {
 }
 .sign-input {
   position: relative;
+  color: #555;
 }
 .sign-input:before {
   font-family: "FontAwesome";
   font-size: 20px;
   position: absolute;
   left: 10px;
+  top: 2px;
 }
 .sign-input input, .sign-input select {
-  background: rgba(76, 189, 56, 0.1) none repeat scroll 0 0;
-  border-radius: 15px;
+  background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+  border-radius: 20px;
   padding: 0 0 0 36px;
   width: 270px;
-  height: 31px;
+  height: 34px;
   font-weight: 600;
 }
 .sign-input.form-co input {
@@ -156,7 +160,10 @@ blockquote p {
 }
 .form-cn select {
   padding-left: 30px !important;
-  background-color: #2597B5;
+  background-color: #ffffff;
+}
+.form-cn select option:first-child {
+  color: #AAA;
 }
 .form-cn:before {
   content: "\f041";
@@ -182,17 +189,17 @@ p.form-pe a {
   display: none;
 }
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
-  color:    #98CEDC;
+  color:    #AAA;
 }
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
- color:    #98CEDC;
+ color:    #AAA;
  opacity:  1;
 }
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
- color:    #98CEDC;
+ color:    #AAA;
 }
 ::-ms-input-placeholder { /* Microsoft Edge */
- color:    #98CEDC;
+ color:    #AAA;
 }
 
 /* SIGNATURE TABLE */
