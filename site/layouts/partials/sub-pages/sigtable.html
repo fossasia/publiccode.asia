@@ -22,20 +22,18 @@
                     </tr>
                   </thead>
                   <tbody>
-                    {{ range .Site.Data.signatures }}
-                      {{ range sort . "timestamp" "desc" }}
-                        {{ if (eq .include_vars.permissionPub "yes") | and (eq .include_vars.permissionPriv "yes") }}
-                         <tr>
-                            <td>{{ .include_vars.name }}</td>
-                            <td>{{ .include_vars.country }}</td>
-                            <td>{{ .include_vars.comment }}</td>
-                         </tr>
-                         {{ end }}
-                      {{ end }}
+                    {{ $json := getJSON "data/signatures/signatures.json" }}
+                    {{ $json := where $json "include_vars.permissionPub" "yes" }}
+
+                    {{ range sort $json "timestamp" "desc" | first 10 }}
+                       <tr>
+                          <td>{{ .include_vars.name }}</td>
+                          <td>{{ .include_vars.country }}</td>
+                          <td>{{ .include_vars.comment }}</td>
+                       </tr>
                     {{ end }}
                   </tbody>
                 </table>
-
             </div>
         </div>
     </div>
