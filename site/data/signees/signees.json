@@ -20,6 +20,11 @@
     "url": "http://www.lugos.si"
   },
   {
+    "name": "D3-Defesa dos Direitos Digitais",
+    "img": "DefensaDosDireitosDigitais.png",
+    "url": "https://direitosdigitais.pt/"
+  },
+  {
     "name": "Dyne.org Foundation",
     "img": "dyne.png",
     "url": "https://dyne.org"
@@ -38,6 +43,11 @@
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
+  },
+  {
+    "name": "HackYourPhD",
+    "img": "HackYourPhD.png",
+    "url": "https://hackyourphd.org/"
   },
   {
     "name": "K Desktop Environment",
@@ -88,5 +98,10 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+  {
+    "name": "Xnet",
+    "img": "xnet.png",
+    "url": "https://xnet-x.net/"
   }
 ]
