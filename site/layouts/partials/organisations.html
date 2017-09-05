@@ -4,7 +4,8 @@
       <div class="text-center">
         <h2 class="section-heading">{{ .Site.Params.organisations.headline }}</h2>
         <hr />
-        <p>{{ .Site.Params.organisations.text | markdownify }}</p>
+        <!-- replace the URL defined in config.toml because this snipped is used in sub-pages too -->
+        <p>{{ replace .Site.Params.organisations.text "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
         <div class="orgs">
           <ul>
             {{ range .Site.Data.signees }}

@@ -11,7 +11,7 @@
                 {{ end }}
 
                 <p class="text-faded">{{ .Site.Params.subpage.signatures.description | markdownify }} 
-                <a href="/{{ .Lang }}/#action"><strong>{{ .Site.Params.action.formSubmit }}</strong></a></p>
+                <a href="{{ "#action" | relLangURL }}"><strong>{{ .Site.Params.action.formSubmit }}</strong></a></p>
 
                 <table id="sigtable">
                   <thead>

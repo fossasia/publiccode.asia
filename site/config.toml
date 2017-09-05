@@ -76,22 +76,22 @@ DefaultContentLanguage = "en"
 [params.action]
   headline = "Tell Your Representatives!"
   subheadline = "We demand: **„Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.“**"
-  description = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [Open Letter](/openletter). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  description = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [Open Letter](openletter/). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
   formName = "Name (required)"
   formEmail = "Email (required)"
   formCountry = "Your Country"
   formZip = "ZIP Code"
   formComment = "Your comment (max. 140 characters)"
-  formPermissionPriv = "I have read and accepted the [privacy statement](/privacy)"
+  formPermissionPriv = "I have read and accepted the [privacy statement](privacy/)"
   formPermissionNews = "I want to stay informed about the future of this campaign"
-  formPermissionPub = "I want my signature to appear in the [list of signatures](/openletter#signatures)"
+  formPermissionPub = "I want my signature to appear in the [list of signatures](openletter/#signatures)"
   formSubmit = "Sign Now!"
 
 
 # Organisations section
 [params.organisations]
   headline = "Supporting Organisations"
-  text = "Following organisations support our [Open Letter](/openletter). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+  text = "Following organisations support our [Open Letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
 
 
 # # Resources boxes section
