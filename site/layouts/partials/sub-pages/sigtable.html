@@ -13,6 +13,7 @@
                 <p class="text-faded">{{ .Site.Params.subpage.signatures.description | markdownify }} 
                 <a href="{{ "#action" | relLangURL }}"><strong>{{ .Site.Params.action.formSubmit }}</strong></a></p>
 
+                <!-- If you change something here, also change layouts/shortcodes/show_signature.html -->
                 <table id="sigtable">
                   <thead>
                     <tr>
@@ -34,6 +35,8 @@
                     {{ end }}
                   </tbody>
                 </table>
+
+                <p class="text-faded">{{ .Site.Params.subpage.signatures.allSignatures | markdownify }}</p>
             </div>
         </div>
     </div>

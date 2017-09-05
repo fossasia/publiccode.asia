@@ -206,6 +206,7 @@ p.form-pe a {
 table#sigtable {
   display: table;
   width: 100%;
+  margin-bottom: 20px;
 }
 table#sigtable thead, table#sigtable tbody {
   width: 100%;

@@ -1,0 +1,22 @@
+<!-- If you change something here, also change layouts/partial/sub-pages/sigtable.html -->
+<table id="sigtable">
+  <thead>
+    <tr>
+      <th>{{ $.Page.Params.tableName }}</th>
+      <th>{{ $.Page.Params.tableCountry }}</th>
+      <th>{{ $.Page.Params.tableComment }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ $json := getJSON "data/signatures/signatures.json" }}
+    {{ $json := where $json "include_vars.permissionPub" "yes" }}
+
+    {{ range sort $json "timestamp" "desc" }}
+       <tr>
+          <td>{{ .include_vars.name }}</td>
+          <td>{{ .include_vars.country }}</td>
+          <td>{{ .include_vars.comment }}</td>
+       </tr>
+    {{ end }}
+  </tbody>
+</table>

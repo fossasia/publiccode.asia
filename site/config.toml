@@ -150,7 +150,8 @@ DefaultContentLanguage = "en"
 [params.subpage]
 [params.subpage.signatures]
   headline = "Individual Open Letter Signatures"
-  description = "Following people have signed the letter already and agreed to have their signature be public. Will you be the next?"
+  description = "Below you find the recent signatures of people who agreed to have their signature be public. Will you be the next?"
+  allSignatures = "Have a look at [all public signatures](all-signatures/)."
 
 
 # === TRANSLATIONS ===
