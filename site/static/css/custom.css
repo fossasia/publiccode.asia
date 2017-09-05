@@ -213,15 +213,11 @@ table#sigtable td:nth-child(3), table#sigtable th:nth-child(3) {
   width: 50%;
 }
 table#sigtable thead {
-  overflow-y: scroll;
   display: table;
-  width: calc(100% - 16px);
-  background-color: rgba(230, 230, 230, 0.2);
+  background-color: rgba(230, 230, 230, 0.3);
 }
-table#sigtable tbody {
-  overflow: auto;
-  max-height: 250px;
-  display: block;
+table#sigtable th {
+  text-transform: uppercase;
 }
 table#sigtable tr {
   width: 100%;
