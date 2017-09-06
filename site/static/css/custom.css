@@ -345,3 +345,18 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
   padding: 20px 30px;
   font-style: italic;
 }
+
+/* FLOATING SIGNATURE BOX */
+#special-box {
+  position: fixed;
+  top: 50px;
+  left: 0px;
+  background: rgba(255,255,255,0.8);
+  max-width: 250px;
+  padding: 10px;
+  border-radius: 0px 0px 15px 0px;
+  text-align: center;
+}
+#special-box a {
+  
+}
