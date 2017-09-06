@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -14,13 +15,35 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r"
-   sodipodi:docname="favicon.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="favicon_pmpc.svg"
    inkscape:export-filename="/home/max/Dokumente/FSFE/PublicMoney/pmpc-website/site/static/favicon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient832">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient832"
+       id="linearGradient834"
+       x1="6.2867145"
+       y1="26.193772"
+       x2="13.821618"
+       y2="26.193772"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,10 +52,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-10.780188"
-     inkscape:cy="11.511067"
+     inkscape:cx="-42.208759"
+     inkscape:cy="68.653924"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
@@ -70,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,17 +114,16 @@
        id="rect4485-3-6"
        width="33.866665"
        height="15.345834"
-       x="0"
+       x="3.1789146e-08"
        y="263.13333" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="font"
-     sodipodi:insensitive="true">
+     inkscape:label="font">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.9416132px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49452603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:15.9416132px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient834);stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="4.7844043"
        y="31.883869"
        id="text4529-3"><tspan
@@ -109,32 +131,32 @@
          id="tspan4527-6"
          x="4.7844043"
          y="31.883869"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:1.49452603px">P</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1">P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49452603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4.7844043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="4.2552376"
        y="13.363026"
        id="text4529-3-7"><tspan
          sodipodi:role="line"
          id="tspan4527-6-5"
-         x="4.7844043"
+         x="4.2552376"
          y="13.363026"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:1.49452603px">P</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">P</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49452603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="16.452736"
+       style="font-style:normal;font-weight:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="15.92357"
        y="13.363027"
        id="text4529-3-3"><tspan
          sodipodi:role="line"
          id="tspan4527-6-56"
-         x="16.452736"
+         x="15.92357"
          y="13.363027"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:1.49452603px">M</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">M</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49452603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:15.94161415px;line-height:37.36315155px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="18.550522"
        y="31.887762"
        id="text4529-3-2"><tspan
@@ -142,6 +164,6 @@
          id="tspan4527-6-9"
          x="18.550522"
          y="31.887762"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:1.49452603px">C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1">C</tspan></text>
   </g>
 </svg>
