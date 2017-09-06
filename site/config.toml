@@ -13,7 +13,7 @@ DefaultContentLanguage = "en"
   url = "https://publiccode.eu"
 
 [params.sharemeta]
-  previewImage = "img/header.jpg"
+  previewImage = "img/share-graphics/imagine.jpg"
   fbPageID = "336939393138306"
   twitterUser = "@fsfe"
 
