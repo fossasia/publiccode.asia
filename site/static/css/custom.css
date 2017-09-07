@@ -346,3 +346,24 @@ a:not(.btn):not(.hiddenlink):hover::before, a:not(.btn):not(.hiddenlink):focus::
   padding: 20px 30px;
   font-style: italic;
 }
+
+/* FLOATING SIGNATURE BOX */
+#action-box {
+  position: fixed;
+  top: 60px;
+  left: 0px;
+  background: rgba(64,166,46,0.8);
+  color: #fff;
+  max-width: 250px;
+  padding: 10px;
+  border-radius: 0px 15px 15px 0px;
+  border: 1px solid #2F7423;
+  border-left: none;
+  text-align: center;
+  font-size: 1.1em;
+}
+@media screen and (max-width: 767px) {
+  #action-box {
+    display: none;
+  }
+}

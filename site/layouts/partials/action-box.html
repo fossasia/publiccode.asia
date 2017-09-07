@@ -1,0 +1,4 @@
+{{ "<!-- ACTION BOX -->" | safeHTML }}
+<a href="#action" id="action-box" class="hiddenlink page-scroll wow bounceInDown" data-wow-delay="1s">
+{{ replace .Site.Params.action.box.text "$INDS" (partial "functions/count_organisations.html" .) | markdownify }}
+</a>
