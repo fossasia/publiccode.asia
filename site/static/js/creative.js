@@ -40,11 +40,11 @@
 
 })(jQuery); // End of use strict
 
-function changeTitle(val){
+function changeTitlespread(val){
     document.getElementById('sharetitle-spread').value = val;
     return true;
 }
-function changeTitleSide(val){
+function changeTitleside(val){
     document.getElementById('sharetitle-side').value = val;
     return true;
 }

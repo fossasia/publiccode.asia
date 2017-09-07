@@ -1,28 +1,7 @@
 {{ "<!-- SHARE COLUMN -->" | safeHTML }}
-{{ $data := index .Site.Data.share .Site.Language.Lang }}
 <div class="sharecolumn">
-  
-<form action="/share" method="GET" class="share-buttons side" target="_blank">
-  <input name="popup" id="no-share-popup-side" type="radio" />
-  <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="{{ .Site.Params.static.url }}" type="hidden" />
-  <input id="sharetitle-side" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
-  <input class="n" name="website" placeholder="Please do not put anything here" />
-  
-  {{ range $data }}
-    {{ if eq .userinput true }}
-      <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-side">&nbsp;</label>
-        <input name="popup" id="{{ .id }}-share-side" type="radio" />
-        <span class="popup {{ .id }}">
-          <label for="no-share-popup-side"></label>
-          <input name="{{ .id }}pod" value="" placeholder="{{ .name }} URL ({{ .id }}.tld)" type="text" />
-          <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">OK</button>
-        </span>
-    {{ end }}
-    {{ if ne .userinput true }}
-      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">&nbsp;</button>
-    {{ end }}
-  {{ end }}
-</form>
+
+{{ $data := index .Site.Data.share .Site.Language.Lang }}
+{{ partial "functions/share_buttons.html" (dict "type" "side" "defaultSocialText" .Site.Params.spread.defaultSocialText "url" .Site.Params.static.url "data" $data) }}
 
 </div>
