@@ -1,5 +1,7 @@
-id: diaspora
-name: Diaspora
 titleBefore: Share on
 titleAfter: 
+
+# Do not translate below here
+id: diaspora
+name: Diaspora
 userinput: true
