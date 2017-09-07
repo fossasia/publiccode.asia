@@ -25,7 +25,6 @@ else {
   
   if ($service === "diaspora") {
     $diasporapod = validateurl($diasporapod);
-    echo $diasporapod;
     header("Location: " . $diasporapod . "/bookmarklet?url=" . $url . "&title=" . $title);
     die();
   } elseif($service === "gnusocial") {
