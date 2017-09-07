@@ -1,11 +1,15 @@
 #!/bin/bash
 
 basedir="${0%/*}/.."
-sigdb="$1"
+cd "$basedir"
+mode=$1
 
-# Clean signatures database
-# "$basedir/build/clean_database.py" "$sigdb" "$basedir/data/signatures/data/signatures_clean.json"
+# Unite static and language-specific config files to a single file
+cat config-static.toml languages/strings.*.toml > config.toml
 
 # Execute hugo buildrun
-cd "$basedir"
-hugo
+if [ "$mode" == "server" ]; then
+  hugo server
+else
+  hugo
+fi

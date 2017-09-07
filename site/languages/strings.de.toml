@@ -1,16 +1,18 @@
+# == GERMAN ==
+
 # General strings
 [Languages.de]
+  languageCode  = "de"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Deutsch"  # verbose name of language (e.g. "Français" or "Русский")
   description   = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
-  languageCode  = ""  # 2-letter code of language (ISO 639-1)
-  languageName  = ""  # verbose name of language (e.g. "Français" or "Русский")
-  fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."
+  fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."   # https://fsfe.org/about/mission.html may help you with translations
 
 
 # Navigation
 [Languages.de.navigation]
 [Languages.de.navigation.links]
   start     = "Start"
-  about     = "About"
+  about     = "Über"
   arguments = "Arguments"
   action    = "Take Action"
   spread    = "Spread"
@@ -38,19 +40,19 @@
   followup    = "Do you believe that Free Software must be the default option for publicly financed software? **Then let's convince your political representatives!**"
   buttonText  = "Sign the Open Letter"
 [[Languages.de.arguments.list]]
-  icon        = "fa-eur"
+  icon        = "fa-eur"  # <-- do not translate this
   title       = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
 [[Languages.de.arguments.list]]
-  icon        = "fa-handshake-o"
+  icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Collaboration"
   description = "Efforts on major projects can be joint to share expertise and costs."  
 [[Languages.de.arguments.list]]
-  icon        = "fa-users"
+  icon        = "fa-users"  # <-- do not translate this
   title       = "Serving the public"
   description = "Applications paid by the public should be available for everyone."
 [[Languages.de.arguments.list]]
-  icon        = "fa-lightbulb-o"
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "Fostering innovation"
   description = "With transparent processes others don't have to reinvent the wheel."
 
