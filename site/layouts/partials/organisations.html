@@ -8,9 +8,9 @@
         <p>{{ replace .Site.Params.organisations.text "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
         <div class="orgs">
           <ul>
-            {{ range .Site.Data.signees }}
+            {{ range .Site.Data.organisations }}
               {{ range sort . "name" }}
-                  <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/signees/{{ .img }})" target="_blank"></a></li>
+                  <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a></li>
               {{ end }}
             {{ end }}
           </ul>
