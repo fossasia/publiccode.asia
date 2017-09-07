@@ -16,7 +16,6 @@
   arguments = "Arguments"
   action    = "Take Action"
   spread    = "Spread"
-  language  = "Language"
 
 
 # Start banner
@@ -117,5 +116,4 @@
   headline      = "Individual Open Letter Signatures"
   description   = "Below you find the recent signatures of people who agreed to have their signature be public. Will you be the next?"
   allSignatures = "Have a look at [all public signatures](all-signatures/)."
-
 
