@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
   url         = "https://publiccode.eu"
   slogan_1    = "Public Money"
   slogan_2    = "Public Code"
-  promoLink   = "https://fsfe.org/promo#pmpc" 
+  promoLink   = "https://fsfe.org/promo#pmpc"
 [params.static.meta]
   author        = "Free Software Foundation Europe (FSFE)"
   previewImage  = "img/share-graphics/imagine.jpg"

@@ -3,15 +3,15 @@
     <div class="header-content">
         <div class="header-content-inner">
             <div class="logo">
-                <img src="/img/logo.svg" alt="{{ .Site.Params.start.slogan_1 }}, {{ .Site.Params.start.slogan_2 }}" />
+                <img src="/img/logo.svg" alt="{{ .Site.Params.static.slogan_1 }}, {{ .Site.Params.static.slogan_2 }}" />
                 <h1 id="start">
-                    <span class="logo-blue">{{ .Site.Params.start.slogan_1 }}</span>
-                    <span class="logo-green">{{ .Site.Params.start.slogan_2 }}</span>
+                    <span class="logo-blue">{{ .Site.Params.static.slogan_1 }}</span>
+                    <span class="logo-green">{{ .Site.Params.static.slogan_2 }}</span>
                 </h1>
                 {{ with .Site.Params.start.fsfe }}<h2 id="start">{{ . }}</h2>{{ end }}
             </div>
 
-            {{ if and .Site.Params.start.slogan_1 .Site.Params.start.subtitle1 }}
+            {{ if and .Site.Params.static.slogan_1 .Site.Params.start.subtitle1 }}
                 <hr />
             {{ end }}
             <p>{{ with .Site.Params.start.subtitle1 }}{{ . | markdownify }}{{ end }}
