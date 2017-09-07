@@ -1,11 +1,8 @@
 ---
-title: OffenerBrief
+title: Offener Brief
 type: page
 layout: subpage
 sigtable: true
-tableName: Name
-tableCountry: Land
-tableComment: Kommentar
 ---
 
 Öffentlich finanzierte Software muss [Freie Software/Open Source][fs] sein. Es gibt zwar viele triftige Gründe dafür, aber viele Politiker sind sich der Bedeutung von Software noch nicht vollends bewusst.
