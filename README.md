@@ -1,5 +1,7 @@
 # PMPC Web Site
 
+[![Build Status](https://drone.fsfe.org/api/badges/pmpc/website/status.svg)](https://drone.fsfe.org/pmpc/website)
+
 This website is the core of the "Public Money, Public Code" campaign. It is based on [Hugo](https://gohugo.io/), a modern static website generator.
 
 The page is visible at [publiccode.eu](https://publiccode.eu). Please do not spread this URL. The website requires authentication to be visited. Username is `pmpc`, password is `publicmoneypubliccode`. Please do not spread this information to outside people not involved in the website development.
@@ -30,21 +32,21 @@ git clone git@git.fsfe.org:pmpc/website.git     # clone the website to the folde
 
 In the newly created folder `pmpc-website` you'll find all source files the website consists of now. The hugo files are located under `site/`, whereas in the root directory you'll only find files informational files and those relevant for our build process (Drone, Ansible, Docker, Apache).
 
-### Your first modification
+### Translate
 
-For more experienced Git users we recommend the Fork & Pull Request workflow, which you'll also find in the [wiki's Git Guides section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions) (not available yet). However, beginners can also directly commit to the repository which saves them some steps.
+Visit [TRANSLATE.md](https://git.fsfe.org/pmpc/website/src/master/TRANSLATE.md) for detailed instructions how to translate publiccode.eu.
 
-As an example, we will modify the website a bit, review the changes and push them to the repository to make them available to other users and the live website.
+### Build locally
+
+To see a preview of the website you need to have Hugo installed and be able to execute Bash scripts in your command line.
 
 1. Navigate to the website's root directory (in the last example `~/FSFE/PMPC/website/`) and open a terminal window there. Type in `git pull`. This will get the latest changes from the server
-2. After you received the latest version, you can edit the website. For testing purposes, open the file `CONTRIBUTORS.md`, scroll to the very end, and add your name there. No worries, this won't have any visible effect on the website.
-3. In the terminal, execute `cd site/` to navigate in the right directory for hugo's website build.
-4. Now check whether the website looks fine. Execute `hugo server` on your terminal. You will see a link containing `localhost:1313`. Open it and you see a preview of what the website looks like. This will help you to understand whether your changes actually have the effect you wanted.
-5. If you're happy with it, you can execute `hugo`. This will build the website in its final form to the subfolder `public`. Make sure that the output of that command doesn't contain any errors or warnings. Note that your local built won't be sent to the server because it builds the website itself.
-6. Check with `git status` what files have been changed on your side. In this example, you should see the file `../CONTRIBUTORS.md` marked red. This means that the file has been changed but you didn't mark it as to be pushed to the server yet. If there're more files listed, make sure that you actually intended to modify these files!
-7. Add the changed file to the commit queue with `git add ../CONTRIBUTORS.md`. In case you have changed more files, you can also type `git add .` in the repositories root level to add all files at once. With `git status` you should see all files marked green now, which means that they're ready to be committed.
-8. Commit the files with `git commit -m "added myself to the contributors list"`. In the comment after `-m` you should always write something meaningful that helps people to understand what you actually did.
-9. Unlike with SVN, you're not finished yet. You will have to execute `git push` to actually upload the modifications to the server.
+2. In the terminal, execute `cd site/` to navigate in the right directory for hugo's website build. You are now in `~/FSFE/PMPC/website/site/`
+3. In your terminal, execute `./build/build.sh server`. This command will build the website and enable you to browse the result on your computer only. Open [localhost:1313](http://localhost:1313) in your web browser to see it.
+
+If you want to make changes to the official website, please read [our Git guides](https://wiki.fsfe.org/TechDocs/Git). There you'll find out about the necessary commands pull, status, add, commit, or push.
+
+Beginners can directly commit to the repository which saves them some steps, but they have to ask @max.mehl or @jonaso in advance to give them the necessary permission. For more experienced Git users we recommend the Fork & Pull Request workflow, which you'll also find in the [wiki's Git Guides section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions) (not available yet).
 
 
 ## Important file paths
@@ -62,7 +64,8 @@ The website structure is very easy. The most important files and directories are
 - `site/layouts/shortcodes`: HTML/Hugo code which can be important from within a Markdown file
 - `site/public/`: Built files which are used to display the website. Generated by running `hugo`.
 
-## Technical information about building
+
+## Technical information about the online build
 
 The FSFE uses Drone to automatically deploy the PMPC website. The website is
 automatically deployed when there's a push to the master branch of the

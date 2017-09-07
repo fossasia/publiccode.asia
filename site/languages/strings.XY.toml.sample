@@ -3,7 +3,7 @@
 # General strings
 [Languages.XY]
   languageCode  = "xy"  # 2-letter code of language (ISO 639-1)
-  languageName  = ""  # verbose name of language (e.g. "Français" or "Русский")
+  languageName  = "English"  # verbose name of language (e.g. "Français" or "Русский")
   description   = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
   fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."   # https://fsfe.org/about/mission.html may help you with translations
 
@@ -12,7 +12,7 @@
 [Languages.XY.navigation]
 [Languages.XY.navigation.links]
   start     = "Start"
-  about     = "Über"
+  about     = "About"
   arguments = "Arguments"
   action    = "Take Action"
   spread    = "Spread"
