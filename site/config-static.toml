@@ -1,0 +1,21 @@
+baseurl = "/"
+title = "Public Money, Public Code"
+theme = "hugo-creative-theme"
+DefaultContentLanguage = "en"
+
+# Static strings shared by all languages – these are not to be translated!
+[params.static]
+  url         = "https://publiccode.eu"
+  slogan_1    = "Public Money"
+  slogan_2    = "Public Code"
+  promoLink   = "https://fsfe.org/promo#pmpc"
+  language    = "Language"
+
+[params.static.meta]
+  author        = "Free Software Foundation Europe (FSFE)"
+  previewImage  = "img/share-graphics/imagine.jpg"
+  fbPageID      = "336939393138306"
+  twitterUser   = "@fsfe"
+
+# === TRANSLATIONS ===
+[Languages]

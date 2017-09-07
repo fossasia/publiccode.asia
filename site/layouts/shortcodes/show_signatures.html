@@ -2,9 +2,9 @@
 <table id="sigtable">
   <thead>
     <tr>
-      <th>{{ $.Page.Params.tableName }}</th>
-      <th>{{ $.Page.Params.tableCountry }}</th>
-      <th>{{ $.Page.Params.tableComment }}</th>
+      <th>{{ .Site.Params.subpage.signatures.tableName }}</th>
+      <th>{{ .Site.Params.subpage.signatures.tableCountry }}</th>
+      <th>{{ .Site.Params.subpage.signatures.tableComment }}</th>
     </tr>
   </thead>
   <tbody>

@@ -11,15 +11,15 @@
                 <form action="https://forms.fsfe.org/email" method="post">
                   <input name="appid" type="hidden" value="pmpc-sign" />
                   <label class="sign-input form-na">
-                    <input name="name" placeholder="{{ .Site.Params.action.formName }}" type="text" required />
+                    <input name="name" placeholder="{{ .Site.Params.action.form.name }}" type="text" required />
                   </label>
                   <label class="sign-input form-em">
-                    <input name="confirm" placeholder="{{ .Site.Params.action.formEmail }}" type="email" required />
+                    <input name="confirm" placeholder="{{ .Site.Params.action.form.email }}" type="email" required />
                   </label>
                   <br />
                   <label class="sign-input form-cn">
                     <select name="country">
-                      <option value="">{{ .Site.Params.action.formCountry }}</option>
+                      <option value="">{{ .Site.Params.action.form.country }}</option>
                       <option value="Austria">Austria</option>
                       <option value="Belgium">Belgium</option>
                       <option value="Bulgaria">Bulgaria</option>
@@ -52,22 +52,22 @@
                     </select>
                   </label>
                   <label class="sign-input form-zp">
-                    <input name="zip" placeholder="{{ .Site.Params.action.formZip }}" type="text" />
+                    <input name="zip" placeholder="{{ .Site.Params.action.form.zip }}" type="text" />
                   </label>
                   <label class="sign-input form-co">
-                    <input name="comment" placeholder="{{ .Site.Params.action.formComment }}" type="text" maxlength="140" />
+                    <input name="comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
                   </label>
                   <p class="form-pe">
                     <label class="form-pe">
-                      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.formPermissionPriv | markdownify }}
+                      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.form.permPriv | markdownify }}
                     </label>
                     <br />
                     <label class="form-pe">
-                      <input name="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.formPermissionNews }}
+                      <input name="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.form.permNews | markdownify }}
                     </label>
                     <br />
                     <label class="form-pe">
-                      <input name="permissionPub" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.formPermissionPub | markdownify}}
+                      <input name="permissionPub" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.form.permPub | markdownify}}
                     </label>
                   </p>
                   
@@ -76,7 +76,7 @@
                     <input name="url" type="text" />
                   </label>
                   <br />
-                  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">{{ .Site.Params.action.formSubmit }}</button>
+                  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">{{ .Site.Params.action.form.submit }}</button>
                 </form>
             </div>
         </div>

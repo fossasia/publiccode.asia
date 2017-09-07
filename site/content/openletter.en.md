@@ -3,9 +3,6 @@ title: Open Letter
 type: page
 layout: subpage
 sigtable: true
-tableName: Name
-tableCountry: Country
-tableComment: Comment
 ---
 
 Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for that, many politicians don't know about them yet.
