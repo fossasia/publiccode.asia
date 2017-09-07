@@ -1,5 +1,5 @@
 {{ "<!-- SHARE COLUMN -->" | safeHTML }}
-{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $data := index .Site.Data.share .Site.Language.Lang }}
 <div class="sharecolumn">
   
 <form action="/share" method="GET" class="share-buttons side" target="_blank">
@@ -9,7 +9,7 @@
   <input id="sharetitle-side" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
-  {{ range $data.share }}
+  {{ range $data }}
     {{ if eq .userinput true }}
       <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-side">&nbsp;</label>
         <input name="popup" id="{{ .id }}-share-side" type="radio" />
@@ -19,9 +19,6 @@
           <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">OK</button>
         </span>
     {{ end }}
-  {{ end }}
-  
-  {{ range $data.share }}
     {{ if ne .userinput true }}
       <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitleSide('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">&nbsp;</button>
     {{ end }}

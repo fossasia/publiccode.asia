@@ -1,5 +1,5 @@
 {{ "<!-- SPREAD -->" | safeHTML }}
-{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $data := index .Site.Data.share .Site.Language.Lang }}
 <section id="spread" class="bg-dark">
     <div class="container">
         <div class="row">
@@ -26,7 +26,7 @@
                   <input id="sharetitle-spread" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
                   <input class="n" name="website" placeholder="Please do not put anything here" />
                   
-                  {{ range $data.share }}
+                  {{ range $data }}
                     {{ if eq .userinput true }}
                       <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-spread">{{ .name }}</label>
                         <input name="popup" id="{{ .id }}-share-spread" type="radio" />
@@ -36,13 +36,11 @@
                           <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitle('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">OK</button>
                         </span>
                     {{ end }}
-                  {{ end }}
-                  
-                  {{ range $data.share }}
                     {{ if ne .userinput true }}
                       <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle('{{if isset . "customText"}}{{.customText}}{{else}}{{$.Site.Params.spread.defaultSocialText}}{{end}}')">{{ .name }}</button>
                     {{ end }}
                   {{ end }}
+
                 </form>
               </div>
             </div>
