@@ -15,7 +15,7 @@ to be a programmer to get Git working for you :)
 What you should have:
 
 - An account on git.fsfe.org
-- Know how to clone, pull, commit, and push with Git
+- Know how to clone, pull, commit, and push with Git (read the [general Git guides](https://wiki.fsfe.org/TechDocs/Git) and/or the [typical Git workflow](https://wiki.fsfe.org/TechDocs/Mainpage/Editing#Edit_and_push_files_to_the_website))
 - Optional: Hugo installed on your computer
 - Optional: The ability to run Bash scripts from command line
 
