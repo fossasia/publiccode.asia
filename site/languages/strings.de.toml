@@ -1,0 +1,118 @@
+# == GERMAN ==
+
+# General strings
+[Languages.de]
+  languageCode  = "de"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Deutsch"  # verbose name of language (e.g. "Français" or "Русский")
+  description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie Software veröffentlicht wird"
+  fsdefinition  = "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."   # https://fsfe.org/about/mission.html may help you with translations
+
+
+# Navigation
+[Languages.de.navigation]
+[Languages.de.navigation.links]
+  start     = "Start"
+  about     = "Über"
+  arguments = "Argumente"
+  action    = "Werde aktiv"
+  spread    = "Weitersagen"
+
+
+# Start banner
+[Languages.de.start]
+  subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
+  subtitle2  = "We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
+  subtitle3  = "**Code paid by all people should be available to all people!**" 
+
+
+# About section
+[Languages.de.about]
+  headline    = "Sounds complex? No, it's super easy!"
+  buttonText  = "More advantages"
+
+
+# Arguments section
+[Languages.de.arguments]
+  headline    = "Reasons for Public Code"
+  followup    = "Do you believe that Free Software must be the default option for publicly financed software? **Then let's convince your political representatives!**"
+  buttonText  = "Sign the Open Letter"
+[[Languages.de.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Tax savings"
+  description = "Similar applications don't have to be programmed from scratch every time."
+[[Languages.de.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Collaboration"
+  description = "Efforts on major projects can be joint to share expertise and costs."  
+[[Languages.de.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Serving the public"
+  description = "Applications paid by the public should be available for everyone."
+[[Languages.de.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Fostering innovation"
+  description = "With transparent processes others don't have to reinvent the wheel."
+
+
+# Action section
+[Languages.de.action]
+  headline      = "Tell Your Representatives!"
+  subheadline   = "We demand: **„Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.“**"
+  description   = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [Open Letter](openletter/). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  
+[Languages.de.action.form]
+  name      = "Name (required)"
+  email     = "Email (required)"
+  country   = "Your Country"
+  zip       = "Zip Code"
+  comment   = "Your comment (max. 140 characters)"
+  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
+  permNews  = "I want to stay informed about the future of this campaign"
+  permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
+  submit    = "Sign Now!"
+
+
+# Organisations section
+[Languages.de.organisations]
+  headline  = "Supporting Organisations"
+  text      = "Following organisations support our [Open Letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+
+
+# Spread the word section
+[Languages.de.spread]
+  headline          = "Spread the word!"
+  promoText         = "Order the latest stickers and flyers from FSFE"
+  promoButtonText   = "Get promo material"
+  shareText         = "Tell your friends and followers about Public Code:"
+  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
+
+
+# Legal Section
+[Languages.de.legal]
+  by            = "This is a campaign by Free Software Foundation Europe"
+  imprint       = "Imprint"
+  privacy       = "Privacy"
+  transparency  = "Transparency"
+  contribute1   = "The code of this website is Free Software." 
+  contribute2   = "You're welcome to contribute!"
+  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.de.language]
+  description = "Read this page in another language"
+
+
+# 404 Error Page
+[Languages.de.error]
+  headline    = "Error 404 - Page not found"
+  description = "The page you're looking for does not exist."
+  button      = "Back to start page"
+
+
+# Specific sub-pages
+[Languages.de.subpage]
+[Languages.de.subpage.signatures]
+  headline      = "Individual Open Letter Signatures"
+  description   = "Below you find the recent signatures of people who agreed to have their signature be public. Will you be the next?"
+  allSignatures = "Have a look at [all public signatures](all-signatures/)."

@@ -10,7 +10,7 @@
               {{ with .Site.Params.spread.promoText }}
                   <p class="text-faded">{{ . | markdownify }}</p>
               {{ end }}
-                  <a href="{{ .Site.Params.spread.promoButtonLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ .Site.Params.spread.promoButtonText }}</a>
+                  <a href="{{ .Site.Params.static.promoLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ .Site.Params.spread.promoButtonText }}</a>
               <hr class="light">
               {{ with .Site.Params.spread.shareText }}
                   <p class="text-faded">{{ . | markdownify }}</p>
@@ -22,7 +22,7 @@
                 <form action="/share" method="GET" class="share-buttons spread" target="_blank">
                   <input name="popup" id="no-share-popup-spread" type="radio" />
                   <input name="ref" value="pmpc-spread" type="hidden" />
-                  <input name="url" value="{{ .Site.Params.url }}" type="hidden" />
+                  <input name="url" value="{{ .Site.Params.static.url }}" type="hidden" />
                   <input id="sharetitle-spread" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
                   <input class="n" name="website" placeholder="Please do not put anything here" />
                   

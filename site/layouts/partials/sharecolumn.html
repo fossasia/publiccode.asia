@@ -5,7 +5,7 @@
 <form action="/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="{{ .Site.Params.url }}" type="hidden" />
+  <input name="url" value="{{ .Site.Params.static.url }}" type="hidden" />
   <input id="sharetitle-side" name="title" value="{{ .Site.Params.spread.defaultSocialText }}" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
