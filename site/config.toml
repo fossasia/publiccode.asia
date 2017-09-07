@@ -3,6 +3,19 @@ title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
 
+# Static strings shared by all languages
+[params.static]
+  url         = "https://publiccode.eu"
+  slogan_1    = "Public Money"
+  slogan_2    = "Public Code"
+  promoLink   = "https://fsfe.org/promo#pmpc" 
+[params.static.meta]
+  author        = "Free Software Foundation Europe (FSFE)"
+  previewImage  = "img/share-graphics/imagine.jpg"
+  fbPageID      = "336939393138306"
+  twitterUser   = "@fsfe"
+
+
 # General strings
 [params]
   languageCode  = "en"
@@ -10,13 +23,6 @@ DefaultContentLanguage = "en"
   description   = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
   # For translation fsdefinition, https://fsfe.org/about/mission.html may help you
   fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."
-  author        = "Free Software Foundation Europe (FSFE)"
-  url           = "https://publiccode.eu"
-
-[params.sharemeta]
-  previewImage  = "img/share-graphics/imagine.jpg"
-  fbPageID      = "336939393138306"
-  twitterUser   = "@fsfe"
 
 
 # Navigation
@@ -32,11 +38,9 @@ DefaultContentLanguage = "en"
 
 # Start banner
 [params.start]
-  slogan_1   = "Public Money"
-  slogan_2   = "Public Code"
-  subtitle1  = "Why is software that is programmed with taxpayers' money not released as Free Software?"
-  subtitle2  = "We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
-  subtitle3  = "**Code paid by all people should be available to all people!**" 
+  subtitle1   = "Why is software that is programmed with taxpayers' money not released as Free Software?"
+  subtitle2   = "We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
+  subtitle3   = "**Code paid by all people should be available to all people!**" 
 
 
 # About section
@@ -97,7 +101,6 @@ DefaultContentLanguage = "en"
   headline          = "Spread the word!"
   promoText         = "Order the latest stickers and flyers from FSFE"
   promoButtonText   = "Get promo material"
-  promoButtonLink   = "https://fsfe.org/promo#pmpc"
   shareText         = "Tell your friends and followers about Public Code:"
   defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
 
