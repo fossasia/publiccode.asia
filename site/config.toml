@@ -44,7 +44,6 @@ DefaultContentLanguage = "en"
 # About section
 [params.about]
   headline    = "Sounds complex? No, it's super easy!"
-  description = "Here could be a short description of the video if we want it. Suggestions welcome!"
   buttonText  = "More advantages"
 
 
