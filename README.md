@@ -42,7 +42,7 @@ To see a preview of the website you need to have Hugo installed and be able to e
 
 1. Navigate to the website's root directory (in the last example `~/FSFE/PMPC/website/`) and open a terminal window there. Type in `git pull`. This will get the latest changes from the server
 2. In the terminal, execute `cd site/` to navigate in the right directory for hugo's website build. You are now in `~/FSFE/PMPC/website/site/`
-3. In your terminal, execute `./build/build.sh server`. This command will build the website and enable you to browse the result on your computer only. Open [localhost:1313](http://localhost:1313) in your web browser to see it.
+3. In your terminal, execute `./build/build.sh server`. This command will build the website and enable you to browse the result on your computer only. Open [localhost:1313](localhost:1313) in your web browser to see it.
 
 If you want to make changes to the official website, please read [our Git guides](https://wiki.fsfe.org/TechDocs/Git). There you'll find out about the necessary commands pull, status, add, commit, or push.
 
