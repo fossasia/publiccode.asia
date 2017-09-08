@@ -54,7 +54,7 @@ relevant for our build process (Drone, Ansible, Docker, Apache).
 Visit [TRANSLATE.md](https://git.fsfe.org/pmpc/website/src/master/TRANSLATE.md)
 for detailed instructions how to translate publiccode.eu.
 
-### Build locally
+### Build
 
 To see a preview of the website you need to have Hugo installed and be able to
 execute Bash scripts in your command line.
@@ -70,17 +70,28 @@ execute Bash scripts in your command line.
    computer only. Open [localhost:1313](localhost:1313) in your web
    browser to see it.
 
-If you want to make changes to the official website, please read [our
-Git guides](https://wiki.fsfe.org/TechDocs/Git). There you'll find out
-about the necessary commands pull, status, add, commit, or push.
+If you want to make changes to the official website, please read [our 
+Git guides](https://wiki.fsfe.org/TechDocs/Git). There you'll find out 
+about the necessary commands `pull`, `status`, `add`, `commit`, and 
+`push`.
 
-Beginners can directly commit to the repository which saves them some
-steps, but they have to ask @max.mehl or @jonas in advance to give them
-the necessary permission. For more experienced Git users we recommend
-the Fork & Pull Request workflow, which you'll also find in the [wiki's
-Git Guides
-section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions)
-(not available yet).
+There are three ways to upload/edit files in the Git repository, sorted
+by preference and complexity:
+1. For more experienced Git users we recommend the Fork & Pull Request
+   workflow, which you'll also find in the [wiki's Git Guides
+   section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions)
+   (not available yet).
+2. Advanced and interested beginners can directly commit to the
+   repository ("push to master") which saves them some steps, but they
+   have to ask @max.mehl or @jonas in advance to give them the necessary
+   permissions. You'll find guides in the [Wiki's Git
+   section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions).
+3. Beginners can work directly in the [web
+   interface](https://git.fsfe.org/pmpc/website) of git.fsfe.org. As
+   soon as you have given write permissions by @max.mehl or @jonas, you
+   can edit opened text files and upload/create new files. This is the
+   least preferred option because it may cause conflicts, but it is easy
+   and may give you some first experience with the system.
 
 
 ## Important file paths
