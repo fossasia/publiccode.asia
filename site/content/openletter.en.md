@@ -22,7 +22,7 @@ This is where you can help! Sign the open letter to give our message more weight
 > We need software that fosters the sharing of good ideas and solutions. Like this we will be able to improve IT services for people all over Europe. We need software that guarantees freedom of choice, access, and competition. We need software that helps public administrations regain full control of their critical digital infrastructure, allowing them to become and remain independent from a handful of companies. That is why we call our representatives to support Free and Open Source Software in public administrations, because:
 > 
 > * Free and Open Source Software is a modern public good that allows everybody to freely use, study, share and improve applications we use on a daily basis.
-> * Free and Open Source Software licences provide safeguards against being locked down to services from specific companies that use restrictive licences to hinder competition.
+> * Free and Open Source Software licences provide safeguards against being locked in to services from specific companies that use restrictive licences to hinder competition.
 > * Free and Open Source Software ensures that the source code is accessible so that backdoors and security holes can be fixed without depending on one service provider.
 > 
 > Public bodies are financed through taxes. They must make sure they spend funds in the most efficient way possible. If it is public money, it should be public code as well!
