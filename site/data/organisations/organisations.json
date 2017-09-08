@@ -80,6 +80,11 @@
     "url": "http://osb-alliance.de"
   },
   {
+    "name": "OpenSUSE",
+    "img": "OpenSUSE.png",
+    "url": "https://www.opensuse.org/"
+  },
+   {
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "url": "https://opensource.org/"
@@ -87,7 +92,7 @@
   {
     "name": "Quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
-    "url": "http://quintessenz.at"
+    "url": "http://quintessenz.at" 
   },
    {
     "name": "Software Liberty Association Taiwan",
