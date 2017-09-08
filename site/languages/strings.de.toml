@@ -2,10 +2,10 @@
 
 # General strings
 [Languages.de]
-  languageCode  = "de"  # 2-letter code of language (ISO 639-1)
-  languageName  = "Deutsch"  # verbose name of language (e.g. "Français" or "Русский")
+  languageCode  = "de"
+  languageName  = "Deutsch"
   description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie Software veröffentlicht wird"
-  fsdefinition  = "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."   # https://fsfe.org/about/mission.html may help you with translations
+  fsdefinition  = "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."
 
 
 # Navigation
@@ -21,105 +21,105 @@
 # Start banner
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
-  subtitle2  = "We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
-  subtitle3  = "**Code paid by all people should be available to all people!**" 
+  subtitle2  = "Wir wollen Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+  subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**" 
 
 
 # About section
 [Languages.de.about]
-  headline    = "Sounds complex? No, it's super easy!"
-  buttonText  = "More advantages"
+  headline    = "Klingt kompliziert? Nö, es ist super einfach!"
+  buttonText  = "Mehr Vorteile"
 
 
 # Arguments section
 [Languages.de.arguments]
-  headline    = "Reasons for Public Code"
-  followup    = "Do you believe that Free Software must be the default option for publicly financed software? **Then let's convince your political representatives!**"
-  buttonText  = "Sign the Open Letter"
+  headline    = "Gründe für Public Code"
+  followup    = "Glaubst du, dass Freie Software die Standardoption für öffentlich finanzierte Software sein sollte? **Dann lasst uns deine Abgeordneten überzeugen!**"
+  buttonText  = "Den Offenen Brief unterzeichnen"
 [[Languages.de.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
-  title       = "Tax savings"
-  description = "Similar applications don't have to be programmed from scratch every time."
+  title       = "Steuereinsparungen"
+  description = "Ähnliche Programme müssen nicht komplett neu programmiert werden."
 [[Languages.de.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
-  title       = "Collaboration"
-  description = "Efforts on major projects can be joint to share expertise and costs."  
+  title       = "Zusammenarbeit"
+  description = "Bei großen Projekten können Expertise und Kosten geteilt werden."  
 [[Languages.de.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
-  title       = "Serving the public"
-  description = "Applications paid by the public should be available for everyone."
+  title       = "Der Allgemeinheit dienen"
+  description = "Von der Allgemeinheit bezahlte Anwendungen sollten allen zur Verfügung stehen."
 [[Languages.de.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
-  title       = "Fostering innovation"
-  description = "With transparent processes others don't have to reinvent the wheel."
+  title       = "Innovationen fördern"
+  description = "Dank transparenter Prozesse müssen andere nicht das Rad neu erfinden."
 
 
 # Action section
 [Languages.de.action]
-  headline      = "Tell Your Representatives!"
+  headline      = "Sag es deinen Abgeordneten!"
   # In "subheadline", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  subheadline   = "We demand: **„Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.“**"
-  description   = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [Open Letter](openletter/). Help us to make an impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  subheadline   = "Wir fordern: **„Erlasst Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird.“**"
+  description   = "**$ORGS Organisationen** und **$INDS Personen** unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Hilf uns, eine Wirkung zu erzielen, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die den Einsatz Freier Software in öffentlichen Verwaltungen diskutieren, überreichen."
 
 [Languages.de.action.box]
-  text      = "Already **$INDS SIGNATURES** – sign the Open Letter now!"
+  text      = "Schon **$INDS UNTERSCHRIFTEN** – jetzt den offenen Brief unterzeichnen!"
 
 [Languages.de.action.form]
-  name      = "Name (required)"
-  email     = "Email (required)"
-  country   = "Your Country"
-  zip       = "Zip Code"
-  comment   = "Your comment (max. 140 characters)"
-  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
-  permNews  = "I want to stay informed about the future of this campaign"
-  permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
-  submit    = "Sign Now!"
+  name      = "Name (Pflichtfeld)"
+  email     = "Email (Pflichtfeld)"
+  country   = "Dein Land"
+  zip       = "PLZ"
+  comment   = "Dein Kommentar (max. 140 Zeichen)"
+  permPriv  = "Ich habe die [Datenschutzerklärung](privacy/) gelesen und akzeptiere sie"
+  permNews  = "Ich möchte über den Verlauf der Kampagne auf dem aktuellen Stand gehalten werden"
+  permPub   = "Meine Unterschrift auf der [Unterschriftenliste](openletter/all-signatures) anzeigen"
+  submit    = "Jetzt unterzeichnen!"
 
 
 # Organisations section
 [Languages.de.organisations]
-  headline  = "Supporting Organisations"
-  text      = "Following organisations support our [Open Letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+  headline  = "Unterstützerorganisationen"
+  text      = "Die folgenden Organisationen unterstützen unseren [offenen Brief](openletter/). Wenn deine Organisation auch sich dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
 [Languages.de.spread]
-  headline          = "Spread the word!"
-  promoText         = "Order the latest stickers and flyers from FSFE"
-  promoButtonText   = "Get promo material"
-  shareText         = "Tell your friends and followers about Public Code:"
-  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
+  headline          = "Weitersagen!"
+  promoText         = "Die neuesten Sticker und Flyer der FSFE bestellen"
+  promoButtonText   = "Infomaterial erhalten"
+  shareText         = "Erzähle deinen Freunden und Followern von Public Code:"
+  defaultSocialText = "Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz: "
 
 
 # Legal Section
 [Languages.de.legal]
   by            = "This is a campaign by Free Software Foundation Europe"
-  imprint       = "Imprint"
-  privacy       = "Privacy"
-  transparency  = "Transparency"
-  contribute1   = "The code of this website is Free Software." 
-  contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+  imprint       = "Impressum"
+  privacy       = "Datenschutz"
+  transparency  = "Transparenz"
+  contribute1   = "Der Code dieser Website ist Freie Software." 
+  contribute2   = "Du kannst selbst dazu beitragen sie zu verbessern."
+  license       = "Diese Seite ist lizensiert unter: [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection
 [Languages.de.language]
-  description = "Read this page in another language"
+  description = "Diese Seite in einer anderen Sprache lesen"
 
 
 # 404 Error Page
 [Languages.de.error]
-  headline    = "Error 404 - Page not found"
-  description = "The page you're looking for does not exist."
-  button      = "Back to start page"
+  headline    = "Error 404 - Seite nicht gefunden"
+  description = "Diese Seite existiert nicht."
+  button      = "Zurück zur Startseite"
 
 
 # Specific sub-pages
 [Languages.de.subpage]
 [Languages.de.subpage.signatures]
-  headline      = "Individual Open Letter Signatures"
-  description   = "Below you find the recent signatures of people who agreed to have their signature be public. Will you be the next?"
-  allSignatures = "Have a look at [all public signatures](all-signatures/)."
+  headline      = "Übersicht der Unterschriften"
+  description   = "Hier sind die Unterschriften von allen, die damit einverstanden waren, ihen Namen zu veröffentlichen. Sei der Nächste!"
+  allSignatures = "[Alle öffentlichen Unterschriften ansehen](all-signatures/)."
   tableName     = "Name"
   tableCountry  = "Land"
   tableComment  = "Kommentar"
