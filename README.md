@@ -78,9 +78,8 @@ about the necessary commands `pull`, `status`, `add`, `commit`, and
 There are three ways to upload/edit files in the Git repository, sorted
 by preference and complexity:
 1. For more experienced Git users we recommend the Fork & Pull Request
-   workflow, which you'll also find in the [wiki's Git Guides
-   section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions)
-   (not available yet).
+   workflow, which you'll also find a detailed [wiki's Git 
+   Guide](https://wiki.fsfe.org/TechDocs/Git/Guide:Workflow) for.
 2. Advanced and interested beginners can directly commit to the
    repository ("push to master") which saves them some steps, but they
    have to ask @max.mehl or @jonas in advance to give them the necessary
