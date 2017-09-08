@@ -1,0 +1,236 @@
+[{
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nHey Max! Lets see if this works.\n\nThank you,\n\nTest Testson\nSweden"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Test Testson",
+		"confirm": "jonas@example.com",
+		"country": "Sweden",
+		"zip": "64632",
+		"comment": "Hey Max! Lets see if this works.",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nHey Max! Lets see if this works, AGAIN!\n\nThank you,\n\nTest Testson 2\nSweden"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Test Testson 2",
+		"confirm": "jonas@example.com",
+		"country": "Sweden",
+		"zip": "64632",
+		"comment": "Hey Max! Lets see if this works, AGAIN!",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nHey Max! Lets see if this works, AGAIN! With timestamp.\n\nThank you,\n\nTest Testson 2\nSweden"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Test Testson 2",
+		"confirm": "jonas@example.com",
+		"country": "Sweden",
+		"zip": "64632",
+		"comment": "Hey Max! Lets see if this works, AGAIN! With timestamp.",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504267755.763549,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nHey Max! Lets see if this works, AGAIN! With timestamp.\n\nThank you,\n\nTest Testson 2\nSweden"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Test Testson 2",
+		"confirm": "jonas@example.com",
+		"country": "Sweden",
+		"zip": "64632",
+		"comment": "Hey Max! Lets see if this works, AGAIN! With timestamp.",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504523661.6949115,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\n\n\nThank you,\n\nMax1\nBelgium"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Max1",
+		"confirm": "mail@example.org",
+		"country": "Belgium",
+		"zip": "12345",
+		"comment": "",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504525516.8869548,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nmail with + and not appear in list\n\nThank you,\n\nMax3\nNetherlands"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Max3",
+		"confirm": "tech+blah@example.org",
+		"country": "Netherlands",
+		"zip": "66816",
+		"comment": "mail with + and not appear in list",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504525520.145522,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nThis is the same email as Max1\n\nThank you,\n\nMax2\nBulgaria"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Max2",
+		"confirm": "mail@example.org",
+		"country": "Bulgaria",
+		"zip": "68168",
+		"comment": "This is the same email as Max1",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504601254.3506515,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nYeah\n\nThank you,\n\nFan\nCzech Republic"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Fan",
+		"confirm": "tech@example.org",
+		"country": "Czech Republic",
+		"zip": "26168",
+		"comment": "Yeah",
+		"permissionPriv": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504601626.4398348,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nTest again\n\nThank you,\n\nTest2\nPortugal"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "Test2",
+		"confirm": "tech+2@example.org",
+		"country": "Portugal",
+		"zip": "6168",
+		"comment": "Test again",
+		"permissionPriv": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504601726.8100023,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nCrazy <3 \"\" symbols ' // %$ \\\n\nThank you,\n\nEdge case\nLuxembourg"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": "HIDDEN",
+		"confirm": "tech@example.org",
+		"country": "Luxembourg",
+		"zip": "51684168",
+		"comment": "Crazy <3 \"\" symbols ' // %$ \\",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"timestamp": 1504601815.3437912,
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\n\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00b8\u00d1\u0086\u00d1\u008b \u00d0\u00bc\u00d0\u00be\u00d0\u00b3 \u00e5\u009f\u009f\u00e5\u0090\u008d\u00e7\u009a\u0084\u00e7\u0094\u00a8\u00e6\u0088\u00b6\u00e4\u00b8\u008d\u00e5\u008f\u0097\u00e9\u0099\u0090\u00e5\u0088\u00b6\n\nThank you,\n\n \u00ce\u0091\u00cf\u0085\u00cf\u0084\u00ce\u00ae \u00ce\u00b7 \u00cf\u0083\u00ce\u00b5\u00ce\u00bb\u00ce\u00af\u00ce\u00b4\u00ce\u00b1\n"
+	},
+	"reply-to": null,
+	"include_vars": {
+		"name": " \u00ce\u0091\u00cf\u0085\u00cf\u0084\u00ce\u00ae \u00ce\u00b7 \u00cf\u0083\u00ce\u00b5\u00ce\u00bb\u00ce\u00af\u00ce\u00b4\u00ce\u00b1",
+		"confirm": "mail@example.org",
+		"country": "",
+		"zip": "56165",
+		"comment": "\u00d1\u0081\u00d1\u0082\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00b8\u00d1\u0086\u00d1\u008b \u00d0\u00bc\u00d0\u00be\u00d0\u00b3 \u00e5\u009f\u009f\u00e5\u0090\u008d\u00e7\u009a\u0084\u00e7\u0094\u00a8\u00e6\u0088\u00b6\u00e4\u00b8\u008d\u00e5\u008f\u0097\u00e9\u0099\u0090\u00e5\u0088\u00b6",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}]
