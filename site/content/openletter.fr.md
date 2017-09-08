@@ -15,7 +15,7 @@ C'est là que vous pouvez nous aider ! Signez la lettre ouverte pour donner plus
 
 > ## Argent Public ? Code Public !
 >
-> Les services numériques offerts et utilisés par nos administrations publiques sont les infrastructures critiques du 21e siècle des nations démocratiques. Afin d’établir des systèmes fiables, les institutions publiques doivent faire en sorte d’avoir le contrôle entier du logiciel et des systèmes informatiques au cœur de notre infrastructure numérique d’État. Ce n’est pourtant pas le cas actuellement pour des raisons de licences logicielles restrictives qui: 
+> Les services numériques offerts et utilisés par nos administrations publiques sont les infrastructures critiques du 21e siècle des nations démocratiques. Afin d’établir des systèmes fiables, les institutions publiques doivent faire en sorte d’avoir le contrôle entier du logiciel et des systèmes informatiques au cœur de notre infrastructure numérique étatiques. Ce n’est pourtant pas le cas actuellement pour des raisons de licences logicielles restrictives qui: 
 >
 > * Interdisent le partage et l’échange du code financé par le contribuable. Cela empêche la coopération entre les administrations publiques et ralentit tout développement ultérieur.
 > * Soutiennent des monopoles et sont une entrave à la concurrence. En conséquence, de nombreuses administrations deviennent dépendantes d’une poignée d’entreprises. 
