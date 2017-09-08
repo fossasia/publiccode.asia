@@ -4,7 +4,7 @@
 
   tasks:
     - name: build the pmpc container
-      command: docker build --no-cache=true -t pmpc https://git.fsfe.org/pmpc/website.git
+      command: docker build -t pmpc https://git.fsfe.org/pmpc/website.git
 
     - name: run pmpc
       docker_container:
