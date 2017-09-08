@@ -65,7 +65,10 @@ execute Bash scripts in your command line.
 2. In the terminal, execute `cd site/` to navigate in the right
    directory for hugo's website build. You are now in
    `~/FSFE/PMPC/website/site/`
-3. In your terminal, execute `./build/build.sh server`. This command
+3. Only if you added a new languages which doesn't exist on the website yet:
+   Add you 2-letter language code in line 4 of the [build.sh
+   file](https://git.fsfe.org/pmpc/website/src/master/site/build/build.sh#L4).
+4. In your terminal, execute `./build/build.sh server`. This command
    will build the website and enable you to browse the result on your
    computer only. Open [localhost:1313](localhost:1313) in your web
    browser to see it.
