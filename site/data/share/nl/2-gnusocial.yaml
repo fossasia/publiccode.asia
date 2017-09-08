@@ -1,0 +1,10 @@
+titleBefore: Deel op
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Als het publiek geld is, dan moet het ook publieke code zijn! Ik steun @fsfe@quitter.no's eis voor #publiccode: "
+
+# Do not translate below here
+id: gnusocial
+name: GNU Social
+userinput: true
+
