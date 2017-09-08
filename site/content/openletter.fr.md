@@ -3,7 +3,6 @@ title: Lettre ouverte
 type: page
 layout: subpage
 sigtable: true
-
 ---
 
 Les logiciels financés par les fonds publics doivent être des [Logiciels Libres/Open Source][fs]. Bien que de nombreuses raisons puissent le justifier, beaucoup de responsables politiques ne sont pas encore conscients de l'intérêt des logiciels.
