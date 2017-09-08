@@ -15,7 +15,10 @@ to be a programmer to get Git working for you :)
 What you should have:
 
 - An account on git.fsfe.org
-- Know how to clone, pull, commit, and push with Git (read the [general Git guides](https://wiki.fsfe.org/TechDocs/Git) and/or the [typical Git workflow](https://wiki.fsfe.org/TechDocs/Mainpage/Editing#Edit_and_push_files_to_the_website))
+- Know how to clone, pull, commit, and push with Git (read the [general
+  Git guides](https://wiki.fsfe.org/TechDocs/Git) and/or the [typical
+  Git
+  workflow](https://wiki.fsfe.org/TechDocs/Mainpage/Editing#Edit_and_push_files_to_the_website))
 - Optional: Hugo installed on your computer
 - Optional: The ability to run Bash scripts from command line
 
@@ -78,16 +81,25 @@ logos, and other communication is using this brand. So if you can, just stick
 to the English term.
 
 
-## Finished? What's next
+## Where to upload the translations?
 
-Before submitting the translations you can test them locally if you have Hugo
-installed and are able to execute Bash scripts on your command line. Please
-refer to README.me for instructions.
+**Before submitting** the translations you can test them locally if you
+have Hugo installed and are able to execute Bash scripts on your command
+line. Please refer to [build section in
+README.me](https://git.fsfe.org/pmpc/website/src/master/README.md#build)
+for instructions.
 
-You're welcome to work with the Git repository to upload your translations. If
-you feel confident enough with Git, please open a pull request of a separate
-branch in this repository or your fork. @max.mehl can help you if you have
-questions or lack permissions.
+You're welcome to work with the Git repository to upload your
+translations. If you feel confident enough with Git, please open a pull
+request of a separate branch in this repository or your fork. @max.mehl
+can help you if you have questions or lack permissions.
+
+For Git, there are three ways which are explained in the aforementioned
+build README section:
+1. Git Pull Requests from your repository forks 
+2. Git pushes to the central master branch (requires write access)
+3. Edit the files directly in the git.fsfe.org web interface (requires
+   write access)
 
 If you are unsure, you can also send the translations to [FSFE's translators
 list](https://lists.fsfe.org/mailman/listinfo/translators) to let them
