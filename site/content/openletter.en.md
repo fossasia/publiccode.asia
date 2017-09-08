@@ -5,11 +5,11 @@ layout: subpage
 sigtable: true
 ---
 
-Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for that, many politicians don't know about them yet.
+Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for this, many politicians don't know about them yet.
 
 {{< fsdefinition type="box">}}
 
-That's where you can help! Sign the open letter to give our message more weight, like **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** before you did. We will hand over the letter and signatures to your representatives and make sure that they understand: Public Money? Public Code!
+This is where you can help! Sign the open letter to give our message more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. We will hand over the letter and signatures to your representatives and make sure that they understand that: Public Money? Public Code!
 
 > ## Public Money? Public Code!
 > 

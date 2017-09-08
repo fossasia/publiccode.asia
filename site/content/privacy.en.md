@@ -6,15 +6,15 @@ layout: "subpage"
 
 The **publiccode.eu** web site is run by the
 [FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
-When this policy refers to "we", this means FSFE.
+When this policy refers to "we", this means the FSFE.
 
 ## What we collect and why
 
 When you use the website to sign our open letter, we collect
 and store information about your name, e-mail address and country,
-which you have provided with your consent, and we will publicly
-show your name as a signatory to the open letter if you consented 
-to publicly show your signature in the [list of 
+which you have provided with your consent. We will publicly
+show your name as a signee to the open letter if you consented 
+to publicly show name in the [list of 
 signatures](/openletter/all-signatures). We will also
 provide your name and country to the recipients of the open
 letter (members of the European Parliament and national or
