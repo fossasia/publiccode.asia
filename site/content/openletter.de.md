@@ -25,7 +25,7 @@ Hier kannst du helfen! Unterzeichne den offenen Brief, um unserer Botschaft mehr
 >
 > * Freie Software/Open Source ein modernes öffentliches Gut ist, das es jedermann erlaubt, Anwendungen, die wir täglich verwenden, frei zu verwenden, zu verstehen, zu teilen und zu verbessern.
 > * Freie-Software- und Open-Source-Lizenzen Schutz vor einer Beschränkung auf Dienstleistungen bestimmter Unternehmen bieten, welche restriktive Lizenzen verwenden, um den Wettbewerb zu behindern.
-> * Freie Software Open Source sicherstellt, dass der Quellcode zugänglich ist, so dass Hintertüren und Sicherheitslücken behoben werden können, ohne von einem bestimmten Dienstleister abhängig zu sein.
+> * Freie Software/Open Source sicherstellt, dass der Quellcode zugänglich ist, so dass Hintertüren und Sicherheitslücken behoben werden können, ohne von einem bestimmten Dienstleister abhängig zu sein.
 >
 > Öffentliche Einrichtungen werden durch Steuern finanziert. Sie müssen sicherstellen, dass sie die Mittel so effizient wie möglich ausgeben. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!
 >
