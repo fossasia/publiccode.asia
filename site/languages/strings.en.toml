@@ -5,7 +5,7 @@
   languageCode  = "en"
   languageName  = "English"
   description   = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
-  fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."
+  fsdefinition  = "Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy."
 
 
 # Navigation
@@ -21,7 +21,7 @@
 # Start banner
 [Languages.en.start]
   subtitle1   = "Why is software created using taxpayers' money not released as Free Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
+  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
   subtitle3   = "**Code paid by the people should be available to the people!**" 
 
 
@@ -57,7 +57,7 @@
 # Action section
 [Languages.en.action]
   headline      = "Tell Your Representatives!"
-  subheadline   = "This is our demand: **“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.”**"
+  subheadline   = "This is our demand: **“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence.”**"
   description   = "**$ORGS organisations** and **$INDS individuals** support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
 
 [Languages.en.action.box]
