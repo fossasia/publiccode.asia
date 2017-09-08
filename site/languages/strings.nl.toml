@@ -30,7 +30,7 @@
 # Start banner
 [Languages.nl.start]
   # subtitle1   = "Why is software created using taxpayers' money not released as Free Software?"
-  # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
+  # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/about/mission.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
   # subtitle3   = "**Code paid by the people should be available to the people!**" 
   subtitle1  = "Waarom is software die geschreven is met belastinggeld niet beschikbaar als Vrije Software?"
   subtitle2  = "TODO: We want legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
