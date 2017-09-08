@@ -184,7 +184,7 @@
   # tableCountry  = "Country"
   # tableComment  = "Comment"
   headline      = "Individuele handtekeningen voor de Open Brief"
-  description   = "TODO: Below you find the recent signatures of people who agreed to have their signature be public. Will you be the next?"
+  description   = "TODO: Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
   allSignatures = "Bekijk [alle openbare handtekeningen](all-signatures/)."
   tableName     = "Naam"
   tableCountry  = "Land"
