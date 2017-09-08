@@ -19,6 +19,9 @@ What you should have:
 - Optional: Hugo installed on your computer
 - Optional: The ability to run Bash scripts from command line
 
+To be able to push your files to the git repository (i.e., `git push`), please
+ask @max.mehl for write access.  This workflow will soon be changed so that you
+do not need write access, but the documentation on that is not yet complete.
 
 ## Translatable files
 
