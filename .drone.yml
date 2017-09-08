@@ -1,8 +1,13 @@
 pipeline:
-  build:
+  quality:
     image: williamyeh/ansible:debian8
     commands:
         - ansible-playbook -vvv playbook.yml -i hosts --syntax-check
+
+  syntaxcheck:
+    image: publysher/hugo
+    commands:
+        - cd site; ./build/build.sh
 
   deploy:
     image: williamyeh/ansible:debian8
