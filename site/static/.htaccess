@@ -2,10 +2,10 @@ RewriteEngine On
 RewriteBase /
 
 # Password-protect the site until it's released
-AuthType Basic
-AuthName "This website will be released soon. Please follow our news on fsfe.org to stay updated."
-AuthUserFile /usr/share/blog/public/.htpasswd
-Require valid-user
+#AuthType Basic
+#AuthName "This website will be released soon. Please follow our news on fsfe.org to stay updated."
+#AuthUserFile /usr/share/blog/public/.htpasswd
+#Require valid-user
 
 # Redirect 404 errors to nice page
 ErrorDocument 404 /404.html
