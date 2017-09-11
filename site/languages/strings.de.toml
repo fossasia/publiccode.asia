@@ -34,7 +34,7 @@
 # Arguments section
 [Languages.de.arguments]
   headline    = "Gründe für Public Code"
-  followup    = "Glaubst du, dass Freie Software die Standardoption für öffentlich finanzierte Software sein sollte? **Dann lasst uns deine Abgeordneten überzeugen!**"
+  followup    = "Glaubst du, dass Freie Software die Standardoption für öffentlich finanzierte Software sein sollte? **Dann lass uns deine Abgeordneten überzeugen!**"
   buttonText  = "Den Offenen Brief unterzeichnen"
 [[Languages.de.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
