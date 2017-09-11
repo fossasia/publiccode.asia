@@ -17,10 +17,8 @@
         {{ partial "sub-pages/section_end.html" . }}
         
         {{ if eq .Params.sigtable true }}
+          {{ partial "sub-pages/action.html" . }}
           {{ partial "organisations.html" . }}
-        {{ end }}
-
-        {{ if eq .Params.sigtable true }}
           {{ partial "sub-pages/sigtable.html" . }}
         {{ end }}
         
