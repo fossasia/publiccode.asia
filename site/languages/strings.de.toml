@@ -79,7 +79,7 @@
 # Organisations section
 [Languages.de.organisations]
   headline  = "Unterstützerorganisationen"
-  text      = "Die folgenden Organisationen unterstützen unseren [offenen Brief](openletter/). Wenn deine Organisation auch sich dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
+  text      = "Die folgenden Organisationen unterstützen unseren [offenen Brief](openletter/). Wenn deine Organisation sich ebenfalls dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
