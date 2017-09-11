@@ -11,9 +11,13 @@
             </button>
             <a class="page-scroll hiddenlink" href="#page-top">
               <div class="logo">
-                <img src="/img/logo.svg" alt="Logo of the campaign" />
-                <span class="logo-blue">{{ .Site.Params.static.slogan_1 }}</span>
-                <span class="logo-green">{{ .Site.Params.static.slogan_2 }}</span>
+                <div id="image">
+                  <img src="/img/logo.svg" alt="Logo of the campaign" />
+                </div>
+                <div id="text">
+                  <div id="logo-blue">{{ .Site.Params.static.slogan_1 }}</div>
+                  <div id="logo-green">{{ .Site.Params.static.slogan_2 }}</div>
+                </div>
               </div>
             </a>
         </div>
