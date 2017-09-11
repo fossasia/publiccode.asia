@@ -49,11 +49,11 @@
   </label>
   <p class="form-pe">
     <label class="form-pe">
-      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.form.permPriv | markdownify }}
+      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ replace .Site.Params.action.form.permPriv "privacy/" ("/privacy" | relLangURL) | markdownify }}
     </label>
     <br />
     <label class="form-pe">
-      <input name="permissionPub" value="yes" type="checkbox" /> {{ .Site.Params.action.form.permPub | markdownify}}
+      <input name="permissionPub" value="yes" type="checkbox" /> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}
     </label>
     <br />
     <label class="form-pe">
