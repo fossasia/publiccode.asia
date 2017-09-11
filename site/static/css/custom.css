@@ -114,6 +114,10 @@ blockquote p {
 #action a:hover {
   color: #EEE;
 }
+#actionintro strong {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 #action form {
   color: #fff;
   font-size: 18px;

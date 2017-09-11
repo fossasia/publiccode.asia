@@ -57,9 +57,10 @@
 # Action section
 [Languages.de.action]
   headline      = "Sag es deinen Abgeordneten!"
-  # In "subheadline", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  subheadline   = "Wir fordern: **„Erlasst Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird.“**"
-  description   = "**$ORGS Organisationen** und **$INDS Personen** unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Hilf uns, eine Wirkung zu erzielen, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die den Einsatz Freier Software in öffentlichen Verwaltungen diskutieren, überreichen."
+  intro         = "In unserem [**Offenen Brief**](openletter/) fordern wir:" 
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "„Erlasst Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird.“"
+  description   = "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Hilf uns, eine Wirkung zu erzielen, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die den Einsatz Freier Software in öffentlichen Verwaltungen diskutieren, überreichen."
 
 [Languages.de.action.box]
   text      = "Schon **$INDS UNTERSCHRIFTEN** – jetzt den offenen Brief unterzeichnen!"

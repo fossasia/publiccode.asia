@@ -5,7 +5,8 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">{{ .Site.Params.action.headline }}</h2>
                 <hr class="light">
-                <p>{{ .Site.Params.action.subheadline | markdownify }}</p>
+                <p id="actionintro">{{ .Site.Params.action.intro | markdownify }}</p>
+                <p><strong>{{ .Site.Params.action.demand | markdownify }}</strong></p>
                 <p>{{ (replace (replace .Site.Params.action.description "$ORGS" (partial "functions/count_organisations.html" .) ) "$INDS" (partial "functions/count_signatures.html" .))  | markdownify }}</p>
                 
                 <form action="https://forms.fsfe.org/email" method="post">
