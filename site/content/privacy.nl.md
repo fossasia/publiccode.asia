@@ -36,7 +36,7 @@ gehost worden.
 
 ## Wat uw rechten zijn
 
-U heeft het recht om jouw persoonlijke data die wij opgeslagen hebben te
+U heeft het recht om uw persoonlijke data die wij opgeslagen hebben te
 ontvangen, zowel als het recht om ons opdracht te geven om de informatie te
 corrigeren als het incorrect is. U heeft ook het recht om ons opdracht te geven
 om uw persoonlijke data te verwijderen van onze servers.
