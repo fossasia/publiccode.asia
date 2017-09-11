@@ -17,5 +17,6 @@ pipeline:
       - ssh-keyscan -H lund.fsfeurope.org >> ~/.ssh/known_hosts
       - ansible-playbook playbook.yml -i hosts
     when:
+       event: [push, pull_request, tag, deployment]
        branch: master
 
