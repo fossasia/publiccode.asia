@@ -50,6 +50,11 @@
     "url": "https://fsfe.org"
   },
   {
+    "name": "GFOSS",
+    "img": "GFOSS.png",
+    "url": "https://gfoss.eu/"
+  },
+  {
     "name": "HackYourPhD",
     "img": "HackYourPhD.png",
     "url": "https://hackyourphd.org/"
@@ -68,6 +73,11 @@
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
+  },
+   {
+    "name": "Open Labs",
+    "img": "OpenLabs.png",
+    "url": "http://theopenlabs.org"
   },
   {
     "name": "Open Knowledge Foundation Deutschland",
@@ -88,6 +98,11 @@
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "url": "https://opensource.org/"
+  },
+   {
+    "name": "Public Software CIC",
+    "img": "public-software-cic.png",
+    "url": "https://publicsoftware.eu/"
   },
   {
     "name": "Quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
