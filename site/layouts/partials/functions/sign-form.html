@@ -1,0 +1,70 @@
+<form action="https://forms.fsfe.org/email" method="post">
+  <input name="appid" type="hidden" value="pmpc-sign" />
+  <label class="sign-input form-na">
+    <input name="name" placeholder="{{ .Site.Params.action.form.name }}" type="text" required />
+  </label>
+  <label class="sign-input form-em">
+    <input name="confirm" placeholder="{{ .Site.Params.action.form.email }}" type="email" required />
+  </label>
+  <br />
+  <label class="sign-input form-cn">
+    <select name="country">
+      <option value="">{{ .Site.Params.action.form.country }}</option>
+      <option value="Austria">Austria</option>
+      <option value="Belgium">Belgium</option>
+      <option value="Bulgaria">Bulgaria</option>
+      <option value="Croatia">Croatia</option>
+      <option value="Cyprus">Cyprus</option>
+      <option value="Czech Republic">Czech Republic</option>
+      <option value="Denmark">Denmark</option>
+      <option value="Estonia">Estonia</option>
+      <option value="Finland">Finland</option>
+      <option value="France">France</option>
+      <option value="Germany">Germany</option>
+      <option value="Greece">Greece</option>
+      <option value="Hungary">Hungary</option>
+      <option value="Ireland">Ireland</option>
+      <option value="Italy">Italy</option>
+      <option value="Latvia">Latvia</option>
+      <option value="Lithuania">Lithuania</option>
+      <option value="Luxembourg">Luxembourg</option>
+      <option value="Malta">Malta</option>
+      <option value="Netherlands">Netherlands</option>
+      <option value="Poland">Poland</option>
+      <option value="Portugal">Portugal</option>
+      <option value="Romania">Romania</option>
+      <option value="Slovakia">Slovakia</option>
+      <option value="Slovenia">Slovenia</option>
+      <option value="Spain">Spain</option>
+      <option value="Sweden">Sweden</option>
+      <option value="United Kingdom">United Kingdom</option>
+      <option value="Outside the EU">Outside the EU</option>
+    </select>
+  </label>
+  <label class="sign-input form-zp">
+    <input name="zip" placeholder="{{ .Site.Params.action.form.zip }}" type="text" />
+  </label>
+  <label class="sign-input form-co">
+    <input name="comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
+  </label>
+  <p class="form-pe">
+    <label class="form-pe">
+      <input name="permissionPriv" value="yes" type="checkbox" required /> {{ .Site.Params.action.form.permPriv | markdownify }}
+    </label>
+    <br />
+    <label class="form-pe">
+      <input name="permissionPub" value="yes" type="checkbox" /> {{ .Site.Params.action.form.permPub | markdownify}}
+    </label>
+    <br />
+    <label class="form-pe">
+      <input name="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.form.permNews | markdownify }}
+    </label>
+  </p>
+  
+  <label id="honey"> <!-- Honeypot for spam -->
+    <p>Please do not put anything here:</p>
+    <input name="url" type="text" />
+  </label>
+  <br />
+  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">{{ .Site.Params.action.form.submit }}</button>
+</form>
