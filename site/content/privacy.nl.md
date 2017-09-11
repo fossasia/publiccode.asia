@@ -10,18 +10,18 @@ Wanneer dit beleid naar "wij" verwijst, betekent dit de FSFE.
 
 ## Wat wij verzamelen en waarom
 
-Wanneer je de website gebruikt om onze open brief te ondertekenen, verzamelen en
-bewaren wij informatie over jouw naam, e-mailadres en land -- welke jij
-aangeleverd hebt met jouw toestemming -- en wij zullen jouw naam publiek
-tentoonstellen in de [lijst van handtekeningen](/openletter/all-signatures).
-Wij zullen ook jouw naam en land aanleveren aan de ontvangers van de open brief
-(leden van het Europees Parlement en nationale of regionele parlementen).  Wij
-zullen jouw e-mailadres niet delen.  Wij slaan deze informatie op in een
-database gedurende de looptijd van de Publiek Geld - Publieke Code campagne, en
-wij zullen de informatie achteraf verwijderen.
+Wanneer u de website gebruikt om onze open brief te ondertekenen, verzamelen en
+bewaren wij informatie over uw naam, e-mailadres en land -- welke u aangeleverd
+hebt met uw toestemming -- en wij zullen uw naam publiek tentoonstellen in de
+[lijst van handtekeningen](/openletter/all-signatures). Wij zullen ook uw naam
+en land aanleveren aan de ontvangers van de open brief (leden van het Europees
+Parlement en nationale of regionele parlementen). Wij zullen uw e-mailadres niet
+delen. Wij slaan deze informatie op in een database gedurende de looptijd van de
+Publiek Geld - Publieke Code campagne, en wij zullen de informatie achteraf
+verwijderen.
 
-Als je toestemming hebt gegeven om benaderd te worden over de campagne, dan
-zullen wij, tijdens en direct na de campagne, jouw e-mailadres gebruiken om jou
+Als u toestemming heeft gegeven om benaderd te worden over de campagne, dan
+zullen wij, tijdens en direct na de campagne, uw e-mailadres gebruiken om u
 informatie te versturen over de campagne.
 
 ## Wie heeft toegang tot de opgeslagen data
@@ -34,23 +34,18 @@ ook beschikbaar is voor de medewerkers van PlusServer GmbH, waar onze servers
 gehost worden.
 
 
-## Wat jouw rechten zijn
+## Wat uw rechten zijn
 
-Je hebt het recht om jouw persoonlijke data die wij opgeslagen hebben te
-ontvangen, zowel als het recht om ... TODO: De rest.
-
-You have the right to receive the personal data we have stored
-about you, as well as the right to instruct us to rectify it if
-it's incorrect. You also have the right to object to our storing
-of information, in which case we will remove personal data about
-you, and the right to remove your consent to processing of your
-personal data in line with this policy, in which case we will
-also take steps to remove personal data about you. 
+U heeft het recht om jouw persoonlijke data die wij opgeslagen hebben te
+ontvangen, zowel als het recht om ons opdracht te geven om de informatie te
+corrigeren als het incorrect is. U heeft ook het recht om ons opdracht te geven
+om uw persoonlijke data te verwijderen van onze servers.
 
 ## Who to contact
 
-If you have questions about our use of your data, would like to
-request a copy of all information we have stored about you, or
-would like to talk to our Data Protection Officer for any other
-purpose, our appointed Data Protection Officer is the FSFE's
-executive director, whom you can contact at [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+Als u vragen heeft over ons gebruik van uw data, graag een kopie van uw
+informatie ontvangt, of graag wilt spreken met onze functionaris voor
+gegevensbescherming voor iedere andere reden, dan kunt u contact opnemen met de
+FSFE's uitvoerend bestuurder op
+[executive-director@fsfe.org](mailto:executive-director@fsfe.org). De uitvoerend
+bestuurder is tevens onze functionaris voor gegevensbescherming.
