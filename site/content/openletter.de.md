@@ -31,7 +31,7 @@ Hier kannst du helfen! Unterzeichne den offenen Brief, um unserer Botschaft mehr
 >
 > Deshalb rufen wir, die Unterzeichnerinnen, unsere Abgeordneten auf:
 >
-> **"Sorgen Sie für rechtliche Grundlagen, die es erfordern, dass öffentlich finanzierte Software, die für den öffentlichen Sektor entwickelt wurde, unter einer Freie-Software- und Open-Source-Lizenz öffentlich zugänglich gemacht werden muss."**
+> **"Sorgen Sie für rechtliche Grundlagen, die es erfordern, dass öffentlich finanzierte Software, die für die öffentliche Verwaltung entwickelt wurde, unter einer Freie-Software- und Open-Source-Lizenz öffentlich zugänglich gemacht werden muss."**
 
 [fs]: https://fsfe.org/freesoftware/basics/summary.html "Freie Software gibt jedem das Recht, Software zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Rechte stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."
 
