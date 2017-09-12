@@ -20,4 +20,4 @@ U kunt ook [stickers en voorlichtingsmaterial bestellen](https://fsfe.org/promo#
 
 Maak Vrije Software in Europa sterker en overweeg om [de FSFE](https://fsfe.org/donate/?pmpc) of één van de andere [ondersteunende organisaties](../../#organisations) te steunen.
 
-Met uw steun zullen besluitvormers in heel Europe begrijpen dat het gebruiken van Vrije en Open Source Softwarelicenties de beste oplossing is voor hen, andere openbare besturen, bedrijven, en voornamelijk het algemeen publiek.
+Met uw steun zullen besluitvormers in heel Europe begrijpen dat het gebruiken van Vrije en Open Source Softwarelicenties de beste oplossing is voor hen, andere overheden, bedrijven, en voornamelijk het algemeen publiek.
