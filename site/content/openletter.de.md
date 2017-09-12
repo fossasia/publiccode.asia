@@ -23,7 +23,7 @@ Hier kannst du helfen! Unterzeichne den offenen Brief, um unserer Botschaft mehr
 
 > Wir brauchen Software, die den Austausch guter Ideen und Lösungen fördert. So können wir die IT-Dienste für Menschen überall in Europa verbessern. Wir brauchen Software, die Wahlfreiheit, Zugang und Wettbewerb garantiert. Wir brauchen Software, mit der öffentliche Verwaltungen die volle Kontrolle über ihre kritische digitale Infrastruktur zurückgewinnen und von einigen wenigen Unternehmen unabhängig werden und bleiben können. Deshalb rufen wir unsere Abgeordneten dazu auf, Freie Software/Open Source in öffentlichen Verwaltungen zu unterstützen, weil:
 >
-> * Freie Software/Open Source ein modernes öffentliches Gut ist, das es jedermann erlaubt, Anwendungen, die wir täglich verwenden, frei zu verwenden, zu verstehen, zu teilen und zu verbessern.
+> * Freie Software/Open Source ein modernes öffentliches Gut ist, das es jedermann erlaubt, Anwendungen, die wir täglich einsetzen, frei zu verwenden, zu verstehen, zu teilen und zu verbessern.
 > * Freie-Software- und Open-Source-Lizenzen Schutz vor einer Beschränkung auf Dienstleistungen bestimmter Unternehmen bieten, welche restriktive Lizenzen verwenden, um den Wettbewerb zu behindern.
 > * Freie Software/Open Source sicherstellt, dass der Quellcode zugänglich ist, so dass Hintertüren und Sicherheitslücken behoben werden können, ohne von einem bestimmten Dienstleister abhängig zu sein.
 >
