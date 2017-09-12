@@ -4,7 +4,9 @@ type: "page"
 layout: "subpage"
 ---
 
-Die Webseite **publiccode.eu** wird betrieben von [FSFE e.V.](https://fsfe.org/about/legal/imprint.html). Wenn im folgenden von "wir" gesprochen wird, ist damit die FSFE gemeint.
+Die Webseite **publiccode.eu** wird betrieben von [FSFE 
+e.V.](https://fsfe.org/about/legal/imprint.html). Wenn im folgenden von 
+"wir" gesprochen wird, ist damit die FSFE gemeint.
 
 ## Was wir erfassen und warum
 
@@ -18,7 +20,7 @@ werden ebenfalls deinen Namen und Land an die Empfänger des Offenen
 Briefes (Mitglieder des Europäischen Parlaments und nationale oder 
 regionale Parlamente) übermitteln. Deine E-Mail-Adresse werden wir 
 nicht teilen. Wir werden diese Informationen in einer Datenbank für die 
-Dauer der Kampage Public Money - Public Code aufbewahren und danach 
+Dauer der Kampagne "Public Money - Public Code" aufbewahren und danach 
 löschen.
 
 Wenn du zugestimmt hast, dass wir dich über die Kampagne auf dem 

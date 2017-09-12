@@ -6,9 +6,9 @@ layout: subpage
 
 ## Deine Unterschrift wurde bestätigt
 
-Vielen Dank für das Zeichnen des Offenen Briefes für "Public Money, Public Code". Deine Unterstützung bedeutet uns viel.
+Vielen Dank für das Unterzeichnen des Offenen Briefes für "Public Money, Public Code". Deine Unterstützung bedeutet uns viel.
 
-Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterzeichnerliste hinzugefügt wird, wird dein Name in der [Liste aller Unterschriften](../all-signatures) innerhalb der nächsten Stunde erscheinen. Wenn Du weitere Informationen erhalten wolltest, werden wir dich über Neuigkeiten dieser Kampage per E-Mail auf dem Laufenden halten.
+Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterschriftenliste hinzugefügt wird, wird dein Name in der [Liste aller Unterschriften](../all-signatures) innerhalb der nächsten Stunde erscheinen. Wenn du dich für den Erhalt weiterer Informationen entschieden hast, werden wir dich über Neuigkeiten dieser Kampage per E-Mail auf dem Laufenden halten.
 
 ## Nächste Schritte
 

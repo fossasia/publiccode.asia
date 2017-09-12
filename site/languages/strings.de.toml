@@ -21,7 +21,7 @@
 # Start banner
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
-  subtitle2  = "Wir wollen Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/about/mission.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/about/mission.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
   subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**" 
 
 
@@ -59,7 +59,7 @@
   headline      = "Sag es deinen Abgeordneten!"
   intro         = "In unserem [**Offenen Brief**](openletter/) fordern wir:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "„Wir brauchen Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird.“"
+  demand        = "„Wir brauchen gesetzliche Grundlagen, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird.“"
   description   = "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Du kannst uns helfen, einen viel größeren Einfluss auszuüben, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die Softwarefreiheit in öffentlichen Verwaltungen erörtern, überreichen."
 
 [Languages.de.action.box]
