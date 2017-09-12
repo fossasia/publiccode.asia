@@ -5,14 +5,29 @@
     "url": "https://ensinolivre.pt"
   },
   {
-    "name": "Associação Nacional para o Software Livre",
-    "img": "ansol.png",
-    "url": "https://ansol.org"
+    "name": "Digitale Gesellschaft",
+    "img": "digitalegesellschaft.png",
+    "url": "https://digitalegesellschaft.de/"
+  },
+  {
+    "name": "Courage Foundation",
+  	"img": "couragefound.png",
+    "url": "https://couragefound.org/"
   },
   {
     "name": "Chaos Computer Club",
     "img": "CCC.png",
     "url": "https://www.ccc.de"
+  },
+  {
+    "name": "ExposeFacts",
+    "img": "exposefacts.png",
+    "url": "https://exposefacts.org/"
+  },
+  {
+	"name": "Freedom of the Press Foundation",
+    "img": "freedompress.png",
+    "url": "https://freedom.press/"	
   },
   {
     "name": "Linux User Group Of Slovenia",
