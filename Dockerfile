@@ -4,7 +4,9 @@ ENV HUGO_VERSION 0.20.7
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 RUN apt-get update && apt-get upgrade -y && \
-    apt-get install -y git curl unzip python3
+    apt-get install -y git curl unzip python3 python3-pip libyaml-dev
+
+RUN pip3 install awscli
 
 RUN curl -sS https://getcomposer.org/installer \
     | php -- --install-dir=/usr/local/bin --filename=composer
