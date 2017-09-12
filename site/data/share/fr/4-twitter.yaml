@@ -1,0 +1,8 @@
+titleBefore: Partager sur
+titleAfter: 
+# This "customText" must not have more than 115 characters!
+customText: "Si c'est de l'argent public, le code doit être public aussi ! Je soutiens l'appel de @fsfe pour plus de #publiccode: "
+
+# Do not translate below here
+id: twitter
+name: Twitter
