@@ -137,12 +137,25 @@ blockquote p {
   top: 2px;
 }
 .sign-input input, .sign-input select {
-  background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+  background-color: rgba(255, 255, 255, 1);
   border-radius: 20px;
   padding: 0 0 0 36px;
   width: 270px;
   height: 34px;
   font-weight: 600;
+  border: none;
+}
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-image:url(/img/select-arrow.png);
+}
+/* hide browser-styling (arrow) in IE10 */
+select::-ms-expand {
+  display:none;
 }
 .sign-input.form-co input {
   width: 554px;
