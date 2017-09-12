@@ -21,14 +21,14 @@
 # Start banner
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
-  subtitle2  = "Wir wollen Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/about/mission.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/about/mission.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
   subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**" 
 
 
 # About section
 [Languages.de.about]
-  headline    = "Klingt kompliziert? Nö, es ist super einfach!"
-  buttonText  = "Mehr Vorteile"
+  headline    = "Klingt kompliziert? Nein, es ist super einfach!"
+  buttonText  = "Weitere Vorteile"
 
 
 # Arguments section
@@ -46,7 +46,7 @@
   description = "Bei großen Projekten können Expertise und Kosten geteilt werden."  
 [[Languages.de.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
-  title       = "Der Allgemeinheit dienen"
+  title       = "Allgemeinwohl"
   description = "Von der Allgemeinheit bezahlte Anwendungen sollten allen zur Verfügung stehen."
 [[Languages.de.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
@@ -59,28 +59,28 @@
   headline      = "Sag es deinen Abgeordneten!"
   intro         = "In unserem [**Offenen Brief**](openletter/) fordern wir:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "„Erlasst Gesetze, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') veröffentlicht wird.“"
-  description   = "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Hilf uns, eine Wirkung zu erzielen, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die den Einsatz Freier Software in öffentlichen Verwaltungen diskutieren, überreichen."
+  demand        = "„Wir brauchen gesetzliche Grundlagen, die es erfordern, dass mit öffentlichen Gelden für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird.“"
+  description   = "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Du kannst uns helfen, einen viel größeren Einfluss auszuüben, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die Softwarefreiheit in öffentlichen Verwaltungen erörtern, überreichen."
 
 [Languages.de.action.box]
   text      = "Schon **$INDS UNTERSCHRIFTEN** – jetzt den offenen Brief unterzeichnen!"
 
 [Languages.de.action.form]
   name      = "Name (Pflichtfeld)"
-  email     = "Email (Pflichtfeld)"
+  email     = "E-Mail (Pflichtfeld)"
   country   = "Dein Land"
   zip       = "PLZ"
   comment   = "Dein Kommentar (max. 140 Zeichen)"
   permPriv  = "Ich habe die [Datenschutzerklärung](privacy/) gelesen und akzeptiere sie"
-  permNews  = "Ich möchte über den Verlauf der Kampagne auf dem aktuellen Stand gehalten werden"
-  permPub   = "Meine Unterschrift auf der [Unterschriftenliste](openletter/all-signatures) anzeigen"
+  permNews  = "Ich möchte über den Verlauf der Kampagne informiert werden"
+  permPub   = "Meine Unterschrift in der [Unterschriftenliste](openletter/all-signatures) anzeigen"
   submit    = "Jetzt unterzeichnen!"
 
 
 # Organisations section
 [Languages.de.organisations]
-  headline  = "Unterstützerorganisationen"
-  text      = "Die folgenden Organisationen unterstützen unseren [offenen Brief](openletter/). Wenn deine Organisation sich ebenfalls dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
+  headline  = "Unterstützende Organisationen"
+  text      = "Die folgenden Organisationen unterstützen unseren [Offenen Brief](openletter/). Wenn deine Organisation sich ebenfalls dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
@@ -94,13 +94,13 @@
 
 # Legal Section
 [Languages.de.legal]
-  by            = "This is a campaign by Free Software Foundation Europe"
+  by            = "Eine Kampagne der Free Software Foundation Europe"
   imprint       = "Impressum"
   privacy       = "Datenschutz"
   transparency  = "Transparenz"
   contribute1   = "Der Code dieser Website ist Freie Software." 
-  contribute2   = "Du kannst selbst dazu beitragen sie zu verbessern."
-  license       = "Diese Seite ist lizensiert unter: [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+  contribute2   = "Du kannst dazu beitragen, sie zu verbessern."
+  license       = "Diese Seite ist lizensiert unter einer [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)-Lizenz."
 
 
 # Language selection
@@ -110,7 +110,7 @@
 
 # 404 Error Page
 [Languages.de.error]
-  headline    = "Error 404 - Seite nicht gefunden"
+  headline    = "Fehler 404 - Seite nicht gefunden"
   description = "Diese Seite existiert nicht."
   button      = "Zurück zur Startseite"
 
@@ -119,7 +119,7 @@
 [Languages.de.subpage]
 [Languages.de.subpage.signatures]
   headline      = "Übersicht der Unterschriften"
-  description   = "Hier sind die Unterschriften von allen, die damit einverstanden waren, ihen Namen zu veröffentlichen. Sei der Nächste!"
+  description   = "Hier sind die Unterschriften von allen Unterzeichnern, die damit einverstanden waren, ihren Namen zu veröffentlichen. Sei der Nächste!"
   allSignatures = "[Alle öffentlichen Unterschriften ansehen](all-signatures/)."
   tableName     = "Name"
   tableCountry  = "Land"
