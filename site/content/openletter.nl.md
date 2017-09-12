@@ -5,9 +5,9 @@ layout: subpage
 sigtable: true
 ---
 
-Publiek gefinancierde software moet Vrije Software zijn.  Hoewel hier een
-overvloed van goede redenen voor is, weten vele politici nog niet hoe belangrijk
-software is.
+Publiek gefinancierde software moet [Vrije en Open Bron Software][fs] zijn.
+Hoewel hier een overvloed van goede redenen voor is, weten vele politici nog
+niet hoe belangrijk software is.
 
 {{< fsdefinition type="box">}}
 
@@ -69,3 +69,5 @@ zorgen dat zij begrijpen: Publiek Geld?  Publieke Code!
 
 <!--- De onderstaande mensen hebben de brief al ondertekend en hebben toegestemd
 om hun handtekening openbaar te maken.  Zult u de volgende zijn? --->
+
+[fs]: https://fsfe.org/freesoftware/basics/summary.nl.html "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."
