@@ -16,6 +16,8 @@ cat config-static.toml languages/strings.en.toml ${languagefiles} > config.toml
 # Execute hugo buildrun
 if [ "$mode" == "server" ]; then
   hugo server
+elif [ "$mode" == "syntax" ]; then
+  hugo
 else
   hugo
 
