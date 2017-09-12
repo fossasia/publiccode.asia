@@ -38,6 +38,9 @@ All files are written in the [Markdown
 syntax](https://en.wikipedia.org/wiki/Markdown) which is very easy to learn and
 much more comfortable to write and translate than HTML.
 
+Note that there is also a sub-directory called `openletter` which files should 
+be translated as well!
+
 In all files you'll find a *header* which starts and ends with `---` (three
 dashes). In this header, all you have to translate is the `title:` value which
 defines the title and headline of the page. The other values like `type` and
