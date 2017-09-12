@@ -95,29 +95,38 @@ aside {
 }
 
 .navbar .logo {
-    margin: 7px 10px;
-    height: 36px;
+    margin: 5px 10px;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    vertical-align: middle;
+}
+.navbar .logo #image {
+  height:40px;
 }
 
-.navbar .logo img {
+.navbar .logo #image img {
   height: 100%;
 }
-
-.navbar .logo .logo-blue,
-.navbar .logo .logo-green {
-    padding: 4px 7px;
+.navbar .logo #text {
+  padding: 5px 0;
+}
+.logo #text #logo-blue,
+.logo #text #logo-green {
+    padding: 5px 7px;
     color: white;
     vertical-align: middle;
     margin-left: 5px;
     text-transform: uppercase;
     font-weight: 700;
+    display: inline-block;
 }
-
-.navbar .logo .logo-blue {
-    background: #168EC1;
+.navbar .logo #logo-blue {
+  background: #168EC1;
 }
-
-.navbar .logo .logo-green { background: #4cbd38 }
+.navbar .logo #logo-green { 
+  background: #4cbd38 
+}
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);

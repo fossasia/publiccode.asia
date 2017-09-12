@@ -7,7 +7,7 @@ div.sharecolumn .share-buttons.side {
   z-index: 10;
   flex-direction: column;
 }
-@media(max-width:767px) {
+@media(max-width:839px) {
   .share-buttons.side {
     display: none !important;
   }

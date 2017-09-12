@@ -9,6 +9,9 @@
 blockquote p {
   font-size: 17.5px;
 }
+.btn {
+  white-space: normal; /* wrap button words */
+}
 
 /* SUBPAGES */
 .subpage {
@@ -141,12 +144,25 @@ blockquote p {
   top: 2px;
 }
 .sign-input input, .sign-input select {
-  background: rgba(255, 255, 255, 1) none repeat scroll 0 0;
+  background-color: rgba(255, 255, 255, 1);
   border-radius: 20px;
   padding: 0 0 0 36px;
   width: 270px;
   height: 34px;
   font-weight: 600;
+  border: none;
+}
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-image:url(/img/select-arrow.png);
+}
+/* hide browser-styling (arrow) in IE10 */
+select::-ms-expand {
+  display:none;
 }
 .sign-input.form-co input {
   width: 554px;
@@ -167,7 +183,8 @@ blockquote p {
   content: "\f003";
 }
 .form-cn select {
-  padding-left: 30px !important;
+  padding-left: 0px !important;
+  text-indent: 15px !important; /* ugly hack for Safari browsers */
   background-color: #ffffff;
 }
 .form-cn select option:first-child {
