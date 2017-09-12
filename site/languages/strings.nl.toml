@@ -92,7 +92,7 @@
   headline      = "Vertel uw vertegenwoordigers!"
   intro         = "In our [**open letter**](openletter/) we demand:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "„Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.“"  # TODO: Copy from open letter
+  demand        = "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
   description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in openbare besturen."
 
 [Languages.nl.action.box]
