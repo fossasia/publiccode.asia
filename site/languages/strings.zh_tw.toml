@@ -2,7 +2,7 @@
 
 # General strings
 [Languages.zh_TW]
-  languageCode  = "zh_TW"
+  languageCode  = "zh_tw"
   languageName  = "Traditional Chinese"
   description   = "拿人民的納稅錢，就該做公開透明的資訊系統 - 呼籲公家機關之資訊系統應採用自由軟體"
   fsdefinition  = "自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。"
