@@ -7,7 +7,7 @@ pipeline:
   syntaxcheck:
     image: publysher/hugo
     commands:
-        - cd site; ./build/build.sh synax
+        - cd site; ./build/build.sh syntax
 
   deploy:
     image: williamyeh/ansible:debian8
