@@ -1,0 +1,124 @@
+# == BAGUETTE ==
+
+# General strings
+[Languages.fr]
+  languageCode  = "fr"
+  languageName  = "Français"
+  description   = "Argent Public ? Code Public ! - Une campagne pour la publication sous Licence Libre des logiciels financés par le contribuable"
+  fsdefinition  = "Les Logiciels Libres donnent à tous le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée."
+
+
+# Navigation
+[Languages.fr.navigation]
+[Languages.fr.navigation.links]
+  start     = "Accueil"
+  about     = "À propos"
+  arguments = "Raisons"
+  action    = "Agir"
+  spread    = "Faire savoir"
+
+
+# Start banner
+[Languages.fr.start]
+  subtitle1   = "Pourquoi les logiciels financés par l’impôt ne sont pas publiés sous Licence Libre ?"
+  subtitle2   = "Nous voulons une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source]. (https://fsfe.org/freesoftware/basics/summary.fr.html 'Les Logiciels Libres donnent à tous, le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). S’il s’agit d’argent public, le code devrait être également public."
+  subtitle3   = "**Le code payé par le peuple devrait être disponible pour le peuple!**" 
+
+
+# About section
+[Languages.fr.about]
+  headline    = "Ça a l’air compliqué ? Non, c’est très simple !"
+  buttonText  = "Plus d’avantages"
+
+
+# Arguments section
+[Languages.fr.arguments]
+  headline    = "Raisons pour le Code Public"
+  followup    = "Vous pensez que le Logiciel Libre devrait être la norme pour le logiciel financé par le public ? Allons convaincre vos responsables politiques !"
+  buttonText  = "Signer la lettre ouverte"
+[[Languages.fr.arguments.list]]
+  icon        = "fa-eur"
+  title       = "Économies fiscales"
+  description = "Des applications similaires n’ont pas besoin d’être programmées à partir de zéro à chaque fois."
+[[Languages.fr.arguments.list]]
+  icon        = "fa-handshake-o"
+  title       = "Coopération"
+  description = "Les efforts sur les projets d’envergure permettent de partager l'expertise et les coûts."
+[[Languages.fr.arguments.list]]
+  icon        = "fa-users"
+  title       = "Service public"
+  description = "Les applications payées par la collectivité devraient être accessibles à tous."
+[[Languages.fr.arguments.list]]
+  icon        = "fa-lightbulb-o"
+  title       = "Favoriser l’innovation"
+  description = "Avec des processus transparents, les autres n’ont pas besoin de réinventer la roue."
+
+
+# Action section
+[Languages.fr.action]
+  headline      = "Dites-le à vos représentants !"
+  intro         = "Voici notre revendication:"  # TODO: Translate to "In our [**open letter**](openletter/) we demand:"
+  demand        = "« Une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source]. (https://fsfe.org/freesoftware/basics/summary.fr.html 'Les Logiciels Libres donnent à tous le droits d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). »"  # TODO: Verify this
+  description   = "**$ORGS organisations** and **$INDS individuals** soutiennent cet appel à agir en signant notre [lettre ouverte](openletter/). Vous pouvez nous aider à avoir un impact bien plus large en la signant aussi ! Nous remettrons l’ensemble des signatures aux représentants qui débattent la question de la liberté de logiciel dans l’administration publique."  # TODO: Fix to something like "**$ORGS organisations** et **$INDS personnes** [...]"
+
+[Languages.fr.action.box]
+  text      = "Déjà **$INDS SIGNATURES** – signer la lettre ouverte maintenant !"  # TODO: Verify if "signatures" is good French.  Otherwise rename that.
+
+[Languages.fr.action.form]
+  name      = "Nom (requis)"
+  email     = "Email (requis)"
+  country   = "Votre pays"
+  zip       = "Code postal"
+  comment   = "Votre commentaire (max. 140 caractères)"
+  permPriv  = "J’ai lu et accepté la [déclaration de vie privée](privacy/)"
+  permNews  = "Je veux rester informé sur la suite de cette campagne"
+  permPub   = "Je souhaite que ma signature apparaisse sur la [liste de signatures](openletter/all-signatures)"
+  submit    = "Signer maintenant !"
+
+# Organisations section
+[Languages.fr.organisations]
+  headline  = "Organisations signataires"
+  text      = "Les organisations suivantes soutiennent notre [lettre ouverte](openletter/). Si votre organisation est également intéressée pour rejoindre l’appel en faveur du code public, veuillez [nous contacter](mailto:contact@fsfe.org)."
+
+
+# Spread the word section
+[Languages.fr.spread]
+  headline          = "Faire savoir !"
+  promoText         = "Commander les derniers stickers et flyers de la FSFE"
+  promoButtonText   = "Obtenir du matériel de promotion"
+  shareText         = "Faire savoir à vos amis et followers à propos du code public:"
+  defaultSocialText = "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre: "
+
+
+# Legal Section
+[Languages.fr.legal]
+  by            = "Ceci est une campagne menée par la Free Software Foundation Europe"
+  imprint       = "Imprint"
+  privacy       = "Privacy"
+  transparency  = "Transparence"
+  contribute1   = "Le code de ce site web est sous Logiciel Libre." 
+  contribute2   = "Votre contribution est la bienvenue !"
+  license       = "Ce travail est publié sous la licence de Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.fr.language]
+  description = "Lire cette page dans une autre langue"
+
+
+# 404 Error Page
+[Languages.fr.error]
+  headline    = "Erreur 404 - Page non trouvée"
+  description = "La page que vous cherchez n’existe pas."
+  button      = "Retour à la page d’accueil"
+
+
+# Specific sub-pages
+[Languages.fr.subpage]
+[Languages.fr.subpage.signatures]
+  headline      = "Signatures individuelles de la lettre ouverte"
+  description   = "En-dessous se trouvent les signataires qui ont accepté que leur nom soit publié. Soyez le prochain !"
+  allSignatures = "Voir [toutes les signatures publiques](all-signatures/)."
+  tableName     = "Nom"
+  tableCountry  = "Pays"
+  tableComment  = "Commentaire"
