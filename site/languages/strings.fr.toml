@@ -87,7 +87,7 @@
   promoText         = "Commander les derniers stickers et flyers de la FSFE"
   promoButtonText   = "Obtenir du matériel de promotion"
   shareText         = "Faire savoir à vos amis et followers à propos du code public:"
-  defaultSocialText = "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre: "
+  defaultSocialText = "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre:"
 
 
 # Legal Section
