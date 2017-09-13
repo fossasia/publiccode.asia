@@ -65,6 +65,16 @@
     "url": "https://epf.org.pl"
   },
   {
+    "name":"FIfF",
+    "img": "FIfF.png",
+    "url": "https://www.fiff.de/"
+  },
+  {
+    "name": "FFKP (Society for Free Culture and Software)",
+    "img": "ffkp.png",
+    "url": "http://ffkp.se/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
