@@ -14,6 +14,11 @@
     "img": "digitalegesellschaft.png",
     "url": "https://digitalegesellschaft.de/"
   },
+   {
+    "name": "Center for the Cultivation of Technology",
+    "img": "CCT.png",
+    "url": "https://techcultivation.org/"
+  },
   {
     "name": "Courage Foundation",
   	"img": "couragefound.png",
@@ -107,7 +112,7 @@
    {
     "name": "Open Labs",
     "img": "OpenLabs.png",
-    "url": "http://theopenlabs.org"
+    "url": "https://openlabs.cc/en/"
   },
   {
     "name": "Open Knowledge Foundation Deutschland",
