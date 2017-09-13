@@ -6,7 +6,7 @@ layout: subpage
 
 ## Votre signature est confirmée
 
-Merci d'avoir signé la lettre ouverte "Argent public, code public". Votre soutien est important pour nous. 
+Merci d'avoir signé la lettre ouverte "Argent public, Code public". Votre soutien est important pour nous. 
 
 Si vous avez accepté que votre nom soit inscrit sur la liste publique, celui-ci apparaîtra sur la [liste des signatures](../all-signatures) dans l'heure qui vient. Si vous avez choisi de recevoir davantage d'informations, nous vous tiendrons au courant des nouvelles de la campagne par e-mail.
 
