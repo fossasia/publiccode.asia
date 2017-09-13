@@ -27,7 +27,7 @@
 
 # About section
 [Languages.en.about]
-  headline    = "Sound complicated? It's not. It's super easy!"
+  headline    = "Sounds complicated? It's not. It's super easy!"
   buttonText  = "More advantages"
 
 
@@ -89,7 +89,7 @@
   promoText         = "Order the latest stickers and flyers from FSFE"
   promoButtonText   = "Get promo material"
   shareText         = "Tell your friends and followers about Public Code:"
-  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
+  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 
 
 # Legal Section
@@ -100,7 +100,7 @@
   transparency  = "Transparency"
   contribute1   = "The code of this website is Free Software." 
   contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection

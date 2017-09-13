@@ -2,6 +2,6 @@
 <div class="sharecolumn">
 
 {{ $data := index .Site.Data.share .Site.Language.Lang }}
-{{ partial "functions/share_buttons.html" (dict "type" "side" "defaultSocialText" .Site.Params.spread.defaultSocialText "url" .Site.Params.static.url "data" $data) }}
+{{ partial "functions/share_buttons.html" (dict "type" "side" "defaultSocialText" .Site.Params.spread.defaultSocialText "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
 
 </div>

@@ -1,4 +1,0 @@
-- Max Mehl
-- Katta
-- Luke Murphy
-- Matthias Kirschner

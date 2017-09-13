@@ -34,7 +34,7 @@
   # subtitle3   = "**Code paid by the people should be available to the people!**" 
   subtitle1  = "Waarom is software die geschreven is met belastinggeld niet beschikbaar als Vrije Software?"
   subtitle2  = "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://fsfe.org/about/mission.nl.html 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn."
-  subtitle3  = "**Code betaald door iedereen moet beschikbaar zijn voor iedereen!**"
+  subtitle3  = "**Code die betaald is door iedereen moet beschikbaar zijn voor iedereen!**"
 
 
 # About section
@@ -93,7 +93,7 @@
   intro         = "In onze [**open brief**](openletter/) eisen we:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
-  description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in openbare besturen."
+  description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in overheden."
 
 [Languages.nl.action.box]
   # text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
@@ -139,7 +139,7 @@
   promoText         = "Bestel de nieuwste stickers en flyers van de FSFE"
   promoButtonText   = "Bestel promotiemateriaal"
   shareText         = "Vertel uw vrienden en volgers over Publieke Code:"
-  defaultSocialText = "Als het publiek geld is, dan moet het ook publieke code zijn! Ik steun de eis voor meer publieke code onder een Vrije Softwarelicentie: "
+  defaultSocialText = "Als het publiek geld is, dan moet het ook publieke code zijn! Ik steun de eis voor meer publieke code onder een Vrije Softwarelicentie:"
 
 
 # Legal Section

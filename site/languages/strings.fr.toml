@@ -4,7 +4,7 @@
 [Languages.fr]
   languageCode  = "fr"
   languageName  = "Français"
-  description   = "Argent Public ? Code Public ! - Une campagne pour la publication sous Licence Libre des logiciels financés par le contribuable"
+  description   = "Argent public ? Code public ! - Une campagne pour la publication sous Licence Libre des logiciels financés par le contribuable"
   fsdefinition  = "Les Logiciels Libres donnent à tous le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée."
 
 
@@ -33,7 +33,7 @@
 
 # Arguments section
 [Languages.fr.arguments]
-  headline    = "Raisons pour le Code Public"
+  headline    = "Raisons pour le Code public"
   followup    = "Vous pensez que le Logiciel Libre devrait être la norme pour le logiciel financé par le public ? Allons convaincre vos responsables politiques !"
   buttonText  = "Signer la lettre ouverte"
 [[Languages.fr.arguments.list]]
@@ -59,7 +59,7 @@
   headline      = "Dites-le à vos représentants !"
   intro         = "Dans notre [**lettre ouverte**](openletter/) nous exigeons:"
   demand        = "« Une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source](https://fsfe.org/freesoftware/basics/summary.fr.html 'Les Logiciels Libres donnent à tous le droits d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). »"
-  description   = "**$ORGS organisations** and **$INDS personnes** soutiennent cet appel à agir en signant notre [lettre ouverte](openletter/). Vous pouvez nous aider à avoir un impact bien plus large en la signant aussi ! Nous remettrons l’ensemble des signatures aux représentants qui débattent la question de la liberté de logiciel dans l’administration publique."
+  description   = "**$ORGS organisations** et **$INDS personnes** soutiennent cet appel à agir en signant notre [lettre ouverte](openletter/). Vous pouvez nous aider à avoir un impact bien plus large en la signant aussi ! Nous remettrons l’ensemble des signatures aux représentants qui débattent la question de la liberté de logiciel dans l’administration publique."
 
 [Languages.fr.action.box]
   text      = "Déjà **$INDS SIGNATURES** – signer la lettre ouverte maintenant !"
@@ -70,7 +70,7 @@
   country   = "Votre pays"
   zip       = "Code postal"
   comment   = "Votre commentaire (max. 140 caractères)"
-  permPriv  = "J’ai lu et accepté la [déclaration de vie privée](privacy/)"
+  permPriv  = "J’ai lu et accepté la [politique de confidentialité](privacy/)"
   permNews  = "Je veux rester informé sur la suite de cette campagne"
   permPub   = "Je souhaite que ma signature apparaisse sur la [liste de signatures](openletter/all-signatures)"
   submit    = "Signer maintenant !"
@@ -87,7 +87,7 @@
   promoText         = "Commander les derniers stickers et flyers de la FSFE"
   promoButtonText   = "Obtenir du matériel de promotion"
   shareText         = "Faire savoir à vos amis et followers à propos du code public:"
-  defaultSocialText = "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre: "
+  defaultSocialText = "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre:"
 
 
 # Legal Section

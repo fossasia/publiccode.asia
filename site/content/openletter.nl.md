@@ -11,23 +11,23 @@ niet hoe belangrijk software is.
 
 {{< fsdefinition type="box">}}
 
-U kunt hiermee helpen!  Onderteken de open brief zodat onze boodschap nog luider
+U kunt hierbij helpen!  Onderteken de open brief zodat onze boodschap nog luider
 overkomt, zoals 15 mensen en 21 organisaties reeds gedaan hebben.  Wij zullen de
 brief en handtekeningen overhandigen aan uw vertegenwoordigers om ervoor te
 zorgen dat zij begrijpen: Publiek Geld?  Publieke Code!
 
 > ## Publiek Geld?  Publieke Code!
 >
-> Digitale diensten die gebruikt en aangeboden worden door onze openbare
-> besturen zijn dé cruciale infrastructuur van 21e-eeuwse democratische landen.
-> Om betrouwbare systemen te vestigen, moeten overheidsinstanties volledig
-> beheer hebben over de software en computersystemen in het hart van onze
-> digitale infrastructuur.  Echter is dat huidig meestal niet het geval vanwege
+> Digitale diensten die gebruikt en aangeboden worden door onze overheden zijn
+> dé cruciale infrastructuur van 21e-eeuwse democratische landen.  Om
+> betrouwbare systemen op te zetten, moeten overheidsinstanties volledig beheer
+> hebben over de software en computersystemen in het hart van onze digitale
+> infrastructuur.  Dat is op het moment echter meestal niet het geval vanwege
 > beperkende softwarelicenties die:
 >
 > * Het delen en uitwisselen van publiek gefinancierde code verbieden.  Dit
->   maakt samenwerking tussen openbare besturen onmogelijk en verhindert
->   doorontwikkeling.
+>   maakt samenwerking tussen overheden onmogelijk en verhindert verdere
+>   ontwikkeling.
 >
 > * Monopolies ondersteunen door concurrentie te belemmeren.  Veel besturen
 >   worden hierdoor afhankelijk van een handjevol bedrijven.
@@ -39,11 +39,11 @@ zorgen dat zij begrijpen: Publiek Geld?  Publieke Code!
 > We hebben software nodig die het delen van goede ideeën en oplossingen
 > bevordert.  Op deze manier kunnen we ICT-diensten verbeteren voor mensen in
 > heel Europa.  We hebben software nodig die garant staat voor vrijheid van
-> keuze, toegang en concurrentie.  We hebben software nodig die openbare
-> besturen helpt om volledig beheer over hun cruciale digitale infrastructuur te
-> herwinnen, zodat ze onafhankelijk kunnen worden en blijven van een handjevol
-> bedrijven.  Daarom doen wij een oproep aan onze vertegenwoordigers om Vrije en
-> Open Bron Software te ondersteunen in openbare besturen.  Omdat:
+> keuze, toegang en concurrentie.  We hebben software nodig die overheden helpt
+> om volledig beheer over hun cruciale digitale infrastructuur te herwinnen,
+> zodat ze onafhankelijk kunnen worden en blijven van een handjevol bedrijven.
+> Daarom doen wij een oproep aan onze vertegenwoordigers om Vrije en Open Bron
+> Software te ondersteunen binnen overheden.  Omdat:
 >
 > * Vrije en Open Bron Software is een modern, openbaar goed dat iedereen in
 >   staat stelt om de applicaties waar we dagelijks gebruik van maken in
@@ -68,6 +68,6 @@ zorgen dat zij begrijpen: Publiek Geld?  Publieke Code!
 > Vrije en Open Bron Softwarelicentie.”
 
 <!--- De onderstaande mensen hebben de brief al ondertekend en hebben toegestemd
-om hun handtekening openbaar te maken.  Zult u de volgende zijn? --->
+om hun handtekening openbaar te maken.  Bent u de volgende? --->
 
 [fs]: https://fsfe.org/freesoftware/basics/summary.nl.html "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."
