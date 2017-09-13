@@ -15,7 +15,7 @@
 {{ "<!-- Open Graph meta-data (e.g. Facebook) -->" | safeHTML }}
 <meta property="og:type" content="website"/>
 <meta property="og:title" content="{{ .Site.Title }}"/>
-<meta property="og:url" content="{{ .Site.Params.static.url }}"/>
+<meta property="og:url" content="{{ .Site.Params.static.url }}{{ "/" | relLangURL }}"/>
 <meta property="og:image" content="{{ .Site.Params.static.url }}/{{ .Site.Params.static.meta.previewImage }}"/>
 <meta property="og:description" content="{{ .Site.Params.description }}"/>
 <meta property="og:locale" content="{{ .Lang }}"/>
@@ -23,13 +23,13 @@
 <meta property="fb:page_id" content="{{ .Site.Params.static.meta.fbPageID }}"/>
 
 {{ "<!-- Twitter meta-data -->" | safeHTML }}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="{{ .Site.Params.static.meta.twitterUser }}">
-<meta name="twitter:title" content="{{ .Site.Title }}">
-<meta name="twitter:description" content="{{ .Site.Params.description }}">
-<meta name="twitter:image" content="{{ .Site.Params.static.url }}/{{ .Site.Params.static.meta.previewImage }}">
-<meta name="twitter:url" content="{{ .Site.Params.static.url }}">
-<meta name="twitter:creator" content="{{ .Site.Params.static.meta.twitterUser }}">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="{{ .Site.Params.static.meta.twitterUser }}"/>
+<meta name="twitter:title" content="{{ .Site.Title }}"/>
+<meta name="twitter:description" content="{{ .Site.Params.description }}"/>
+<meta name="twitter:image" content="{{ .Site.Params.static.url }}/{{ .Site.Params.static.meta.previewImage }}"/>
+<meta name="twitter:url" content="{{ .Site.Params.static.url }}{{ "/" | relLangURL }}"/>
+<meta name="twitter:creator" content="{{ .Site.Params.static.meta.twitterUser }}"/>
 
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="icon" type="image/png" href="{{ "favicon.png" | absURL }}" sizes="128x128">
