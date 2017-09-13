@@ -35,19 +35,19 @@
   headline    = "要求使用自由暨開源軟體授權的理由"
   followup    = "您支持用納稅人的錢所開發的軟體應該預設使用自由暨開源軟體授權嗎？**讓我們一起向民代們發聲！**"
   buttonText  = "連署支持此封公開信"
-[[Languages.en.arguments.list]]
+[[Languages.zh_TW.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
   title       = "節省經費"
   description = "相似的軟體不需要每次都從頭重新開發。"
-[[Languages.en.arguments.list]]
+[[Languages.zh_TW.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "協同合作"
   description = "重要的專案應該分享專業知識並分攤花費。"
-[[Languages.en.arguments.list]]
+[[Languages.zh_TW.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "為公眾服務"
   description = "公眾的納稅錢所支付開發的軟體，當然應該讓所有人都能使用。"
-[[Languages.en.arguments.list]]
+[[Languages.zh_TW.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "啟發創新"
   description = "公開透明的流程，讓其他人不需重新發明輪子，而可以開發新點子。"
