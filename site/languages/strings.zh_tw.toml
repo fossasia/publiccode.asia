@@ -1,0 +1,125 @@
+# == TRADITIONAL CHINESE ==
+
+# General strings
+[Languages.zh_TW]
+  languageCode  = "zh_tw"
+  languageName  = "正體中文（臺灣）"
+  description   = "拿人民的納稅錢，就該做公開透明的資訊系統 - 呼籲公家機關之資訊系統應採用自由軟體"
+  fsdefinition  = "自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。"
+
+# Navigation
+[Languages.zh_TW.navigation]
+[Languages.zh_TW.navigation.links]
+  start     = "活動緣由"
+  about     = "關於"
+  arguments = "原因"
+  action    = "付諸行動"
+  spread    = "分享給大家"
+
+
+# Start banner
+[Languages.zh_TW.start]
+  subtitle1   = "為什麼用人民納稅錢所建立的軟體與資訊系統，卻沒有以自由軟體授權公開釋出呢？"
+  subtitle2   = "我們要求制定法律，明訂以公務機關的經費，為公務機關需要所開發的軟體，必須以[自由暨開源軟體](https://fsfe.org/about/mission.html '自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。')授權釋出。也就是說，既然經費是公共的，所做的軟體也必須是公共的。"
+  subtitle3   = "**用納稅人的錢所寫的軟體，全國所有人都應該可以使用！**" 
+
+
+# About section
+[Languages.zh_TW.about]
+  headline    = "聽起來很複雜嗎？其實不會，很簡單的！"
+  buttonText  = "更多好處"
+
+
+# Arguments section
+[Languages.zh_TW.arguments]
+  headline    = "要求使用自由暨開源軟體授權的理由"
+  followup    = "您支持用納稅人的錢所開發的軟體應該預設使用自由暨開源軟體授權嗎？**讓我們一起向民代們發聲！**"
+  buttonText  = "連署支持此封公開信"
+[[Languages.en.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "節省經費"
+  description = "相似的軟體不需要每次都從頭重新開發。"
+[[Languages.en.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "協同合作"
+  description = "重要的專案應該分享專業知識並分攤花費。"
+[[Languages.en.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "為公眾服務"
+  description = "公眾的納稅錢所支付開發的軟體，當然應該讓所有人都能使用。"
+[[Languages.en.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "啟發創新"
+  description = "公開透明的流程，讓其他人不需重新發明輪子，而可以開發新點子。"
+
+
+# Action section
+[Languages.zh_TW.action]
+  headline      = "告訴您的選區的立法委員與民意代表！"
+  intro         = "在我們的[**公開信**](openletter/)中我們要求：" 
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "制定法律，明訂以公務機關的經費，為公務機關需要所開發的軟體，必須以[自由暨開源軟體](https://fsfe.org/about/summary.html '自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。')授權釋出。"
+  description   = "**$ORGS**個組織與**$INDS**個人已經連署我們的[公開信](openletter/)表達支持。您也可以一起加入連署，讓我們的聲音更壯大！我們會整理所有的連署名單，傳達給議員與民意代表，要求公家機關使用納稅人的錢所開發的軟體必須自由！"
+
+[Languages.zh_TW.action.box]
+  text      = "已連署：**$INDS SIGNATURES** – 現在就加入連署！"
+
+[Languages.zh_TW.action.form]
+  name      = "姓名（必填）"
+  email     = "電子郵件地址（必填）"
+  country   = "所屬國家"
+  zip       = "郵遞區號"
+  comment   = "您想說的話（最多 140 個字元）"
+  permPriv  = "我已閱讀並接受[隱私聲明](privacy/)"
+  permNews  = "我想繼續接收此活動的後續消息"
+  permPub   = "我願意將我的姓名公開在[連署名單](openletter/all-signatures)中"
+  submit    = "現在就連署！"
+
+
+# Organisations section
+[Languages.zh_TW.organisations]
+  headline  = "支持並連署的組織"
+  text      = "以下的組織均已連署支持我們的[公開信主張](openletter/)。如果您所屬的組織也願意加入連署，請[與我們聯繫](mailto:contact@fsfe.org)。"
+
+
+# Spread the word section
+[Languages.zh_TW.spread]
+  headline          = "分享給大家！"
+  promoText         = "向歐洲自由軟體基金會訂購貼紙與傳單"
+  promoButtonText   = "取得推廣素材"
+  shareText         = "告訴您的朋友與推友關於此活動："
+  defaultSocialText = "使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權："
+
+
+# Legal Section
+[Languages.zh_TW.legal]
+  by            = "這個活動由歐洲自由軟體基金會發起"
+  imprint       = "版本說明"
+  privacy       = "隱私聲明"
+  transparency  = "透明度"
+  contribute1   = "此網站本身為自由軟體。" 
+  contribute2   = "歡迎您一起來貢獻！"
+  license       = "這個網站的內容以[創用 CC BY-SA 4.0 授權](http://creativecommons.org/licenses/by-sa/4.0/)。"
+
+
+# Language selection
+[Languages.zh_TW.language]
+  description = "切換到其它語言"
+
+
+# 404 Error Page
+[Languages.zh_TW.error]
+  headline    = "404 - 找不到頁面"
+  description = "您所拜訪的頁面不存在。"
+  button      = "回到首頁"
+
+
+# Specific sub-pages
+[Languages.zh_TW.subpage]
+[Languages.zh_TW.subpage.signatures]
+  headline      = "公開信之個人連署"
+  description   = "底下是已參與連署並願意公開姓名的個人。希望您就是下一位！"
+  allSignatures = "查看[所有的公開連署名單](all-signatures/)."
+  tableName     = "姓名"
+  tableCountry  = "國家"
+  tableComment  = "想說的話"
