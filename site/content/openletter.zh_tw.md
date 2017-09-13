@@ -31,4 +31,4 @@ sigtable: true
 > 
 > **「制定法律，要求取自人民納稅錢所建置或開發的各公家單位軟體資訊系統，皆必須採用自由與開源軟體授權，公開給民眾使用！」**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy."
+[fs]: https://fsfe.org/freesoftware/basics/summary.html "自由軟體賦予所有人使用、研究、分享與改善軟體的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。"
