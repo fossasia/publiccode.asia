@@ -4,7 +4,7 @@ type: page
 layout: subpage
 ---
 
-Questa è la lista completa di tutte le persone che hanno firmato la lettera aperta e concordano all'avere il loro nome in pubblico. {{< count type="signatures" >}} persone hanno espresso il già il loro supporto, sei tra di loro?
+Questa è la lista completa di tutte le persone che hanno firmato la lettera aperta ed hanno acconsentito a render pubblico il loro nome. {{< count type="signatures" >}} persone hanno già espresso il loro supporto, sei uno di loro?
 
 Questa lista è aggiornata ogni ora.
 
