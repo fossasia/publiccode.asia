@@ -21,7 +21,7 @@
 # Start banner
 [Languages.it.start]
   subtitle1   = "Perché il software creato usando i soldi delle tasse riscosse dai cittadini non è rilasciato come Software Libero?"
-  subtitle2   = "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero e Open Source](https://fsfe.org/about/mission.html) 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, stampa, privacy. Se sono soldi pubblici (public money), allora dovrebbe anche essere codice sorgente pubblico (public code)."
+  subtitle2   = "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero e Open Source](https://fsfe.org/about/mission.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, stampa, privacy.') Se sono soldi pubblici (public money), allora dovrebbe anche essere codice sorgente pubblico (public code)."
   subtitle3   = "**Il codice pagato dalle persone dovrebbe essere disponibile alle persone!**" 
 
 
