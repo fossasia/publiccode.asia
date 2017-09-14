@@ -132,6 +132,9 @@ blockquote p {
   font-weight: 400;
   margin: 5px 3px;
 }
+#action form input[type="checkbox"] {
+  color: initial !important;  /* fixes hidden checkbox mark on FF Mobile */
+}
 .sign-input {
   position: relative;
   color: #555;
@@ -183,8 +186,8 @@ select::-ms-expand {
   content: "\f003";
 }
 .form-cn select {
-  padding-left: 0px !important;
-  text-indent: 15px !important; /* ugly hack for Safari browsers */
+  padding-left: 34px !important;
+  /*text-indent: 15px !important;  ugly hack for Safari browsers */
   background-color: #ffffff;
 }
 .form-cn select option:first-child {
@@ -202,12 +205,12 @@ select::-ms-expand {
   content: "\f27a";
   padding-left: 3px;
 }
-p.form-pe {
+div.form-pe {
   text-align: left;
   max-width: 530px; /* to not let the checkboxed go far more left than the input boxes above */
   margin: 0 auto;
 }
-p.form-pe a {
+div.form-pe a {
   color: inherit;
 }
 #honey {

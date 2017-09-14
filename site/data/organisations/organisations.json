@@ -30,6 +30,11 @@
     "url": "https://www.ccc.de"
   },
   {
+    "name": "Debian",
+    "img": "debian.png",
+    "url": "https://debian.org"
+  },
+  {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "url": "https://exposefacts.org/"
@@ -40,7 +45,7 @@
     "url": "http://www.lugos.si"
   },
   {
-    "name": "Digitalcourage",
+    "name": "digitalcourage",
     "img": "digitalcourage.png",
     "url": "https://digitalcourage.de/"
   },
@@ -65,7 +70,7 @@
     "url": "https://edri.org"
   },
   {
-    "name": "EPaństwo Foundation",
+    "name": "ePaństwo Foundation",
     "img": "epanstwo.png",
     "url": "https://epf.org.pl"
   },
@@ -95,7 +100,7 @@
     "url": "https://hackyourphd.org/"
   },
   {
-    "name": "K Desktop Environment",
+    "name": "KDE e.V.",
     "img": "kde.png",
     "url": "https://ev.kde.org"
   },
@@ -145,7 +150,7 @@
     "url": "https://publicsoftware.eu/"
   },
   {
-    "name": "Quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
+    "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
     "url": "http://quintessenz.at" 
   },

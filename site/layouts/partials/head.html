@@ -13,14 +13,13 @@
 {{end}}
 
 {{ "<!-- Open Graph meta-data (e.g. Facebook) -->" | safeHTML }}
-<meta property="og:type" content="website"/>
 <meta property="og:title" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Site.Params.static.url }}{{ "/" | relLangURL }}"/>
 <meta property="og:image" content="{{ .Site.Params.static.url }}/{{ .Site.Params.static.meta.previewImage }}"/>
 <meta property="og:description" content="{{ .Site.Params.description }}"/>
 <meta property="og:locale" content="{{ .Lang }}"/>
-{{ range .Translations }}<meta property="og:locale:alternate" content="{{.Lang }}"/>{{ end }}
-<meta property="fb:page_id" content="{{ .Site.Params.static.meta.fbPageID }}"/>
+{{ range .Translations }}
+<meta property="og:locale:alternate" content="{{.Lang }}"/>{{ end }}
 
 {{ "<!-- Twitter meta-data -->" | safeHTML }}
 <meta name="twitter:card" content="summary_large_image"/>

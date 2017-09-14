@@ -1,0 +1,319 @@
+1
+00:00:00,000 --> 00:00:01,240
+Immagina per un momento
+
+2
+00:00:01,240 --> 00:00:03,900
+che il nostro governo tratti le nostre infrastrutture pubbliche,
+
+3
+00:00:03,900 --> 00:00:06,100
+le nostre strade e i palazzi pubblici,
+
+4
+00:00:06,100 --> 00:00:09,480
+come tratta la nostra infrastruttura digitale.
+
+5
+00:00:09,480 --> 00:00:12,560
+I nostri parlamentari lavorerebbero in un palazzo in affitto
+
+6
+00:00:12,560 --> 00:00:16,360
+in cui sarebbe loro vietato votare a favore di leggi ambientali più severe
+
+7
+00:00:16,360 --> 00:00:19,240
+perché il proprietario del palazzo, una multinazionale
+
+8
+00:00:19,240 --> 00:00:22,580
+non permetterebbe quel tipo di votazione nel proprio palazzo.
+
+9
+00:00:22,840 --> 00:00:25,240
+Non permetterebbe una ristrutturazione chiesta da tempo
+
+10
+00:00:25,240 --> 00:00:27,240
+per avere più di 500 seggi;
+
+11
+00:00:27,240 --> 00:00:31,820
+pertanto alcuni parlamentari dovrebbero restare fuori, in strada.
+
+12
+00:00:31,820 --> 00:00:33,940
+Ad un paio di isolati di distanza
+
+13
+00:00:33,940 --> 00:00:36,960
+una palestra nuova fiammante è già in demolizione,
+
+14
+00:00:36,960 --> 00:00:39,460
+appena sei mesi dopo la sua costruzione.
+
+15
+00:00:39,460 --> 00:00:42,440
+Sarà sostituita da una copia identica,
+
+16
+00:00:42,440 --> 00:00:44,020
+con grandi spese;
+
+17
+00:00:44,020 --> 00:00:45,440
+l'unica differenza:
+
+18
+00:00:45,440 --> 00:00:50,460
+il nuovo costruttore fornirà in aggiunta un "canestro da strada"
+
+19
+00:00:50,540 --> 00:00:51,620
+Nel frattempo,
+
+20
+00:00:51,620 --> 00:00:54,620
+ogni notte, attraverso una backdoor del municipio,
+
+21
+00:00:54,620 --> 00:00:57,920
+documenti contenenti dati personali dei cittadini,
+
+22
+00:00:57,920 --> 00:00:59,920
+da dati bancari a quelli sanitari,
+
+23
+00:00:59,920 --> 00:01:01,920
+sono rubati.
+
+24
+00:01:01,920 --> 00:01:05,060
+Ma nessuno può farci nulla,
+
+25
+00:01:05,060 --> 00:01:08,760
+perché cercare e chiudere backdoor
+
+26
+00:01:08,760 --> 00:01:11,840
+violerebbe il contratto con il proprietario.
+
+27
+00:01:11,840 --> 00:01:14,540
+Per quanto possa sembrare assurdo,
+
+28
+00:01:14,540 --> 00:01:17,120
+quando si considera la nostra infrastruttura digitale,
+
+29
+00:01:17,120 --> 00:01:19,220
+cose come software e programmi
+
+30
+00:01:19,220 --> 00:01:21,560
+che i nostri governi usano quotidianamente,
+
+31
+00:01:21,700 --> 00:01:24,660
+questo paragone è molto accurato.
+
+32
+00:01:24,660 --> 00:01:26,040
+Principalmente perché
+
+33
+00:01:26,040 --> 00:01:29,820
+le nostre amministrazioni si procurano software proprietario.
+
+34
+00:01:29,820 --> 00:01:33,420
+Ciò significa che molti soldi se ne vanno in licenze
+
+35
+00:01:33,420 --> 00:01:35,960
+che durano per un periodo di tempo limitato
+
+36
+00:01:35,960 --> 00:01:38,360
+e limitano i nostri diritti.
+
+37
+00:01:38,360 --> 00:01:41,000
+Non ci è permesso usare la nostra infrastruttura
+
+38
+00:01:41,000 --> 00:01:43,000
+in un modo ragionevole.
+
+39
+00:01:43,000 --> 00:01:46,580
+E dato che il codice sorgente del software proprietario
+
+40
+00:01:46,580 --> 00:01:49,320
+È solitamente un segreto industriale,
+
+41
+00:01:49,320 --> 00:01:52,640
+cercare falle di sicurezza o backdoor deliberatamente installate
+
+42
+00:01:52,640 --> 00:01:55,960
+È estremamente difficile e perfino illegale.
+
+43
+00:01:55,960 --> 00:01:59,580
+Ma le nostre amministrazioni pubbliche possono fare di meglio!
+
+44
+00:01:59,580 --> 00:02:04,540
+Se tutto il software finanziato pubblicamente fosse Libero ed Open Source,
+
+45
+00:02:04,540 --> 00:02:07,440
+potremmo usare e condividere la nostra infrastruttura
+
+46
+00:02:07,440 --> 00:02:10,140
+per qualunque cosa e per il tempo che vorremmo.
+
+47
+00:02:10,140 --> 00:02:12,140
+Potremmo aggiornarlo,
+
+48
+00:02:12,140 --> 00:02:14,140
+ripararlo,
+
+49
+00:02:14,140 --> 00:02:15,580
+e rimodellarlo
+
+50
+00:02:15,580 --> 00:02:18,360
+a seconda di qualunque nostra esigenza.
+
+51
+00:02:18,360 --> 00:02:21,800
+Poiché l'"Open Source" nel Software Libero significa
+
+52
+00:02:21,800 --> 00:02:25,080
+che la documentazione tecnica è aperta e leggibile da chiunque,
+
+53
+00:02:25,080 --> 00:02:29,860
+ciò rende molto più semplice trovare e chiudere falle di sicurezza.
+
+54
+00:02:29,860 --> 00:02:34,660
+Se qualcosa di pratico ed affidabile fosse creato digitalmente,
+
+55
+00:02:34,660 --> 00:02:39,100
+non solo potresti riusare la documentazione tecnica nel tuo paese,
+
+56
+00:02:39,100 --> 00:02:42,960
+ma la cosa veramente importante è che potresti installarlo ovunque,
+
+57
+00:02:42,960 --> 00:02:44,960
+perfino a livello internazionale!
+
+58
+00:02:44,960 --> 00:02:48,580
+Un ottimo esempio di ciò è "FixMyStreet":
+
+59
+00:02:48,580 --> 00:02:50,460
+Originariamente sviluppato in Gran Bretagna
+
+60
+00:02:50,460 --> 00:02:52,420
+come Software Libero per segnalare,
+
+61
+00:02:52,420 --> 00:02:54,420
+vedere e discutere di problemi locali,
+
+62
+00:02:54,420 --> 00:02:55,940
+come buche stradali,
+
+63
+00:02:55,960 --> 00:02:59,080
+È ora usato in tutto il mondo.
+
+64
+00:02:59,160 --> 00:03:00,700
+Chiunque ne beneficia
+
+65
+00:03:00,700 --> 00:03:02,960
+perché nuove funzionalità e miglioramenti
+
+66
+00:03:02,960 --> 00:03:04,960
+sono condivisi da chiunque.
+
+67
+00:03:05,200 --> 00:03:08,480
+Se tutto il nostro software fosse sviluppato così,
+
+68
+00:03:08,480 --> 00:03:12,220
+potremmo finire di lottare con licenze restrittive
+
+69
+00:03:12,220 --> 00:03:14,860
+e potremmo iniziare a pensare a dove e a come
+
+70
+00:03:14,860 --> 00:03:16,860
+il software potrebbe aiutarci.
+
+71
+00:03:16,860 --> 00:03:18,040
+Potremmo concentrarci
+
+72
+00:03:18,040 --> 00:03:20,920
+sulla creazione di una società migliore per tutti.
+
+73
+00:03:20,920 --> 00:03:24,200
+Pertanto, se pensi che l'infrastruttura di domani
+
+74
+00:03:24,200 --> 00:03:26,460
+debba essere nelle nostre mani,
+
+75
+00:03:26,460 --> 00:03:29,680
+aiutaci adesso condividendo questo video
+
+76
+00:03:29,680 --> 00:03:31,460
+e visitando il nostro sito:
+
+77
+00:03:31,460 --> 00:03:33,460
+www.publiccode.eu
+
+78
+00:03:33,800 --> 00:03:36,460
+È tempo di fare la nostra richiesta:
+
+79
+00:03:36,460 --> 00:03:38,180
+Public money?
+
+80
+00:03:38,180 --> 00:03:39,940
+Public code!
