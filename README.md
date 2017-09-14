@@ -14,7 +14,7 @@ The page is visible at [publiccode.eu](https://publiccode.eu).
 - [Build](#build)
 - [HowTos and FAQs](#howtos-and-faqs)
 - [Maintainers](#maintainers)
-- [License](#license)
+- [Licence](#licence)
 
 
 ## Contribute
@@ -153,3 +153,8 @@ signatures).
 ## Maintainers
 
 [@max.mehl](https://git.fsfe.org/max.mehl)
+
+
+## Licence
+
+This software is copyright 2017 by the Free Software Foundation Europe e.V. and licensed under the GPLv3 license. For details see the "LICENSE" file in the top level directory of https://git.fsfe.org/pmpc/website/
