@@ -153,8 +153,3 @@ signatures).
 ## Maintainers
 
 [@max.mehl](https://git.fsfe.org/max.mehl)
-
-
-## License
-
-GNU GPL 3.0+ © 2017 Free Software Foundation Europe (FSFE)
