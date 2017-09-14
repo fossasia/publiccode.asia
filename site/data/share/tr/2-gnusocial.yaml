@@ -1,0 +1,9 @@
+titleBefore: Paylaşın
+titleAfter:
+# This "customText" shouldn't have more than 115 characters!
+customText: "Kamusal paraysa, kamusal kod da olmalıdır! @fsfe@quitter.no'nun #kamusalkod #publiccode çağrısını destekliyorum:"
+
+# Do not translate below here
+id: gnusocial
+name: GNU Social
+userinput: true
