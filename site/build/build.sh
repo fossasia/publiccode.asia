@@ -21,12 +21,12 @@ elif [ "$mode" == "syntax" ]; then
 else
   hugo
 
-  #
-  # After building the website, we set the AWS credentials and uplodad
-  # everything to our AWS s3 bucket.
-  #
-  if [ -f /srv/cred/aws.sh ]; then
-    . /srv/cred/aws.sh
-    /usr/local/bin/aws s3 cp /usr/share/blog/public/ s3://aws-website-pmpc-soegm/ --recursive
-  fi
+  ##
+  ## After building the website, we set the AWS credentials and uplodad
+  ## everything to our AWS s3 bucket.
+  ##
+  #if [ -f /srv/cred/aws.sh ]; then
+    #. /srv/cred/aws.sh
+    #/usr/local/bin/aws s3 cp /usr/share/blog/public/ s3://aws-website-pmpc-soegm/ --recursive
+  #fi
 fi
