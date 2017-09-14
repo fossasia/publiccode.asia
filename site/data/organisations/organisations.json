@@ -30,6 +30,11 @@
     "url": "https://www.ccc.de"
   },
   {
+    "name": "Debian",
+    "img": "debian.png",
+    "url": "https://debian.org"
+  },
+  {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "url": "https://exposefacts.org/"
