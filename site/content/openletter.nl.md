@@ -11,10 +11,11 @@ niet hoe belangrijk software is.
 
 {{< fsdefinition type="box">}}
 
-U kunt hierbij helpen!  Onderteken de open brief zodat onze boodschap nog luider
-overkomt, zoals 15 mensen en 21 organisaties reeds gedaan hebben.  Wij zullen de
-brief en handtekeningen overhandigen aan uw vertegenwoordigers om ervoor te
-zorgen dat zij begrijpen: Publiek Geld?  Publieke Code!
+U kunt hierbij helpen! Onderteken de open brief zodat onze boodschap nog luider
+overkomt, zoals **{{< count type="signatures" >}} mensen** en **{{< count
+type="organisations" >}} organisaties** reeds gedaan hebben. Wij zullen de brief
+en handtekeningen overhandigen aan uw vertegenwoordigers om ervoor te zorgen dat
+zij begrijpen: Publiek Geld? Publieke Code!
 
 > ## Publiek Geld?  Publieke Code!
 >
