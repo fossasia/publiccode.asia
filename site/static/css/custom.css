@@ -132,6 +132,9 @@ blockquote p {
   font-weight: 400;
   margin: 5px 3px;
 }
+#action form input[type="checked"] {
+  color: #000;
+}
 .sign-input {
   position: relative;
   color: #555;
