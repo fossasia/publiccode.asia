@@ -11,8 +11,8 @@ Quando nel presente documento ci si riferisce a "noi", ci si riferisce alla FSFE
 ## Cosa raccogliamo e perché
 
 Quando usi questo sito per firmare la lettera aperta, raccogliamo
-e conserviamo informazioni da te fornite quali il tuo nome, indirizzo e-mail e
-nazionalità, per le quali hai espresso il consenso al trattamento. Mostreremo
+e conserviamo informazioni da te fornite quali il tuo nome, il tuo indirizzo e-mail e
+la tua nazionalità, per le quali hai espresso il consenso al trattamento. Mostreremo
 pubblicamente il tuo nome come firmatario della lettera aperta solo se darai il tuo consenso
 a mostrare pubblicamente il tuo nome nella [lista dei firmatari](/openletter/all-signatures). Comunicheremo anche
 il tuo nome e nazionalità ai destinatari della lettera
@@ -50,4 +50,4 @@ Nel caso tu abbia domande sull'uso dei tuoi dati, o desiderassi
 richiedere una copia di tutte le informazioni che conserviamo sul tuo conto, o
 desiderassi contattare il nostro Responsabile della Protezione dei Dati per altri
 fini, il nostro Responsabile della Protezione dei Dati è il
-:direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
