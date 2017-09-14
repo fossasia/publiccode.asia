@@ -48,14 +48,18 @@
     <input name="comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
   </label>
   <div class="form-pe">
-    <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required />
-    <label class="form-pe" for="permissionPriv"> {{ replace .Site.Params.action.form.permPriv "privacy/" ("/privacy" | relLangURL) | markdownify }}</label>
-    <br />
-    <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" />
-    <label class="form-pe" for="permissionPub"> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}</label>
-    <br />
-    <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" />
-    <label class="form-pe" for="permissionNews"> {{ .Site.Params.action.form.permNews | markdownify }}</label>
+    <div>
+      <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required />
+      <label class="form-pe" for="permissionPriv"> {{ replace .Site.Params.action.form.permPriv "privacy/" ("/privacy" | relLangURL) | markdownify }}</label>
+    </div>
+    <div>
+      <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" />
+      <label class="form-pe" for="permissionPub"> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}</label>
+    </div>
+    <div>
+      <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" />
+      <label class="form-pe" for="permissionNews"> {{ .Site.Params.action.form.permNews | markdownify }}</label>
+    </div>
   </div>
   
   <label id="honey"> <!-- Honeypot for spam -->
