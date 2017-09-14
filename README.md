@@ -81,7 +81,7 @@ execute Bash scripts in your command line.
    file](https://git.fsfe.org/pmpc/website/src/master/site/build/build.sh#L4).
 4. In your terminal, execute `./build/build.sh server`. This command
    will build the website and enable you to browse the result on your
-   computer only. Open [localhost:1313](localhost:1313) in your web
+   computer only. Open [localhost:1313](http://localhost:1313/) in your web
    browser to see it.
 
 If you want to make changes to the official website, please read [our 
@@ -136,7 +136,10 @@ The website structure is very easy. The most important files and directories are
 
 ### Add a new supporting organisation
 
+Adding a new supporting organisation requires two steps:
 
+1. Add a new entry in [site/data/organisations/organisations.json](https://git.fsfe.org/max.mehl/pmpc-website/src/improve-readme/site/data/organisations/organisations.json) in valid JSON format, the file should be self-explaining: *name* is the full name of the organisation, *img* is the name of the logo file (case-sensitive!), and *url* the web address of the organisation. To make sure that the file has a valid JSON syntax you can use [jsonlint.com](https://jsonlint.com/) or another tool before committing your changes.
+2. Add the organisation's logo to the [site/static/img/organisations](https://git.fsfe.org/max.mehl/pmpc-website/src/improve-readme/site/static/img/organisations) directory. Please only upload PNG files with maximum 150px width or 100px height – ideally using transparency instead of white as background so we can also use it on other backgrounds some day. Consider using `pngcrush` or a similar tool to reduce the file's size and remove metadata.
 
 
 ### Technical information about the online build
