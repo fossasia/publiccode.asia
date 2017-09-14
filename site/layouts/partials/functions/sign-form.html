@@ -49,16 +49,19 @@
   </label>
   <div class="form-pe">
     <div>
-      <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required />
-      <label class="form-pe" for="permissionPriv"> {{ replace .Site.Params.action.form.permPriv "privacy/" ("/privacy" | relLangURL) | markdownify }}</label>
+      <label class="form-pe" for="permissionPriv">
+        <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required /> {{ replace .Site.Params.action.form.permPriv "privacy/" ("/privacy" | relLangURL) | markdownify }}
+      </label>
     </div>
     <div>
-      <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" />
-      <label class="form-pe" for="permissionPub"> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}</label>
+      <label class="form-pe" for="permissionPub">
+        <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}
+      </label>
     </div>
     <div>
-      <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" />
-      <label class="form-pe" for="permissionNews"> {{ .Site.Params.action.form.permNews | markdownify }}</label>
+      <label class="form-pe" for="permissionNews">
+        <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.form.permNews | markdownify }}
+      </label>
     </div>
   </div>
   

@@ -132,6 +132,9 @@ blockquote p {
   font-weight: 400;
   margin: 5px 3px;
 }
+#action form input[type="checkbox"] {
+  color: initial !important;  /* fixes hidden checkbox mark on FF Mobile */
+}
 .sign-input {
   position: relative;
   color: #555;
