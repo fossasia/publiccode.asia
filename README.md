@@ -5,10 +5,7 @@
 This website is the core of the "Public Money, Public Code" campaign. It is
 based on [Hugo](https://gohugo.io/), a modern static website generator.
 
-The page is visible at [publiccode.eu](https://publiccode.eu). Please do not
-spread this URL. The website requires authentication to be visited. Username is
-`pmpc`, password is `publicmoneypubliccode`. Please do not spread this
-information to outside people not involved in the website development.
+The page is visible at [publiccode.eu](https://publiccode.eu).
 
 ## Contributing to the website
 
