@@ -1,0 +1,10 @@
+titleBefore: Condividi su
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Se è public money, dovrebbe anche essere public code! Supporto la chiamata di @fsfe@quitter.no per più #publiccode: "
+
+# Do not translate below here
+id: gnusocial
+name: GNU Social
+userinput: true
+
