@@ -1,7 +1,7 @@
-# == ENGLISH ==
+# == TURKISH ==
 
 # General strings
-[Languages.en]
+[Languages.tr]
   languageCode  = "tr"
   languageName  = "Türkçe"
   description   = "Kamusal Para, Kamusal Kod - Kamu tarafından finanse edilmiş yazılımların Özgür Yazılım olarak yayınlanması için bir kampanya"
@@ -9,8 +9,8 @@
 
 
 # Navigation
-[Languages.en.navigation]
-[Languages.en.navigation.links]
+[Languages.tr.navigation]
+[Languages.tr.navigation.links]
   start     = "Başlangıç"
   about     = "Hakkında"
   arguments = "Gerekçeler"
@@ -19,53 +19,53 @@
 
 
 # Start banner
-[Languages.en.start]
+[Languages.tr.start]
   subtitle1   = "Vergi verenlerin parasıyla üretilen yazılım neden Özgür Yazılım olarak yayınlanmıyor?"
   subtitle2   = "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Free and Open Source Software](https://fsfe.org/about/mission.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kamusal kod da olmalıdır!"
   subtitle3   = "**Halkın parasıyla üretilen kod, halka açık olmalıdır!**"
 
 
 # About section
-[Languages.en.about]
+[Languages.tr.about]
   headline    = "Karmaşık mı geldi? Hiç de değil. Oldukça kolay!"
   buttonText  = "Daha fazla avantaj"
 
 
 # Arguments section
-[Languages.en.arguments]
+[Languages.tr.arguments]
   headline    = "Kamusal Kod için Gerekçeler"
   followup    = "Kamu tarafından finanse edilen yazılımın standart seçeneğinin Özgür Yazılım olmasına mı inanıyorsunuz? **O zaman politik temsilcinizi ikna edelim!**"
   buttonText  = "Açık Mektubu İmzalayın"
-[[Languages.en.arguments.list]]
+[[Languages.tr.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
   title       = "Vergi tasarrufu"
   description = "Benzer uygulamalar her seferinde sıfırdan üretilmek zorunda olmayacaktır."
-[[Languages.en.arguments.list]]
+[[Languages.tr.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "İşbirliği"
   description = "Büyük projelerdeki çabalar uzmanlığı ve maliyeti paylaşabilirler."
-[[Languages.en.arguments.list]]
+[[Languages.tr.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Halka hizmet"
   description = "Kamunun ödediği uygulamalar, herkesin erişimine açık olmalıdır."
-[[Languages.en.arguments.list]]
+[[Languages.tr.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "Yenilikçiliği teşvik"
   description = "Şeffaf süreçlerle başkalarının tekerleği yeniden icat etmesi gerekmez."
 
 
 # Action section
-[Languages.en.action]
+[Languages.tr.action]
   headline      = "Milletvekilinize Söyleyin!"
   intro         = "[**Açık mektubumuzda**](openletter/) şunu talep ediyoruz:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun.”"
   description   = "Şu ana kadar **$ORGS** örgüt ve **$INDS** kişi bu eylem çağrısına desteğini [açık mektubumuzu](openletter/) imzalayarak sundu. Siz de imzalayarak daha büyük bir etki yaratmamıza yardımcı olabilirsiniz. Bütün bu imzaları, Avrupa çapındaki kamu kurumlarında yazılım özgürlüğünü tartışan milletvekilerine sunacağız."
 
-[Languages.en.action.box]
+[Languages.tr.action.box]
   text      = "Şimdiye kadar **$INDS SIGNATURES** – açık mektubu şimdi imzalayın!"
 
-[Languages.en.action.form]
+[Languages.tr.action.form]
   name      = "Ad-Soyad (gerekli)"
   email     = "E-posta (gerekli)"
   country   = "Ülke"
@@ -78,13 +78,13 @@
 
 
 # Organisations section
-[Languages.en.organisations]
+[Languages.tr.organisations]
   headline  = "Destekleyen Örgütler"
   text      = "Aşağıdaki örgütler [açık mektubumuzu](openletter/) destekliyorlar. Eğer sizin de örgütünüz Kamusal Kod çağrısına katılmakla ilgileniyorsa, lütfen [bizimle bağlantıya geçin](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
-[Languages.en.spread]
+[Languages.tr.spread]
   headline          = "Haberi Duyurun!"
   promoText         = "FSFE'den en güncel çıkartma ve broşürleri sipariş edin"
   promoButtonText   = "Tanıtım malzemesi iste"
@@ -93,7 +93,7 @@
 
 
 # Legal Section
-[Languages.en.legal]
+[Languages.tr.legal]
   by            = "Bu Avrupa Özgür Yazılım Vakfı'nın bir kampanyasıdır"
   imprint       = "Imprint"
   privacy       = "Mahremiyet"
@@ -104,20 +104,20 @@
 
 
 # Language selection
-[Languages.en.language]
+[Languages.tr.language]
   description = "Bu sayfayı başka bir dilde okuyun"
 
 
 # 404 Error Page
-[Languages.en.error]
+[Languages.tr.error]
   headline    = "Error 404 - Sayfa bulunamadı"
   description = "Aradığınız sayfa mevcut değil."
   button      = "Başlangıç sayfasına dönün"
 
 
 # Specific sub-pages
-[Languages.en.subpage]
-[Languages.en.subpage.signatures]
+[Languages.tr.subpage]
+[Languages.tr.subpage.signatures]
   headline      = "Bireysel Açık Mektup İmzaları"
   description   = "Aşağıdaki imzalar, isimlerini herkese açık yapmayı kabul edenlerdir. Bir sonraki siz olun!"
   allSignatures = "[Bütün herkese açık imzaları](all-signatures/) görüntüleyin."
