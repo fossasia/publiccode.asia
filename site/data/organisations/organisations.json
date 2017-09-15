@@ -150,6 +150,11 @@
     "url": "https://opensource.org/"
   },
    {
+    "name": "OW2 Consortium",
+    "img": "ow2.png",
+    "url": "https://www.ow2.org/"
+  },
+   {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "url": "https://publicsoftware.eu/"
