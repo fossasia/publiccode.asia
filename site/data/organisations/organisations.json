@@ -119,15 +119,20 @@
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
   },
-   {
-    "name": "Open Labs",
-    "img": "OpenLabs.png",
-    "url": "https://openlabs.cc/en/"
+  {
+    "name": "Open Knowledge Belgium",
+    "img": "okbe.png",
+    "url": "https://www.openknowledge.be/"
   },
   {
     "name": "Open Knowledge Foundation Deutschland",
     "img": "okf.png",
     "url": "https://okfn.de"
+  },
+  {
+    "name": "Open Labs",
+    "img": "OpenLabs.png",
+    "url": "https://openlabs.cc/en/"
   },
    {
     "name": "Open Rights Group",
