@@ -116,7 +116,7 @@
 [Languages.ca.subpage.signatures]
   headline      = "Signants a títol personal a la carta oberta"
   description   = "A sota els noms dels signants que ens permeten fer els seus noms públics. Sigueu els següents!"
-  allSignatures = "Vegueu [tots els signants ](all-signatures/)."
+  allSignatures = "Vegeu [tots els signants ](all-signatures/)."
   tableName     = "Nom"
   tableCountry  = "País"
   tableComment  = "Comentari"
