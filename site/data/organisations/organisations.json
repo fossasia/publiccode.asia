@@ -85,6 +85,11 @@
     "url": "http://ffkp.se/"
   },
   {
+    "name": "Free Knowledge Institute",
+    "img": "freeknowledgeinstitute.png",
+    "url": "http://freeknowledge.eu/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
@@ -145,6 +150,11 @@
     "url": "https://opensource.org/"
   },
    {
+    "name": "OW2 Consortium",
+    "img": "ow2.png",
+    "url": "https://www.ow2.org/"
+  },
+   {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "url": "https://publicsoftware.eu/"
@@ -158,6 +168,11 @@
     "name": "Software Liberty Association Taiwan",
     "img": "slat.png",
     "url": "https://slat.org/"
+  },
+   {
+    "name": "Spoločnosť pre otvorené informačné technológie",
+    "img": "soit.png",
+    "url": "http://www.soit.sk/"
   },
   {
     "name": "The Document Foundation",

@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Afghanistan",
+    "genc2a": "AF",
+    "genc3a": "AFG"
+  },
+  {
+    "name": "Albania",
+    "genc2a": "AL",
+    "genc3a": "ALB"
+  },
+  {
+    "name": "Algeria",
+    "genc2a": "DZ",
+    "genc3a": "DZA"
+  },
+  {
+    "name": "Andorra",
+    "genc2a": "AD",
+    "genc3a": "AND"
+  },
+  {
+    "name": "Angola",
+    "genc2a": "AO",
+    "genc3a": "AGO"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "genc2a": "AG",
+    "genc3a": "ATG"
+  },
+  {
+    "name": "Argentina",
+    "genc2a": "AR",
+    "genc3a": "ARG"
+  },
+  {
+    "name": "Armenia",
+    "genc2a": "AM",
+    "genc3a": "ARM"
+  },
+  {
+    "name": "Australia",
+    "genc2a": "AU",
+    "genc3a": "AUS"
+  },
+  {
+    "name": "Austria",
+    "genc2a": "AT",
+    "genc3a": "AUT"
+  },
+  {
+    "name": "Azerbaijan",
+    "genc2a": "AZ",
+    "genc3a": "AZE"
+  },
+  {
+    "name": "Bahamas",
+    "genc2a": "BS",
+    "genc3a": "BHS"
+  },
+  {
+    "name": "Bahrain",
+    "genc2a": "BH",
+    "genc3a": "BHR"
+  },
+  {
+    "name": "Bangladesh",
+    "genc2a": "BD",
+    "genc3a": "BGD"
+  },
+  {
+    "name": "Barbados",
+    "genc2a": "BB",
+    "genc3a": "BRB"
+  },
+  {
+    "name": "Belarus",
+    "genc2a": "BY",
+    "genc3a": "BLR"
+  },
+  {
+    "name": "Belgium",
+    "genc2a": "BE",
+    "genc3a": "BEL"
+  },
+  {
+    "name": "Belize",
+    "genc2a": "BZ",
+    "genc3a": "BLZ"
+  },
+  {
+    "name": "Benin",
+    "genc2a": "BJ",
+    "genc3a": "BEN"
+  },
+  {
+    "name": "Bhutan",
+    "genc2a": "BT",
+    "genc3a": "BTN"
+  },
+  {
+    "name": "Bolivia",
+    "genc2a": "BO",
+    "genc3a": "BOL"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "genc2a": "BA",
+    "genc3a": "BIH"
+  },
+  {
+    "name": "Botswana",
+    "genc2a": "BW",
+    "genc3a": "BWA"
+  },
+  {
+    "name": "Brazil",
+    "genc2a": "BR",
+    "genc3a": "BRA"
+  },
+  {
+    "name": "Brunei",
+    "genc2a": "BN",
+    "genc3a": "BRN"
+  },
+  {
+    "name": "Bulgaria",
+    "genc2a": "BG",
+    "genc3a": "BGR"
+  },
+  {
+    "name": "Burkina Faso",
+    "genc2a": "BF",
+    "genc3a": "BFA"
+  },
+  {
+    "name": "Burma",
+    "genc2a": "MM",
+    "genc3a": "MMR"
+  },
+  {
+    "name": "Burundi",
+    "genc2a": "BI",
+    "genc3a": "BDI"
+  },
+  {
+    "name": "Cabo Verde",
+    "genc2a": "CV",
+    "genc3a": "CPV"
+  },
+  {
+    "name": "Cambodia",
+    "genc2a": "KH",
+    "genc3a": "KHM"
+  },
+  {
+    "name": "Cameroon",
+    "genc2a": "CM",
+    "genc3a": "CMR"
+  },
+  {
+    "name": "Canada",
+    "genc2a": "CA",
+    "genc3a": "CAN"
+  },
+  {
+    "name": "Central African Republic",
+    "genc2a": "CF",
+    "genc3a": "CAF"
+  },
+  {
+    "name": "Chad",
+    "genc2a": "TD",
+    "genc3a": "TCD"
+  },
+  {
+    "name": "Chile",
+    "genc2a": "CL",
+    "genc3a": "CHL"
+  },
+  {
+    "name": "China",
+    "genc2a": "CN",
+    "genc3a": "CHN"
+  },
+  {
+    "name": "Colombia",
+    "genc2a": "CO",
+    "genc3a": "COL"
+  },
+  {
+    "name": "Comoros",
+    "genc2a": "KM",
+    "genc3a": "COM"
+  },
+  {
+    "name": "Republic of the Congo",
+    "genc2a": "CG",
+    "genc3a": "COG"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "genc2a": "CD",
+    "genc3a": "COD"
+  },
+  {
+    "name": "Costa Rica",
+    "genc2a": "CR",
+    "genc3a": "CRI"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "genc2a": "CI",
+    "genc3a": "CIV"
+  },
+  {
+    "name": "Croatia",
+    "genc2a": "HR",
+    "genc3a": "HRV"
+  },
+  {
+    "name": "Cuba",
+    "genc2a": "CU",
+    "genc3a": "CUB"
+  },
+  {
+    "name": "Cyprus",
+    "genc2a": "CY",
+    "genc3a": "CYP"
+  },
+  {
+    "name": "Czech Republic",
+    "genc2a": "CZ",
+    "genc3a": "CZE"
+  },
+  {
+    "name": "Denmark",
+    "genc2a": "DK",
+    "genc3a": "DNK"
+  },
+  {
+    "name": "Djibouti",
+    "genc2a": "DJ",
+    "genc3a": "DJI"
+  },
+  {
+    "name": "Dominica",
+    "genc2a": "DM",
+    "genc3a": "DMA"
+  },
+  {
+    "name": "Dominican Republic",
+    "genc2a": "DO",
+    "genc3a": "DOM"
+  },
+  {
+    "name": "Ecuador",
+    "genc2a": "EC",
+    "genc3a": "ECU"
+  },
+  {
+    "name": "Egypt",
+    "genc2a": "EG",
+    "genc3a": "EGY"
+  },
+  {
+    "name": "El Salvador",
+    "genc2a": "SV",
+    "genc3a": "SLV"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "genc2a": "GQ",
+    "genc3a": "GNQ"
+  },
+  {
+    "name": "Eritrea",
+    "genc2a": "ER",
+    "genc3a": "ERI"
+  },
+  {
+    "name": "Estonia",
+    "genc2a": "EE",
+    "genc3a": "EST"
+  },
+  {
+    "name": "Ethiopia",
+    "genc2a": "ET",
+    "genc3a": "ETH"
+  },
+  {
+    "name": "Fiji",
+    "genc2a": "FJ",
+    "genc3a": "FJI"
+  },
+  {
+    "name": "Finland",
+    "genc2a": "FI",
+    "genc3a": "FIN"
+  },
+  {
+    "name": "France",
+    "genc2a": "FR",
+    "genc3a": "FRA"
+  },
+  {
+    "name": "Gabon",
+    "genc2a": "GA",
+    "genc3a": "GAB"
+  },
+  {
+    "name": "Gambia",
+    "genc2a": "GM",
+    "genc3a": "GMB"
+  },
+  {
+    "name": "Georgia",
+    "genc2a": "GE",
+    "genc3a": "GEO"
+  },
+  {
+    "name": "Germany",
+    "genc2a": "DE",
+    "genc3a": "DEU"
+  },
+  {
+    "name": "Ghana",
+    "genc2a": "GH",
+    "genc3a": "GHA"
+  },
+  {
+    "name": "Greece",
+    "genc2a": "GR",
+    "genc3a": "GRC"
+  },
+  {
+    "name": "Grenada",
+    "genc2a": "GD",
+    "genc3a": "GRD"
+  },
+  {
+    "name": "Guatemala",
+    "genc2a": "GT",
+    "genc3a": "GTM"
+  },
+  {
+    "name": "Guinea",
+    "genc2a": "GN",
+    "genc3a": "GIN"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "genc2a": "GW",
+    "genc3a": "GNB"
+  },
+  {
+    "name": "Guyana",
+    "genc2a": "GY",
+    "genc3a": "GUY"
+  },
+  {
+    "name": "Haiti",
+    "genc2a": "HT",
+    "genc3a": "HTI"
+  },
+  {
+    "name": "Vatican",
+    "genc2a": "VA",
+    "genc3a": "VAT"
+  },
+  {
+    "name": "Honduras",
+    "genc2a": "HN",
+    "genc3a": "HND"
+  },
+  {
+    "name": "Hungary",
+    "genc2a": "HU",
+    "genc3a": "HUN"
+  },
+  {
+    "name": "Iceland",
+    "genc2a": "IS",
+    "genc3a": "ISL"
+  },
+  {
+    "name": "India",
+    "genc2a": "IN",
+    "genc3a": "IND"
+  },
+  {
+    "name": "Indonesia",
+    "genc2a": "ID",
+    "genc3a": "IDN"
+  },
+  {
+    "name": "Iran",
+    "genc2a": "IR",
+    "genc3a": "IRN"
+  },
+  {
+    "name": "Iraq",
+    "genc2a": "IQ",
+    "genc3a": "IRQ"
+  },
+  {
+    "name": "Ireland",
+    "genc2a": "IE",
+    "genc3a": "IRL"
+  },
+  {
+    "name": "Israel",
+    "genc2a": "IL",
+    "genc3a": "ISR"
+  },
+  {
+    "name": "Italy",
+    "genc2a": "IT",
+    "genc3a": "ITA"
+  },
+  {
+    "name": "Jamaica",
+    "genc2a": "JM",
+    "genc3a": "JAM"
+  },
+  {
+    "name": "Japan",
+    "genc2a": "JP",
+    "genc3a": "JPN"
+  },
+  {
+    "name": "Jordan",
+    "genc2a": "JO",
+    "genc3a": "JOR"
+  },
+  {
+    "name": "Kazakhstan",
+    "genc2a": "KZ",
+    "genc3a": "KAZ"
+  },
+  {
+    "name": "Kenya",
+    "genc2a": "KE",
+    "genc3a": "KEN"
+  },
+  {
+    "name": "Kiribati",
+    "genc2a": "KI",
+    "genc3a": "KIR"
+  },
+  {
+    "name": "North Korea",
+    "genc2a": "KP",
+    "genc3a": "PRK"
+  },
+  {
+    "name": "South Korea",
+    "genc2a": "KR",
+    "genc3a": "KOR"
+  },
+  {
+    "name": "Kosovo",
+    "genc2a": "XK",
+    "genc3a": "XKS"
+  },
+  {
+    "name": "Kuwait",
+    "genc2a": "KW",
+    "genc3a": "KWT"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "genc2a": "KG",
+    "genc3a": "KGZ"
+  },
+  {
+    "name": "Laos",
+    "genc2a": "LA",
+    "genc3a": "LAO"
+  },
+  {
+    "name": "Latvia",
+    "genc2a": "LV",
+    "genc3a": "LVA"
+  },
+  {
+    "name": "Lebanon",
+    "genc2a": "LB",
+    "genc3a": "LBN"
+  },
+  {
+    "name": "Lesotho",
+    "genc2a": "LS",
+    "genc3a": "LSO"
+  },
+  {
+    "name": "Liberia",
+    "genc2a": "LR",
+    "genc3a": "LBR"
+  },
+  {
+    "name": "Libya",
+    "genc2a": "LY",
+    "genc3a": "LBY"
+  },
+  {
+    "name": "Liechtenstein",
+    "genc2a": "LI",
+    "genc3a": "LIE"
+  },
+  {
+    "name": "Lithuania",
+    "genc2a": "LY",
+    "genc3a": "LTU"
+  },
+  {
+    "name": "Luxembourg",
+    "genc2a": "LU",
+    "genc3a": "LUX"
+  },
+  {
+    "name": "Macedonia",
+    "genc2a": "MK",
+    "genc3a": "MKD"
+  },
+  {
+    "name": "Madagascar",
+    "genc2a": "MG",
+    "genc3a": "MDG"
+  },
+  {
+    "name": "Malawi",
+    "genc2a": "MW",
+    "genc3a": "MWI"
+  },
+  {
+    "name": "Malaysia",
+    "genc2a": "MY",
+    "genc3a": "MYS"
+  },
+  {
+    "name": "Maldives",
+    "genc2a": "MV",
+    "genc3a": "MDV"
+  },
+  {
+    "name": "Mali",
+    "genc2a": "ML",
+    "genc3a": "MLI"
+  },
+  {
+    "name": "Malta",
+    "genc2a": "MT",
+    "genc3a": "MLT"
+  },
+  {
+    "name": "Marshall Islands",
+    "genc2a": "MH",
+    "genc3a": "MHL"
+  },
+  {
+    "name": "Mauritania",
+    "genc2a": "MR",
+    "genc3a": "MRT"
+  },
+  {
+    "name": "Mauritius",
+    "genc2a": "MU",
+    "genc3a": "MUS"
+  },
+  {
+    "name": "Mexico",
+    "genc2a": "MX",
+    "genc3a": "MEX"
+  },
+  {
+    "name": "Micronesia, Federated States of",
+    "genc2a": "FM",
+    "genc3a": "FSM"
+  },
+  {
+    "name": "Moldova",
+    "genc2a": "MD",
+    "genc3a": "MDA"
+  },
+  {
+    "name": "Monaco",
+    "genc2a": "MC",
+    "genc3a": "MCO"
+  },
+  {
+    "name": "Mongolia",
+    "genc2a": "MN",
+    "genc3a": "MNG"
+  },
+  {
+    "name": "Montenegro",
+    "genc2a": "ME",
+    "genc3a": "MNE"
+  },
+  {
+    "name": "Morocco",
+    "genc2a": "MA",
+    "genc3a": "MAR"
+  },
+  {
+    "name": "Mozambique",
+    "genc2a": "MZ",
+    "genc3a": "MOZ"
+  },
+  {
+    "name": "Namibia",
+    "genc2a": "NA",
+    "genc3a": "NAM"
+  },
+  {
+    "name": "Nauru",
+    "genc2a": "NR",
+    "genc3a": "NRU"
+  },
+  {
+    "name": "Nepal",
+    "genc2a": "NP",
+    "genc3a": "NPL"
+  },
+  {
+    "name": "Netherlands",
+    "genc2a": "NL",
+    "genc3a": "NLD"
+  },
+  {
+    "name": "New Zealand",
+    "genc2a": "NZ",
+    "genc3a": "NZL"
+  },
+  {
+    "name": "Nicaragua",
+    "genc2a": "NI",
+    "genc3a": "NIC"
+  },
+  {
+    "name": "Niger",
+    "genc2a": "NE",
+    "genc3a": "NER"
+  },
+  {
+    "name": "Nigeria",
+    "genc2a": "NG",
+    "genc3a": "NGA"
+  },
+  {
+    "name": "Norway",
+    "genc2a": "NO",
+    "genc3a": "NOR"
+  },
+  {
+    "name": "Oman",
+    "genc2a": "OM",
+    "genc3a": "OMN"
+  },
+  {
+    "name": "Pakistan",
+    "genc2a": "PK",
+    "genc3a": "PAK"
+  },
+  {
+    "name": "Palau",
+    "genc2a": "PW",
+    "genc3a": "PLW"
+  },
+  {
+    "name": "Panama",
+    "genc2a": "PA",
+    "genc3a": "PAN"
+  },
+  {
+    "name": "Papua New Guinea",
+    "genc2a": "PG",
+    "genc3a": "PNG"
+  },
+  {
+    "name": "Paraguay",
+    "genc2a": "PY",
+    "genc3a": "PRY"
+  },
+  {
+    "name": "Peru",
+    "genc2a": "PE",
+    "genc3a": "PER"
+  },
+  {
+    "name": "Philippines",
+    "genc2a": "PH",
+    "genc3a": "PHL"
+  },
+  {
+    "name": "Poland",
+    "genc2a": "PL",
+    "genc3a": "POL"
+  },
+  {
+    "name": "Portugal",
+    "genc2a": "PT",
+    "genc3a": "PRT"
+  },
+  {
+    "name": "Qatar",
+    "genc2a": "QA",
+    "genc3a": "QAT"
+  },
+  {
+    "name": "Romania",
+    "genc2a": "RO",
+    "genc3a": "ROU"
+  },
+  {
+    "name": "Russia",
+    "genc2a": "RU",
+    "genc3a": "RUS"
+  },
+  {
+    "name": "Rwanda",
+    "genc2a": "RW",
+    "genc3a": "RWA"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "genc2a": "KN",
+    "genc3a": "KNA"
+  },
+  {
+    "name": "Saint Lucia",
+    "genc2a": "LC",
+    "genc3a": "LCA"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "genc2a": "VC",
+    "genc3a": "VCT"
+  },
+  {
+    "name": "Samoa",
+    "genc2a": "WS",
+    "genc3a": "WSM"
+  },
+  {
+    "name": "San Marino",
+    "genc2a": "SM",
+    "genc3a": "SMR"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "genc2a": "ST",
+    "genc3a": "STP"
+  },
+  {
+    "name": "Saudi Arabia",
+    "genc2a": "SA",
+    "genc3a": "SAU"
+  },
+  {
+    "name": "Senegal",
+    "genc2a": "SN",
+    "genc3a": "SEN"
+  },
+  {
+    "name": "Serbia",
+    "genc2a": "RS",
+    "genc3a": "SRB"
+  },
+  {
+    "name": "Seychelles",
+    "genc2a": "SC",
+    "genc3a": "SYC"
+  },
+  {
+    "name": "Sierra Leone",
+    "genc2a": "SL",
+    "genc3a": "SLE"
+  },
+  {
+    "name": "Singapore",
+    "genc2a": "SG",
+    "genc3a": "SGP"
+  },
+  {
+    "name": "Slovakia",
+    "genc2a": "SK",
+    "genc3a": "SVK"
+  },
+  {
+    "name": "Slovenia",
+    "genc2a": "SI",
+    "genc3a": "SVN"
+  },
+  {
+    "name": "Solomon Islands",
+    "genc2a": "SB",
+    "genc3a": "SLB"
+  },
+  {
+    "name": "Somalia",
+    "genc2a": "SO",
+    "genc3a": "SOM"
+  },
+  {
+    "name": "South Africa",
+    "genc2a": "ZA",
+    "genc3a": "ZAF"
+  },
+  {
+    "name": "South Sudan",
+    "genc2a": "SS",
+    "genc3a": "SSD"
+  },
+  {
+    "name": "Spain",
+    "genc2a": "ES",
+    "genc3a": "ESP"
+  },
+  {
+    "name": "Sri Lanka",
+    "genc2a": "LK",
+    "genc3a": "LKA"
+  },
+  {
+    "name": "Sudan",
+    "genc2a": "SD",
+    "genc3a": "SDN"
+  },
+  {
+    "name": "Suriname",
+    "genc2a": "SR",
+    "genc3a": "SUR"
+  },
+  {
+    "name": "Swaziland",
+    "genc2a": "SZ",
+    "genc3a": "SWZ"
+  },
+  {
+    "name": "Sweden",
+    "genc2a": "SE",
+    "genc3a": "SWE"
+  },
+  {
+    "name": "Switzerland",
+    "genc2a": "CH",
+    "genc3a": "CHE"
+  },
+  {
+    "name": "Syria",
+    "genc2a": "SY",
+    "genc3a": "SYR"
+  },
+  {
+    "name": "Taiwan",
+    "genc2a": "TW",
+    "genc3a": "TWN"
+  },
+  {
+    "name": "Tajikistan",
+    "genc2a": "TJ",
+    "genc3a": "TJK"
+  },
+  {
+    "name": "Tanzania",
+    "genc2a": "TZ",
+    "genc3a": "TZA"
+  },
+  {
+    "name": "Thailand",
+    "genc2a": "TH",
+    "genc3a": "THA"
+  },
+  {
+    "name": "Timor-Leste",
+    "genc2a": "TL",
+    "genc3a": "TLS"
+  },
+  {
+    "name": "Togo",
+    "genc2a": "TG",
+    "genc3a": "TGO"
+  },
+  {
+    "name": "Tonga",
+    "genc2a": "TO",
+    "genc3a": "TON"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "genc2a": "TT",
+    "genc3a": "TTO"
+  },
+  {
+    "name": "Tunisia",
+    "genc2a": "TN",
+    "genc3a": "TUN"
+  },
+  {
+    "name": "Turkey",
+    "genc2a": "TR",
+    "genc3a": "TUR"
+  },
+  {
+    "name": "Turkmenistan",
+    "genc2a": "TM",
+    "genc3a": "TKM"
+  },
+  {
+    "name": "Tuvalu",
+    "genc2a": "TV",
+    "genc3a": "TUV"
+  },
+  {
+    "name": "Uganda",
+    "genc2a": "UG",
+    "genc3a": "UGA"
+  },
+  {
+    "name": "Ukraine",
+    "genc2a": "UA",
+    "genc3a": "UKR"
+  },
+  {
+    "name": "United Arab Emirates",
+    "genc2a": "AE",
+    "genc3a": "ARE"
+  },
+  {
+    "name": "United Kingdom",
+    "genc2a": "GB",
+    "genc3a": "GBR"
+  },
+  {
+    "name": "United States",
+    "genc2a": "US",
+    "genc3a": "USA"
+  },
+  {
+    "name": "Uruguay",
+    "genc2a": "UY",
+    "genc3a": "URY"
+  },
+  {
+    "name": "Uzbekistan",
+    "genc2a": "UZ",
+    "genc3a": "UZB"
+  },
+  {
+    "name": "Vanuatu",
+    "genc2a": "VU",
+    "genc3a": "VUT"
+  },
+  {
+    "name": "Venezuela",
+    "genc2a": "VE",
+    "genc3a": "VEN"
+  },
+  {
+    "name": "Vietnam",
+    "genc2a": "VN",
+    "genc3a": "VNM"
+  },
+  {
+    "name": "Yemen",
+    "genc2a": "YE",
+    "genc3a": "YEM"
+  },
+  {
+    "name": "Zambia",
+    "genc2a": "ZM",
+    "genc3a": "ZMB"
+  },
+  {
+    "name": "Zimbabwe",
+    "genc2a": "ZW",
+    "genc3a": "ZWE"
+  }
+]

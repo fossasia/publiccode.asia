@@ -21,7 +21,7 @@
 # Start banner
 [Languages.it.start]
   subtitle1   = "Perché il software creato usando i soldi delle tasse riscosse dai cittadini non è rilasciato come Software Libero?"
-  subtitle2   = "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/about/mission.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.') Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
+  subtitle2   = "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/about/mission.it.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.') Se è denaro pubblico (public money), allora dovrebbe essere publico anche il codice sorgente (public code)."
   subtitle3   = "**Il codice pagato dalle persone dovrebbe essere disponibile alle persone!**" 
 
 
@@ -59,7 +59,7 @@
   headline      = "Informa i tuoi rappresentanti!"
   intro         = "Nella nostra [**lettera aperta**](openletter/) chiediamo:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implementare leggi che richiedano che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.').”"
+  demand        = "“Implementare leggi che richiedano che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.it.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.').”"
   description   = "**$ORGS** organizzazioni e **$INDS** persone supportano già questa chiamata ad agire attraverso la firma della nostra [lettera aperta](openletter/). Puoi aiutarci ad avere un maggiore impatto firmandola anche tu! Consegneremo tutte le firme ai rappresentanti di tutta Europa che stanno dibattendo sulla libertà del software nelle amministrazioni pubbliche."
 
 [Languages.it.action.box]

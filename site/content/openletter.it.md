@@ -31,4 +31,4 @@ Su questo punto puoi dare una mano! Firma la lettera aperta per dare più peso a
 > 
 > **"Implementare leggi che richiedano che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza Software Libero/Open Source."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy."
+[fs]: https://fsfe.org/freesoftware/basics/summary.it.html "Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy."
