@@ -85,6 +85,11 @@
     "url": "http://ffkp.se/"
   },
   {
+    "name": "Free Knowledge Institute",
+    "img": "freeknowledgeinstitute.png",
+    "url": "http://freeknowledge.eu/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
@@ -114,15 +119,20 @@
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
   },
-   {
-    "name": "Open Labs",
-    "img": "OpenLabs.png",
-    "url": "https://openlabs.cc/en/"
+  {
+    "name": "Open Knowledge Belgium",
+    "img": "okbe.png",
+    "url": "https://www.openknowledge.be/"
   },
   {
     "name": "Open Knowledge Foundation Deutschland",
     "img": "okf.png",
     "url": "https://okfn.de"
+  },
+  {
+    "name": "Open Labs",
+    "img": "OpenLabs.png",
+    "url": "https://openlabs.cc/en/"
   },
    {
     "name": "Open Rights Group",
@@ -135,6 +145,11 @@
     "url": "http://osb-alliance.de"
   },
   {
+    "name": "Open State Foundation",
+    "img": "openstatefoundation.png",
+    "url": "https://openstate.eu"
+  },
+  {
     "name": "OpenSUSE",
     "img": "OpenSUSE.png",
     "url": "https://www.opensuse.org/"
@@ -143,6 +158,11 @@
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "url": "https://opensource.org/"
+  },
+   {
+    "name": "OW2 Consortium",
+    "img": "ow2.png",
+    "url": "https://www.ow2.org/"
   },
    {
     "name": "Public Software CIC",
@@ -158,6 +178,11 @@
     "name": "Software Liberty Association Taiwan",
     "img": "slat.png",
     "url": "https://slat.org/"
+  },
+   {
+    "name": "Spoločnosť pre otvorené informačné technológie",
+    "img": "soit.png",
+    "url": "http://www.soit.sk/"
   },
   {
     "name": "The Document Foundation",
