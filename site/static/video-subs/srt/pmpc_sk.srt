@@ -236,10 +236,13 @@ by mala byť v našich rukách, ...
 a navštív náš web publiccode.eu.
 
 49
-00:03:33,596 --> 00:03:36,588
+00:03:33,596 --> 00:03:36,460
 Je čas žiadať...
 
 50
-00:03:36,588 --> 00:03:42,458
-VEREJNÉ PENIAZE?
-SLOBODNÝ SOFTVÉR!
+00:03:36,460 --> 00:03:38,180
+Public money?
+
+51
+00:03:38,180 --> 00:03:39,940
+Public code!
