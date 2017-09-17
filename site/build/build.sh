@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Put all available languages here, except "en". Separated by spaces
-TRANSLATIONS="ca de fr it nl zh_tw"
+TRANSLATIONS="ca de fr it nl tr zh_tw"
 
 basedir="${0%/*}/.."
 cd "$basedir"
