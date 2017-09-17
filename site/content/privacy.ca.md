@@ -4,9 +4,9 @@ type: "page"
 layout: "subpage"
 ---
 
-The **publiccode.eu** web site is run by the
+El lloc web **publiccode.eu** és gestionat per
 [FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
-When this policy refers to "we", this means the FSFE.
+Quan en aquesta política ens referim a "nosaltres", això vol dir la FSFE.
 
 ## Que recollim i per què
  
@@ -42,7 +42,7 @@ així com el dret a demanar-nos que les rectifiquem, si són incorrectes.
 També teniu dret a negar-vos que emmagatzemem la vostra informació. En aquest
 cas eliminarem les vostres dades de caràcter personal que tinguem. El
 dret a revocar el vostre consentiment a processar les vostres dades personals,
-en aquest també prendrem els passos necessaris per eliminar les vostres dades de caràcter 
+en aquest cas també prendrem els passos necessaris per eliminar les vostres dades de caràcter 
 personal que tinguem.
 
 ## A qui contactar
