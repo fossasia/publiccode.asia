@@ -14,7 +14,7 @@
   about     = "Quant a"
   arguments = "Raons"
   action    = "Actua"
-  spread    = "Escampeu la paraula"
+  spread    = "Escampeu la veu"
 
 
 # Start banner
@@ -82,7 +82,7 @@
 
 # Spread the word section
 [Languages.ca.spread]
-  headline          = "Escampeu la paraula!"
+  headline          = "Escampeu la veu!"
   promoText         = "Demaneu els últims adhesius i fulls de mà a la FSFE"
   promoButtonText   = "Obtingueu material promocional"
   shareText         = "Expliqueu als vostres amics i seguidors el codi públic:"
