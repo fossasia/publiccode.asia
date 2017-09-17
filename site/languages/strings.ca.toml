@@ -5,7 +5,7 @@
   languageCode  = "ca"
   languageName  = "Català"
   description   = "Public Money, Public Code - Una campanya per alliberar programari finançat amb fons públics com a programari lliure"
-  fsdefinition  = "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa."
+  fsdefinition  = "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat."
 
 # Navigation
 [Languages.ca.navigation]
@@ -14,14 +14,14 @@
   about     = "Quant a"
   arguments = "Raons"
   action    = "Actua"
-  spread    = "Difoneu la paraula"
+  spread    = "Escampeu la paraula"
 
 
 # Start banner
 [Languages.ca.start]
   subtitle1   = "Per què el programari creat amb els diners dels contribuents no s'allibera com a programari lliure?"
-  subtitle2   = "Volem legislació que reguli que el programari finançat públicament pel sector públic es faci públic com a [programari lliure o codi obert](https://fsfe.org/about/mission.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.'). Si són diners públics, el codi ha de ser públic."
-  subtitle3   = "**El codi pagat per la gent ha d'estar disponible per altres persones!**" 
+  subtitle2   = "Volem legislació que reguli que el programari finançat públicament pel sector públic es faci públic com a [programari lliure o codi obert](https://fsfe.org/about/mission.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.'). Si són diners públics, el codi ha de ser públic."
+  subtitle3   = "**El codi pagat per la gent ha d'estar disponible per a altres persones!**" 
 # About section
 [Languages.ca.about]
   headline    = "Sembla complicat? No ho és. És de fet molt senzill!"
@@ -31,7 +31,7 @@
 # Arguments section
 [Languages.ca.arguments]
   headline    = "Les raons perquè el codi sigui públic"
-  followup    = "Penseu que el programari lliure ha de ser l'opció per defecte pel programari finançat? **Convencem als vostres representants polítics!**"
+  followup    = "Penseu que el programari lliure ha de ser l'opció per defecte pel programari finançat? **Convencem els vostres representants polítics!**"
   buttonText  = "Signeu la carta oberta"
 [[Languages.ca.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
@@ -53,11 +53,11 @@
 
 # Action section
 [Languages.ca.action]
-  headline      = "Digueu-vos-li al vostres representants!"
-  intro         = "A la nostra [**carta oberta**](openletter/) demanem:" 
+  headline      = "Digueu-ho als vostres representants!"
+  intro         = " En la nostra carta oberta [**carta oberta**](openletter/) demanem:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implementar legislació que requereixi que el programari que està financiat públicament pel sector públic que estigui disponible sota una llicència [de programari lliure o obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.').”"
-  description   = "**$ORGS** organitzacions i **$INDS** persones a títol individual ja donen suport a la petició per signar la [carta oberta](openletter/). Podeu ajudar-nos a tenir un major impacte signant-la també. Donarem totes les signatures als representants de tota Europa que estan debatent sobre la llibertat del programari a l'administració pública."
+  demand        = "“Implementar legislació que requereixi que el programari que està financiat públicament pel sector públic que estigui disponible sota una llicència [de programari lliure o obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.').”"
+  description   = "**$ORGS** organitzacions i **$INDS** persones a títol individual ja donen suport a la petició per a signar la [carta oberta](openletter/). Podeu ajudar-nos a tenir un impacte més gran signant-la també. Donarem totes les signatures als representants de tota Europa que estan debatent sobre la llibertat del programari a l'administració pública."
 
 [Languages.ca.action.box]
   text      = "Ja tenim **$INDS signatures** – signeu ara la carta oberta!"
@@ -77,12 +77,12 @@
 # Organisations section
 [Languages.ca.organisations]
   headline  = "Organitzacions que donen suport"
-  text      = "Les organitzacions següents donen suport a la nostra [carta oberta](openletter/). Si la vostra organització té també interès en afegir-se a la crida pel codi públic, si us plau [contacteu-nos](mailto:contact@fsfe.org)."
+  text      = "Les organitzacions següents donen suport a la nostra [carta oberta](openletter/). Si la vostra organització té també interès a afegir-se a la crida pel codi públic, si us plau [contacteu-nos](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
 [Languages.ca.spread]
-  headline          = "Difoneu la paraula!"
+  headline          = "Escampeu la paraula!"
   promoText         = "Demaneu els últims adhesius i fulls de mà a la FSFE"
   promoButtonText   = "Obtingueu material promocional"
   shareText         = "Expliqueu als vostres amics i seguidors el codi públic:"
@@ -92,8 +92,8 @@
 # Legal Section
 [Languages.ca.legal]
   by            = "Aquesta és una campanya de la Free Software Foundation Europe"
-  imprint       = "Empremta"
-  privacy       = "Privadesa"
+  imprint       = "Crèdits editorials"
+  privacy       = "Privacitat"
   transparency  = "Transparència"
   contribute1   = "El codi d'aquest lloc web és codi lliure." 
   contribute2   = "Us convidem a contribuir-hi!"
@@ -102,13 +102,13 @@
 
 # Language selection
 [Languages.ca.language]
-  description = "Llegiu aquesta pàgina en un altra llengua"
+  description = "Llegiu aquesta pàgina en una altra llengua"
 
 
 # 404 Error Page
 [Languages.ca.error]
   headline    = "Error 404 - Pàgina no trobada"
-  description = "La pàgina que esteu cercant no existeix."
+  description = "La pàgina que cerqueu no existeix."
   button      = "Torna a la pàgina d'inici"
 
 # Specific sub-pages
