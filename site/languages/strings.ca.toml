@@ -54,9 +54,9 @@
 # Action section
 [Languages.ca.action]
   headline      = "Digueu-ho als vostres representants!"
-  intro         = " En la nostra carta oberta [**carta oberta**](openletter/) demanem:" 
+  intro         = " En la nostra [**carta oberta**](openletter/) demanem:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implementar legislació que requereixi que el programari que està financiat públicament pel sector públic que estigui disponible sota una llicència [de programari lliure o obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.').”"
+  demand        = "“Implementar legislació que requereixi que el programari que està financiat públicament pel sector públic estigui disponible sota una llicència [de programari lliure o obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.').”"
   description   = "**$ORGS** organitzacions i **$INDS** persones a títol individual ja donen suport a la petició per a signar la [carta oberta](openletter/). Podeu ajudar-nos a tenir un impacte més gran signant-la també. Donarem totes les signatures als representants de tota Europa que estan debatent sobre la llibertat del programari a l'administració pública."
 
 [Languages.ca.action.box]
