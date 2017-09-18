@@ -13,6 +13,14 @@ blockquote p {
   white-space: normal; /* wrap button words */
 }
 
+/* NAVBAR */
+/* make hamburger menu work without JS */
+.navbar-header:hover + .navbar-collapse,
+.navbar-collapse:hover {
+  display: block;
+  visibility: initial;
+}
+
 /* SUBPAGES */
 .subpage {
   background-image: url(../img/header_subpage.jpg);
