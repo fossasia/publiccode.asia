@@ -30,6 +30,11 @@
     "url": "https://www.ccc.de"
   },
   {
+    "name": "Creative Commons",
+    "img": "creativecommons.png",
+    "url": "https://creativecommons.org/"
+  },
+  {
     "name": "Debian",
     "img": "debian.png",
     "url": "https://debian.org"
