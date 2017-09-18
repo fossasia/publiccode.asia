@@ -79,7 +79,7 @@
 
 # Organisations section
 [Languages.it.organisations]
-  headline  = "Organizzazione supportanti"
+  headline  = "Organizzazioni aderenti"
   text      = "Le seguenti organizzazioni supportano la nostra [lettera aperta](openletter/). Se anche la tua organizzazione è interessata ad unirsi alla chiamata per Public Code, per favore [contattaci](mailto:contact@fsfe.org)."
 
 
