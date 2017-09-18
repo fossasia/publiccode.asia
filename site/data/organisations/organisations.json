@@ -135,6 +135,11 @@
     "url": "https://okfn.de"
   },
   {
+    "name": "Open Knowledge International",
+    "img": "okint.png",
+    "url": "https://okfn.org/"
+  },
+  {
     "name": "Open Labs",
     "img": "OpenLabs.png",
     "url": "https://openlabs.cc/en/"
