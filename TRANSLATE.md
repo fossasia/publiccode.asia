@@ -33,7 +33,7 @@ to be a programmer to get Git working for you :)
 
 What you should have:
 
-- An account on git.fsfe.org
+- An account on git.fsfe.org (see [README.md#contribute](https://git.fsfe.org/pmpc/website/src/master/README.md))
 - Know how to clone, pull, commit, and push with Git (read the [general
   Git guides](https://wiki.fsfe.org/TechDocs/Git) and/or the [typical
   Git
