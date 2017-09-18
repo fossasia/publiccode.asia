@@ -105,6 +105,11 @@
     "url": "https://gfoss.eu/"
   },
   {
+    "name": "GNOME",
+    "img": "GNOME.png",
+    "url": "https://www.gnome.org"
+  },
+  {
     "name": "HackYourPhD",
     "img": "HackYourPhD.png",
     "url": "https://hackyourphd.org/"
