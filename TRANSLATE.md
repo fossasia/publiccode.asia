@@ -5,6 +5,25 @@ different from what you worked with before. Before starting, please read the
 [README.md](https://git.fsfe.org/pmpc/website/src/master/README.md) file which
 will give you an overview of how this website is structured and built.
 
+## Coordination
+
+We experienced a large amount of people willing to contribute translations for
+the campaign. While this is great, it requires a lot of coordination. So before
+starting a translation:
+
+- Please become member of FSFE's [translators mailing
+  list](https://lists.fsfe.org/mailman/listinfo/translators).
+- Write to the list that you'd like to start a translation to language
+  XY. Please use [XY] in the mail's subject so members can filter the
+  languages they need
+- Please check whether there are already ongoing translations in your
+  language by reading the latest mails in the [list's
+  archive](https://lists.fsfe.org/mailman/private/translators/) or
+  checking [open Pull
+  Requests](https://git.fsfe.org/pmpc/website/pulls).
+
+More information about FSFE's translators team can be found on its [general information page](https://fsfe.org/contribute/translators/).
+
 ## Preparations
 
 You should already have cloned the Git repository to your computer and be
