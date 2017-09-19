@@ -4,11 +4,11 @@ Predstavte si,
 
 2
 00:00:01,240 --> 00:00:03,900
-že by vláda spravovala verejné
+že by vláda spravovala verejné zdroje
 
 3
 00:00:03,900 --> 00:00:06,100
-zdroje ako ulice a budovy rovnako,
+ako ulice a budovy rovnako,
 
 4
 00:00:06,100 --> 00:00:09,480
@@ -24,7 +24,7 @@ kde by nemohli voliť proti prísnejším ekologickým zákonom,
 
 7
 00:00:16,360 --> 00:00:19,240
-pretože majiteľ budovy, nadnárodná korporácia,
+pretože majiteľ budovy - nadnárodná korporácia -
 
 8
 00:00:19,240 --> 00:00:22,580
@@ -72,11 +72,11 @@ Jediný rozdieľ je,
 
 19
 00:00:50,540 --> 00:00:51,620
-A zatiaľ každú noc
+A zatiaľ
 
 20
 00:00:51,620 --> 00:00:54,620
-cez skryté zadné dvierka
+každú noc cez skryté zadné dvierka
 
 21
 00:00:54,620 --> 00:00:57,920
@@ -96,11 +96,11 @@ Ale nikto s tým nič nesmie robiť,
 
 25
 00:01:05,060 --> 00:01:08,760
-pretože hľadanie a zatváranie
+pretože hľadanie a zatváranie zadných dvierok
 
 26
 00:01:08,760 --> 00:01:11,840
-zadných dvierok je zakázané licenčnou zmluvou.
+je zakázané licenčnou zmluvou.
 
 27
 00:01:11,840 --> 00:01:14,540
@@ -108,15 +108,15 @@ Akokoľvek absurdne to znie,
 
 28
 00:01:14,540 --> 00:01:17,120
-???
+ak ide o digitálnu infraštruktúru -
 
 29
 00:01:17,120 --> 00:01:19,220
-ak ide o softvér, ktorý
+veci ako softvér a programy,
 
 30
 00:01:19,220 --> 00:01:21,560
-naša vláda denne používa,
+ktoré naša vláda denne používa -
 
 31
 00:01:21,700 --> 00:01:24,660
@@ -156,11 +156,11 @@ A pretože zdrojový kód patentovaného softvéru
 
 40
 00:01:46,580 --> 00:01:49,320
-je väčšinou obchodné tajomstvo.
+je väčšinou obchodné tajomstvo,
 
 41
 00:01:49,320 --> 00:01:52,640
-Hľadanie chýb a zadných dvierok
+hľadanie chýb a zadných dvierok
 
 42
 00:01:52,640 --> 00:01:55,960
@@ -172,7 +172,7 @@ Ale naša vláda to môže robiť lepšie!
 
 44
 00:01:59,580 --> 00:02:04,540
-Ak by všetok verejne financovaný softvér bol zadarmo s otvoreným kódom,
+Ak by všetok verejne financovaný softvér bol zadarmo a s otvoreným kódom,
 
 45
 00:02:04,540 --> 00:02:07,440
@@ -196,15 +196,15 @@ a prerobiť
 
 50
 00:02:15,580 --> 00:02:18,360
-na naše potreby.
+na všetky naše potreby.
 
 51
 00:02:18,360 --> 00:02:21,800
-A pretože softvér, ktorý je zadarmo s otvoreným zdrojovým kódom
+A pretože softvér, ktorý je zadarmo a s otvoreným zdrojovým kódom
 
 52
 00:02:21,800 --> 00:02:25,080
-je ovorený pre každého,
+je ovorený na čítanie pre každého,
 
 53
 00:02:25,080 --> 00:02:29,860
@@ -256,11 +256,11 @@ Všetci si užívajú jej výhody,
 
 65
 00:03:00,700 --> 00:03:02,960
-pretože nové možnosti
+pretože nové možnosti a vylepšenia
 
 66
 00:03:02,960 --> 00:03:04,960
-a vylepšenia sú navzájom zdieľané.
+sú navzájom zdieľané.
 
 67
 00:03:05,200 --> 00:03:08,480
@@ -272,19 +272,19 @@ mohli by sme sa prestať trápiť s obmedzujúcimi licenciami.
 
 69
 00:03:12,220 --> 00:03:14,860
-A mohli by sme začať rozmýšľať,
+A mohli by sme začať rozmýšľať, kde a ako
 
 70
 00:03:14,860 --> 00:03:16,860
-kde a ako nám softvér môže pomôcť.
+nám softvér môže pomôcť.
 
 71
 00:03:16,860 --> 00:03:18,040
-Mohli by sme sa sústrediť na vytvorenie
+Mohli by sme sa sústrediť
 
 72
 00:03:18,040 --> 00:03:20,920
-lepšej spoločnosti pre všetkých.
+na vytvorenie lepšej spoločnosti pre všetkých.
 
 73
 00:03:20,920 --> 00:03:24,200
