@@ -5,7 +5,7 @@ layout: subpage
 ---
 
 Bu liste açık mektubu imzalayan ve isminin herkes tarafından
-görülmesini kabul eden bütün kişilerin listesidir. Şimdiye kadar {{<
+görülmesini kabul eden kişilerin listesidir. Şimdiye kadar {{<
 count type="signatures" >}} kişi desteğini ifade etti, sen onlardan
 biri misin?
 

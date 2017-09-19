@@ -6,7 +6,7 @@ layout: subpage
 
 **publiccode.eu** web sitesi [FSFE
 e.V.](https://fsfe.org/about/legal/imprint.html) tarafından
-işletilmektedir. Bu sayfada "biz" geçen yerler FSFE'yi
+yayınlanmaktadır. Bu sayfada "biz" geçen yerler FSFE'yi
 kastetmektedir.
 
 ## Ne topluyoruz ve neden
