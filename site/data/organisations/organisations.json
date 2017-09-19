@@ -90,6 +90,11 @@
     "url": "https://epf.org.pl"
   },
   {
+    "name": "Epicenter.works",
+    "img": "epicenterworks.png",
+    "url": "https://epicenter.works"
+  },
+  {
     "name":"FIfF",
     "img": "FIfF.png",
     "url": "https://www.fiff.de/"
@@ -113,6 +118,11 @@
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
+  },
+  {
+    "name": "Gentoo",
+    "img": "gentoo.png",
+    "url": "https://gentoo.org/"
   },
   {
     "name": "GFOSS",
@@ -215,6 +225,11 @@
     "url": "https://slat.org/"
   },
    {
+    "name": "Softcatalà",
+    "img": "softcatala.png",
+    "url": "https://www.softcatala.org/"
+  },
+   {
     "name": "Spoločnosť pre otvorené informačné technológie",
     "img": "soit.png",
     "url": "http://www.soit.sk/"
@@ -233,6 +248,11 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+  {
+    "name": "World Privacy and Identity Association",
+    "img": "wpia.png",
+    "url": "https://wpia.club/"
   },
   {
     "name": "Xnet",
