@@ -99,6 +99,11 @@
     "img": "ffkp.png",
     "url": "http://ffkp.se/"
   },
+ {
+    "name": "Framasoft",
+    "img": "framasoft.png",
+    "url": "https://framasoft.org/"
+  },
   {
     "name": "Free Knowledge Institute",
     "img": "freeknowledgeinstitute.png",
@@ -133,6 +138,11 @@
     "name": "Linuxwochen",
     "img": "linuxwoche.png",
     "url": "https://www.linuxwochen.at/"
+  },
+  {
+    "name": "Mageia",
+    "img": "mageia.png",
+    "url": "https://www.mageia.org/en/"
   },
   {
     "name": "Modern Poland Foundation",
