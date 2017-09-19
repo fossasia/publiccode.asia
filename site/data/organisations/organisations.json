@@ -1,5 +1,10 @@
 [
   {
+    "name": "Asociația pentru Tehnologie și Internet",
+    "img": "apti.png",
+    "url": "https://www.apti.ro/"
+  },
+  {
     "name": "Association Francophone des Utilisateurs de Logiciels Libres",
     "img": "aful.png",
     "url": "https://aful.org/"
@@ -95,6 +100,11 @@
     "url": "https://epicenter.works"
   },
   {
+    "name": "FACIL",
+    "img": "facil.png",
+    "url": "https://facil.qc.ca/"
+  },
+  {
     "name":"FIfF",
     "img": "FIfF.png",
     "url": "https://www.fiff.de/"
@@ -179,6 +189,11 @@
     "img": "OpenLabs.png",
     "url": "https://openlabs.cc/en/"
   },
+  {
+    "name": "OpenMedia",
+    "img": "openmedia.png",
+    "url": "https://openmedia.org/"
+  },
    {
     "name": "Open Rights Group",
     "img": "openrightsgroup.png",
@@ -220,14 +235,19 @@
     "url": "http://quintessenz.at" 
   },
    {
-    "name": "Software Liberty Association Taiwan",
-    "img": "slat.png",
-    "url": "https://slat.org/"
-  },
-   {
     "name": "Softcatalà",
     "img": "softcatala.png",
     "url": "https://www.softcatala.org/"
+  },
+   {
+    "name": "Software Heritage",
+    "img": "softwareheritage.png",
+    "url": "https://www.softwareheritage.org/"
+  },
+   {
+    "name": "Software Liberty Association Taiwan",
+    "img": "slat.png",
+    "url": "https://slat.org/"
   },
    {
     "name": "Spoločnosť pre otvorené informačné technológie",
