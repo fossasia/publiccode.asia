@@ -77,7 +77,7 @@
 # Organisations section
 [Languages.ca.organisations]
   headline  = "Organitzacions que donen suport"
-  text      = "Les organitzacions següents donen suport a la nostra [carta oberta](openletter/). Si la vostra organització té també interès a afegir-se a la crida pel codi públic, si us plau [contacteu-nos](mailto:contact@fsfe.org)."
+  text      = "Les organitzacions següents donen suport a la nostra [carta oberta](openletter/). Si la vostra organització té també interès a afegir-se a la crida pel codi públic, si us plau  contacteu amb nosaltres](mailto:contact@fsfe.org)."
 
 
 # Spread the word section

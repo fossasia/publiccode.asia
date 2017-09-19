@@ -9,7 +9,7 @@ El programari finançat públicament ha de ser [programari lliure i obert][fs]. 
 
 {{< fsdefinition type="box">}}
 
-Aquí és on vostè pot ajudar! Signeu la carta oberta per a donar més pes al nostre missatge. **{{< count type="signatures" >}} persones** i **{{< count type="organisations" >}} organitzacions** ja han signat. Lliurarem la carta i les signatures als vostres representants per a assegurar-nos que entenen que: diners públics? codi públic! 
+Aquí és on podeu ajudar! Signeu la carta oberta per a donar més pes al nostre missatge. **{{< count type="signatures" >}} persones** i **{{< count type="organisations" >}} organitzacions** ja han signat. Lliurarem la carta i les signatures als vostres representants per a assegurar-nos que entenen que: diners públics? codi públic! 
 
 > ## Diners públics? Codi públic!
 > 
@@ -24,7 +24,7 @@ Aquí és on vostè pot ajudar! Signeu la carta oberta per a donar més pes al n
 > 
 > * El programari lliure i obert és un bé públic modern que permet a tothom utilitzar-lo lliurement, estudiar-lo, compartir-lo i millorar les aplicacions que usem diàriament. 
 > * Les llicències de programari lliure i obert proporcionen mecanismes per a evitar quedar atrapat en serveis de companyies específiques que utilitzen llicències restrictives per a danyar la competència.
-> *  El programari lliure i obert garanteix que el codi és accessible de manera que les portes del darrere i els forats de seguretat es poden arreglar sense dependre d'un únic proveïdor de serveis. 
+> *  El programari lliure i obert garanteix que el codi sigui accessible de manera que les portes del darrere i els forats de seguretat es poden arreglar sense dependre d'un únic proveïdor de serveis. 
 > 
 > Els organismes públics són finançats amb impostos. Cal garantir que gasten els fons de la manera més eficient possible. Si són diners públics, hauria de ser codi públic! 
 > 
