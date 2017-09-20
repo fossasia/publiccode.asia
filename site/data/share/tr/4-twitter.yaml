@@ -1,7 +1,7 @@
 titleBefore: Paylaşın
 titleAfter:
 # This "customText" must not have more than 115 characters!
-customText: "Kamusal paraysa, kamusal kod da olmalıdır! @fsfe@quitter.no'nun #kamusalkod #publiccode çağrısını destekliyorum:"
+customText: "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@quitter.no'nun #kamusalkod #publiccode çağrısını destekliyorum:"
 
 # Do not translate below here
 id: twitter

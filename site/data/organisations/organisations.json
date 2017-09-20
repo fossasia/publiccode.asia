@@ -145,6 +145,11 @@
     "url": "https://www.gnome.org"
   },
   {
+    "name": "GreekLUG",
+    "img": "greeklug.png",
+    "url": "https://www.greeklug.gr/el/"
+  },
+  {
     "name": "Grupo de Amigos de Linux de Pontevedra",
     "img": "galpon.png",
     "url": "https://www.galpon.org/"
