@@ -34,7 +34,8 @@ First of all, you'll need an account on [git.fsfe.org](https://git.fsfe.org). FS
 [supporters](https://fsfe.org/join) and registered volunteers can just log in
 with their username and password. Interested newcomers can apply for a
 [volunteer
-account](https://wiki.fsfe.org/KnowHow/FSFELife/VolunteerAccountCreation). In
+account](https://wiki.fsfe.org/KnowHow/FSFELife/VolunteerAccountCreation) (consider 
+@max.mehl to be the group coordinator in this case). In
 the FSFE's wiki, you'll find [information about our Git
 service](https://wiki.fsfe.org/TechDocs/Git), how to get access, and some
 guides for basic procedures like configuration, commits, and pushes.
