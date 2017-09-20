@@ -145,6 +145,11 @@
     "url": "https://www.gnome.org"
   },
   {
+    "name": "GreekLUG",
+    "img": "greeklug    .png",
+    "url": "https://www.greeklug.gr/el/"
+  },
+  {
     "name": "HackYourPhD",
     "img": "HackYourPhD.png",
     "url": "https://hackyourphd.org/"
