@@ -19,10 +19,25 @@ if [ "$mode" == "server" ]; then
 elif [ "$mode" == "syntax" ]; then
   hugo
 else
-  hugo
+  status=1
+  tries=0
+  while [[ $status -ne 0 ]]; do
 
-  ##
-  ## After building the website, we set the AWS credentials and uplodad
+    hugo
+    status=$?
+    
+    (( tries++ ))
+    
+    if [[ $status != 0 && $tries -le 2 ]]; then
+      echo "Build error with exit status $status on try $tries. Try again now"
+    elif [[ $status != 0 && $tries -gt 2 ]]; then
+      echo "Build failed 3 times in a row. Don't try again."
+      exit 1
+    fi
+  
+  done
+    
+  ## After successfully building the website, we set the AWS credentials and uplodad
   ## everything to our AWS s3 bucket.
   ##
   #if [ -f /srv/cred/aws.sh ]; then
