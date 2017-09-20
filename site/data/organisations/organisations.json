@@ -1,5 +1,15 @@
 [
   {
+    "name": "ADDULACT",
+    "img": "addulact.png",
+    "url": "http://adullact.org/"
+  },
+  {
+    "name": "Aquilenet",
+    "img": "aquilenet.png",
+    "url": "https://www.aquilenet.fr/"
+  },
+  {
     "name": "Asociația pentru Tehnologie și Internet",
     "img": "apti.png",
     "url": "https://www.apti.ro/"
@@ -114,6 +124,11 @@
     "img": "ffkp.png",
     "url": "http://ffkp.se/"
   },
+  {
+    "name": "FOSSASIA",
+    "img": "fossasia.png",
+    "url": "https://fossasia.org/"
+  },
  {
     "name": "Framasoft",
     "img": "framasoft.png",
@@ -145,6 +160,11 @@
     "url": "https://www.gnome.org"
   },
   {
+    "name": "GNU Solidario",
+    "img": "gnusolidario.png",
+    "url": "http://www.gnusolidario.org/"
+  },
+  {
     "name": "GreekLUG",
     "img": "greeklug.png",
     "url": "https://www.greeklug.gr/el/"
@@ -153,6 +173,11 @@
     "name": "Grupo de Amigos de Linux de Pontevedra",
     "img": "galpon.png",
     "url": "https://www.galpon.org/"
+  },
+  {
+    "name": "gvSIG Association",
+    "img": "gvsig.png",
+    "url": "http://www.gvsig.com/"
   },
   {
     "name": "HackYourPhD",
@@ -248,6 +273,11 @@
     "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
     "url": "http://quintessenz.at" 
+  },
+  {
+    "name": "Slovensko.Digital",
+    "img": "slovenskodigital.png",
+    "url": "https://slovensko.digital/" 
   },
    {
     "name": "Softcatalà",
