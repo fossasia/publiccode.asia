@@ -195,6 +195,11 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "LibreITALIA",
+    "img": "libreitalia.png",
+    "url": "http://www.libreitalia.it/"
+  },
+  {
     "name": "Linuxwochen",
     "img": "linuxwoche.png",
     "url": "https://www.linuxwochen.at/"
