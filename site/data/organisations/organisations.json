@@ -320,6 +320,11 @@
     "url": "https://wikimedia.de"
   },
   {
+    "name": "Wikimedia Italia",
+    "img": "wmit.png",
+    "url": "https://wiki.wikimedia.it/wiki/Main_page"
+  },
+  {
     "name": "World Privacy and Identity Association",
     "img": "wpia.png",
     "url": "https://wpia.club/"
