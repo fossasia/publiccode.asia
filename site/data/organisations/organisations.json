@@ -5,6 +5,11 @@
     "url": "http://adullact.org/"
   },
   {
+    "name": "Aptivate",
+    "img": "aptivate.png",
+    "url": "www.aptivate.org/"
+  },
+  {
     "name": "Aquilenet",
     "img": "aquilenet.png",
     "url": "https://www.aquilenet.fr/"
@@ -215,6 +220,11 @@
     "url": "https://nowoczesnapolska.org.pl"
   },
   {
+    "name": "Openbit",
+    "img": "openbit.png",
+    "url": "https://openbit.eu/"
+  },
+  {
     "name": "Open Knowledge Belgium",
     "img": "okbe.png",
     "url": "https://www.openknowledge.be/"
@@ -270,6 +280,11 @@
     "url": "https://www.ow2.org/"
   },
    {
+    "name": "Plone Foundation",
+    "img": "plone.png",
+    "url": "https://plone.org/"
+  },
+   {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "url": "https://publicsoftware.eu/"
@@ -303,6 +318,11 @@
     "name": "Spoločnosť pre otvorené informačné technológie",
     "img": "soit.png",
     "url": "http://www.soit.sk/"
+  },
+   {
+    "name": "Technologiestiftung Berlin",
+    "img": "tsb.png",
+    "url": "https://www.technologiestiftung-berlin.de"
   },
   {
     "name": "The Document Foundation",
