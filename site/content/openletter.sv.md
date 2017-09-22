@@ -15,7 +15,7 @@ Det är här du kan hjälpa till! Signera det öppna brevet för att ge vårt
 meddelande större tyngd. **{{< count type="signatures" >}} personer** och **{{<
 count type="organisations" >}} organisationer** har redan signerat.
 
-> ## Offentliga pengar? Offentlig kod!
+> ## Public Money? Public Code!
 >
 > Digitala tjänster som erbjuds och används av våra offentliga administrationer
 > utgör den kritiska infrastrukturen för 2000-talets demokratiska nationer. För
