@@ -57,7 +57,6 @@
 # Action section
 [Languages.sv.action]
   headline      = "Berätta för dina representanter!"
-  intro         = "In our [**open letter**](openletter/) we demand:"
   intro         = "I vårt [**öppna brev**](openletter/) kräver vi:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Implementera lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.').”"
