@@ -16,9 +16,9 @@ la tua nazionalità, per le quali hai espresso il consenso al trattamento. Mostr
 pubblicamente il tuo nome come firmatario della lettera aperta solo se darai il tuo consenso
 a mostrare pubblicamente il tuo nome nella [lista dei firmatari](/openletter/all-signatures). Comunicheremo anche
 il tuo nome e nazionalità ai destinatari della lettera
-aperta (membri del Parlamento europeo e parlamenti nazionali o
+aperta (i membri del Parlamento europeo e dei parlamenti nazionali o
 regionali). Non comunicheremo a terzi il tuo indirizzo e-mail.
-Conserveremo questa informazione in un database solo per la durata della
+Conserveremo queste informazioni in un database solo per la durata della
 campagna Public Money - Public Code, finita la quale provvederemo a cancellarli.
 
 Se hai acconsentito ad essere contattato per ricevere informazioni sulla campagna,
@@ -29,9 +29,9 @@ campagna durante e immediatamente dopo di essa.
 
 Tutte le informazioni conferite tramite il sito, che siano conservate
 sul webserver o nel nostro sistema di gestione delle problematiche, sono disponibili al
-personale ed agli stagisti di FSFE. Le informazioni sono anche disponibili per il gruppo
-degli amministratori di sistema di FSFE. Le informazioni sono conservate non cifrate sui
-nostri server, il che comporta che le informazioni siano disponibili anche al
+personale ed agli stagisti di FSFE. Le informazioni sono disponibili anche agli amministratori di sistema di FSFE.
+ Le informazioni sono conservate non cifrate nei
+nostri server, il che comporta che siano disponibili anche al
 personale della PlusServer Gmbh dove risiedono i nostri server.
 
 ## Quali sono i tuoi diritti
@@ -48,6 +48,6 @@ provvedimenti per rimuovere i dati personali che ti riguardano.
 
 Nel caso tu abbia domande sull'uso dei tuoi dati, o desiderassi
 richiedere una copia di tutte le informazioni che conserviamo sul tuo conto, o
-desiderassi contattare il nostro Responsabile della Protezione dei Dati per altri
-fini, il nostro Responsabile della Protezione dei Dati è il
+desiderassi contattare il nostro Responsabile per la protezione dei dati per altri
+motivi, il nostro Responsabile per la protezione dei dati è il
 direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
