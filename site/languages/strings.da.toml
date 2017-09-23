@@ -1,0 +1,126 @@
+# == DANISH ==
+
+# General strings
+[Languages.da]
+  languageCode  = "da"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Danish"  # verbose name of language (e.g. "Français" or "Русский")
+  description   = "Public Money, Public Code - En kampagne for frigivelse af offentligt finansieret software som fri software"
+  fsdefinition  = "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."
+
+
+# Navigation
+[Languages.da.navigation]
+[Languages.da.navigation.links]
+  start     = "Start"
+  about     = "Om"
+  arguments = "Ræsonnement"
+  action    = "Skriv under"
+  spread    = "Spred ordet"
+
+
+# Start banner
+[Languages.da.start]
+  subtitle1   = "Hvorfor frigives skatteyderbetalt software ikke som fri software?"
+  subtitle2   = "Vi ønsker lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor offentliggøres som [Fri og Open Source Software](https://fsfe.org/about/mission.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.'). Hvis det er offentlige penge, bør det også være offentlig kode."
+  subtitle3   = "**Kode betalt af folket bør også være tilgængelig for folket!**" 
+
+
+# About section
+[Languages.da.about]
+  headline    = "Lyder det kompliceret? Overhovedet ikke. Det er super nemt!"
+  buttonText  = "Flere fordele"
+
+
+# Arguments section
+[Languages.da.arguments]
+  headline    = "Ræsonnementer for offentlig kode"
+  followup    = "Mener du at fri software bør være standardvalget for offentligt finansieret software? **Lad os overbevise vores politiske repræsentanter!**"
+  buttonText  = "Underskriv det åbne brev"
+[[Languages.da.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Skatte-besparelser"
+  description = "Applikationer der ligner hinanden skal ikke udvikles forfra hver gang."
+[[Languages.da.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Samarbejde"
+  description = "Indsatsen på tværs af større projekter kan dele ekspertise og omkostninger."
+[[Languages.da.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Tjene offentligheden"
+  description = "Applikationer betalt af offentligheden bør være tilgængelig for alle."
+[[Languages.da.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Skabe innovation"
+  description = "Med gennemsigtige processer, skal andre ikke genopfinde den dybe tallerken."
+
+
+# Action section
+[Languages.da.action]
+  headline      = "Send politikerne budskabet!"
+  intro         = "I vores [**åbne brev**](openletter/) forlanger vi:"
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "“Implementere lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor, skal gøres tilgængelig under en [Fri og Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.') licens.”"
+  description   = "**$ORGS** organisationer og **$INDS** personer har allerede støttet dette opråb til handling ved at underskrive vores [åbne brev](openletter/). Du kan hjælpe os med at øge effekten ved også at underskrive! Vi vil overlevere underskrifterne til repræsentanter fra hele Europa som involverer sig i debatten om software frihed i den offentlige administration."
+
+[Languages.da.action.box]
+  text      = "Allerede **$INDS UNDERSKRIFTER** – underskriv det åbne brev nu!"
+
+[Languages.da.action.form]
+  name      = "Navn (påkrævet)"
+  email     = "Email (påkrævet)"
+  country   = "Dit land"
+  zip       = "Postnummer"
+  comment   = "Din kommentar (maks. 140 tegn)"
+  permPriv  = "Jeg har læst og accepterer [privatlivspolitikken](privacy/)"
+  permNews  = "Jeg ønsker at blive informeret om kampagnen fremadrettet"
+  permPub   = "Jeg ønsker at min underskrift fremgår af [listen af medunderskrivere](openletter/all-signatures)"
+  submit    = "Underskriv!"
+
+
+# Organisations section
+[Languages.da.organisations]
+  headline  = "Støttende organisationer"
+  text      = "De følgende organisationer støtter vores [åbne brev](openletter/). Hvis din organisation også er interesseret i at slutte sig til opråbet for offentlig kode, så [kontakt os](mailto:contact@fsfe.org) endelig."
+
+
+# Spread the word section
+[Languages.da.spread]
+  headline          = "Spred ordet!"
+  promoText         = "Bestil de nyeste klistermærker og løbesedler fra FSFE"
+  promoButtonText   = "Få materialer"
+  shareText         = "Fortæl dine venner og følgere om kampagnen:"
+  defaultSocialText = "Hvis det er offentlige penge, bør det også være offentlig kode. Jeg støtter dette opråb for mere offentlig kode under fri software-licenser:"
+
+
+# Legal Section
+[Languages.da.legal]
+  by            = "Dette er en kampagne fra Free Software Foundation Europe"
+  imprint       = "Kolofon"
+  privacy       = "Privatlivspolitik"
+  transparency  = "Gennemsigtighed"
+  contribute1   = "Denne hjemmesides kode er fri software."
+  contribute2   = "Du er velkommen til at bidrage!"
+  license       = "Dette værk er licenseret under en [Creative Commons BY-SA 4.0 licens](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.da.language]
+  description = "Se siden på et andet sprog"
+
+
+# 404 Error Page
+[Languages.da.error]
+  headline    = "Fejl 404 - Side ikke fundet"
+  description = "Siden du prøver at tilgå eksisterer ikke."
+  button      = "Tilbage til start-siden"
+
+
+# Specific sub-pages
+[Languages.da.subpage]
+[Languages.da.subpage.signatures]
+  headline      = "Personlige underskrifter"
+  description   = "Nedenfor vises medunderskrivere af det åbne brev der indviligede i at få deres navn offentliggjort. Vær den næste!"
+  allSignatures = "Se [alle medunderskrivere](all-signatures/)."
+  tableName     = "Navn"
+  tableCountry  = "Land"
+  tableComment  = "kommentar"
