@@ -1,8 +1,13 @@
 [
   {
     "name": "ADULLACT",
-    "img": "addullact.png",
+    "img": "adullact.png",
     "url": "http://adullact.org/"
+  },
+  {
+    "name": "Aptivate",
+    "img": "aptivate.png",
+    "url": "www.aptivate.org/"
   },
   {
     "name": "Aquilenet",
@@ -195,6 +200,11 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "LibreITALIA",
+    "img": "libreitalia.png",
+    "url": "http://www.libreitalia.it/"
+  },
+  {
     "name": "Linuxwochen",
     "img": "linuxwoche.png",
     "url": "https://www.linuxwochen.at/"
@@ -208,6 +218,11 @@
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
+  },
+  {
+    "name": "Openbit",
+    "img": "openbit.png",
+    "url": "https://openbit.eu/"
   },
   {
     "name": "Open Knowledge Belgium",
@@ -265,6 +280,11 @@
     "url": "https://www.ow2.org/"
   },
    {
+    "name": "Plone Foundation",
+    "img": "plone.png",
+    "url": "https://plone.org/"
+  },
+   {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "url": "https://publicsoftware.eu/"
@@ -299,6 +319,11 @@
     "img": "soit.png",
     "url": "http://www.soit.sk/"
   },
+   {
+    "name": "Technologiestiftung Berlin",
+    "img": "tsb.png",
+    "url": "https://www.technologiestiftung-berlin.de"
+  },
   {
     "name": "The Document Foundation",
     "img": "tdf.png",
@@ -313,6 +338,11 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+  {
+    "name": "Wikimedia Italia",
+    "img": "wmit.png",
+    "url": "https://wiki.wikimedia.it/wiki/Main_page"
   },
   {
     "name": "World Privacy and Identity Association",
