@@ -29,7 +29,7 @@ count type="organisations" >}} organisationer** har redan signerat.
 >   utveckling.
 > * Stöder monopol genom att förhindra konkurrens. Som en följd av det blir många
 >   administrationer beroende av en handfull företag.
-> * Utgör en risk för säkerheten hos vår digital infrastruktur genom att förbjuda
+> * Utgör en risk för säkerheten hos vår digitala infrastruktur genom att förbjuda
 >   åtkomst till källkoden. Det gör att åtgärder för att fixa bakdörrar och
 >   säkerhetshål blir extremt svårt om inte omöjligt.
 >

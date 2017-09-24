@@ -51,7 +51,7 @@
 [[Languages.sv.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "Främja innovation"
-  description = "Med transparanta processer behöver inte andra återuppfinna hjulet."
+  description = "Med transparenta processer behöver inte andra återuppfinna hjulet."
 
 
 # Action section
@@ -100,7 +100,7 @@
   transparency  = "Transparens"
   contribute1   = "Koden för denna hemsida är Fri Programvara."
   contribute2   = "Du är välkommen att bidra!"
-  license       = "Detta arbete är licensierat under en [Creative Commons BY-SA 4.0 Lisens](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "Detta arbete är licensierat under en [Creative Commons BY-SA 4.0 Licens](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection

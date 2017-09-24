@@ -8,8 +8,8 @@ policy refererar till "vi", menas FSFE.
 
 ## Vad vi samlar in och varför
 
-När du använder hemsidan för att signera vårat öppna brev, samlar vi
-in och sparar information om ditt namn, e-postaddress och land som du
+När du använder hemsidan för att signera vårt öppna brev, samlar vi
+in och sparar information om ditt namn, e-postadress och land som du
 har tillhandahållit med ditt samtycke. Vi kommer att publikt visa ditt
 namn som undertecknare till vårt öppna brev om du gav ditt samtycke
 att publikt visa ditt namn på [listan med signaturer](/openletter/all-signatures). Vi kommer
