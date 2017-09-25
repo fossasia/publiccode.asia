@@ -200,6 +200,11 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "La Quadrature du Net",
+    "img": "laquadrature.png",
+    "url": "https://www.laquadrature.net"
+  },
+  {
     "name": "LibreITALIA",
     "img": "libreitalia.png",
     "url": "http://www.libreitalia.it/"
