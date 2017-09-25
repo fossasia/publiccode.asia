@@ -69,6 +69,11 @@
     "img": "debian.png",
     "url": "https://debian.org"
   },
+{
+    "name": "DFRI",
+    "img": "dfri.png",
+    "url": "https://www.dfri.se/?lang=en"
+  },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
