@@ -21,7 +21,7 @@
 # Start banner
 [Languages.sv.start]
   subtitle1   = "Varför släpps inte programvara skapad genom skattebetalarnas pengar som Fri Programvara?"
-  subtitle2   = "Vi vill ha lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/about/mission.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.'). Om det är offentliga pengar, borde det vara offentlig kod likaså"
+  subtitle2   = "Vi vill ha lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.'). Om det är offentliga pengar, borde det vara offentlig kod likaså"
   subtitle3   = "**Kod betalad av folket borde vara tillgänglig för folket!**"
 
 
