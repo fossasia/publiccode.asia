@@ -1,0 +1,126 @@
+# == HUNGARIAN ==
+
+# General strings
+[Languages.hu]
+  languageCode  = "hu"
+  languageName  = "Magyar"
+  description   = "Public Money, Public Code - Egy kampány a közpénzen finanszírozott szoftverek felszabadításáért"
+  fsdefinition  = "A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok."
+
+
+# Navigation
+[Languages.hu.navigation]
+[Languages.hu.navigation.links]
+  start     = "Start"
+  about     = "Kampányvideó"
+  arguments = "Érvek"
+  action    = "Írd alá"
+  spread    = "Terjeszd az igét"
+
+
+# Start banner
+[Languages.hu.start]
+  subtitle1   = "Az adófizetők pénzéből létrehozott programok miért nem Szabad Szoftverek?"
+  subtitle2   = "Azt szeretnénk elérni a törvényhozóknál, hogy a köz számára közpénzből fejlesztett szoftverek legyenek nyilvánosan elérhetőek a köz számára valamilyen [Szabad Szoftver](https://fsfe.org/about/mission.html 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel. Ha közpénzből van, akkor a forráskódja is közkincs kellene, hogy legyen."
+  subtitle3   = "**A lakosság által finanszírozott programoknak elérhetőnek kellene lenniük a lakosság számára!**" 
+
+
+# About section
+[Languages.hu.about]
+  headline    = "Bonyolultnak hangzik? Nem az. Nagyon egyszerű!"
+  buttonText  = "További előnyök"
+
+
+# Arguments section
+[Languages.hu.arguments]
+  headline    = "Érvek a Szabad Szoftverek mellett"
+  followup    = "Te is úgy gondolod, hogy alapértelmezés szerint Szabad Szoftverek kellene legyenek a közpénzen finanszírozott programok? **Győzzük megy együtt a képviselőinket!**"
+  buttonText  = "Nyílt levél aláírása"
+[[Languages.hu.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Adómegtakarítás"
+  description = "Hasonló programokat nem kell a nulláról újraprogramozni."
+[[Languages.hu.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Együttműködés"
+  description = "Nagyobb projektek megoszthatják a tudásbázist és a költségeket."  
+[[Languages.hu.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Közszolgálat"
+  description = "Közpénzen fejlesztett programok elérhetőek lesznek mindenki számára."
+[[Languages.hu.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Innováció elősegítése"
+  description = "Az átláthatóság miatt nem kell mindig újra feltalálni a már létező jól működő megoldásokat."
+
+
+# Action section
+[Languages.hu.action]
+  headline      = "Mondjuk el a képviselőinknek!"
+  intro         = "A [**nyílt levelünkben**](openletter/) kérjük:" 
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "“Olyan jogszabályok létrehozását, amelyek biztosítják, hogy a közszolgáltatási szervek számára közpénzből fejlesztett szoftverek forráskódjai legyenek valamilyen [Szabad Szoftver](https://fsfe.org/freesoftware/basics/summary.html 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel ellátva nyilvánosan elérhetőek.”"
+  description   = "Már **$ORGS** szervezet és  **$INDS** személy támogatta kezdeményezésünket [nyílt levelünk](openletter/) aláírásával. Te is segíthetsz aláírásoddal, hogy minél nagyobb hatást érhessünk el! Európa szerte eljuttatjuk az aláírásokat a képviselőknek, hogy megvitathassák a közigazgatási szervek által használt szoftverek felszabadításának kérdését."
+
+[Languages.hu.action.box]
+  text      = "Ők már aláírták: **$INDS** – Írd alá Te is!"
+
+[Languages.hu.action.form]
+  name      = "Név (kötelező)"
+  email     = "Email (kötelező)"
+  country   = "Ország"
+  zip       = "Irányítószám"
+  comment   = "Hozzászólás (max. 140 karakter)"
+  permPriv  = "Elolvastam és elfogadom az [adatvédelmi nyilatkozatot](privacy/)"
+  permNews  = "Szeretnék értesítéseket kapni a kampánnyal kapcsolatos fejleményekről"
+  permPub   = "Szeretném, ha az aláírásom megjelenne az [aláírók listáján](openletter/all-signatures)"
+  submit    = "Írd alá most!"
+
+
+# Organisations section
+[Languages.hu.organisations]
+  headline  = "Támogató szervezetek"
+  text      = "Az alábbi szervezetek már támogatják a [nyílt levelünket](openletter/). Ha a te szervezeted is szeretne csatlakozni a támogatók közé, kérjük [vedd fel velünk a kapcsolatot](mailto:contact@fsfe.org)."
+
+
+# Spread the word section
+[Languages.hu.spread]
+  headline          = "Terjeszd az igét!"
+  promoText         = "Rendeld meg a legújabb matricákat és röplapokat az FSFE-től"
+  promoButtonText   = "Szerezd be ingyenes reklámanyagainkat"
+  shareText         = "Szólj barátaidnak és ismerőseidnek:"
+  defaultSocialText = "Ha közpénzből van, a forráskódja is közkincs kellene legyen. Támogatom ezt a felhívást, hogy több Szabad Szoftver licenccel rendelkező program legyen:"
+
+
+# Legal Section
+[Languages.hu.legal]
+  by            = "Ez a kampány a Free Software Foundation Europe alapítvány kampánya"
+  imprint       = "Impresszum"
+  privacy       = "Adatvédelem"
+  transparency  = "Átláthatóság"
+  contribute1   = "Ennek a weboldalnak a forráskódja Szabad Szoftver." 
+  contribute2   = "Örömmel vesszük a hozzájárulásokat!"
+  license       = "A weboldal licence [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.hu.language]
+  description = "Válassz más nyelvet"
+
+
+# 404 Error Page
+[Languages.hu.error]
+  headline    = "Hiba 404 - Az oldal nem található"
+  description = "Az oldal, amit keresel nem létezik."
+  button      = "Vissza a főoldalra"
+
+
+# Specific sub-pages
+[Languages.hu.subpage]
+[Languages.hu.subpage.signatures]
+  headline      = "A nyílt levél egyéni aláírói"
+  description   = "Alább találhatók azon aláírók listája, akik hozzájárultak, hogy a nevüket közzétegyük. Légy Te a következő!"
+  allSignatures = "Nézd meg az [összes nyilvános aláírást](all-signatures/)."
+  tableName     = "Név"
+  tableCountry  = "Ország"
+  tableComment  = "Megjegyzés"
