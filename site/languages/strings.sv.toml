@@ -1,0 +1,126 @@
+# == YOUR LANGUAGE ==
+
+# General strings
+[Languages.sv]
+  languageCode  = "sv"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Svenska"  # verbose name of language (e.g. "Français" or "Русский")
+  description   = "Public Money, Public Code - En kampanj för att släppa offentligt finansierad programvara som Fri Programvara"
+  fsdefinition  = "Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet"
+
+
+# Navigation
+[Languages.sv.navigation]
+[Languages.sv.navigation.links]
+  start     = "Start"
+  about     = "Om"
+  arguments = "Argument"
+  action    = "Vidta åtgärder"
+  spread    = "För det vidare"
+
+
+# Start banner
+[Languages.sv.start]
+  subtitle1   = "Varför släpps inte programvara skapad genom skattebetalarnas pengar som Fri Programvara?"
+  subtitle2   = "Vi vill ha lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/about/mission.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.'). Om det är offentliga pengar, borde det vara offentlig kod likaså"
+  subtitle3   = "**Kod betalad av folket borde vara tillgänglig för folket!**"
+
+
+# About section
+[Languages.sv.about]
+  headline    = "Låter krångligt? Det är det inte. Det är superlätt!"
+  buttonText  = "Fler fördelar"
+
+
+# Arguments section
+[Languages.sv.arguments]
+  headline    = "Anledningar till publik kod"
+  followup    = "Tycker du att Fri Programvara borde vara förhandsalternativet för offentligt finansierad programvara? **Låt oss övertyga dina politiska representanter!**"
+  buttonText  = "Signera det Öppna Brevet"
+[[Languages.sv.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Skattebesparingar"
+  description = "Liknande applikationer behöver inte programmeras från början varje gång."
+[[Languages.sv.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Samarbete"
+  description = "Ansträngningar med större projekt kan dela expertis och kostnader."
+[[Languages.sv.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Tjäna allmänheten"
+  description = "Applikationer betalad av allmänheten borde vara tillgänglig för alla."
+[[Languages.sv.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Främja innovation"
+  description = "Med transparenta processer behöver inte andra återuppfinna hjulet."
+
+
+# Action section
+[Languages.sv.action]
+  headline      = "Berätta för dina representanter!"
+  intro         = "I vårt [**öppna brev**](openletter/) kräver vi:"
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "“Implementera lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.').”"
+  description   = "**$ORGS** organisationer och **$INDS** individer stöder redan detta anrop för aktion genom att signera vårt [öppna brev](openletter/). Du kan hjälpa oss att göra mycket större påverkan genom att signera det du också! Vi kommer ge alla signaturer till representanter över hela Europa som debatterar fri programvara i offentliga organ."
+
+[Languages.sv.action.box]
+  text      = "**$INDS SIGNATURER** redan – signera det öppna brevet nu!"
+
+[Languages.sv.action.form]
+  name      = "Namn (obligatoriskt)"
+  email     = "E-post (obligatoriskt)"
+  country   = "Ditt land"
+  zip       = "Postnummer"
+  comment   = "Din kommentar (max. 140 tecken)"
+  permPriv  = "Jag har läst och förstått [sekretesspolicyn](privacy/)"
+  permNews  = "Jag vill få vidare information om denna kampanj i framtiden"
+  permPub   = "Jag vill att min signatur dyker upp i [listan med signaturer](openletter/all-signatures)"
+  submit    = "Signera Nu!"
+
+
+# Organisations section
+[Languages.sv.organisations]
+  headline  = "Stödjande Organisationer"
+  text      = "De följande organisationerna stöder vårt [öppna brev](openletter/). Om din organisation också är intresserad av att stämma in i uppropet för Publik Kod, vänligen [kontakta oss](mailto:contact@fsfe.org)."
+
+
+# Spread the word section
+[Languages.sv.spread]
+  headline          = "För det vidare!"
+  promoText         = "Beställ de senaste klistermärkena och flygbladen från FSFE"
+  promoButtonText   = "Få marknadsföringsmaterial"
+  shareText         = "Berätta för dina vänner och följare om Publik Kod:"
+  defaultSocialText = "Om det är offentliga pengar, borde det vara offentlig kod likaså! Jag stöder uppropet för mer publik kod under licenser för Fri Programvara:"
+
+
+# Legal Section
+[Languages.sv.legal]
+  by            = "Det här är en kampanj från Free Software Foundation Europe"
+  imprint       = "Imprint"
+  privacy       = "Integritet"
+  transparency  = "Transparens"
+  contribute1   = "Koden för denna hemsida är Fri Programvara."
+  contribute2   = "Du är välkommen att bidra!"
+  license       = "Detta arbete är licensierat under en [Creative Commons BY-SA 4.0 Licens](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.sv.language]
+  description = "Läs denna sida på ett annat språk"
+
+
+# 404 Error Page
+[Languages.sv.error]
+  headline    = "Fel 404 - Sidan hittades inte"
+  description = "Sidan du letar efter finns inte."
+  button      = "Tillbaka till startsidan"
+
+
+# Specific sub-pages
+[Languages.sv.subpage]
+[Languages.sv.subpage.signatures]
+  headline      = "Individuella signaturer för det Öppna Brevet"
+  description   = "Här nedan är signaturerna från dem som samtyckte till att ha deras namn publicerade. Bli den nästa!"
+  allSignatures = "Se [alla publika signaturer](all-signatures/)."
+  tableName     = "Namn"
+  tableCountry  = "Land"
+  tableComment  = "Kommentar"
