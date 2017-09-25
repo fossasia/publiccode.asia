@@ -285,6 +285,11 @@
     "url": "https://www.openrightsgroup.org/"
   },
   {
+    "name": "OpenStreetMap France",
+    "img": "openstreetmap-france.png",
+    "url": "https://www.openstreetmap.fr/"
+  },
+  {
     "name": "Open Source Business Alliance",
     "img": "osba.png",
     "url": "http://osb-alliance.de"
