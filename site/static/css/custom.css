@@ -67,6 +67,7 @@ blockquote p {
 #language li {
   display: inline-block;
   margin-right: 10px;
+  line-height: 2em;
 }
 #language li::before {
   content: "› ";
