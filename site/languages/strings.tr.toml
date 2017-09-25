@@ -21,7 +21,7 @@
 # Start banner
 [Languages.tr.start]
   subtitle1   = "Vergi verenlerin parasıyla üretilen yazılımlar neden Özgür Yazılım olarak yayınlanmıyor?"
-  subtitle2   = "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fsfe.org/about/mission.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır!"
+  subtitle2   = "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fsfe.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır!"
   subtitle3   = "**Halkın parasıyla üretilen kod, halka açık olmalıdır!**"
 
 
