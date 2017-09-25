@@ -150,6 +150,11 @@
     "url": "http://freeknowledge.eu/"
   },
   {
+    "name": "Free Libre Open Source Software Kosova",
+    "img": "flossk.png",
+    "url": "http://flossk.org/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
@@ -203,6 +208,11 @@
     "name": "Associazione Industria Italiana del Software Libero",
     "img": "iisl.png",
     "url": "http://www.industriasoftwarelibero.it/"
+  },
+  {
+    "name": "Italian Linux Society",
+    "img": "ils.png",
+    "url": "https://www.ils.org/"
   },
   {
     "name": "KDE e.V.",
