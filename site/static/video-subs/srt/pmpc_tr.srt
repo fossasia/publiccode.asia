@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:01,240
+Bir an için hayal edin
+
+2
+00:00:01,240 --> 00:00:03,900
+hükümetimizin kamu altyapısına,
+
+3
+00:00:03,900 --> 00:00:06,100
+örneğin caddelere ve kamu binalarına,
+
+4
+00:00:06,100 --> 00:00:09,480
+dijital altyapımıza davrandığı gibi davrandığını düşünün:
+
+5
+00:00:09,480 --> 00:00:12,560
+Parlamento üyelerimiz, daha katı çevre yasaları için oy kullanamayacakları
+
+6
+00:00:12,560 --> 00:00:16,360
+kiralanmış bir alanda çalışacaktı
+
+7
+00:00:16,360 --> 00:00:19,240
+çünkü mülk sahibi -çokuluslu bir şirket-
+
+8
+00:00:19,240 --> 00:00:22,580
+binalarında bu tip bir oy vermeye izin vermeyecekti.
+
+9
+00:00:22,840 --> 00:00:25,240
+Süresi geçtikten sonra koltuk sayısının
+
+10
+00:00:25,240 --> 00:00:27,240
+500'den fazlaya yükseltilmesine de izin vermeyecekti.
+
+11
+00:00:27,240 --> 00:00:31,820
+Bu parlamentonun bazı üyelerinin dışarıda, yani sokakta, durmak zorunda kalacağı anlamına geliyor.
+
+12
+00:00:31,820 --> 00:00:33,940
+Ve birkaç blok ötede
+
+13
+00:00:33,940 --> 00:00:36,960
+yepyeni bir spor salonu çoktan yıkılmış
+
+14
+00:00:36,960 --> 00:00:39,460
+inşa edildikten sadece altı ay sonra.
+
+15
+00:00:39,460 --> 00:00:42,440
+Tam bir kopyasıyla değiştiriliyor -
+
+16
+00:00:42,440 --> 00:00:44,020
+büyük  masrafla.
+
+17
+00:00:44,020 --> 00:00:45,440
+Ve tek fark:
+
+18
+00:00:45,440 --> 00:00:50,460
+Yeni üretici ek özellik olarak sokak basketbolu özelliği de sağlıyor.
+
+19
+00:00:50,540 --> 00:00:51,620
+Bu arada,
+
+20
+00:00:51,620 --> 00:00:54,620
+her gece, belediye binasındaki gizli arka kapıdan
+
+21
+00:00:54,620 --> 00:00:57,920
+vatandaşlar hakkında hassas bilgi içeren belgeler,
+
+22
+00:00:57,920 --> 00:00:59,920
+banka verisinden sağlık kayıtlarına kadar,
+
+23
+00:00:59,920 --> 00:01:01,920
+çalınıyor.
+
+24
+00:01:01,920 --> 00:01:05,060
+Ama hiç kimsenin bunun hakkında bir şey yapmasına izin verilmiyor,
+
+25
+00:01:05,060 --> 00:01:08,760
+çünkü arka kapıları araştırmak ve onları kilitlemek
+
+26
+00:01:08,760 --> 00:01:11,840
+kullanıcı sözleşmesini ihlal edecektir.
+
+27
+00:01:11,840 --> 00:01:14,540
+Ve kulağa ne kadar saçma gelirse gelsin,
+
+28
+00:01:14,540 --> 00:01:17,120
+hükümetlerimizin her gün kullandığı
+
+29
+00:01:17,120 --> 00:01:19,220
+yazılım ve programlar gibi
+
+30
+00:01:19,220 --> 00:01:21,560
+dijital altyapımız söz konusu olduğunda - 
+
+31
+00:01:21,700 --> 00:01:24,660
+bu karşılaştırma oldukça doğrudur.
+
+32
+00:01:24,660 --> 00:01:26,040
+Çünkü çoğunlukla,
+
+33
+00:01:26,040 --> 00:01:29,820
+yöneticilerimiz, özel mülkiyetli yazılım tedarik etmektedir.
+
+34
+00:01:29,820 --> 00:01:33,420
+Bunun anlamı çok fazla paranın
+
+35
+00:01:33,420 --> 00:01:35,960
+sınırlı bir süre geçerli
+
+36
+00:01:35,960 --> 00:01:38,360
+ve hakkımızı sınırlayan lisanslara gitmesidir.
+
+37
+00:01:38,360 --> 00:01:41,000
+Kendi altyapımızı
+
+38
+00:01:41,000 --> 00:01:43,000
+makul bir şekilde kullanmaya iznimiz yoktur.
+
+39
+00:01:43,000 --> 00:01:46,580
+Ve çünkü özel mülkiyetli yazılımın kaynak kodu
+
+40
+00:01:46,580 --> 00:01:49,320
+çoğunlukla bir ticari sırdır,
+
+41
+00:01:49,320 --> 00:01:52,640
+güvenlik açıklarını veya özellikle yüklenmiş arka kapıları bulmak
+
+42
+00:01:52,640 --> 00:01:55,960
+aşırı zordur ve hatta yasadışıdır.
+
+43
+00:01:55,960 --> 00:01:59,580
+Ama kamu yöneticilerimiz daha iyisini yapabilirler!
+
+44
+00:01:59,580 --> 00:02:04,540
+Eğer kamu tarafından finanse edilen yazılım Özgür ve Açık Kaynak olsaydı
+
+45
+00:02:04,540 --> 00:02:07,440
+altyapımızı herhangi bir şey için ve istediğimiz sürece
+
+46
+00:02:07,440 --> 00:02:10,140
+kullanabilir ve paylaşabilirdik.
+
+47
+00:02:10,140 --> 00:02:12,140
+İhtiyaçlarımızı herhangi bir şekilde karşılamak için onu yükseltebilir,
+
+48
+00:02:12,140 --> 00:02:14,140
+onarabilir,
+
+49
+00:02:14,140 --> 00:02:15,580
+ve yeniden modelleyebilirdik.
+
+50
+00:02:15,580 --> 00:02:18,360
+
+
+51
+00:02:18,360 --> 00:02:21,800
+Ve çünkü Özgür Yazılım'daki "Açık Kaynak"
+
+52
+00:02:21,800 --> 00:02:25,080
+projenin açıkça herkes tarafından okunabilir olduğu anlamına geldiğinden
+
+53
+00:02:25,080 --> 00:02:29,860
+bu durum, güvenlik açıklarını bulmayı ve kapatmayı çok daha kolay yapardı.
+
+54
+00:02:29,860 --> 00:02:34,660
+Ve pratik ve güvenilir olan bir şey dijital olarak yaratılmış olsaydı
+
+55
+00:02:34,660 --> 00:02:39,100
+bu projeyi ülkenizin her yanında yeniden kullanabilmekle kalmaz
+
+56
+00:02:39,100 --> 00:02:42,960
+asıl şeyin kendisi herhangi bir yere yerleştirilebilirdi,
+
+57
+00:02:42,960 --> 00:02:44,960
+hatta uluslararası ölçekte!
+
+58
+00:02:44,960 --> 00:02:48,580
+Bunun en güzel örneği "Sokağımı düzelt"tir:
+
+59
+00:02:48,580 --> 00:02:50,460
+Asıl olarak Büyük Britanya'da
+
+60
+00:02:50,460 --> 00:02:52,420
+yol çukurları gibi yerel problemleri
+
+61
+00:02:52,420 --> 00:02:54,420
+bildirmek, görüntülemek ve tartışmak için
+
+62
+00:02:54,420 --> 00:02:55,940
+bir Özgür Yazılım olarak geliştirilen uygulama
+
+63
+00:02:55,960 --> 00:02:59,080
+artık tüm dünyada kullanılmaktadır.
+
+64
+00:02:59,160 --> 00:03:00,700
+Herkes yarar sağlamaktadır
+
+65
+00:03:00,700 --> 00:03:02,960
+çünkü yeni özellikler ve iyileştirmeler
+
+66
+00:03:02,960 --> 00:03:04,960
+herkesle paylaşılmaktadır.
+
+67
+00:03:05,200 --> 00:03:08,480
+Eğer tüm yazılımımız bunun gibi geliştirilmiş olsaydı,
+
+68
+00:03:08,480 --> 00:03:12,220
+kısıtlayıcı lisanslarla boğuşmayı durdurabilir
+
+69
+00:03:12,220 --> 00:03:14,860
+ve yazılımın nerede ve nasıl bize yardımcı olabileceğini
+
+70
+00:03:14,860 --> 00:03:16,860
+düşünmeye başlardık.
+
+71
+00:03:16,860 --> 00:03:18,040
+Herkes için
+
+72
+00:03:18,040 --> 00:03:20,920
+daha iyi bir toplum yaratmaya yoğunlaşabilirdik.
+
+73
+00:03:20,920 --> 00:03:24,200
+Bu yüzden, yarının altyapısının
+
+74
+00:03:24,200 --> 00:03:26,460
+kendi kontrolümüzde olması gerektiğini düşünüyorsanız
+
+75
+00:03:26,460 --> 00:03:29,680
+şimdi bu videoyu paylaşarak
+
+76
+00:03:29,680 --> 00:03:31,460
+ve sitemizi (www.publiccode.eu/tr)
+
+77
+00:03:31,460 --> 00:03:33,460
+ziyaret ederek bize yardım edebilirsiniz.
+
+78
+00:03:33,800 --> 00:03:36,460
+Talep etmemizin vakti geldi:
+
+79
+00:03:36,460 --> 00:03:38,180
+Kamunun parası?
+
+80
+00:03:38,180 --> 00:03:39,940
+Kamunun kodu!
+

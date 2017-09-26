@@ -69,6 +69,11 @@
     "img": "debian.png",
     "url": "https://debian.org"
   },
+{
+    "name": "DFRI",
+    "img": "dfri.png",
+    "url": "https://www.dfri.se/?lang=en"
+  },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
@@ -93,6 +98,11 @@
     "name": "April",
     "img": "april.png",
     "url": "https://www.april.org/en"
+  },
+  {
+    "name": "Doteveryone",
+    "img": "doteveryone.png",
+    "url": "https://doteveryone.org.uk/"
   },
   {
     "name": "Dyne.org Foundation",
@@ -145,6 +155,11 @@
     "url": "http://freeknowledge.eu/"
   },
   {
+    "name": "Free Libre Open Source Software Kosova",
+    "img": "flossk.png",
+    "url": "http://flossk.org/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
@@ -190,14 +205,29 @@
     "url": "https://hackyourphd.org/"
   },
   {
+    "name": "Hermes Center for Transparency and Digital Human Rights",
+    "img": "hermes.png",
+    "url": "https://www.hermescenter.org/"
+  },
+  {
     "name": "Associazione Industria Italiana del Software Libero",
     "img": "iisl.png",
     "url": "http://www.industriasoftwarelibero.it/"
   },
   {
+    "name": "Italian Linux Society",
+    "img": "ils.png",
+    "url": "https://www.ils.org/"
+  },
+  {
     "name": "KDE e.V.",
     "img": "kde.png",
     "url": "https://ev.kde.org"
+  },
+  {
+    "name": "La Quadrature du Net",
+    "img": "laquadrature.png",
+    "url": "https://www.laquadrature.net"
   },
   {
     "name": "LibreITALIA",
@@ -253,6 +283,11 @@
     "name": "Open Rights Group",
     "img": "openrightsgroup.png",
     "url": "https://www.openrightsgroup.org/"
+  },
+  {
+    "name": "OpenStreetMap France",
+    "img": "openstreetmap-france.png", 
+    "url": "https://www.openstreetmap.fr/"
   },
   {
     "name": "Open Source Business Alliance",
@@ -338,6 +373,11 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+{
+    "name": "Wikimedia France",
+    "img": "wikimediafrance.png",
+    "url": "https://wikimedia.fr"
   },
   {
     "name": "Wikimedia Italia",

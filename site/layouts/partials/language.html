@@ -7,10 +7,10 @@
         <p>{{ .Site.Params.language.description }}:</p>
         <p style="font-size:25px;"><i class="fa fa-globe" aria-hidden="true" style="font-size:1.5em;vertical-align:top;"></i></p>
         <ul>
-          {{ range .Translations }}
+          <li>{{ .Site.Params.languageName }}</li>
+          {{ range sort .Translations ".Lang" "asc" }}
             <li><a href="{{ .RelPermalink }}">{{ .Site.Params.languageName }}</a></li>
           {{end}}
-          <li><a href="{{ .RelPermalink }}">{{ .Site.Params.languageName }}</a></li>
         </ul>
       </div>
     </div>

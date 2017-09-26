@@ -20,7 +20,7 @@
 # Start banner
 [Languages.ca.start]
   subtitle1   = "Per què el programari creat amb els diners dels contribuents no s'allibera com a programari lliure?"
-  subtitle2   = "Volem legislació que reguli que el programari finançat públicament pel sector públic es faci públic com a [programari lliure o codi obert](https://fsfe.org/about/mission.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.'). Si són diners públics, el codi ha de ser públic."
+  subtitle2   = "Volem legislació que reguli que el programari finançat públicament pel sector públic es faci públic com a [programari lliure o codi obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.'). Si són diners públics, el codi ha de ser públic."
   subtitle3   = "**El codi pagat per la gent ha d'estar disponible per a altres persones!**" 
 # About section
 [Languages.ca.about]
