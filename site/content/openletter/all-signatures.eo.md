@@ -1,5 +1,5 @@
 ---
-title: "Ĉiuj publika subskriboj"
+title: "Ĉiuj publikaj subskriboj"
 type: page
 layout: subpage
 ---
