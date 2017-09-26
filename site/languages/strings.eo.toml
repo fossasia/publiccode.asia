@@ -4,8 +4,8 @@
 [Languages.eo]
   languageCode  = "eo"
   languageName  = "Esperanto"
-  description   = "Publika Mono, Publika Kodo - Kampanjo por liberigi publike financitan programaron kiel Libera Programaro"
-  fsdefinition  = "Libera Programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel libereco de parolado, presejo kaj privateco."
+  description   = "Publika mono, publika kodo - Kampanjo por liberigi publike financitan programaron kiel libera programaro"
+  fsdefinition  = "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel libereco de parolado, presejo kaj privateco."
 
 
 # Navigation
@@ -20,7 +20,7 @@
 
 # Start banner
 [Languages.eo.start]
-  subtitle1   = "Kial oni ne liberigas programaron kreitan per mono de impostpagantoj kiel Libera Programaro?"
+  subtitle1   = "Kial oni ne liberigas programaron kreitan per mono de impostpagantoj kiel libera programaro?"
   subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/about/mission.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."  # TODO
   subtitle3   = "**Kodo pagita de la popolo devus esti disponebla al la popolo!**"
 
@@ -33,9 +33,9 @@
 
 # Arguments section
 [Languages.eo.arguments]
-  headline    = "Kialoj por Publika Kodo"
-  followup    = "Ĉu vi opinias, ke Libera Programaro estu la defaŭlta agordo por publike financita programaro?  **Ni konvinku vian politikajn deputitojn!**"
-  buttonText  = "Subskribu la Publikan Leteron"
+  headline    = "Kialoj por publika kodo"
+  followup    = "Ĉu vi opinias, ke libera programaro estu la defaŭlta agordo por publike financita programaro?  **Ni konvinku vian politikajn deputitojn!**"
+  buttonText  = "Subskribu la publikan leteron"
 [[Languages.eo.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
   title       = "Impostaj ŝparadoj"
@@ -56,8 +56,8 @@
 
 # Action section
 [Languages.eo.action]
-  headline      = "Tell Your Representatives!"
-  intro         = "In our [**open letter**](openletter/) we demand:" 
+  headline      = "Diru all viaj deputitoj!"
+  intro         = "Ene nia [**publika letero**](openletter/) ni postulas:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"
   description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
