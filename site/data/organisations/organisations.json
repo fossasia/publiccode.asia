@@ -69,6 +69,11 @@
     "img": "debian.png",
     "url": "https://debian.org"
   },
+{
+    "name": "DFRI",
+    "img": "dfri.png",
+    "url": "https://www.dfri.se/?lang=en"
+  },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
@@ -285,6 +290,11 @@
     "url": "https://www.openrightsgroup.org/"
   },
   {
+    "name": "OpenStreetMap France",
+    "img": "openstreetmap-france.png", 
+    "url": "https://www.openstreetmap.fr/"
+  },
+  {
     "name": "Open Source Business Alliance",
     "img": "osba.png",
     "url": "http://osb-alliance.de"
@@ -368,6 +378,11 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+{
+    "name": "Wikimedia France",
+    "img": "wikimediafrance.png",
+    "url": "https://wikimedia.fr"
   },
   {
     "name": "Wikimedia Italia",
