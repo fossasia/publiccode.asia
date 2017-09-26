@@ -12,17 +12,17 @@ Når denne politik refererer til "os", menes der FSFE.
 
 Når du anvender websiden til at underskrive vores åbne brev indsamler
 og lagrer vi information om dit navn, email-adresse og land,
-som du har leveret med dit samtykke. Vi vil vise dit navn offentligt
+som du har leveret med dit samtykke. Vi viser dit navn offentligt
 som medunderskriver af det åbne brev, hvis du har givet samtykke
 til at dit navn vises offentligt på [listen over 
-underskrivere](/openletter/all-signatures). Vi vil også
-give dit navn og land videre til modtagerne af det åbne brev
+underskrivere](/openletter/all-signatures). Vi videregiver også
+dit navn og land til modtagerne af det åbne brev
 (medlemmer af det Europæiske Parlament samt nationale eller
 regionale parlamenter). Vi videregiver ikke din email-adresse.
-Vi gemmer denne information i en database så længe kampagnen
-Public Money - Public Code kører og sletter dem bagefter.
+Vi gemmer ovennævnte informationer i en database så længe kampagnen
+"Public Money - Public Code" kører, hvorefter de slettes.
 
-Hvis du har indvilliget i at blive kontaktet om kampagnen, bruger
+Har du indvilliget i at blive kontaktet om kampagnen, bruger
 vi din email-adresse til at sende dig information om
 kampagnen under denne og umiddelbart efter dens afslutning.
 
@@ -33,15 +33,15 @@ på webserveren eller i vores ticket-system, er tilgængelig for FSFE's
 personale. Informationen er også tilgængelig for FSFE's
 systemadministratorer. Informationen lagres ukrypteret på vores
 servere, hvilket betyder at den også er tilgængelig for
-personalet hos PlusServer GmbH son huser vores servere. 
+personalet hos PlusServer GmbH son huser vores servere.
 
 ## Hvad dine rettigheder er
 
-Du har ret til at få en kopi af de personlige data vi har gemt
-om dig, såvel som ret til at instruere os om at rette denne hvis
-den er ukorrekt. Du har også ret til at modsætte dig vores lagring
+Du har ret til at få udleveret en kopi af de personlige data vi har gemt
+om dig, såvel som ret til at instruere os i at rette disse hvis
+de er forkerte. Du har også ret til at modsætte dig vores lagring
 af information, i hvilket tilfælde vi vil fjerne personlige data om
-dig, og ret til at tilbagetrække dit samtykke af processering af
+dig, og ret til at tilbagetrække dit samtykke til behandling af
 personlige data ifølge denne politik, i hvilket tilfælde vi også vil
 tage skridt til at fjerne personlige data om dig.
 
