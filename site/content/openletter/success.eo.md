@@ -6,29 +6,16 @@ layout: subpage
 
 ## Via subskribo konfirmiĝis
 
-Dankon pro via subskribo de la publika letero "Publika Mono, Publika Kodo".  Via
-subteno multe valoras por ni.
+Dankon pro via subskribo de la publika letero «Publika mono, publika kodo».  Via subteno multe valoras por ni.
 
-Se vi elektis aldoni vian nomon al la publika listo, via nomo aperos en la
-[listo da subskriboj](../all-signatures) en unu horo.  Se vi elektis ricevi
-pluajn informojn, ni vin informos pri novaĵoj koncerne ĉi tiu kampanjo per
-retpoŝto.
+Se vi elektis aldoni vian nomon al la publika listo, via nomo aperos en la [listo de subskriboj](../all-signatures) en unu horo.  Se vi elektis ricevi pluajn informojn, ni vin informos pri novaĵoj koncerne ĉi tiun kampanjon per retpoŝto.
 
 ## Sekve
 
-Bonvolu helpi nin per kaŭzi egan efekton kun via subskribo kaj [kunhavigu ĉi
-tiun kampanjon](../../#spread).  Kune ni spronos decidiĝistojn politikajn fari
-Liberajn kaj Malfermitajn Fontajn Programarajn permesilojn por nove financita
-programaro la defaŭltan agordon ene la publika sektoro tra Eŭropo.
+Bonvolu helpi nin kaŭzante egan efekton per via subskribo, kaj [kunhavigu ĉi tiun kampanjon](../../#spread). Kune ni instigos decidistojn politikajn normigi liberajn kaj malfermitkodajn programajn permesilojn por nove financita programaro en la publika sektoro tra Eŭropo.
 
-Vi ankaŭ povas [mendi gluetikedojn kaj informilojn](https://fsfe.org/promo#pmpc)
-de la Free Software Foundation Europe.
+Vi ankaŭ povas [mendi gluetikedojn kaj informilojn](https://fsfe.org/promo#pmpc) de Free Software Foundation Europe.
 
-Fortigu Liberan Programaron en Eŭropo kaj pripensu [subteni la
-FSFE](https://fsfe.org/donate/?pmpc) aŭ unu el la aliajn [subtenantajn
-organizojn](../../#organisations).
+Fortigu liberan programaron en Eŭropo kaj pripensu [subteni la FSFE](https://fsfe.org/donate/?pmpc) aŭ unu el la aliaj [subtenantaj organizaĵoj](../../#organisations).
 
-Kun via subteno, ni helpos decidiĝistojn tra Eŭropo kompreni, ke aldonado de
-ilia kodo je Liberaj kaj Malfermitaj Fontaj Programaraj permesiloj estas la plej
-bona solvo por ili, aliaj administradoj, firmoj, kaj precipe la ĝenerala
-publiko.
+Kun via subteno, ni helpos al decidistoj tra Eŭropo kompreni, ke eldono de ilia kodo sub liberaj kaj malfermitkodaj programaj permesiloj estas la plej bona solvo por ili, aliaj administristaroj, firmaoj, kaj precipe la ĝenerala publiko.

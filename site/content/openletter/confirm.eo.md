@@ -6,8 +6,6 @@ layout: subpage
 
 ## Kontrolu vian retpoŝtan enirkiston nun
 
-Vi estas preskaŭ farita.  Vi baldaŭ ricevos retleteron kun ligilo por fina
-konfirmado de via subskribo.  Bonvolu kontroli vian trudmesaĝujon se vi ne
-ricevas la leteron ene de la sekvaj 15 minutoj.
+Vi estas preskaŭ fininta.  Vi baldaŭ ricevos retleteron kun ligilo por fina konfirmo de via subskribo.  Bonvolu kontroli vian trudmesaĝujon se vi ne ricevos la leteron dum la sekvaj 15 minutoj.
 
-Dankon pro subskribi la publikan leteron de **Publika Mono, Publika Kodo**.
+Dankon pro subskribi la publikan leteron de **Publika mono, publika kodo**.
