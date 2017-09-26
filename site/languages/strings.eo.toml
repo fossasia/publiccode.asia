@@ -15,43 +15,43 @@
   about     = "Pri"
   arguments = "Kialoj"
   action    = "Agu"
-  spread    = "Spread the Word"
+  spread    = "Spread the Word"  # TODO
 
 
 # Start banner
 [Languages.eo.start]
-  subtitle1   = "Why is software created using taxpayers' money not released as Free Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/about/mission.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
-  subtitle3   = "**Code paid by the people should be available to the people!**" 
+  subtitle1   = "Kial oni ne liberigas programaron kreitan per mono de impostpagantoj kiel Libera Programaro?"
+  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/about/mission.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."  # TODO
+  subtitle3   = "**Kodo pagita de la popolo devus esti disponebla al la popolo!**"
 
 
 # About section
 [Languages.eo.about]
-  headline    = "Sounds complicated? It's not. It's super easy!"
-  buttonText  = "More advantages"
+  headline    = "Ĉu sonas komplike? Tute ne. Estas tre facile!"
+  buttonText  = "Pli da avantaĝoj"
 
 
 # Arguments section
 [Languages.eo.arguments]
-  headline    = "Reasons for Public Code"
-  followup    = "Do you believe that Free Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
-  buttonText  = "Sign the Open Letter"
+  headline    = "Kialoj por Publika Kodo"
+  followup    = "Ĉu vi opinias, ke Libera Programaro estu la defaŭlta agordo por publike financita programaro?  **Ni konvinku vian politikajn deputitojn!**"
+  buttonText  = "Subskribu la Publikan Leteron"
 [[Languages.eo.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
-  title       = "Tax savings"
-  description = "Similar applications don't have to be programmed from scratch every time."
+  title       = "Impostaj ŝparadoj"
+  description = "Similaj aplikprogramoj ne devas esti programita de nulo ĉiujfoje."
 [[Languages.eo.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
-  title       = "Collaboration"
-  description = "Efforts on major projects can share expertise and costs."  
+  title       = "Kunlaboro"
+  description = "Penoj de grandaj projektoj povas kunhavigi kompetentecon kaj kostojn."
 [[Languages.eo.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
-  title       = "Serving the public"
-  description = "Applications paid by the public should be available for everyone."
+  title       = "Servado al la publiko"
+  description = "Aplikprogramoj pagitaj de la publiko devus esti disponebla al ĉiuj."
 [[Languages.eo.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
-  title       = "Fostering innovation"
-  description = "With transparent processes, others don't have to reinvent the wheel."
+  title       = "Nutrado de novigado"
+  description = "Kun procedoj travideblaj, aliuloj devas reinventi la radon."
 
 
 # Action section
