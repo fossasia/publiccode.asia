@@ -15,7 +15,7 @@ Tion vi povas helpi! Subskribu la publikan leteron por doni plian aŭtoritaton a
 nia mesaĝo. **{{< count type="signatures" >}} homoj** kaj **{{< count
 type="organisations" >}} organizaĵoj** jam subskribis. Ni donos la leteron kaj
 la subskribojn al viaj deputitoj, kaj certigos ilian komprenon, ke: Publika
-mono?  Publika kodo!
+mono? Publika kodo!
 
 > ## Publika mono? Publika kodo!
 > 
