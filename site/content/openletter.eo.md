@@ -62,7 +62,7 @@ mono?  Publika kodo!
 > 
 > Tial ni, la subskribintaj, vokas niajn deputitojn, por ke ili:
 > 
-> **«Efektivigu leĝaron postulante, ke publike financita programaro evoluigita
+> **«Efektivigu leĝaron postulantan, ke publike financita programaro evoluigita
 > por publika sektoro devu publike eldoniĝi sub libera kaj malfermitkoda
 > programa permesilo.»**
 
