@@ -23,7 +23,7 @@ mono? Publika kodo!
 > estas la gravega infrastrukturo por demokratiaj nacioj de la 21-a
 > jarcento. Por fondi fideblajn sistemojn, publikaj institucioj devas certigi
 > sian regon de programaroj kaj komputilaroj en la kerno de nia ŝtata cifereca
-> infrastrukturo. Tamen, nune, tio maloftege okazas pro limigaj programaj
+> infrastrukturo. Tamen, nune tio maloftege okazas pro limigaj programaj
 > permesiloj, kiuj:
 > 
 > * Malpermesas kunhavigon kaj interŝanĝon de publike financita kodo. Tio
