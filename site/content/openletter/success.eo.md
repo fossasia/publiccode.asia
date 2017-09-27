@@ -18,4 +18,4 @@ Vi ankaŭ povas [mendi gluetikedojn kaj informilojn](https://fsfe.org/promo#pmpc
 
 Fortigu liberan programaron en Eŭropo kaj pripensu [subteni la FSFE](https://fsfe.org/donate/?pmpc) aŭ unu el la aliaj [subtenantaj organizaĵoj](../../#organisations).
 
-Kun via subteno, ni helpos al decidistoj tra Eŭropo kompreni, ke eldono de ilia kodo sub liberaj kaj malfermitkodaj programaj permesiloj estas la plej bona solvo por ili, aliaj administristaroj, firmaoj, kaj precipe la ĝenerala publiko.
+Kun via subteno, ni helpos al decidistoj tra Eŭropo kompreni, ke eldonado de ilia kodo sub liberaj kaj malfermitkodaj programaj permesiloj estas la plej bona solvo por ili, aliaj administristaroj, firmaoj, kaj precipe la ĝenerala publiko.
