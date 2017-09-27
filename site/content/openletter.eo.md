@@ -13,9 +13,9 @@ politikistoj ilin ankoraŭ ne konas.
 
 Tion vi povas helpi! Subskribu la publikan leteron por doni plian aŭtoritaton al
 nia mesaĝo. **{{< count type="signatures" >}} homoj** kaj **{{< count
-type="organisations" >}} organizoj** jam subskribis. Ni donos la leteron kaj la
-subskribojn al viaj deputitoj, kaj certigos ilian komprenon, ke: Publika mono?
-Publika kodo!
+type="organisations" >}} organizaĵoj** jam subskribis. Ni donos la leteron kaj
+la subskribojn al viaj deputitoj, kaj certigos ilian komprenon, ke: Publika
+mono?  Publika kodo!
 
 > ## Publika mono? Publika kodo!
 > 
