@@ -56,8 +56,8 @@ mono?  Publika kodo!
 >   kaŝenirejoj kaj sekurigaj truoj do ripareblas sendepende de sola
 >   servo-provizanto.
 > 
-> Publikaj institucioj estas financataj per impostoj. Ili devas certigi laŭeble
-> la plej efikan elspezadon de la fondusoj. Se temas pri publika mono, ankaŭ
+> Publikaj institucioj estas financataj per impostoj. Ili devas certigi
+> la plej eble efikan elspezadon de la fondusoj. Se temas pri publika mono, ankaŭ
 > temu pri publika kodo!
 > 
 > Tial ni, la subskribintaj, vokas niajn deputitojn, por ke ili:
