@@ -220,6 +220,11 @@
     "url": "https://www.ils.org/"
   },
   {
+    "name": "Joomla",
+    "img": "joomla.png",
+    "url": "https://www.joomla.org/"
+  },
+  {
     "name": "KDE e.V.",
     "img": "kde.png",
     "url": "https://ev.kde.org"
