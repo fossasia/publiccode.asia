@@ -370,6 +370,11 @@
     "url": "https://www.documentfoundation.org"
   },
   {
+    "name": "VideoLAN",
+    "img": "videolan.png",
+    "url": "https://www.videolan.org"
+  },
+  {
     "name": "Waag Society",
     "img": "waag.png",
     "url": "https://waag.org"
