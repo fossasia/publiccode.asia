@@ -36,11 +36,11 @@ mono? Publika kodo!
 >   de la fonta kodo. Tio ĉi ege malfaciligas (aŭ entute malebligas) forigadon
 >   de kaŝenirejoj kaj sekurecaj truoj.
 > 
-> Ni bezonas programaron, kiu nutras kunhavigon de bonaj ideoj kaj solvoj. Tiel
-> ni povos plibonigi komputajn servojn por homoj ĉie tra Eŭropo. Ni bezonas
-> programaron, kiu certigas liberecon de elekto, atingo, kaj konkuro. Ni bezonas
-> programaron, kiu helpos al publikaj administristaroj repreni tutan regon de
-> ilia gravega cifereca infrastrukturo, permesante al ili iĝi kaj resti
+> Ni bezonas programaron, kiu nutras kunhavigadon de bonaj ideoj kaj
+> solvoj. Tiel ni povos plibonigi komputajn servojn por homoj ĉie tra Eŭropo. Ni
+> bezonas programaron, kiu certigas liberecon de elekto, atingo, kaj konkuro. Ni
+> bezonas programaron, kiu helpos al publikaj administristaroj repreni tutan
+> regon de ilia gravega cifereca infrastrukturo, permesante al ili iĝi kaj resti
 > sendependa de kelko da firmaoj. Tial ni alvokas niajn deputitojn al subteno de
 > programaro libera kaj malfermitkoda en publikaj administristaroj, ĉar:
 > 
