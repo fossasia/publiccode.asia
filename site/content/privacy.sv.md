@@ -3,12 +3,12 @@ title: "Integritetspolicy"
 type: "page"
 layout: "subpage"
 ---
-Hemsidan **publiccode.eu** administreras av [FSFE e.V.](https://fsfe.org/about/legal/imprint.html) När denna
+Webbsidan **publiccode.eu** administreras av [FSFE e.V.](https://fsfe.org/about/legal/imprint.html) När denna
 policy refererar till "vi", menas FSFE.
 
 ## Vad vi samlar in och varför
 
-När du använder hemsidan för att signera vårt öppna brev, samlar vi
+När du använder webbsidan för att signera vårt öppna brev, samlar vi
 in och sparar information om ditt namn, e-postadress och land som du
 har tillhandahållit med ditt samtycke. Vi kommer att publikt visa ditt
 namn som undertecknare till vårt öppna brev om du gav ditt samtycke
@@ -21,7 +21,7 @@ Code-kampanjens varaktighet och raderar den sen.
 
 ## Vem har tillgång till sparad data
 
-All information som lämnats via hemsidan, sparad på webservern eller i
+All information som lämnats via webbsidan, sparad på webservern eller i
 vårt ärendesystem, är tillgänglig för personal och studenter på FSFE.
 Informationen är också tillgänglig för FSFE:s system-administratörer.
 Informationen sparas okrypterad på våra servrar, vilket betyder att
