@@ -5,6 +5,11 @@
     "url": "http://adullact.org/"
   },
   {
+    "name": "Aptivate",
+    "img": "aptivate.png",
+    "url": "www.aptivate.org/"
+  },
+  {
     "name": "Aquilenet",
     "img": "aquilenet.png",
     "url": "https://www.aquilenet.fr/"
@@ -64,6 +69,11 @@
     "img": "debian.png",
     "url": "https://debian.org"
   },
+{
+    "name": "DFRI",
+    "img": "dfri.png",
+    "url": "https://www.dfri.se/?lang=en"
+  },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
@@ -88,6 +98,11 @@
     "name": "April",
     "img": "april.png",
     "url": "https://www.april.org/en"
+  },
+  {
+    "name": "Doteveryone",
+    "img": "doteveryone.png",
+    "url": "https://doteveryone.org.uk/"
   },
   {
     "name": "Dyne.org Foundation",
@@ -140,6 +155,11 @@
     "url": "http://freeknowledge.eu/"
   },
   {
+    "name": "Free Libre Open Source Software Kosova",
+    "img": "flossk.png",
+    "url": "http://flossk.org/"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "url": "https://fsfe.org"
@@ -185,14 +205,34 @@
     "url": "https://hackyourphd.org/"
   },
   {
+    "name": "Hermes Center for Transparency and Digital Human Rights",
+    "img": "hermes.png",
+    "url": "https://www.hermescenter.org/"
+  },
+  {
     "name": "Associazione Industria Italiana del Software Libero",
     "img": "iisl.png",
     "url": "http://www.industriasoftwarelibero.it/"
   },
   {
+    "name": "Italian Linux Society",
+    "img": "ils.png",
+    "url": "https://www.ils.org/"
+  },
+  {
+    "name": "Joomla",
+    "img": "joomla.png",
+    "url": "https://www.joomla.org/"
+  },
+  {
     "name": "KDE e.V.",
     "img": "kde.png",
     "url": "https://ev.kde.org"
+  },
+  {
+    "name": "La Quadrature du Net",
+    "img": "laquadrature.png",
+    "url": "https://www.laquadrature.net"
   },
   {
     "name": "LibreITALIA",
@@ -213,6 +253,11 @@
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "url": "https://nowoczesnapolska.org.pl"
+  },
+  {
+    "name": "Openbit",
+    "img": "openbit.png",
+    "url": "https://openbit.eu/"
   },
   {
     "name": "Open Knowledge Belgium",
@@ -245,6 +290,11 @@
     "url": "https://www.openrightsgroup.org/"
   },
   {
+    "name": "OpenStreetMap France",
+    "img": "openstreetmap-france.png", 
+    "url": "https://www.openstreetmap.fr/"
+  },
+  {
     "name": "Open Source Business Alliance",
     "img": "osba.png",
     "url": "http://osb-alliance.de"
@@ -268,6 +318,11 @@
     "name": "OW2 Consortium",
     "img": "ow2.png",
     "url": "https://www.ow2.org/"
+  },
+   {
+    "name": "Plone Foundation",
+    "img": "plone.png",
+    "url": "https://plone.org/"
   },
    {
     "name": "Public Software CIC",
@@ -304,10 +359,20 @@
     "img": "soit.png",
     "url": "http://www.soit.sk/"
   },
+   {
+    "name": "Technologiestiftung Berlin",
+    "img": "tsb.png",
+    "url": "https://www.technologiestiftung-berlin.de"
+  },
   {
     "name": "The Document Foundation",
     "img": "tdf.png",
     "url": "https://www.documentfoundation.org"
+  },
+  {
+    "name": "VideoLAN",
+    "img": "videolan.png",
+    "url": "https://www.videolan.org"
   },
   {
     "name": "Waag Society",
@@ -318,6 +383,11 @@
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "url": "https://wikimedia.de"
+  },
+{
+    "name": "Wikimedia France",
+    "img": "wikimediafrance.png",
+    "url": "https://wikimedia.fr"
   },
   {
     "name": "Wikimedia Italia",

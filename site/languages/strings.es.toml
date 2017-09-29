@@ -1,0 +1,126 @@
+# == SPANISH ==
+
+# General strings
+[Languages.es]
+  languageCode  = "es"
+  languageName  = "Español"
+  description   = "Dinero público, Código público - Una campaña para que el software financiado públicamente sea Software Libre"
+  fsdefinition  = "El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad."
+
+
+# Navigation
+[Languages.es.navigation]
+[Languages.es.navigation.links]
+  start     = "Inicio"
+  about     = "Acerca de"
+  arguments = "Motivaciones"
+  action    = "Participar"
+  spread    = "Corre la voz"
+
+
+# Start banner
+[Languages.es.start]
+  subtitle1   = "¿Por qué el software creado con dinero de los impuestos no se publica como Software Libre?"
+  subtitle2   = "Queremos una legislación que permita que el software desarrollado para el sector público y financiado con recursos públicos esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://fsfe.org/freesoftware/basics/summary.html 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.'). Si es dinero público debería ser también código público."
+  subtitle3   = "**El código pagado por los ciudadanos debería estar disponible para los ciudadanos!**"
+
+
+# About section
+[Languages.es.about]
+  headline    = "¿Parece complicado? No lo es, es muy sencillo !"
+  buttonText  = "Ventajas"
+
+
+# Arguments section
+[Languages.es.arguments]
+  headline    = "Motivaciones para el código público"
+  followup    = "¿Crees que el Software Libre debe ser la opción principal para el software financiado públicamente? **Necesitamos convencer a los políticos que nos representan!**"
+  buttonText  = "Firma la carta abierta"
+[[Languages.es.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Ahorro de impuestos"
+  description = "Aplicaciones similares no tienen que ser programadas desde cero una y otra vez."
+[[Languages.es.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Colaboración"
+  description = "Los esfuerzos en grandes proyectos se pueden compartir con lo que se gana experiencia y se reducen costos."
+[[Languages.es.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Accesible a todos"
+  description = "Las aplicaciones pagadas por los ciudadanos deben estar disponibles para todos."
+[[Languages.es.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Estimular la innovación"
+  description = "Con procesos transparentes los otros no tienen que reinventar la rueda."
+
+
+# Action section
+[Languages.es.action]
+  headline      = "¡Hablemos con nuestros representantes!"
+  intro         = "En nuestra [**carta abierta**](openletter/) pedimos:"
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "“Implementar una legislación que permita que el software desarrollado para el sector público y con dinero público esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://fsfe.org/freesoftware/basics/summary.html 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. Sobre estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.')”"
+  description   = "**$ORGS** organizaciones y **$INDS** individuos ya están acompañando este llamado a participar, ellos están firmando nuestra [carta abierta](openletter/). ¡Firmandola tú nos puedes ayudar a conseguir un mayor impacto! Nosotros entregaremos todas las firmas a los representantes en toda Europa que están debatiendo sobre el software libre en la administración pública."
+
+[Languages.es.action.box]
+  text      = "Hay **$INDS SIGNATURES** – firma la carta abierta ahora!"
+
+[Languages.es.action.form]
+  name      = "Nombre (obligatorio)"
+  email     = "Email (obligatorio)"
+  country   = "País"
+  zip       = "Código postal"
+  comment   = "Tu comentario (max. 140 caracteres)"
+  permPriv  = "He leído y aceptado la [declaración de privacidad](privacy/)"
+  permNews  = "Quiero mantenerme informado sobre el futuro de esta campaña"
+  permPub   = "Quiero que mi firma aparezca en la [lista de firmas](openletter/all-signatures)"
+  submit    = "Firmar Ahora!"
+
+
+# Organisations section
+[Languages.es.organisations]
+  headline  = "Organizaciones acompañantes"
+  text      = "Las siguientes organizaciones apoyan nuestra [carta abierta](openletter/). Si tu organización está interesada en ser incluida en la campaña por el código público, por favor [contactanos](mailto:contact@fsfe.org)."
+
+
+# Spread the word section
+[Languages.es.spread]
+  headline          = "Corre la voz!"
+  promoText         = "Pide las últimas calcomanías y volantes de la FSFE"
+  promoButtonText   = "Ver el material promocional"
+  shareText         = "Habla con tus amigos y seguidores sobre el Código Público:"
+  defaultSocialText = "Si es dinero público el código debería ser publico también. Yo acompaño la convocatoria para tener más código público bajo una licencia de Software Libre:"
+
+
+# Legal Section
+[Languages.es.legal]
+  by            = "Esta es una campaña de la Free Software Foundation Europe"
+  imprint       = "Imprimir"
+  privacy       = "Privacidad"
+  transparency  = "Transparencia"
+  contribute1   = "El código de este sitio web es Software Libre."
+  contribute2   = "Eres bienvenido a contribuir!"
+  license       = "Este trabajo está bajo la licencia [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+
+# Language selection
+[Languages.es.language]
+  description = "Leer esta página en otro idioma"
+
+
+# 404 Error Page
+[Languages.es.error]
+  headline    = "Error 404 - Esta página no existe"
+  description = "La página que estás intentando ver no existe."
+  button      = "Regresar a la página inicial"
+
+
+# Specific sub-pages
+[Languages.es.subpage]
+[Languages.es.subpage.signatures]
+  headline      = "Firmas Individuales de la carta abierta"
+  description   = "Abajo están las firmas de quienes están de acuerdo con que sus nombres aparezcan públicamente. Queremos que seas el próximo!"
+  allSignatures = "Ver [todas las firmas públicas](all-signatures/)."
+  tableName     = "Nombre"
+  tableCountry  = "País"
+  tableComment  = "Comentario"
