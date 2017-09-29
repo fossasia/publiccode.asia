@@ -200,7 +200,7 @@ hur som helst för att anpassa den till våra behov.
 
 51
 00:02:18,360 --> 00:02:21,800
-Och eftersom den öppna källkoden i Fri Programvara betyder
+Och eftersom den "Öppna Källkoden" i Fri Programvara innebär
 
 52
 00:02:21,800 --> 00:02:25,080
