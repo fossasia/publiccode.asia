@@ -68,7 +68,7 @@ Och den enda skillnaden:
 
 18
 00:00:45,440 --> 00:00:50,460
-Den nya tillverkaren erbjuder också "Utebasket" som en adderad funktionalitet.
+Den nya tillverkaren erbjuder också "Gatubasket" som en adderad funktionalitet.
 
 19
 00:00:50,540 --> 00:00:51,620
@@ -284,7 +284,7 @@ Vi kunde koncentrera oss
 
 72
 00:03:18,040 --> 00:03:20,920
-på att skapa ett bättre samhälla för alla.
+på att skapa ett bättre samhälle för alla.
 
 73
 00:03:20,920 --> 00:03:24,200
