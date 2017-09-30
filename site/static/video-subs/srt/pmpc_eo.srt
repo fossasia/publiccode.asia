@@ -296,11 +296,11 @@ ni tenu en propraj manoj,
 
 75
 00:03:26,460 --> 00:03:29,680
-helpu al ni per kunhavigi ĉi tiun videon
+helpu al ni per kunhavigo de ĉi tiun videon
 
 76
 00:03:29,680 --> 00:03:31,460
-kaj viziti nian retejon:
+kaj vizito de nian retejon:
 
 77
 00:03:31,460 --> 00:03:33,460
