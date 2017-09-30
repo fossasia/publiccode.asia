@@ -18,11 +18,11 @@ publikan montron en
 la [listo de subskriboj](/openletter/all-signatures). Ni ankaŭ
 prezentos vian nomon kaj landon al la ricevontoj de la publika
 letero (membroj de la Eŭropa parlamento kaj landaj aŭ regionaj
-parlamentoj). Ni ne kunhavos vian retpoŝt-adreson. Ni konservos
-tiujn informojn en datumbazo dum la kampanjo «Publika mono –
-publika kodo» kaj forigos ilin poste.
+parlamentoj). Ni ne kunhavigos vian retpoŝt-adreson. Ni
+konservos tiujn informojn en datumbazo dum la kampanjo «Publika
+mono – publika kodo» kaj forigos ilin poste.
 
-Se vi konsentis esti kontaktotaj pri la kampanjo, ni retpoŝte
+Se vi konsentis esti kontaktota pri la kampanjo, ni retpoŝte
 sendos al vi informojn pri la kampanjo, kaj dum kaj tuj post la
 kampanjo.
 
@@ -38,7 +38,7 @@ PlusServer GmbH, kiu gastigas niajn servilojn.
 ## Kiujn rajtojn vi havas
 
 Vi rajtas ricevi la personajn datumojn pri vi, kiujn ni
-konservis, kaj anakŭ korektigi nin, se la datumoj malĝustas. Vi
+konservis, kaj ankaŭ korektigi nin, se la datumoj malĝustas. Vi
 rajtas kontraŭi nian konservadon de informoj, kiuokaze ni
 forigos personajn datumojn pri vi, kaj ankaŭ nuligi vian
 konsenton pri traktado de viaj personaj informoj laŭ ĉi tiu
