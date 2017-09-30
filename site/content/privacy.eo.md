@@ -1,12 +1,12 @@
 ---
-title: "Privateco-poliso"
+title: "Privateco-politiko"
 type: "page"
 layout: "subpage"
 ---
 
 La retejo **publiccode.eu** estas funkciigata de
 [FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
-En tiu ĉi poliso, «ni» signifas la organizaĵon FSFE.
+En tiu ĉi politiko, «ni» signifas la organizaĵon FSFE.
 
 ## Kion ni kolektas kaj kial
 
@@ -42,7 +42,7 @@ konservis, kaj ankaŭ korektigi nin, se la datumoj malĝustas. Vi
 rajtas kontraŭi nian konservadon de informoj, kiuokaze ni
 forigos personajn datumojn pri vi, kaj ankaŭ nuligi vian
 konsenton pri traktado de viaj personaj informoj laŭ ĉi tiu
-poliso, kiuokaze ni ankaŭ agos por forigi personajn datumojn
+politiko, kiuokaze ni ankaŭ agos por forigi personajn datumojn
 pri vi.
 
 ## Kiun kontakti
