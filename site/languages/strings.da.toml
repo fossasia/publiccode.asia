@@ -21,7 +21,7 @@
 # Start banner
 [Languages.da.start]
   subtitle1   = "Hvorfor frigives skatteyderbetalt software ikke som fri software?"
-  subtitle2   = "Vi ønsker lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor offentliggøres som [Fri og Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.'). Hvis det er offentlige penge, bør det også være offentlig kode."
+  subtitle2   = "Vi ønsker lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor offentliggøres som [fri og open source software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.'). Hvis det er offentlige penge, bør det også være offentlig kode."
   subtitle3   = "**Kode betalt af folket bør også være tilgængelig for folket!**" 
 
 
@@ -59,7 +59,7 @@
   headline      = "Send budskabet til politikerne!"
   intro         = "I vores [**åbne brev**](openletter/) forlanger vi at der:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implementeres lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor, skal gøres tilgængelig under en [Fri og Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.') licens.”"
+  demand        = "“Implementeres lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor, skal gøres tilgængelig under en [fri og open source software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.') licens.”"
   description   = "**$ORGS** organisationer og **$INDS** personer har allerede støttet dette opråb til handling ved at underskrive vores [åbne brev](openletter/). Du kan hjælpe os med at øge effekten ved også at underskrive! Vi vil overlevere underskrifterne til politikere fra hele Europa som involverer sig i debatten om softwarefrihed i det offentlige."
 
 [Languages.da.action.box]
