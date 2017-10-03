@@ -11,7 +11,7 @@ Nesta licença quando nos referimos a "nós", queremos dizer a FSFE.
 ## O que recolhemos e porquê
 Quando utiliza o site para assinar a nossa carta aberta, recolhemos e
 armazenamos informação sobre o seu nome, endereço de e-mail e país que
-nos forneceu com o seu consentimento. Pubicaremos o seu nome equanto
+nos forneceu com o seu consentimento. Pubicaremos o seu nome enquanto
 signatário se consentiu em ter o seu nome publicado enquanto signatário
 da carta aberta na [lista de signatários](/openletter/all-signatures).
 Partilharemos também o seu nome e país aos recipientes da carta aberta
@@ -38,8 +38,8 @@ servidores se encontram.
 
 Tem o direito de receber a informação pessoal que temos armazenada sobre si,
 bem como o direito de nos pedir que a alteremos, caso esteja incorreta.
-Tem também o direito de se opor ao armazenamento dessa informação, caso esse em que removeremos a sua informação pessoal. Tem o direito de remover o seu consentimento em realação ao processamento dos seus dados pessoais de acordo
-com esta licença. Nesse caso tomaremos medidas para remover os seus pessoais.
+Tem também o direito de se opor ao armazenamento dessa informação, caso esse em que removeremos a sua informação pessoal. Tem o direito de remover o seu consentimento em relação ao processamento dos seus dados pessoais de acordo
+com esta licença. Nesse caso tomaremos medidas para remover os seus dados pessoais.
 
 ## Quem contactar
 
