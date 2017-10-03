@@ -5,7 +5,7 @@
   languageCode  = "eo"
   languageName  = "Esperanto"
   description   = "Publika mono, publika kodo – Kampanjo por liberigi publike financitan programaron"
-  fsdefinition  = "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco."
+  fsdefinition  = "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco."
 
 
 # Navigation
@@ -21,7 +21,7 @@
 # Start banner
 [Languages.eo.start]
   subtitle1   = "Kial oni ne eldonas programaron kreitan per mono de impostpagantoj kiel liberan?"
-  subtitle2   = "Ni volas leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://fsfe.org/about/mission.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo. Teme pri publika mono, ankaŭ temu pri publika kodo!"
+  subtitle2   = "Ni volas leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://fsfe.org/about/mission.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo. Teme pri publika mono, ankaŭ temu pri publika kodo!"
   subtitle3   = "**Kodo pagita de la popolo estu disponebla al la popolo!**"
 
 
@@ -43,7 +43,7 @@
 [[Languages.eo.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Kunlaborado"
-  description = "Penoj de grandaj projektoj povas kunhavigi kompetentecojn kaj kostojn."
+  description = "Penoj de grandaj projektoj povas kunhavi kompetentecojn kaj kostojn."
 [[Languages.eo.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Servado al la publiko"
