@@ -87,7 +87,6 @@
 [Languages.eo.spread]
   headline          = "Diskonigu la kampanjon!"
   promoText         = "Mendu la plej novajn gluetikedojn kaj broŝurojn de FSFE"
-  promoButtonText   = "Get promo material"
   promoButtonText   = "Akiru varbilojn"
   shareText         = "Sciigu viajn amikojn kaj abonantojn pri publika kodo:"
   defaultSocialText = "Teme pri publika mono, temu pri publika kodo. Mi subtenas ĉi tiun vokon por pli da publika kodo sub liberaj permesiloj:"
