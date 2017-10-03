@@ -66,4 +66,4 @@ mono? Publika kodo!
 > por publika sektoro devu publike eldoniĝi sub libera kaj malfermitkoda
 > programa permesilo.»**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi la programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn, kiel liberecojn de parolo, preso, kaj privateco."
+[fs]: https://fsfe.org/freesoftware/basics/summary.html "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn, kiel liberecojn de parolo, preso, kaj privateco."
