@@ -4,25 +4,25 @@
 [Languages.eo]
   languageCode  = "eo"
   languageName  = "Esperanto"
-  description   = "Publika mono, publika kodo - Kampanjo por liberigi publike financitan programaron kiel libera programaro"
-  fsdefinition  = "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi la programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn, kiel libereco de parolo, preso kaj privateco."
+  description   f= "Publika mono, publika kodo – Kampanjo por liberigi publike financitan programaron"
+  fsdefinition  = "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco."
 
 
 # Navigation
 [Languages.eo.navigation]
 [Languages.eo.navigation.links]
-  start     = "Eko"
+  start     = "Komenco"
   about     = "Pri"
   arguments = "Kialoj"
   action    = "Agu"
-  spread    = "Spread the Word"  # TODO
+  spread    = "Diskonigu"
 
 
 # Start banner
 [Languages.eo.start]
-  subtitle1   = "Kial oni ne liberigas programaron kreitan per mono de impostpagantoj kiel libera programaro?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/about/mission.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."  # TODO
-  subtitle3   = "**Kodo pagita de la popolo devus esti disponebla al la popolo!**"
+  subtitle1   = "Kial oni ne eldonas programaron kreitan per mono de impostpagantoj kiel liberan?"
+  subtitle2   = "Ni volas leĝaron postulatan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://fsfe.org/about/mission.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavi kaj plibonigi la programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn, kiel liberecojn de parolo, preso, kaj privateco.') permesilo. Se temas pri publika mono, ankaŭ temu pri publika kodo!"
+  subtitle3   = "**Kodo pagita de la popolo estu disponebla al la popolo!**"
 
 
 # About section
@@ -34,93 +34,93 @@
 # Arguments section
 [Languages.eo.arguments]
   headline    = "Kialoj por publika kodo"
-  followup    = "Ĉu vi opinias, ke libera programaro estu la defaŭlta agordo por publike financita programaro?  **Ni konvinku vian politikajn deputitojn!**"
+  followup    = "Ĉu vi opinias, ke libera programaro estu la norma agordo por publike financita programaro?  **Ni konvinku vian politikajn deputitojn!**"
   buttonText  = "Subskribu la publikan leteron"
 [[Languages.eo.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
-  title       = "Impostaj ŝparadoj"
-  description = "Similaj aplikprogramoj ne devas esti programita de nulo ĉiujfoje."
+  title       = "Imposta ŝparado"
+  description = "Similaj aplikaĵoj ne devas esti programitaj de nulo ĉiufoje."
 [[Languages.eo.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
-  title       = "Kunlaboro"
-  description = "Penoj de grandaj projektoj povas kunhavigi kompetentecon kaj kostojn."
+  title       = "Kunlaborado"
+  description = "Penoj de grandaj projektoj povas kunhavi kompetentecojn kaj kostojn."
 [[Languages.eo.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Servado al la publiko"
-  description = "Aplikprogramoj pagitaj de la publiko devus esti disponebla al ĉiuj."
+  description = "Aplikaĵoj pagitaj de la publiko estu disponeblaj al ĉiuj."
 [[Languages.eo.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "Nutrado de novigado"
-  description = "Kun procedoj travideblaj, aliuloj devas reinventi la radon."
+  description = "Kun procedoj travideblaj, aliuloj ne devas reinventi la radon."
 
 
 # Action section
 [Languages.eo.action]
   headline      = "Diru all viaj deputitoj!"
-  intro         = "Ene nia [**publika letero**](openletter/) ni postulas:"
+  intro         = "En nia [**publika letero**](openletter/) ni postulas:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"  # TODO: citu el openletter.eo.md
-  description   = "**$ORGS** organizoj kaj **$INDS** individuoj jam subtenas ĉi tiun alvokon"
+  demand        = "«Efektivigu leĝaron postulatan, ke publike financita programaro evoluigita por publika sektoro devu publike eldoniĝi sub [libera kaj malfermitkoda programa](https://fsfe.org/freesoftware/basics/summary.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavi kaj plibonigi la programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn, kiel liberecojn de parolo, preso, kaj privateco.') permesilo.»"
+  description   = "**$ORGS** organizaĵoj kaj **$INDS** individuoj jam subtenas ĉi tiun alvokon al ago per subskriboj de nia [publika letero](openletter/). Ankaŭ vi povas helpi al ni fari pli grandan efekton! Ni donos ĉiujn subskribojn al la deputitoj ĉie en Eŭropo, kiuj pridiskutas programan liberecon en publika administrado."
 
 [Languages.eo.action.box]
-  text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
+  text      = "Jam **$INDS SUBSKRIBOJ** – subskribu la publikan leteron nun!"
 
 [Languages.eo.action.form]
-  name      = "Name (required)"
-  email     = "Email (required)"
-  country   = "Your Country"
-  zip       = "Zip Code"
-  comment   = "Your comment (max. 140 characters)"
-  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
-  permNews  = "I want to stay informed about the future of this campaign"
-  permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
-  submit    = "Sign Now!"
+  name      = "Nomo (necesa)"
+  email     = "Retpoŝt-adreso (necesa)"
+  country   = "Via lando"
+  zip       = "Poŝta kodo"
+  comment   = "Via komento (pleje 140 signoj)"
+  permPriv  = "Mi legis kaj konsentis la [privateco-politikon](privacy/)"
+  permNews  = "Mi volas esti informata pri ĉi tiu kampanjo estonte"
+  permPub   = "Mi volas aperigi mian subskrisbon en la [listo de subskriboj](openletter/all-signatures)"
+  submit    = "Subskribi nun!"
 
 
 # Organisations section
 [Languages.eo.organisations]
-  headline  = "Supporting Organisations"
-  text      = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+  headline  = "Subtenantaj organizaĵoj"
+  text      = "La jenaj organizaĵoj subtenas nian [publikan leteron](openletter/). Se ankaŭ via organizaĵo interesiĝas pri aliĝo al la voko por publika kodo, bonvolu [nin kontakti](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
 [Languages.eo.spread]
-  headline          = "Spread the word!"
+  headline          = "Diskonigu la kampanjon!"
   promoText         = "Order the latest stickers and flyers from FSFE"
   promoButtonText   = "Get promo material"
-  shareText         = "Tell your friends and followers about Public Code:"
-  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
+  shareText         = "Sciigu viajn amikojn kaj abonantojn pri publika kodo:"
+  defaultSocialText = "Teme pri publika mono, temu pri publika kodo. Mi subtenas ĉi tiun vokon por pli da publika kodo sub liberaj permesiloj:"
 
 
 # Legal Section
 [Languages.eo.legal]
-  by            = "This is a campaign by Free Software Foundation Europe"
-  imprint       = "Imprint"
-  privacy       = "Privacy"
-  transparency  = "Transparency"
-  contribute1   = "The code of this website is Free Software." 
-  contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  by            = "Ĉi tio estas kampanjo de Free Software Foundation Europe"
+  imprint       = "Organizaĵo"
+  privacy       = "Privateco-politiko"
+  transparency  = "Travidebleco"
+  contribute1   = "Kodo de tiu ĉi retejo estas libera programaro." 
+  contribute2   = "Ni bonvenigas kontribuojn!"
+  license       = "Tiu ĉi verko subas la permesilon [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection
 [Languages.eo.language]
-  description = "Read this page in another language"
+  description = "Legu ĉi tiun paĝon en alia lingvo"
 
 
 # 404 Error Page
 [Languages.eo.error]
-  headline    = "Error 404 - Page not found"
-  description = "The page you're looking for does not exist."
-  button      = "Back to start page"
+  headline    = "Error 404 - Paĝo ne trovita"
+  description = "La paĝo, kiun vi serĉas, ne ekzistas."
+  button      = "Reen al la ĉefpaĝo"
 
 
 # Specific sub-pages
 [Languages.eo.subpage]
 [Languages.eo.subpage.signatures]
-  headline      = "Individual Open Letter Signatures"
-  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
-  allSignatures = "See [all public signatures](all-signatures/)."
-  tableName     = "Name"
-  tableCountry  = "Country"
-  tableComment  = "Comment"
+  headline      = "Individuaj subskriboj de la publika letero"
+  description   = "Sube estas subskriboj de la subskribintoj, kiuj konsentis publikigon de siaj nomoj. Fariĝu unu el tiuj!"
+  allSignatures = "Rigardu [ĉiujn publikajn subskribojn](all-signatures/)."
+  tableName     = "Nomo"
+  tableCountry  = "Lando"
+  tableComment  = "Komento"
