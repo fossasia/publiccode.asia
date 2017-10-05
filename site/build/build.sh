@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Put all available languages here, except "en". Separated by spaces
-TRANSLATIONS="ca de el eo es fr hu it nl sv tr zh_tw"
+TRANSLATIONS="ca de el eo es fr hu it nl pt sv tr zh_tw"
 
 basedir="${0%/*}/.."
 cd "$basedir"
@@ -25,18 +25,18 @@ else
 
     hugo
     status=$?
-    
+
     (( tries++ ))
-    
+
     if [[ $status != 0 && $tries -le 2 ]]; then
       echo "Build error with exit status $status on try $tries. Try again now"
     elif [[ $status != 0 && $tries -gt 2 ]]; then
       echo "Build failed 3 times in a row. Don't try again."
       exit 1
     fi
-  
+
   done
-    
+
   ## After successfully building the website, we set the AWS credentials and uplodad
   ## everything to our AWS s3 bucket.
   ##
