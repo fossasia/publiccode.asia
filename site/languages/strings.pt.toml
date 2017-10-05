@@ -186,7 +186,7 @@
   # tableCountry  = "Country"
   # tableComment  = "Comment"
   headline      = "Assinaturas Individuais da Carta Aberta"
-  description   = "Em baixo encontram-se as assinaturas dos signatários que concoradaram seus nomes fossem publicados. Seja o próximo!"
+  description   = "Em baixo encontram-se as assinaturas dos signatários que concordaram que os seus nomes fossem publicados. Seja o próximo!"
   allSignatures = "Ver [todas as assinatura públicas](all-signatures/)."
   tableName     = "Nome"
   tableCountry  = "País"
