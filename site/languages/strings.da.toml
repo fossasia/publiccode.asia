@@ -3,7 +3,7 @@
 # General strings
 [Languages.da]
   languageCode  = "da"  # 2-letter code of language (ISO 639-1)
-  languageName  = "Danish"  # verbose name of language (e.g. "Français" or "Русский")
+  languageName  = "Dansk"  # verbose name of language (e.g. "Français" or "Русский")
   description   = "Public Money, Public Code - En kampagne for frigivelse af offentligt finansieret software som fri software"
   fsdefinition  = "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."
 
@@ -100,7 +100,7 @@
   transparency  = "Gennemsigtighed"
   contribute1   = "Denne hjemmesides kode er fri software."
   contribute2   = "Du er velkommen til at bidrage!"
-  license       = "Dette værk er licenseret under en [Creative Commons BY-SA 4.0 licens](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "Dette værk er licenseret under en [Creative Commons BY-SA 4.0 licens](http://creativecommons.org/licenses/by-sa/4.0/deed.da)."
 
 
 # Language selection
