@@ -56,7 +56,7 @@
 
 # Action section
 [Languages.eo.action]
-  headline      = "Diru all viaj deputitoj!"
+  headline      = "Diru al viaj deputitoj!"
   intro         = "En nia [**publika letero**](openletter/) ni postulas:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "«Efektivigu leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro devu publike eldoniĝi sub [libera kaj malfermitkoda programa](https://fsfe.org/freesoftware/basics/summary.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo.»"
