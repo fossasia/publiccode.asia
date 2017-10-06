@@ -4,8 +4,8 @@ type: page
 layout: subpage
 ---
 
-## Controlla ora la tua casella di posta elettronica
+## Ora controlla la tua casella di posta elettronica
 
-Hai quasi finito! Riceverai presto una email con un link per la conferma finale della tua firma. Verifica la tua cartella di spam se non ricevi l'email nei prossimi 15 minuti. 
+Hai quasi finito! Riceverai presto una email con un link per la conferma finale della tua firma. Controlla nella tua cartella dello spam se non ricevi l'email nei prossimi 15 minuti. 
 
 Grazie per aver firmato la lettera aperta per **Public Money, Public Code**.
