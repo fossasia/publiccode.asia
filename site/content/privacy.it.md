@@ -4,9 +4,9 @@ type: "page"
 layout: "subpage"
 ---
 
-Il sito **publiccode.eu** è gestito dalla  
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
-Quando nel presente documento ci si riferisce a "noi", ci si riferisce alla FSFE.
+Il sito **publiccode.eu** è gestito dalla [FSFE
+e.V.](https://fsfe.org/about/legal/imprint.html). Quando nel presente documento
+ci si riferisce a "noi", ci si riferisce alla FSFE.
 
 ## Cosa raccogliamo e perché
 
