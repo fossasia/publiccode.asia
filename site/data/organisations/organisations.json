@@ -9,6 +9,11 @@
     "img": "aptivate.png",
     "url": "www.aptivate.org/"
   },
+   {
+    "name": "ASL.Org - Associação Software Livre ",
+    "img": "asl-org.png",
+    "url": "http://asl.org.br"
+  },
   {
     "name": "Aquilenet",
     "img": "aquilenet.png",
@@ -78,6 +83,11 @@
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "url": "https://exposefacts.org/"
+  },
+  {
+    "name": "FAImaison",
+    "img": "FAImaison.png",
+    "url": "https://www.faimaison.net/"
   },
   {
     "name": "Linux User Group Of Slovenia",
@@ -368,6 +378,11 @@
     "name": "The Document Foundation",
     "img": "tdf.png",
     "url": "https://www.documentfoundation.org"
+  },
+   {
+    "name": "The Tor Project",
+    "img": "torproject.png",
+    "url": "https://www.torproject.org/"
   },
   {
     "name": "VideoLAN",
