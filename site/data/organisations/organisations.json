@@ -15,6 +15,11 @@
     "url": "http://asl.org.br"
   },
   {
+    "name": "Digitale Allmend",
+    "img": "digitaleallmend.png",
+    "url": "https://allmend.ch/"
+  },
+  {
     "name": "Aquilenet",
     "img": "aquilenet.png",
     "url": "https://www.aquilenet.fr/"
@@ -343,6 +348,11 @@
     "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
     "url": "http://quintessenz.at" 
+  },
+  {
+    "name": "Saregune",
+    "img": "saregune.png",
+    "url": "http://www.saregune.net/es/" 
   },
   {
     "name": "Slovensko.Digital",
