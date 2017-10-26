@@ -100,9 +100,19 @@
     "url": "https://www.dfri.se/?lang=en"
   },
   {
+    "name": "Democracy OS France",
+    "img": "democracyosFR.png",
+    "url": "http://democracyos.eu/"
+  },
+  {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "url": "https://exposefacts.org/"
+  },
+    {
+    "name": "ELLAK Cyprus",
+    "img": "ELLAKCyprus.png",
+    "url": "https://ellak.org.cy/"
   },
   {
     "name": "FAImaison",
