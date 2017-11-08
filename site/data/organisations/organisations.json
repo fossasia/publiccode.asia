@@ -54,7 +54,12 @@
     "img": "CMSGarden.png",
     "url": "http://www.cms-garden.org/en"
   },
-   {
+  {
+    "name": "Colectic",
+    "img": "colectic.png",
+    "url": "http://colectic.coop/"
+  },
+  {
     "name": "Commons Institut",
     "img": "CommonsInstitut.png",
     "url": "https://commons-institut.org/"
