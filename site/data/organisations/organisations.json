@@ -359,22 +359,27 @@
     "img": "OpenSUSE.png",
     "url": "https://www.opensuse.org/"
   },
-   {
+  {
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "url": "https://opensource.org/"
   },
-   {
+  {
     "name": "OW2 Consortium",
     "img": "ow2.png",
     "url": "https://www.ow2.org/"
   },
-   {
+  {
+    "name": "p≡p foundation",
+    "img": "pep.png",
+    "url": "https://pep.foundation"
+  },
+  {
     "name": "Plone Foundation",
     "img": "plone.png",
     "url": "https://plone.org/"
   },
-   {
+  {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "url": "https://publicsoftware.eu/"
