@@ -104,6 +104,11 @@
     "img": "debian.png",
     "url": "https://debian.org"
   },
+  {
+    "name": "Digitale Gesellschaft Schweiz",
+    "img": "dgs.png",
+    "url": "https://www.digitale-gesellschaft.ch/"
+  },
 {
     "name": "DFRI",
     "img": "dfri.png",
