@@ -429,6 +429,11 @@
     "img": "soit.png",
     "url": "http://www.soit.sk/"
   },
+  {
+    "name": "SwissLinux",
+    "img": "swisslinux.png",
+    "url": "https://swisslinux.org/"
+  },
    {
     "name": "Technologiestiftung Berlin",
     "img": "tsb.png",
