@@ -1,5 +1,5 @@
 {{ $.Scratch.Set "langext" "" }}
-{{ if and (or (eq .Lang "de") ) }}
+{{ if and (or (eq .Lang "de") (eq .Lang "fr") ) }}
   {{ $.Scratch.Add "langext" (printf "_%s" .Lang) }}
 {{ end }}
 <center>
