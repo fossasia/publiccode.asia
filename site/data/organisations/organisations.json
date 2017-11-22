@@ -190,6 +190,11 @@
     "url": "https://facil.qc.ca/"
   },
   {
+    "name": "Fedora Project",
+    "img": "fedora.png",
+    "url": "https://fedoraproject.org/"
+  },
+  {
     "name":"FIfF",
     "img": "FIfF.png",
     "url": "https://www.fiff.de/"
