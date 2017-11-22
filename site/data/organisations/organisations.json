@@ -5,6 +5,11 @@
     "url": "http://adullact.org/"
   },
   {
+    "name": "Ajuntament de Barcelona",
+    "img": "bcn.png",
+    "url": "http://www.bcn.cat/"
+  },
+  {
     "name": "Aptivate",
     "img": "aptivate.png",
     "url": "www.aptivate.org/"
