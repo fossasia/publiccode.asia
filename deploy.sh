@@ -5,7 +5,7 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
 function doCompile {
-  ./build/build.sh
+  .site/build/build.sh
 }
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
@@ -30,12 +30,12 @@ cd ..
 
 # Clean out existing contents
 rm -rf public/**/* || exit 0
-
+cd ..
 # Run our compile script
 doCompile
 
 # Now let's go have some fun with the cloned repo
-cd out
+cd site/public/
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
 
@@ -50,7 +50,7 @@ fi
 git add -A .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
-openssl aes-256-cbc -k $love -in ../id_rsa.enc -out ../deploy_key -d
+openssl aes-256-cbc -k $love -in ../../id_rsa.enc -out ../../deploy_key -d
 chmod 600 ../deploy_key
 eval `ssh-agent -s`
 ssh-add deploy_key
