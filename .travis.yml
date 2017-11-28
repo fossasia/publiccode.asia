@@ -11,5 +11,4 @@ install:
   - sudo dpkg -i hugo_0.26_Linux-64bit.deb
   - rm -rf public || exit 0
 # Deploy to GitHub pages
-  - pwd
 script: bash ./deploy.sh
