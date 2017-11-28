@@ -18,4 +18,4 @@ script:
 
 # Deploy to GitHub pages
   - cd ..
-  - ./deploy.sh
+script: bash ./deploy.sh
