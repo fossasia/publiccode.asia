@@ -17,4 +17,5 @@ script:
   - ./build/build.sh
 
 # Deploy to GitHub pages
+  - cd ..
   - ./deploy.sh
