@@ -8,7 +8,7 @@ addons:
 # Clean and don't fail
 install:
   - wget https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.deb
-  - dpkg -i hugo_0.26_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.26_Linux-64bit.deb
   - rm -rf public || exit 0
 
 # Build the website
