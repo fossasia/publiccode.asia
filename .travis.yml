@@ -11,11 +11,6 @@ install:
   - sudo dpkg -i hugo_0.26_Linux-64bit.deb
   - rm -rf public || exit 0
 
-# Build the website
-script:
-  - cd site
-  - ./build/build.sh
-
 # Deploy to GitHub pages
   - cd ..
 script: bash ./deploy.sh
