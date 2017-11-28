@@ -14,7 +14,7 @@ install:
 # Build the website
 script:
   - cd site
-  - ./build/buildsh
+  - ./build/build.sh
 
 # Deploy to GitHub pages
 #deploy:
