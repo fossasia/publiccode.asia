@@ -13,4 +13,5 @@ install:
 
 # Deploy to GitHub pages
   - cd ..
+  - pwd
 script: bash ./deploy.sh
