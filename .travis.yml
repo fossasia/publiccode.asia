@@ -14,7 +14,7 @@ install:
 # Build the website
 script:
   - cd site
-  - hugo --theme=ghoust
+  - ./build/buildsh
 
 # Deploy to GitHub pages
 #deploy:
