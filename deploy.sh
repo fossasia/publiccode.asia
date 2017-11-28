@@ -22,20 +22,21 @@ SHA=`git rev-parse --verify HEAD`
 
 # Clone the existing gh-pages for this repo into out/
 # Create a new empty branch if gh-pages doesn't exist yet (should only happen on first deply)
-rm -rf site/public
-git clone $REPO site/public
-cd site/public/
+rm -rf site/out
+git clone $REPO site/out
+cd site/out
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean out existing contents
-rm -rf public/**/* || exit 0
+rm -rf out/**/* || exit 0
 cd ..
 # Run our compile script
 doCompile
-
+cp -r site/public site/out
+cp -r site/static site/out
 # Now let's go have some fun with the cloned repo
-cd site/public/
+cd site/out/
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
 
