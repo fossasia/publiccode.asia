@@ -13,7 +13,7 @@
    version="1.1"
    id="svg130"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.91 r13725">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata134">
     <rdf:RDF>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
      id="namedview132"
      showgrid="false"
-     inkscape:zoom="2.3179865"
-     inkscape:cx="148.27083"
-     inkscape:cy="110.33331"
+     inkscape:zoom="0.81953198"
+     inkscape:cx="-0.11847221"
+     inkscape:cy="-33.966965"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg130"
      fit-margin-top="0"
@@ -124,7 +124,7 @@
             <polygon
                id="polygon23"
                points="2478,0 0,0 0,77 2478,77 "
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id8"
@@ -138,7 +138,7 @@
             <polygon
                id="polygon28"
                points="2832,0 0,0 0,77 2832,77 "
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id9"
@@ -152,7 +152,7 @@
             <polygon
                id="polygon33"
                points="2478,0 0,0 0,77 2478,77 "
-               style="fill:#f9f9f9" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id10"
@@ -167,7 +167,7 @@
                d="M 0,275 H 75 V 94 H 9 V 36 C 29,32 46,26 60,21 74,16 87,9 101,0 h 70 v 275 h 63 v 76 H 0 Z"
                id="path38"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id11"
@@ -182,7 +182,7 @@
                d="M 0,275 H 75 V 94 H 9 V 36 C 29,32 46,26 59,21 73,16 87,9 100,0 h 70 v 275 h 64 v 76 H 0 Z"
                id="path43"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id12"
@@ -197,7 +197,7 @@
                d="M 0,275 H 76 V 94 H 9 V 36 C 29,32 47,26 61,21 75,16 89,9 102,0 h 69 v 275 h 63 v 76 H 0 Z"
                id="path48"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id13"
@@ -212,7 +212,7 @@
                d="M 131,364 C 111,364 93,360 78,352 62,344 48,332 36,317 25,301 16,282 10,259 4,237 0,210 0,181 0,151 4,124 10,101 16,78 25,60 36,45 48,30 62,19 78,11 93,4 111,0 131,0 c 19,0 36,4 52,11 16,8 30,19 42,34 12,15 21,34 27,56 7,23 10,50 10,80 0,29 -3,56 -10,78 -6,23 -15,42 -27,58 -12,15 -26,27 -42,35 -16,8 -33,12 -52,12 z m 0,-73 c 5,0 10,-1 15,-4 5,-3 10,-8 13,-17 4,-8 7,-19 9,-33 2,-15 3,-33 3,-56 0,-24 -1,-42 -3,-57 -2,-14 -5,-25 -9,-33 -3,-7 -8,-12 -13,-15 -5,-2 -10,-3 -15,-3 -6,0 -11,1 -16,3 -5,3 -9,8 -13,15 -4,8 -7,19 -9,33 -2,15 -3,33 -3,57 0,23 1,41 3,56 2,14 5,25 9,33 4,9 8,14 13,17 5,3 10,4 16,4 z"
                id="path53"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id14"
@@ -227,7 +227,7 @@
                d="M 0,275 H 75 V 94 H 8 V 36 C 28,32 45,26 59,21 73,16 87,9 100,0 h 71 v 275 h 62 v 76 H 0 Z"
                id="path58"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id15"
@@ -242,7 +242,7 @@
                d="M 0,275 H 75 V 94 H 9 V 36 C 29,32 46,26 60,21 74,16 87,9 101,0 h 69 v 275 h 64 v 76 H 0 Z"
                id="path63"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id16"
@@ -257,7 +257,7 @@
                d="M 130,364 C 110,364 93,359 77,351 61,343 47,332 36,316 24,301 15,282 9,259 3,236 0,210 0,180 0,150 3,124 9,102 15,79 24,60 36,45 47,30 61,19 77,12 93,4 110,0 130,0 c 19,0 37,4 53,12 16,7 30,18 42,33 11,15 20,34 27,57 6,22 9,48 9,78 0,30 -3,56 -9,79 -7,23 -16,42 -27,57 -12,16 -26,27 -42,35 -16,8 -34,13 -53,13 z m 0,-74 c 5,0 10,-1 15,-4 5,-3 10,-8 14,-16 4,-8 7,-20 9,-34 3,-14 4,-33 4,-56 0,-23 -1,-42 -4,-56 -2,-14 -5,-25 -9,-32 -4,-8 -9,-13 -14,-15 -5,-3 -10,-4 -15,-4 -6,0 -11,1 -16,4 -5,2 -9,7 -13,15 -4,7 -6,18 -9,32 -2,14 -3,33 -3,56 0,23 1,42 3,56 3,14 5,26 9,34 4,8 8,13 13,16 5,3 10,4 16,4 z"
                id="path68"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id17"
@@ -272,7 +272,7 @@
                d="M 0,274 H 75 V 92 H 9 V 34 C 29,30 46,25 59,20 73,15 87,8 100,0 h 70 v 274 h 64 v 76 H 0 Z"
                id="path73"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id18"
@@ -287,7 +287,7 @@
                d="M 132,364 C 112,364 94,359 78,351 62,343 48,332 37,316 25,301 16,282 10,259 4,236 1,210 1,180 1,150 4,124 10,102 16,79 25,60 37,45 48,30 62,19 78,12 94,4 112,0 132,0 c 19,0 37,4 52,12 17,7 30,18 42,33 12,15 21,34 27,57 6,22 9,48 9,78 0,30 -3,56 -9,79 -6,23 -15,42 -27,57 -12,16 -25,27 -42,35 -15,8 -33,13 -52,13 z m 0,-74 c 6,0 11,-1 15,-4 6,-3 10,-8 14,-16 3,-8 6,-20 8,-34 3,-14 4,-33 4,-56 0,-23 -1,-42 -4,-56 -2,-14 -5,-25 -8,-32 -4,-8 -8,-13 -14,-15 -4,-3 -9,-4 -15,-4 -6,0 -11,1 -17,4 -5,2 -9,7 -13,15 -3,7 -6,18 -9,32 -2,14 -3,33 -3,56 0,23 1,42 3,56 3,14 6,26 9,34 4,8 8,13 13,16 6,3 11,4 17,4 z"
                id="path78"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id19"
@@ -302,7 +302,7 @@
                d="M 0,274 H 75 V 92 H 9 V 34 C 29,30 46,25 60,20 74,15 88,8 101,0 h 70 v 274 h 63 v 76 H 0 Z"
                id="path83"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id20"
@@ -317,7 +317,7 @@
                d="M 0,274 H 75 V 92 H 8 V 34 C 28,30 45,25 59,20 73,15 87,8 100,0 h 71 v 274 h 62 v 76 H 0 Z"
                id="path88"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id21"
@@ -332,7 +332,7 @@
                d="M 131,364 C 111,364 94,359 78,351 62,343 48,332 36,316 25,301 16,282 10,259 4,236 1,210 1,180 1,150 4,124 10,102 16,79 25,60 36,45 48,30 62,19 78,12 94,4 111,0 131,0 c 19,0 36,4 53,12 16,7 30,18 41,33 12,15 21,34 28,57 6,22 9,48 9,78 0,30 -3,56 -9,79 -7,23 -16,42 -28,57 -11,16 -25,27 -41,35 -17,8 -34,13 -53,13 z m 0,-74 c 5,0 10,-1 15,-4 5,-3 10,-8 13,-16 4,-8 7,-20 9,-34 2,-14 4,-33 4,-56 0,-23 -2,-42 -4,-56 -2,-14 -5,-25 -9,-32 -3,-8 -8,-13 -13,-15 -5,-3 -10,-4 -15,-4 -6,0 -11,1 -16,4 -5,2 -9,7 -13,15 -4,7 -7,18 -9,32 -2,14 -3,33 -3,56 0,23 1,42 3,56 2,14 5,26 9,34 4,8 8,13 13,16 5,3 10,4 16,4 z"
                id="path93"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id22"
@@ -347,7 +347,7 @@
                d="M 79,0 C 38,0 5,34 1,69 c -5,34 18,76 57,87 886,255 1380,1196 1125,2082 h 1 c -7,21 -4,46 7,64 12,18 28,29 46,34 18,5 38,5 57,-4 19,-9 35,-29 41,-51 C 1614,1314 1071,283 102,3 94,1 87,0 79,0 Z"
                id="path98"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id23"
@@ -361,7 +361,7 @@
             <polygon
                id="polygon103"
                points="523,151 0,0 132,528 237,426 "
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id24"
@@ -376,7 +376,7 @@
                d="m 1086,1 c -10,1 -19,4 -28,8 -914,425 -1311,1511 -888,2424 9,20 28,37 49,44 20,6 40,3 57,-5 16,-7 31,-21 40,-41 8,-19 7,-44 -3,-65 l 1,1 C -74,1531 288,541 1125,153 h -1 c 36,-16 53,-59 44,-91 -8,-33 -43,-64 -82,-61 z"
                id="path108"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id25"
@@ -390,7 +390,7 @@
             <polygon
                id="polygon113"
                points="394,35 0,0 229,494 542,48 "
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id26"
@@ -404,7 +404,7 @@
             <polygon
                id="polygon118"
                points="3184,0 0,0 0,77 3184,77 "
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
           <g
              id="id27"
@@ -419,7 +419,7 @@
                d="M 1239,0 1,362 11,436 H 1250 2489 L 2499,362 1260,0 Z m 11,76 973,285 H 1250 277 Z"
                id="path123"
                inkscape:connector-curvature="0"
-               style="fill:#f9f9f9;stroke-width:3.91199982;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+               style="fill:#2092c5" />
           </g>
         </g>
       </g>
