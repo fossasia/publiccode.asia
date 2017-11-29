@@ -33,15 +33,9 @@ rm -rf out/*
 cd ..
 # Run our compile script
 doCompile
-echo so looks site/out right now 
-ls site/out
 cp -r site/public/* site/out
-echo cp -r site/public/* site/out 
-echo so looks site/out right now 
-ls site/out
 cp -r site/static/* site/out
-echo cp -r site/static/* site/out
-echo so looks site/out right now 
+echo publiccode.asia>site/out/CNAME
 ls site/out
 # Now let's go have some fun with the cloned repo
 cd site/out/
