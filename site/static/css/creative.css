@@ -45,7 +45,7 @@ a:focus {
 #about a:focus,
 #action a:hover,
 #action a:focus {
-    color: rgb(52, 52, 52);
+    color: rgb(144, 144, 144); 
 }
 
 h1,
@@ -64,12 +64,12 @@ p {
 }
 
 .bg-primary {
-    background-color: #b82300;
+    background-color: #e12b00;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #3c0b00;
+    background-color: #b82300;
 }
 
 .text-faded {
@@ -159,12 +159,12 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #2093C4;
+    color: #bf0303;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #2093C4!important;
+    color: #690e0e!important;
     background-color: transparent;
 }
 
@@ -428,7 +428,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #2093C4;
+    color: #ff3b00; 
 }
 
 .no-gutter > [class*=col-] {
@@ -492,7 +492,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #e12b00;
     color: #fff;
-    background-color: #2093C4;
+    background-color: #e12b00;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;

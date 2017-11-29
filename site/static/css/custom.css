@@ -77,7 +77,7 @@ blockquote p {
 /* LEGAL SECTION */
 #legal {
   color: #fff;
-  background-color: #e12b00;
+  background-color: #b82300;
   padding: 10px;
   margin: 0px;
 }
@@ -363,11 +363,11 @@ a:hover {
   animation: bounce 2s infinite;
 }
 .arrow-bounce a {
-  color: #168EC1;
+  color: #8a8a8a;
   padding: 30px;
 }
 .arrow-bounce a:hover {
-  color: #0F5E80;
+  color: #797979;
 }
 
 @keyframes bounce {
