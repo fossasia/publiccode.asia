@@ -29,8 +29,12 @@ git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean out existing contents
+ls out
 rm -rf out/**/* || exit 0
+ls out
+ls
 cd ..
+ls
 # Run our compile script
 doCompile
 cp -r site/public/* site/out
