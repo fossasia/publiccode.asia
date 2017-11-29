@@ -7,7 +7,7 @@
             {{ range .Site.Params.resources.list }}
                 <div class="col-lg-4 col-sm-6">
                     <a href="{{ .link }}" class="resources-box resources-link">
-                        <img src="{{ img/resources/ | absURL }}{{ .img }}" class="img-responsive" alt="">
+                        <img src="{{ "img/resources/" | absURL }}{{ .img }}" class="img-responsive" alt="">
                         {{ if .title }}
                             <div class="resources-box-caption">
                                 <div class="resources-box-caption-content">
