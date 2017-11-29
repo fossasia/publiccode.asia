@@ -1,5 +1,7 @@
 # Public Money Public Code – publiccode.asia
 
+[![Build Status](https://travis-ci.org/fossasia/publiccode.asia.svg?branch=master)](https://travis-ci.org/fossasia/publiccode.asia)
+
 This is the website of "Public Money, Public Code" [publiccode.asia](https://publiccode.asia). It is based on [Hugo](https://gohugo.io).
 
 
