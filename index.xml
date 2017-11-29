@@ -22,6 +22,17 @@ The list is updated hourly.
     </item>
     
     <item>
+      <title>Alle openbare handtekeningen</title>
+      <link>/openletter/all-signatures.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/all-signatures.vi/</guid>
+      <description>Dit is de volledige lijst van alle mensen die de open brief ondertekend hebben, en die toestemming gegeven hebben om hun naam openbaar te maken. 11 mensen hebben hun steun al betuigd – bent u één van hen?
+Deze lijst wordt elk uur ververst.
+  Name Country Comment      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
       <title>Almost done...</title>
       <link>/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +40,59 @@ The list is updated hourly.
       <guid>/openletter/confirm/</guid>
       <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
 Thank you for signing the open letter for Public Money, Public Code.</description>
+    </item>
+    
+    <item>
+      <title>Bedankt voor uw handtekening!</title>
+      <link>/openletter/success.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/success.vi/</guid>
+      <description>Uw handtekening is bevestigd Bedankt voor het ondertekenen van de open brief &amp;ldquo;Publiek Geld, Publieke Code&amp;rdquo;. Uw steun betekent veel voor ons
+Als u koos om uw naam toe te voegen aan de openbare lijst, dan zal uw naam verschijnen op de lijst van handtekeningen binnen het uur. Als u koos om meer informatie te ontvangen, dan houden wij u op de hoogte via e-mail over nieuws omtrent deze campagne.</description>
+    </item>
+    
+    <item>
+      <title>Bijna klaar...</title>
+      <link>/openletter/confirm.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/confirm.vi/</guid>
+      <description>Bekijk uw e-mail nu U bent bijna klaar! Binnenkort ontvangt u een e-mail met een link naar de definitieve bevestiging voor uw handtekening. Controlleer uw spam-map als u de link niet ontvangt binnen de komende 15 minuten.
+Bedankt voor het ondertekenen van de open brief van Publiek Geld, Publieke Code.</description>
+    </item>
+    
+    <item>
+      <title>Grazie per aver firmato!</title>
+      <link>/openletter/success.ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/success.ms/</guid>
+      <description>La tua firma è stata confermata Grazie per aver firmato la lettera aperta &amp;ldquo;Public Money, Public Code&amp;rdquo;. Il tuo supporto significa molto per noi.
+Se hai autorizzato l&amp;rsquo;aggiunta del tuo nome all&amp;rsquo;elenco pubblico dei firmatari, apparirà nell&amp;rsquo;elenco di firme entro la prossima ora. Se ha autorizzato la richiesta di ricevere ulteriori informazioni, ti manterremo informato sulle notizie concernenti questa campagna via email.
+Prossimi passi Per favore aiutaci dando alla tua firma un grande impatto condividendo questa campagna con i tuoi amici.</description>
+    </item>
+    
+    <item>
+      <title>Lettera aperta</title>
+      <link>/openletter.ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter.ms/</guid>
+      <description>Il software finanziato pubblicamente deve essere Software Libero/Open Source. Sebbene ci siano molte buoni ragioni per questo, molti politici non le conoscono ancora.
+Free and Open Source Software gives everybody the right to use, study, share and improve software.
+ Su questo punto puoi dare una mano! Firma la lettera aperta per dare più peso al nostro messaggio.  11 persone e  100 organizzazioni hanno già firmato. Consegneremo la lettera e le firme ai tuoi rappresentanti assicurandoci che comprendano: Public Money?</description>
+    </item>
+    
+    <item>
+      <title>Open Brief</title>
+      <link>/openletter.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter.vi/</guid>
+      <description>Publiek gefinancierde software moet Vrije en Open Bron Software zijn. Hoewel hier een overvloed van goede redenen voor is, weten vele politici nog niet hoe belangrijk software is.
+Free and Open Source Software gives everybody the right to use, study, share and improve software.
+ U kunt hierbij helpen! Onderteken de open brief zodat onze boodschap nog luider overkomt, zoals  11 mensen en  100 organisaties reeds gedaan hebben.</description>
     </item>
     
     <item>
@@ -43,6 +107,16 @@ Free and Open Source Software gives everybody the right to use, study, share and
     </item>
     
     <item>
+      <title>Politiche sulla privacy</title>
+      <link>/privacy.ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy.ms/</guid>
+      <description>Il sito publiccode.eu è gestito dalla FSFE e.V.. Quando nel presente documento ci si riferisce a &amp;ldquo;noi&amp;rdquo;, ci si riferisce alla FSFE.
+Cosa raccogliamo e perché Quando usi questo sito per firmare la lettera aperta, raccogliamo e conserviamo informazioni da te fornite quali il tuo nome, il tuo indirizzo e-mail e la tua nazionalità, per le quali hai espresso il consenso al trattamento. Mostreremo pubblicamente il tuo nome come firmatario della lettera aperta solo se darai il tuo consenso a mostrare pubblicamente il tuo nome nella lista dei firmatari.</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,6 +124,26 @@ Free and Open Source Software gives everybody the right to use, study, share and
       <guid>/privacy/</guid>
       <description>The publiccode.asia web site is run by the FOSSASIA When this policy refers to &amp;ldquo;we&amp;rdquo;, this means FOSSASIA.
 What we collect and why When you use the website to sign our open letter, we collect and store information about your name, e-mail address and country, which you have provided with your consent. We will publicly show your name as a signee to the open letter if you consented to publicly show name in the list of signatures.</description>
+    </item>
+    
+    <item>
+      <title>Privacybeleid</title>
+      <link>/privacy.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy.vi/</guid>
+      <description>publiccode.eu wordt beheerd door de FSFE e.V. Wanneer dit beleid naar &amp;ldquo;wij&amp;rdquo; verwijst, betekent dit de FSFE.
+Wat wij verzamelen en waarom Wanneer u de website gebruikt om onze open brief te ondertekenen, verzamelen en bewaren wij informatie over uw naam, e-mailadres en land &amp;ndash; welke u aangeleverd hebt met uw toestemming &amp;ndash; en wij zullen uw naam publiek tentoonstellen in de lijst van handtekeningen. Wij zullen ook uw naam en land aanleveren aan de ontvangers van de open brief (leden van het Europees Parlement en nationale of regionele parlementen).</description>
+    </item>
+    
+    <item>
+      <title>Quasi fatto...</title>
+      <link>/openletter/confirm.ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/confirm.ms/</guid>
+      <description>Ora controlla la tua casella di posta elettronica Hai quasi finito! Riceverai presto una email con un link per la conferma finale della tua firma. Controlla nella tua cartella dello spam se non ricevi l&amp;rsquo;email nei prossimi 15 minuti.
+Grazie per aver firmato la lettera aperta per Public Money, Public Code.</description>
     </item>
     
     <item>
@@ -61,6 +155,70 @@ What we collect and why When you use the website to sign our open letter, we col
       <description>Your signature is confirmed Thank you for signing the open letter &amp;ldquo;Public Money, Public Code&amp;rdquo;. Your support means a lot to us.
 If you opted-in to having your name added to the public list, your name will appear on the list of signatures within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
 Next Steps Please help us by giving your signature a huge impact and share this campaign with your friends.</description>
+    </item>
+    
+    <item>
+      <title>Tutti i firmatari pubblici</title>
+      <link>/openletter/all-signatures.ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/all-signatures.ms/</guid>
+      <description>Questa è la lista completa di tutte le persone che hanno firmato la lettera aperta ed hanno acconsentito a render pubblico il loro nome. 11 persone hanno già espresso il loro supporto, sei uno di loro?
+Questa lista è aggiornata ogni ora.
+  Name Country Comment      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Όλες οι Δημόσιες Υπογραφές</title>
+      <link>/openletter/all-signatures.id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/all-signatures.id/</guid>
+      <description>Αυτή είναι η πλήρης λίστα των ανθρώπων που υπέγραψαν την ανοιχτή επιστολή και συμφώνησαν να είναι δημόσια τα ονόματα τους. 11 άνθρωποι έχουν εκφράσει την υποστήριξή τους ήδη – είσαι ένας/μία απ&amp;rsquo; αυτούς;
+Η λίστα ανενεώνεται κάθε ώρα.
+  Name Country Comment      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Ανοιχτή Επιστολή</title>
+      <link>/openletter.id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter.id/</guid>
+      <description>Το δημόσια χρηματοδοτούμενο λογισμικό πρέπει να διατίθεται ως Ελεύθερο και Ανοιχτό Λογισμικό , αλλά πολλοί πολιτικοί δεν το γνωρίζουν ακόμα.
+Free and Open Source Software gives everybody the right to use, study, share and improve software.
+ Αυτή είναι η στιγμή που μπορείς να βοηθήσεις!! Υπόγραψε την ανοιχτή επιστολή και δώσε περισσότερη δύναμη στο μήνυμα μας.  11 άνθρωποι και  100 οργανισμοί έχουν ήδη υπογράψει. Θα παραδώσουμε την επιστολή και τις υπογραφές στους αντιπροσώπούς σας και σιγουρευτούμε πως καταλαβαίνουν το εξής: Δημόσιο Χρήμα; Δημόσιος Κώδικας!</description>
+    </item>
+    
+    <item>
+      <title>Ευχαριστούμε για την υπογραφή!</title>
+      <link>/openletter/success.id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/success.id/</guid>
+      <description>Η υπογραφή σου επιβεβαιώθηκε Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή &amp;ldquo;Δημόσιο Χρήμα, Δημόσιος Κώδικας&amp;rdquo;. Η υποστήριξη σου σημαίνει πολλά για μας.
+Αν συμφώνησες να εμφανιστεί το όνομα σου στη δημόσια λίστα, το όνομα σου θα εμφανιστεί στη λίστα υπογραφών μέσα στην επόμενη ώρα. Αν συμφώνησες να λαμβάνεις επιπλέον ενημερώσεις, θα σε κρατήσουμε ενήμερο/η με νέα σχετικά με την καμπάνια αυτή μέσω email.
+Επόμενα βήματα Παρακαλούμε βοήθησε μας δίνοντας μεγαλύτερο βαρύτητα στην υπογραφή σου και μοιράζοντας την καμπάνια με τους φίλους/ες σου.</description>
+    </item>
+    
+    <item>
+      <title>Πολιτική Ιδιωτικότητας</title>
+      <link>/privacy.id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy.id/</guid>
+      <description>Η ιστοσελίδα publiccode.eu συντηρείται από το FSFE e.V. Όταν αυτό το κείμενο αναφέρεται &amp;ldquo;εμείς&amp;rdquo;, εννοεί το FSFE.
+Τι συλλέγουμε και γιατί Όταν χρησιμοποιείς την ιστοσελίδα για να υπογράψεις την ανοιχτή επιστολή, συλλέγουμε και αποθηκεύουμε πληροφορίες για το όνομα, email διεύθυνση και χώρα, που οικειοθελώς συμπλήρωσες. Θα δείξουμε δημοσίως το όνομα σου ως υπογράφων την ανοιχτή επιστολή αν συναίνεσες για να αναρτήσουμε δημοσίως το όνομα σου στη []λίστα με τις υπογραφές](/openletter/all-signatures).</description>
+    </item>
+    
+    <item>
+      <title>Σχεδόν έτοιμος/η...</title>
+      <link>/openletter/confirm.id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openletter/confirm.id/</guid>
+      <description>Έλεγξε το email σου τώρα Σχεδόν έτοιμος/η! Θα λάβεις ένα email με ένα σύνδεσμο για την τελική επιβεβαίωση της υπογραφής σου. Παρακαλούμε έλεγξε και τον spam φάκελο σου αν δεν λάβεις το email μέσα στα επόμενα 15 λεπτά.
+Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή για Δημόσιο Χρήμα, Δημόσιο Κώδικα.</description>
     </item>
     
   </channel>
