@@ -8,7 +8,7 @@ function map () {
   if ($('#map').length) {
     var lat = $('#gmap-lat').val()
     var lng = $('#gmap-lng').val()
-    var image = '/img/marker.png'
+    var image = 'img/marker.png'
 
     var styles =
       [
