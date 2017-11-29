@@ -36,34 +36,34 @@ div.sharecolumn .share-buttons.side {
   background-color: #4CBD38;
 }
 .share-buttons.side .share-diaspora {
-  background-image: url("/img/service-icons/diaspora_white.png");
+  background-image: url("../img/service-icons/diaspora_white.png");
 }
 .share-buttons.side .share-gnusocial {
-  background-image: url("/img/service-icons/gnusocial_white.png");
+  background-image: url("../img/service-icons/gnusocial_white.png");
 }
 .share-buttons.side .share-reddit {
-  background-image: url("/img/service-icons/reddit_white.png");
+  background-image: url("../img/service-icons/reddit_white.png");
 }
 .share-buttons.side .share-flattr {
-  background-image: url("/img/service-icons/flattr_white.png");
+  background-image: url("../img/service-icons/flattr_white.png");
   display: none !important;
 }
 .share-buttons.side .share-hnews {
-  background-image: url("/img/service-icons/hackernews_white.png");
+  background-image: url("../img/service-icons/hackernews_white.png");
   display: none !important;
 }
 .share-buttons.side .share-twitter {
-  background-image: url("/img/service-icons/twitter_white.png");
+  background-image: url("../img/service-icons/twitter_white.png");
 }
 .share-buttons.side .share-facebook {
-  background-image: url("/img/service-icons/facebook_white.png");
+  background-image: url("../img/service-icons/facebook_white.png");
 }
 .share-buttons.side .share-gplus {
-  background-image: url("/img/service-icons/gplus_white.png");
+  background-image: url("../img/service-icons/gplus_white.png");
   display: none !important;
 }
 .share-buttons.side .share-support {
-  background-image: url("/img/service-icons/support_red.png");
+  background-image: url("../img/service-icons/support_red.png");
 }
 
 /* Share pop-up behaviour hacks */
