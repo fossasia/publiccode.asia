@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #2093C4;
+    color: #e12b00;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -64,12 +64,12 @@ p {
 }
 
 .bg-primary {
-    background-color: #b14c4c;
+    background-color: #b82300;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #374154;
+    background-color: #3c0b00;
 }
 
 .text-faded {
@@ -125,11 +125,7 @@ aside {
   background: #e12b00;
 }
 .navbar .logo #logo-green { 
-<<<<<<< HEAD
-  background: #bf6b6b;
-=======
   background: #b82300;
->>>>>>> e7a3e4263e7dffa3775dc88767dfeb6ea4c4699f
 }
 
 .navbar-default {
@@ -280,11 +276,7 @@ header .header-content h1 .logo-blue {
 
 header .header-content h1 .logo-green {
     display: block;
-<<<<<<< HEAD
-    background: #bf6b6b;
-=======
     background: #b82300;
->>>>>>> e7a3e4263e7dffa3775dc88767dfeb6ea4c4699f
     margin-top: 7px;
 }
 
