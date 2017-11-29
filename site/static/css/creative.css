@@ -122,10 +122,10 @@ aside {
     display: inline-block;
 }
 .navbar .logo #logo-blue {
-  background: #168EC1;
+  background: #e12b00;
 }
 .navbar .logo #logo-green { 
-  background: #bf6b6b;
+  background: #b82300;
 }
 
 .navbar-default {
@@ -271,12 +271,12 @@ header .header-content h1 .logo-green {
 
 header .header-content h1 .logo-blue {
     display: block;
-    background: #168EC1;
+    background: #e12b00;
 }
 
 header .header-content h1 .logo-green {
     display: block;
-    background: #bf6b6b;
+    background: #b82300;
     margin-top: 7px;
 }
 
@@ -490,7 +490,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #2093C4;
+    border-color: #e12b00;
     color: #fff;
     background-color: #2093C4;
     -webkit-transition: all .35s;
@@ -506,7 +506,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: #006798;
     color: #fff;
-    background-color: #006d9e;
+    background-color: #da5737;
 }
 
 .btn-primary:active,
