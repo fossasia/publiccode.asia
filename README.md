@@ -9,7 +9,6 @@ This is the website of "Public Money, Public Code" [publiccode.asia](https://pub
 - [Translate](#translate)
 - [Build](#build)
 - [HowTos and FAQs](#howtos-and-faqs)
-- [Maintainers](#maintainers)
 - [Licence](#licence)
 
 
