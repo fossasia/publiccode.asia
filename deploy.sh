@@ -29,15 +29,15 @@ git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean out existing contents
-echo pwd: $pwd ls out:
+echo pwd: $(pwd) ls out:
 ls out
 rm -rf out/**/* || exit 0
-echo pwd: $pwd ls out: (rm executed)
+echo pwd: $(pwd) ls out: \(rm executed\)
 ls out
-echo pwd: $pwd ls: 
+echo pwd: $(pwd) ls: 
 ls
 cd ..
-echo pwd: $pwd ls:
+echo pwd: $(pwd) ls:
 ls
 # Run our compile script
 doCompile
