@@ -3,762 +3,762 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/Public-Code/sv/openletter/all-signatures/</loc>
+    <loc>/publiccode.asia/sv/openletter/all-signatures/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/Public-Code/openletter/all-signatures/"
+                href="/publiccode.asia/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="/Public-Code/da/openletter/all-signatures/"
+                href="/publiccode.asia/da/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="/Public-Code/nb/openletter/all-signatures/"
+                href="/publiccode.asia/nb/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/Public-Code/nl/openletter/all-signatures/"
+                href="/publiccode.asia/nl/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/Public-Code/de/openletter/all-signatures/"
+                href="/publiccode.asia/de/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/Public-Code/tr/openletter/all-signatures/"
+                href="/publiccode.asia/tr/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="/Public-Code/hu/openletter/all-signatures/"
+                href="/publiccode.asia/hu/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/Public-Code/pt/openletter/all-signatures/"
+                href="/publiccode.asia/pt/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/Public-Code/es/openletter/all-signatures/"
+                href="/publiccode.asia/es/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/Public-Code/ca/openletter/all-signatures/"
+                href="/publiccode.asia/ca/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/Public-Code/fr/openletter/all-signatures/"
+                href="/publiccode.asia/fr/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/Public-Code/it/openletter/all-signatures/"
+                href="/publiccode.asia/it/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/Public-Code/eo/openletter/all-signatures/"
+                href="/publiccode.asia/eo/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="/Public-Code/el/openletter/all-signatures/"
+                href="/publiccode.asia/el/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/openletter/all-signatures/"
+                href="/publiccode.asia/zh_tw/openletter/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/openletter/all-signatures/"
+                href="/publiccode.asia/sv/openletter/all-signatures/"
                 />
   </url>
   
   <url>
-    <loc>/Public-Code/sv/categories/</loc>
+    <loc>/publiccode.asia/sv/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/categories/"
+                hreflang="el"
+                href="/publiccode.asia/el/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Public-Code/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/Public-Code/sv/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Public-Code/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/privacy/"
+                href="/publiccode.asia/zh_tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="/Public-Code/da/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/Public-Code/zh_tw/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>/Public-Code/sv/openletter/confirm/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Public-Code/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/openletter/confirm/"
+                href="/publiccode.asia/da/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/Public-Code/ca/openletter/confirm/"
+                href="/publiccode.asia/ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/openletter/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/openletter/confirm/"
+                hreflang="pt"
+                href="/publiccode.asia/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/Public-Code/it/openletter/confirm/"
+                href="/publiccode.asia/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publiccode.asia/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="/publiccode.asia/nb/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/publiccode.asia/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="/publiccode.asia/hu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/Public-Code/es/openletter/confirm/"
+                href="/publiccode.asia/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/openletter/confirm/"
+                hreflang="tr"
+                href="/publiccode.asia/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh_tw"
-                href="/Public-Code/zh_tw/openletter/confirm/"
+                hreflang="en"
+                href="/publiccode.asia/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/openletter/confirm/"
+                href="/publiccode.asia/sv/categories/"
                 />
   </url>
   
   <url>
-    <loc>/Public-Code/sv/openletter/</loc>
+    <loc>/publiccode.asia/sv/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="/publiccode.asia/hu/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/publiccode.asia/tr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="/publiccode.asia/nb/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publiccode.asia/fr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publiccode.asia/pt/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/publiccode.asia/ca/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publiccode.asia/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/publiccode.asia/nl/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="/publiccode.asia/da/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="/publiccode.asia/el/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/publiccode.asia/zh_tw/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/publiccode.asia/sv/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publiccode.asia/sv/openletter/confirm/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publiccode.asia/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/publiccode.asia/nl/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/publiccode.asia/tr/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publiccode.asia/pt/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/publiccode.asia/ca/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="/publiccode.asia/hu/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="/publiccode.asia/nb/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="/publiccode.asia/da/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publiccode.asia/fr/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="/publiccode.asia/el/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/publiccode.asia/zh_tw/openletter/confirm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/publiccode.asia/sv/openletter/confirm/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publiccode.asia/sv/openletter/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/openletter/"
+                hreflang="el"
+                href="/publiccode.asia/el/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/openletter/"
+                href="/publiccode.asia/zh_tw/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/openletter/"
+                hreflang="da"
+                href="/publiccode.asia/da/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/openletter/"
+                hreflang="ca"
+                href="/publiccode.asia/ca/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/openletter/"
+                hreflang="pt"
+                href="/publiccode.asia/pt/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/Public-Code/fr/openletter/"
+                href="/publiccode.asia/fr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/openletter/"
+                hreflang="nb"
+                href="/publiccode.asia/nb/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/openletter/"
+                hreflang="nl"
+                href="/publiccode.asia/nl/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="/Public-Code/hu/openletter/"
+                href="/publiccode.asia/hu/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/publiccode.asia/tr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publiccode.asia/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/openletter/"
+                href="/publiccode.asia/sv/openletter/"
                 />
   </url>
   
   <url>
-    <loc>/Public-Code/sv/</loc>
+    <loc>/publiccode.asia/sv/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/"
+                hreflang="el"
+                href="/publiccode.asia/el/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/Public-Code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/Public-Code/sv/"
-                />
-  </url>
-  
-  <url>
-    <loc>/Public-Code/sv/openletter/success/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="/Public-Code/hu/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/Public-Code/fr/openletter/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/openletter/success/"
+                href="/publiccode.asia/zh_tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="/Public-Code/da/openletter/success/"
+                href="/publiccode.asia/da/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/publiccode.asia/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publiccode.asia/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publiccode.asia/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="/Public-Code/nb/openletter/success/"
+                href="/publiccode.asia/nb/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/openletter/success/"
+                hreflang="nl"
+                href="/publiccode.asia/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="/publiccode.asia/hu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/Public-Code/tr/openletter/success/"
+                href="/publiccode.asia/tr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/openletter/success/"
+                hreflang="en"
+                href="/publiccode.asia/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh_tw"
-                href="/Public-Code/zh_tw/openletter/success/"
+                hreflang="de"
+                href="/publiccode.asia/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/openletter/success/"
+                href="/publiccode.asia/sv/"
                 />
   </url>
   
   <url>
-    <loc>/Public-Code/sv/tags/</loc>
+    <loc>/publiccode.asia/sv/openletter/success/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="/publiccode.asia/nl/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/publiccode.asia/ca/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="/publiccode.asia/hu/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publiccode.asia/fr/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publiccode.asia/pt/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="/publiccode.asia/da/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb"
+                href="/publiccode.asia/nb/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publiccode.asia/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/publiccode.asia/tr/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="/publiccode.asia/el/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/publiccode.asia/zh_tw/openletter/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/publiccode.asia/sv/openletter/success/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publiccode.asia/sv/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/Public-Code/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="/Public-Code/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/Public-Code/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="/Public-Code/da/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/Public-Code/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="/Public-Code/ca/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/Public-Code/de/tags/"
+                hreflang="el"
+                href="/publiccode.asia/el/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/tags/"
+                href="/publiccode.asia/zh_tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nb"
-                href="/Public-Code/nb/tags/"
+                hreflang="da"
+                href="/publiccode.asia/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/Public-Code/tr/tags/"
+                hreflang="ca"
+                href="/publiccode.asia/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/Public-Code/eo/tags/"
+                hreflang="pt"
+                href="/publiccode.asia/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/publiccode.asia/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/Public-Code/fr/tags/"
+                href="/publiccode.asia/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/Public-Code/tags/"
+                hreflang="nb"
+                href="/publiccode.asia/nb/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="el"
-                href="/Public-Code/el/tags/"
+                hreflang="nl"
+                href="/publiccode.asia/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="/Public-Code/hu/tags/"
+                href="/publiccode.asia/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/publiccode.asia/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publiccode.asia/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/publiccode.asia/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publiccode.asia/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publiccode.asia/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/tags/"
+                href="/publiccode.asia/sv/tags/"
                 />
   </url>
   
   <url>
-    <loc>/Public-Code/sv/openletter/</loc>
+    <loc>/publiccode.asia/sv/openletter/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/Public-Code/tr/openletter/"
+                href="/publiccode.asia/tr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/Public-Code/pt/openletter/"
+                href="/publiccode.asia/pt/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/Public-Code/es/openletter/"
+                href="/publiccode.asia/es/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/Public-Code/ca/openletter/"
+                href="/publiccode.asia/ca/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/Public-Code/it/openletter/"
+                href="/publiccode.asia/it/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/Public-Code/fr/openletter/"
+                href="/publiccode.asia/fr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="/Public-Code/hu/openletter/"
+                href="/publiccode.asia/hu/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/Public-Code/de/openletter/"
+                href="/publiccode.asia/de/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/Public-Code/nl/openletter/"
+                href="/publiccode.asia/nl/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/Public-Code/openletter/"
+                href="/publiccode.asia/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/Public-Code/eo/openletter/"
+                href="/publiccode.asia/eo/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="/Public-Code/da/openletter/"
+                href="/publiccode.asia/da/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nb"
-                href="/Public-Code/nb/openletter/"
+                href="/publiccode.asia/nb/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="/Public-Code/el/openletter/"
+                href="/publiccode.asia/el/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/Public-Code/zh_tw/openletter/"
+                href="/publiccode.asia/zh_tw/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/Public-Code/sv/openletter/"
+                href="/publiccode.asia/sv/openletter/"
                 />
   </url>
   

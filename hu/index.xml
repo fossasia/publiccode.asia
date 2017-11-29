@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Money, Public Code</title>
-    <link>/Public-Code/hu/</link>
+    <link>/publiccode.asia/hu/</link>
     <description>Recent content on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     
-	<atom:link href="/Public-Code/hu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publiccode.asia/hu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adatvédelmi nyilatkozat</title>
-      <link>/Public-Code/hu/privacy/</link>
+      <link>/publiccode.asia/hu/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/privacy/</guid>
+      <guid>/publiccode.asia/hu/privacy/</guid>
       <description>A publiccode.eu oldalt az FSFE e.V. üzemelteti. A nyilatkozatban &amp;ldquo;mi&amp;rdquo; alatt az FSFE-t értjük.
 Milyen adatokat gyűjtünk és miért Nyílt levelünk aláírásakor elkérjük és az aláíró hozzájárulásával a kampány idejére tároljuk, az aláíró nevét, email címét, és országát.
 Az aláírók listájában közzétesszük azon aláíró nevét, akik ehhez hozzájárultak. Az aláírók nevét és országát eljuttatjuk a nyílt levél címzettjeinek (az Európai Parlament és a nemzeti vagy regionális parlamentek képviselőinek). Az email címeket harmadik félnek nem adjuk ki.</description>
@@ -23,10 +23,10 @@ Az aláírók listájában közzétesszük azon aláíró nevét, akik ehhez hoz
     
     <item>
       <title>Köszönjük a támogatást!</title>
-      <link>/Public-Code/hu/openletter/success/</link>
+      <link>/publiccode.asia/hu/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/success/</guid>
+      <guid>/publiccode.asia/hu/openletter/success/</guid>
       <description>Az aláírásod meg lett erősítve! Köszönjük, hogy aláírtad a &amp;ldquo;Public Money, Public Code&amp;rdquo; nyílt levelünket. A támogatásod sokat jelet számunkra.
 Ha hozzájárultál, hogy közzétegyük a nevedet a nyilvános aláírók listáján, akkor azt a következő órában meg fogjuk tenni. Ha hozzájárultál, hogy tájékoztassunk a kampány alakulásáról, akkor emailben értesíteni fogunk a kampánnyal kapcsolatos fejleményekről.
 Következő lépések Kérünk segíts, hogy aláírásodnak minél nagyobb hatása legyen és oszd meg ezt a kampányt barátaiddal ismerőseiddel.</description>
@@ -34,20 +34,20 @@ Következő lépések Kérünk segíts, hogy aláírásodnak minél nagyobb hat�
     
     <item>
       <title>Majdnem kész...</title>
-      <link>/Public-Code/hu/openletter/confirm/</link>
+      <link>/publiccode.asia/hu/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/confirm/</guid>
+      <guid>/publiccode.asia/hu/openletter/confirm/</guid>
       <description>Nézd meg az email fiókod Már majdnem kész vagy! Hamarosan kapni fogsz egy e-mailt, amiben lévő hivatkozással tudod hitelesíteni az aláírásod. Ha 15 precen belűl nem kapsz emailt, kérünk nézd meg a spam könyvtáradat is.
 Köszönjük, hogy aláírtad a Public Money, Public Code nyílt levelünket.</description>
     </item>
     
     <item>
       <title>Nyilvános aláírók</title>
-      <link>/Public-Code/hu/openletter/all-signatures/</link>
+      <link>/publiccode.asia/hu/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/all-signatures/</guid>
+      <guid>/publiccode.asia/hu/openletter/all-signatures/</guid>
       <description>Ez a teljes listája azoknak, akik aláírták nyílt levelünket és hozzájárultak, hogy nevüket közzétegyük. 11 részben már kifejezték a támogatásukat – köztük vagy már Te is?
 A lista óránként firssül.
   Név Ország Megjegyzés      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
@@ -55,10 +55,10 @@ A lista óránként firssül.
     
     <item>
       <title>Nyílt levél</title>
-      <link>/Public-Code/hu/openletter/</link>
+      <link>/publiccode.asia/hu/openletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/</guid>
+      <guid>/publiccode.asia/hu/openletter/</guid>
       <description>A közpénzen finanszírozott szoftverek Szabad Szoftvereknek kellene lenniük. Annak ellenére, hogy emellett rengeteg jó érv van, sok politikus egyenlőre nem is hallott róluk.
 A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.
  Ebben segíthetsz! Írd alá a nyílt levelünket, hogy az üzenetünknek nagyobb súlya legyen.</description>

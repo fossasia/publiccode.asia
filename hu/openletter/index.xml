@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openletters on Public Money, Public Code</title>
-    <link>/Public-Code/hu/openletter/</link>
+    <link>/publiccode.asia/hu/openletter/</link>
     <description>Recent content in Openletters on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     
-	<atom:link href="/Public-Code/hu/openletter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publiccode.asia/hu/openletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Köszönjük a támogatást!</title>
-      <link>/Public-Code/hu/openletter/success/</link>
+      <link>/publiccode.asia/hu/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/success/</guid>
+      <guid>/publiccode.asia/hu/openletter/success/</guid>
       <description>Az aláírásod meg lett erősítve! Köszönjük, hogy aláírtad a &amp;ldquo;Public Money, Public Code&amp;rdquo; nyílt levelünket. A támogatásod sokat jelet számunkra.
 Ha hozzájárultál, hogy közzétegyük a nevedet a nyilvános aláírók listáján, akkor azt a következő órában meg fogjuk tenni. Ha hozzájárultál, hogy tájékoztassunk a kampány alakulásáról, akkor emailben értesíteni fogunk a kampánnyal kapcsolatos fejleményekről.
 Következő lépések Kérünk segíts, hogy aláírásodnak minél nagyobb hatása legyen és oszd meg ezt a kampányt barátaiddal ismerőseiddel.</description>
@@ -23,20 +23,20 @@ Következő lépések Kérünk segíts, hogy aláírásodnak minél nagyobb hat�
     
     <item>
       <title>Majdnem kész...</title>
-      <link>/Public-Code/hu/openletter/confirm/</link>
+      <link>/publiccode.asia/hu/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/confirm/</guid>
+      <guid>/publiccode.asia/hu/openletter/confirm/</guid>
       <description>Nézd meg az email fiókod Már majdnem kész vagy! Hamarosan kapni fogsz egy e-mailt, amiben lévő hivatkozással tudod hitelesíteni az aláírásod. Ha 15 precen belűl nem kapsz emailt, kérünk nézd meg a spam könyvtáradat is.
 Köszönjük, hogy aláírtad a Public Money, Public Code nyílt levelünket.</description>
     </item>
     
     <item>
       <title>Nyilvános aláírók</title>
-      <link>/Public-Code/hu/openletter/all-signatures/</link>
+      <link>/publiccode.asia/hu/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/hu/openletter/all-signatures/</guid>
+      <guid>/publiccode.asia/hu/openletter/all-signatures/</guid>
       <description>Ez a teljes listája azoknak, akik aláírták nyílt levelünket és hozzájárultak, hogy nevüket közzétegyük. 11 részben már kifejezték a támogatásukat – köztük vagy már Te is?
 A lista óránként firssül.
   Név Ország Megjegyzés      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>

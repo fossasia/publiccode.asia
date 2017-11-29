@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Money, Public Code</title>
-    <link>/Public-Code/zh_tw/</link>
+    <link>/publiccode.asia/zh_tw/</link>
     <description>Recent content on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_tw</language>
     
-	<atom:link href="/Public-Code/zh_tw/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publiccode.asia/zh_tw/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>公開信</title>
-      <link>/Public-Code/zh_tw/openletter/</link>
+      <link>/publiccode.asia/zh_tw/openletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/zh_tw/openletter/</guid>
+      <guid>/publiccode.asia/zh_tw/openletter/</guid>
       <description> 以人民納稅錢所購置的軟體，必須是自由暨開源軟體。理由有很多也很充分，只可惜現在有許多政治人物對此還沒有概念。
 自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。
  您可以協助將這樣的觀念傳播出去！請在我們的公開信中連署，簽上您的名字；隨同先前已連署的 11 位個人與 100 個組織，能讓我們的訊息有更大的力量。我們會將這封公開信與民眾的連署交給您的立委與議員，讓他們瞭解：拿人民的納稅錢？就該做公開透明的資訊系統！
@@ -29,10 +29,10 @@
     
     <item>
       <title>公開連署名單</title>
-      <link>/Public-Code/zh_tw/openletter/all-signatures/</link>
+      <link>/publiccode.asia/zh_tw/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/zh_tw/openletter/all-signatures/</guid>
+      <guid>/publiccode.asia/zh_tw/openletter/all-signatures/</guid>
       <description>這裡是所有已簽名連署並且願意公開姓名的名單。現在已經有 11 個人表達他們的支持了 &amp;ndash; 您在名單中嗎？
 這份名單每小時會更新一次。
   姓名 國家 想說的話      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max! Lets see if this works, AGAIN! With timestamp.   Test Testson Sweden Hey Max!</description>
@@ -40,20 +40,20 @@
     
     <item>
       <title>快完成了...</title>
-      <link>/Public-Code/zh_tw/openletter/confirm/</link>
+      <link>/publiccode.asia/zh_tw/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/zh_tw/openletter/confirm/</guid>
+      <guid>/publiccode.asia/zh_tw/openletter/confirm/</guid>
       <description>請再次檢查您的電子郵件地址 您就快完成連署了！您將會接到一封電子郵件，裡面會有做最終確認的連結，點擊它即完成確認。如果您 15 分鐘後還是沒收到信，請看一下確認信是否被誤丟到您的垃圾信件匣中了。
 感謝您的連署支持！</description>
     </item>
     
     <item>
       <title>感謝您參與連署！</title>
-      <link>/Public-Code/zh_tw/openletter/success/</link>
+      <link>/publiccode.asia/zh_tw/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/zh_tw/openletter/success/</guid>
+      <guid>/publiccode.asia/zh_tw/openletter/success/</guid>
       <description>您已確認參與連署 感謝您連署「拿人民的納稅錢？就該做公開透明的資訊系統！」公開信。您的支持對我們有極大的意義。
 如果您選擇將您的姓名公開，那麼您的姓名很快將會被列在連署名單中。如果您選擇繼續接收此活動的後續消息，我們會將最新的進展透過電子郵件發送給您。
 下一步 請幫我們將此活動分享給大家。我們也鼓勵您將此公開信分享給您選區的立委與議員，或任何有相關決策權的政府官員。
@@ -64,10 +64,10 @@
     
     <item>
       <title>隱私政策</title>
-      <link>/Public-Code/zh_tw/privacy/</link>
+      <link>/publiccode.asia/zh_tw/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/zh_tw/privacy/</guid>
+      <guid>/publiccode.asia/zh_tw/privacy/</guid>
       <description>本網站 publiccode.eu 是由 FSFE e.V. （歐洲自由軟體基金會）所營運。此政策中的「我們」指的就是 FSFE。
 我們收集什麼資料，又是為什麼收集 當您使用本站台參與連署我們的公開信時，我們會收集並儲存您的姓名、 電子郵件地址與所屬國家，也就是您自願提供的這些資料。在您同意的情 況下，我們會將您的姓名公開在連署名單中。 我們也會在遞交此公開信（給歐洲議會議員或其他國家的國會議員）時，一併 將您的姓名與國家附上。我們不會將您的電子郵件地址附上或公開。在此 活動其間，您的電子郵件地址將被儲存在我們的資料庫中，活動結束後會 全部刪除。
 如果您願意繼續接收此活動的後續消息，我們會使用您提供的電子郵件地址 將相關消息傳遞給您。

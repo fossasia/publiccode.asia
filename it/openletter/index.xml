@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openletters on Public Money, Public Code</title>
-    <link>/Public-Code/it/openletter/</link>
+    <link>/publiccode.asia/it/openletter/</link>
     <description>Recent content in Openletters on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-	<atom:link href="/Public-Code/it/openletter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publiccode.asia/it/openletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Grazie per aver firmato!</title>
-      <link>/Public-Code/it/openletter/success/</link>
+      <link>/publiccode.asia/it/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/it/openletter/success/</guid>
+      <guid>/publiccode.asia/it/openletter/success/</guid>
       <description>La tua firma è stata confermata Grazie per aver firmato la lettera aperta &amp;ldquo;Public Money, Public Code&amp;rdquo;. Il tuo supporto significa molto per noi.
 Se hai autorizzato l&amp;rsquo;aggiunta del tuo nome all&amp;rsquo;elenco pubblico dei firmatari, apparirà nell&amp;rsquo;elenco di firme entro la prossima ora. Se ha autorizzato la richiesta di ricevere ulteriori informazioni, ti manterremo informato sulle notizie concernenti questa campagna via email.
 Prossimi passi Per favore aiutaci dando alla tua firma un grande impatto condividendo questa campagna con i tuoi amici.</description>
@@ -23,20 +23,20 @@ Prossimi passi Per favore aiutaci dando alla tua firma un grande impatto condivi
     
     <item>
       <title>Quasi fatto...</title>
-      <link>/Public-Code/it/openletter/confirm/</link>
+      <link>/publiccode.asia/it/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/it/openletter/confirm/</guid>
+      <guid>/publiccode.asia/it/openletter/confirm/</guid>
       <description>Ora controlla la tua casella di posta elettronica Hai quasi finito! Riceverai presto una email con un link per la conferma finale della tua firma. Controlla nella tua cartella dello spam se non ricevi l&amp;rsquo;email nei prossimi 15 minuti.
 Grazie per aver firmato la lettera aperta per Public Money, Public Code.</description>
     </item>
     
     <item>
       <title>Tutti i firmatari pubblici</title>
-      <link>/Public-Code/it/openletter/all-signatures/</link>
+      <link>/publiccode.asia/it/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/Public-Code/it/openletter/all-signatures/</guid>
+      <guid>/publiccode.asia/it/openletter/all-signatures/</guid>
       <description>Questa è la lista completa di tutte le persone che hanno firmato la lettera aperta ed hanno acconsentito a render pubblico il loro nome. 11 persone hanno già espresso il loro supporto, sei uno di loro?
 Questa lista è aggiornata ogni ora.
   Nome Nazione Commento      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
