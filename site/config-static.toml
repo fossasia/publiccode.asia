@@ -1,4 +1,4 @@
-baseurl = "https://publiccode.eu"
+baseurl = "/Public-Code"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
