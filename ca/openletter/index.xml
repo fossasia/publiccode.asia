@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openletters on Public Money, Public Code</title>
-    <link>/publiccode.asia/ca/openletter/</link>
+    <link>/ca/openletter/</link>
     <description>Recent content in Openletters on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     
-	<atom:link href="/publiccode.asia/ca/openletter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ca/openletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gairebé heu acabat...</title>
-      <link>/publiccode.asia/ca/openletter/confirm/</link>
+      <link>/ca/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/ca/openletter/confirm/</guid>
+      <guid>/ca/openletter/confirm/</guid>
       <description>Comproveu ara la vostra bústia de correu electrònic Gairebé heu acabat! Rebreu aviat un correu electrònic amb un enllaç per fer la confirmació final de la signatura. Si us plau, comproveu la carpeta de correu brossa si no rebeu el correu en els següents 15 minuts.
 Gràcies per signar la carta oberta per Public Money, Public Code.</description>
     </item>
     
     <item>
       <title>Gràcies per signar!</title>
-      <link>/publiccode.asia/ca/openletter/success/</link>
+      <link>/ca/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/ca/openletter/success/</guid>
+      <guid>/ca/openletter/success/</guid>
       <description>S&amp;rsquo;ha confirmat la vostra signatura Moltes gràcies per signar la carta oberta &amp;ldquo;Public Money, Public Code&amp;rdquo;. El vostre suport significa molt per a nosaltres.
 Si heu optat per afegir el nom a la llista pública, el vostre nom apareixerà a la llista de signatures en la pròxima hora. Si heu optat per rebre més informació, us mantindrem informats sobre les notícies relatives a aquesta campanya per correu electrònic.
 Passos següents Si us plau, ajudeu-nos a donar a la vostra signatura un gran impacte i compartiu aquesta campanya amb els vostres amics.</description>
@@ -33,10 +33,10 @@ Passos següents Si us plau, ajudeu-nos a donar a la vostra signatura un gran im
     
     <item>
       <title>Totes les signatures públiques</title>
-      <link>/publiccode.asia/ca/openletter/all-signatures/</link>
+      <link>/ca/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/ca/openletter/all-signatures/</guid>
+      <guid>/ca/openletter/all-signatures/</guid>
       <description>Aquesta és la llista completa de les persones que han signat la carta oberta i ens han permès fer públics els seus noms. 11 persones ja ens han donat el seu suport. Sou un d&amp;rsquo;ells?
 Aquesta llista s&amp;rsquo;actualitza cada hora.
   Nom País Comentari      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Public Money, Public Code</title>
-    <link>/publiccode.asia/it/tags/</link>
+    <link>/it/tags/</link>
     <description>Recent content in Tags on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     
-	<atom:link href="/publiccode.asia/it/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

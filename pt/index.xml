@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Money, Public Code</title>
-    <link>/publiccode.asia/pt/</link>
+    <link>/pt/</link>
     <description>Recent content on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     
-	<atom:link href="/publiccode.asia/pt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Carta Aberta</title>
-      <link>/publiccode.asia/pt/openletter/</link>
+      <link>/pt/openletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/pt/openletter/</guid>
+      <guid>/pt/openletter/</guid>
       <description>Software financiado por fundos públicos deverá ser Software Livre e de Fonte Aberta. Se bem que hajam muitas boas razões para isso, a verdade é que muitos políticos ainda não têm consciência da importância do software.
 Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software. Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade.
  É aí que você pode ajudar!</description>
@@ -23,20 +23,20 @@ Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melho
     
     <item>
       <title>Está quase...</title>
-      <link>/publiccode.asia/pt/openletter/confirm/</link>
+      <link>/pt/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/pt/openletter/confirm/</guid>
+      <guid>/pt/openletter/confirm/</guid>
       <description>Verifique a sua caixa de correio eletrónico Está quase! Receberá em breve um e-mail com um link para a confirmação da sua assinatura. Por favor, verifique a pasta de spam se não receber o e-mail nos próximos 15 minutos.
 Obrigado por ter assinado a carta aberta para a campanha Dinheiro Público, Código Público&amp;rdquo;&amp;ldquo;.</description>
     </item>
     
     <item>
       <title>Obrigado por assinar!</title>
-      <link>/publiccode.asia/pt/openletter/success/</link>
+      <link>/pt/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/pt/openletter/success/</guid>
+      <guid>/pt/openletter/success/</guid>
       <description>A sua assinatura foi confirmada Obrigado por ter assinado a carta aberta &amp;ldquo;Dinheiro Público, Código Público&amp;rdquo;. O seu suporte significa muito para nós.
 Se optou por ter o seu nome publicado, ele arecerá na lista de signatários na próxima hora. Se optou por receber mais informação sobre a campanha, mante-lo-emos informado de notícias relacionadas com a campanha via e-mail.
 Próximos Passos Por favor, ajude-nos a fazer com que a sua assinatura tenha mais impacto e partilhe esta campanha com os seus amigos.</description>
@@ -44,20 +44,20 @@ Próximos Passos Por favor, ajude-nos a fazer com que a sua assinatura tenha mai
     
     <item>
       <title>Política de Privacidade</title>
-      <link>/publiccode.asia/pt/privacy/</link>
+      <link>/pt/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/pt/privacy/</guid>
+      <guid>/pt/privacy/</guid>
       <description>O web site publiccode.eu é gerido por FSFE e.V. Nesta licença quando nos referimos a &amp;ldquo;nós&amp;rdquo;, queremos dizer a FSFE.
 O que recolhemos e porquê Quando utiliza o site para assinar a nossa carta aberta, recolhemos e armazenamos informação sobre o seu nome, endereço de e-mail e país que nos forneceu com o seu consentimento. Pubicaremos o seu nome enquanto signatário se consentiu em ter o seu nome publicado enquanto signatário da carta aberta na lista de signatários.</description>
     </item>
     
     <item>
       <title>Todas as Assinaturas Públicas</title>
-      <link>/publiccode.asia/pt/openletter/all-signatures/</link>
+      <link>/pt/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/pt/openletter/all-signatures/</guid>
+      <guid>/pt/openletter/all-signatures/</guid>
       <description>Isto é a lista completa de todas as pessoas que assinaram a carta aberta e concordaram que o seu nome fosse publicado. 11 pessoas já apoiam a campanha – também já assinou?
 A lista é atualizada todas as horas.
   Nome País Comentário      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>

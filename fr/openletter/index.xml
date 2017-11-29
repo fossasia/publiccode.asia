@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openletters on Public Money, Public Code</title>
-    <link>/publiccode.asia/fr/openletter/</link>
+    <link>/fr/openletter/</link>
     <description>Recent content in Openletters on Public Money, Public Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="/publiccode.asia/fr/openletter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/openletter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Merci d&#39;avoir signé !</title>
-      <link>/publiccode.asia/fr/openletter/success/</link>
+      <link>/fr/openletter/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/fr/openletter/success/</guid>
+      <guid>/fr/openletter/success/</guid>
       <description>Votre signature est confirmée Merci d&amp;rsquo;avoir signé la lettre ouverte &amp;ldquo;Argent public, Code public&amp;rdquo;. Votre soutien est important pour nous.
 Si vous avez accepté que votre nom soit inscrit sur la liste publique, celui-ci apparaîtra sur la liste des signatures dans l&amp;rsquo;heure qui vient. Si vous avez choisi de recevoir davantage d&amp;rsquo;informations, nous vous tiendrons au courant des nouvelles de la campagne par e-mail.
 Prochaines étapes Aidez-nous en donnant à votre signature un énorme impact et en partageant cette campagne autour de vous.</description>
@@ -23,20 +23,20 @@ Prochaines étapes Aidez-nous en donnant à votre signature un énorme impact et
     
     <item>
       <title>On y est presque...</title>
-      <link>/publiccode.asia/fr/openletter/confirm/</link>
+      <link>/fr/openletter/confirm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/fr/openletter/confirm/</guid>
+      <guid>/fr/openletter/confirm/</guid>
       <description>Veuillez vérifier votre boite de réception maintenant Vous avez presque fini ! Vous allez bientôt recevoir un e-mail avec un lien pour la confirmation définitive de votre signature. Veuillez consulter votre dossier de spam si vous ne recevez pas l&amp;rsquo;e-mail dans les 15 prochaines minutes.
 Merci d&amp;rsquo;avoir signé la la lettre ouverte pour Argent public, Code public.</description>
     </item>
     
     <item>
       <title>Toutes les signatures publiées</title>
-      <link>/publiccode.asia/fr/openletter/all-signatures/</link>
+      <link>/fr/openletter/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publiccode.asia/fr/openletter/all-signatures/</guid>
+      <guid>/fr/openletter/all-signatures/</guid>
       <description>Ceci est la liste complète de toutes les personnes qui ont signé la lettre ouverte et accepté que leur nom soit publié. 11 personnes ont déjà exprimé leur soutien - êtes-vous l&amp;rsquo;une d&amp;rsquo;entre elles ?
 Cette liste est mise à jour toutes les heures.
   Nom Pays Commentaire      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
