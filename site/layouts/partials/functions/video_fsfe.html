@@ -3,25 +3,25 @@
   {{ $.Scratch.Add "langext" (printf "_%s" .Lang) }}
 {{ end }}
 <center>
-  <video controls="controls" poster="/img/poster.jpg" crossorigin="crossorigin" width="100%">
+  <video controls="controls" poster="{{ "/img/poster.jpg"| absURL }}" crossorigin="crossorigin" width="100%">
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_desktop.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (min-device-width:1000px)" />
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_desktop.webm" type='video/webm; codecs="vp9, opus"' media="screen and (min-device-width:1000px)" />
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_mobile.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (max-device-width:999px)" />
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_mobile.webm" type='video/webm; codecs="vp9, opus"' media="screen and (max-device-width:999px)" />
     
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_en.vtt" kind="subtitles" srclang="en" label="English">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_de.vtt" kind="subtitles" srclang="de" label="Deutsch">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_es.vtt" kind="subtitles" srclang="es" label="Español">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_eo.vtt" kind="subtitles" srclang="eo" label="Esperanto">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_fr.vtt" kind="subtitles" srclang="fr" label="Français">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_hu.vtt" kind="subtitles" srclang="hu" label="Magyar">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_it.vtt" kind="subtitles" srclang="it" label="Italiano">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_nl.vtt" kind="subtitles" srclang="nl" label="Nederlands">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_nb.vtt" kind="subtitles" srclang="nb" label="Norsk (bokmål)">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_pt.vtt" kind="subtitles" srclang="pt" label="Português">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_sk.vtt" kind="subtitles" srclang="sk" label="Slovenský">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_sv.vtt" kind="subtitles" srclang="sv" label="Svenska">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_tr.vtt" kind="subtitles" srclang="tr" label="Türkçe">
-    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_zh.vtt" kind="subtitles" srclang="zh" label="正體中文（臺灣）">
+    <track src="{{ "video-subs/webvtt/pmpc_en.vtt"| absURL }}" kind="subtitles" srclang="en" label="English">
+    <track src="{{ "video-subs/webvtt/pmpc_de.vtt"| absURL }}" kind="subtitles" srclang="de" label="Deutsch">
+    <track src="{{ "video-subs/webvtt/pmpc_es.vtt"| absURL }}" kind="subtitles" srclang="es" label="Español">
+    <track src="{{ "video-subs/webvtt/pmpc_eo.vtt"| absURL }}" kind="subtitles" srclang="eo" label="Esperanto">
+    <track src="{{ "video-subs/webvtt/pmpc_fr.vtt"| absURL }}" kind="subtitles" srclang="fr" label="Français">
+    <track src="{{ "video-subs/webvtt/pmpc_hu.vtt"| absURL }}" kind="subtitles" srclang="hu" label="Magyar">
+    <track src="{{ "video-subs/webvtt/pmpc_it.vtt"| absURL }}" kind="subtitles" srclang="it" label="Italiano">
+    <track src="{{ "video-subs/webvtt/pmpc_nl.vtt"| absURL }}" kind="subtitles" srclang="nl" label="Nederlands">
+    <track src="{{ "video-subs/webvtt/pmpc_nb.vtt"| absURL }}" kind="subtitles" srclang="nb" label="Norsk (bokmål)">
+    <track src="{{ "video-subs/webvtt/pmpc_pt.vtt"| absURL }}" kind="subtitles" srclang="pt" label="Português">
+    <track src="{{ "video-subs/webvtt/pmpc_sk.vtt"| absURL }}" kind="subtitles" srclang="sk" label="Slovenský">
+    <track src="{{ "video-subs/webvtt/pmpc_sv.vtt"| absURL }}" kind="subtitles" srclang="sv" label="Svenska">
+    <track src="{{ "video-subs/webvtt/pmpc_tr.vtt"| absURL }}" kind="subtitles" srclang="tr" label="Türkçe">
+    <track src="{{ "video-subs/webvtt/pmpc_zh.vtt"| absURL }}" kind="subtitles" srclang="zh" label="正體中文（臺灣）">
   </video>
 </center>
