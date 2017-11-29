@@ -1,4 +1,4 @@
-# == NEDERLANDS ==
+# == TIẾNG VIỆT ==
 
 # General strings
 [Languages.vi]
@@ -13,8 +13,8 @@
 
 
 # Navigation
-[Languages.nl.navigation]
-[Languages.nl.navigation.links]
+[Languages.vi.navigation]
+[Languages.vi.navigation.links]
   # start     = "Start"
   # about     = "About"
   # arguments = "Reasons"
@@ -28,7 +28,7 @@
 
 
 # Start banner
-[Languages.nl.start]
+[Languages.vi.start]
   # subtitle1   = "Why is software created using taxpayers' money not released as Free Software?"
   # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
   # subtitle3   = "**Code paid by the people should be available to the people!**" 
@@ -38,7 +38,7 @@
 
 
 # About section
-[Languages.nl.about]
+[Languages.vi.about]
   # headline    = "Sound complicated? It's not. It's super easy!"
   # buttonText  = "More advantages"
   headline    = "Klinkt ingewikkeld? Nee, het is heel simpel!"
@@ -46,35 +46,35 @@
 
 
 # Arguments section
-[Languages.nl.arguments]
+[Languages.vi.arguments]
   # headline    = "Reasons for Public Code"
   # followup    = "Do you believe that Free Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
   # buttonText  = "Sign the Open Letter"
   headline    = "Redenen voor Publieke Code"
   followup    = "Gelooft u dat Vrije Software de standaardoptie zou moeten zijn voor publiek gefinancieerde software?  **Laten we onze politieke vertegenwoordigers overtuigen!**"
   buttonText  = "Onderteken de Open Brief"
-[[Languages.nl.arguments.list]]
+[[Languages.vi.arguments.list]]
   # icon        = "fa-eur"
   # title       = "Tax savings"
   # description = "Similar applications don't have to be programmed from scratch every time."
   icon        = "fa-eur"  # <-- do not translate this
   title       = "Besparen op belastingen"
   description = "Soortgelijke toepassingen hoeven niet opnieuw van de grond af ontwikkeld te worden."
-[[Languages.nl.arguments.list]]
+[[Languages.vi.arguments.list]]
   # icon        = "fa-handshake-o"
   # title       = "Collaboration"
   # description = "Efforts on major projects can share expertise and costs."  
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Samenwerking"
   description = "Grote projecten kunnen samenwerken om expertise en kosten te delen."
-[[Languages.nl.arguments.list]]
+[[Languages.vi.arguments.list]]
   # icon        = "fa-users"
   # title       = "Serving the public"
   # description = "Applications paid by the public should be available for everyone."
   icon        = "fa-users"  # <-- do not translate this
   title       = "Algemeen belang"
   description = "Programma's betaald door het publiek zouden voor iedereen beschikbaar moeten zijn."
-[[Languages.nl.arguments.list]]
+[[Languages.vi.arguments.list]]
   # icon        = "fa-lightbulb-o"
   # title       = "Fostering innovation"
   # description = "With transparent processes, others don't have to reinvent the wheel."
@@ -84,7 +84,7 @@
 
 
 # Action section
-[Languages.nl.action]
+[Languages.vi.action]
   # headline      = "Tell Your Representatives!"
   # intro         = "In our [**open letter**](openletter/) we demand:" 
   # demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"
@@ -95,11 +95,11 @@
   demand        = "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
   description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in overheden."
 
-[Languages.nl.action.box]
+[Languages.vi.action.box]
   # text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
   text      = "Al **$INDS HANDTEKENINGEN** – Onderteken de Open Brief nu!"
 
-[Languages.nl.action.form]
+[Languages.vi.action.form]
   # name      = "Name (required)"
   # email     = "Email (required)"
   # country   = "Your Country"
@@ -121,7 +121,7 @@
 
 
 # Organisations section
-[Languages.nl.organisations]
+[Languages.vi.organisations]
   # headline  = "Supporting Organisations"
   # text      = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
   headline  = "Ondersteunende organisaties"
@@ -129,7 +129,7 @@
 
 
 # Spread the word section
-[Languages.nl.spread]
+[Languages.vi.spread]
   # headline          = "Spread the word!"
   # promoText         = "Order the latest stickers and flyers from FSFE"
   # promoButtonText   = "Get promo material"
@@ -143,7 +143,7 @@
 
 
 # Legal Section
-[Languages.nl.legal]
+[Languages.vi.legal]
   # by            = "This is a campaign by Free Software Foundation Europe"
   # imprint       = "Imprint"
   # privacy       = "Privacy"
@@ -161,13 +161,13 @@
 
 
 # Language selection
-[Languages.nl.language]
+[Languages.vi.language]
   # description = "Read this page in another language"
   description = "Lees deze pagina in een andere taal"
 
 
 # 404 Error Page
-[Languages.nl.error]
+[Languages.vi.error]
   # headline    = "Error 404 - Page not found"
   # description = "The page you're looking for does not exist."
   # button      = "Back to start page"
@@ -177,8 +177,8 @@
 
 
 # Specific sub-pages
-[Languages.nl.subpage]
-[Languages.nl.subpage.signatures]
+[Languages.vi.subpage]
+[Languages.vi.subpage.signatures]
   # headline      = "Individual Open Letter Signatures"
   # description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
   # allSignatures = "See [all public signatures](all-signatures/)."
