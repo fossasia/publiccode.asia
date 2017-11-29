@@ -86,8 +86,8 @@
 # Spread the word section
 [Languages.en.spread]
   headline          = "Spread the word!"
-  promoText         = "Order the latest stickers and flyers from FSFE"
-  promoButtonText   = "Get promo material"
+  promoText         = "Get stickers and flyers from FOSSASIA"
+  promoButtonText   = "Download Info Material"
   shareText         = "Tell your friends and followers about Public Code:"
   defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 
