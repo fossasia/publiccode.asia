@@ -29,20 +29,20 @@ git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean out existing contents
-echo pwd: $(pwd) ls out:
-ls out
 rm -rf out/*
-echo pwd: $(pwd) ls out: \(rm executed\)
-ls out
-echo pwd: $(pwd) ls: 
-ls
 cd ..
-echo pwd: $(pwd) ls:
-ls
 # Run our compile script
 doCompile
+echo so looks site/out right now 
+ls site/out
 cp -r site/public/* site/out
+echo cp -r site/public/* site/out 
+echo so looks site/out right now 
+ls site/out
 cp -r site/static/* site/out
+echo cp -r site/static/* site/out
+echo so looks site/out right now 
+ls site/out
 # Now let's go have some fun with the cloned repo
 cd site/out/
 git config user.name "Travis CI"
