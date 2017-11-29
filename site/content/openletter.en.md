@@ -31,4 +31,4 @@ This is where you can help! Sign the open letter to give our message more weight
 > 
 > **"Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy."
+[fs]: https://en.wikipedia.org/wiki/Free_and_open-source_software
