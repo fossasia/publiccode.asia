@@ -1,4 +1,4 @@
-baseurl = "/publiccode.asia/"
+baseurl = "/publiccode.asia"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
