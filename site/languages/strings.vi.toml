@@ -1,13 +1,13 @@
 # == NEDERLANDS ==
 
 # General strings
-[Languages.nl]
+[Languages.vi]
   # languageCode  = "en"
   # languageName  = "English"
   # description   = "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
   # fsdefinition  = "Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy."
-  languageCode  = "nl"  # 2-letter code of language (ISO 639-1)
-  languageName  = "Nederlands"  # verbose name of language (e.g. "Français" or "Русский")
+  languageCode  = "vi"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Tiếng Việt"  # verbose name of language (e.g. "Français" or "Русский")
   description   = "Public Geld, Publieke Code - Een campagne om publiek gefinancieerde software uit te brengen als Vrije Software"
   fsdefinition  = "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."
 

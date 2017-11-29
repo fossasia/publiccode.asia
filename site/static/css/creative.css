@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #006d9e;
+    color: #9e0000;
     text-decoration: none;
 }
 
@@ -221,7 +221,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #2093C4;
+        color: #6b6b6b;
     }
 }
 
