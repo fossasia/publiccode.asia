@@ -4,7 +4,7 @@ type: "page"
 layout: "subpage"
 ---
 
-The **publiccode.eu** web site is run by the
+The **publiccode.asia** web site is run by the
 [FOSSASIA](https://fossasia.org)
 When this policy refers to "we", this means FOSSASIA.
 
