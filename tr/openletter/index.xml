@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openletters on Public Money, Public Code</title>
+    <link>/Public-Code/tr/openletter/</link>
+    <description>Recent content in Openletters on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    
+	<atom:link href="/Public-Code/tr/openletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitmek üzere...</title>
+      <link>/Public-Code/tr/openletter/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/tr/openletter/confirm/</guid>
+      <description>Şimdi e-posta gelen kutunuza bakın Neredeyse bitti! Çok kısa bir süre içerisinde imzanızın son doğrulaması için bağlantı içeren bir e-posta alacaksınız. Eğer e-posta 15 dakika içerisinde gelmezse, lütfen istenmeyen/spam e-postalar dizinine de bakın.
+Kamusal Para, Kamusal Kod açık mektubunu imzaladığınız için teşekkür ederiz.</description>
+    </item>
+    
+    <item>
+      <title>Bütün Herkese Açık İmzalar</title>
+      <link>/Public-Code/tr/openletter/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/tr/openletter/all-signatures/</guid>
+      <description>Bu liste açık mektubu imzalayan ve isminin herkes tarafından görülmesini kabul eden kişilerin listesidir. Şimdiye kadar 11 kişi desteğini ifade etti, sen onlardan biri misin?
+Bu liste saatte bir yenilenmektedir.
+  İsim Ülke Görüş      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>İmzaladığınız için teşekkürler!</title>
+      <link>/Public-Code/tr/openletter/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/tr/openletter/success/</guid>
+      <description>İmzanız onaylandı &amp;ldquo;Kamusal Para, Kamusal Kod&amp;rdquo; açık mektubunu imzaladığınız için teşekkür ederiz. Desteğinizin anlamı büyük.
+Eğer isminizin herkese açık listede gözükmesini istediyseniz, sonraki saat içerisinde isminiz imzalayanların listesinde gözükecektir. Daha fazla bilgi almak istiyorum seçeneğini işaretlediyseniz, bu kampanyaya ilişkin haberleri e-posta aracılığıyla size ulaştırmayı sürdüreceğiz.
+Sonraki adımlar Lütfen bu kampanyayı arkadaşlarınızla paylaşın ve imzanızla güçlü bir etki sağlama konusunda bize yardımcı olun. Birlikte kamu kurumlarında ve politikada karar alıcıları yeni finanse edilen yazılımlar için Özgür ve Açık Kaynak Kodlu Yazılım lisanslarını bütün Avrupa&amp;rsquo;daki kamu sektöründe standart model yapmaları için cesaretlendireceğiz.</description>
+    </item>
+    
+  </channel>
+</rss>

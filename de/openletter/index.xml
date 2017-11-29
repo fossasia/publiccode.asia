@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openletters on Public Money, Public Code</title>
+    <link>/Public-Code/de/openletter/</link>
+    <description>Recent content in Openletters on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="/Public-Code/de/openletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alle öffentlichen Unterschriften</title>
+      <link>/Public-Code/de/openletter/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/de/openletter/all-signatures/</guid>
+      <description>Dies ist die komplette Liste aller Menschen, die den Offenen Brief unterzeichnet haben und dabei zugestimmt haben, dass ihre Namen veröffentlicht werden. 11 Menschen haben bereits ihre Unterstützung kundgetan – bist du einer von ihnen?
+Diese Liste wird stündlich aktualisiert.
+  Name Land Kommentar      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Danke für deine Unterschrift!</title>
+      <link>/Public-Code/de/openletter/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/de/openletter/success/</guid>
+      <description>Deine Unterschrift wurde bestätigt Vielen Dank für das Unterzeichnen des Offenen Briefes für &amp;ldquo;Public Money, Public Code&amp;rdquo;. Deine Unterstützung bedeutet uns viel.
+Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterschriftenliste hinzugefügt wird, wird dein Name in der Liste aller Unterschriften innerhalb der nächsten Stunde erscheinen. Wenn du dich für den Erhalt weiterer Informationen entschieden hast, werden wir dich über Neuigkeiten dieser Kampage per E-Mail auf dem Laufenden halten.</description>
+    </item>
+    
+    <item>
+      <title>Fast fertig...</title>
+      <link>/Public-Code/de/openletter/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/de/openletter/confirm/</guid>
+      <description>Schaue jetzt in dein E-Mail-Postfach Du bist fast fertig! Du wirst eine E-Mail erhalten, in der du einen Link für die abschließende Bestätigung deiner Unterschrift findest. Bitte überprüfe deinen Spam-Ordner, wenn du keine E-Mail in den nächsten 15 Minuten erhältst.
+Vielen Dank für die Unterzeichnung des Offenen Briefes für Public Money, Public Code.</description>
+    </item>
+    
+  </channel>
+</rss>

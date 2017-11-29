@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Money, Public Code</title>
+    <link>/Public-Code/nb/</link>
+    <description>Recent content on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb</language>
+    
+	<atom:link href="/Public-Code/nb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alle offentlige underskrifter</title>
+      <link>/Public-Code/nb/openletter/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/nb/openletter/all-signatures/</guid>
+      <description>Dette er den samlede listen over alle personer som har skrevet under på det åpne brevet og som har samtykket til at deres navn vises offentlig. 11 personer har allerede uttrykt sin støtte – er du en av dem?
+Listen oppdateres en gang i timen.
+  Navn Land Kommentar      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Nesten ferdig...</title>
+      <link>/Public-Code/nb/openletter/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/nb/openletter/confirm/</guid>
+      <description>Kontroller din e-post innboks nå Du er nesten ferdig! Du vil motte en e-post med en lenke for den endelige bekreftelsen på underskriften din snart. Vennligst kontroller din spam-mappe (søppelpost) om du ikke mottar e-posten innen de neste 15 minuttene.
+Takk for at du skrev under på det åpne brevet for Public Money, Public Code.</description>
+    </item>
+    
+    <item>
+      <title>Personvern</title>
+      <link>/Public-Code/nb/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/nb/privacy/</guid>
+      <description>Nettstedet publiccode.eu drives av FSFE e.V. Når disse retningslinjene referer til «vi», betyr dette FSFE.
+Hvilke data vi samler inn og hvorfor Når du bruker dette nettstedet for å signere vårt åpne brev, vil vi samle inn og lagre informasjon om ditt navn, e-postadresse og land, hvilket du har levert i fra deg med ditt samtykke. Navnet ditt vil publiseres offentlig i det åpne brevet hvis du samtykker til at navnet skal vises offentlig i listen over underskrifter.</description>
+    </item>
+    
+    <item>
+      <title>Takk for din underskrift!</title>
+      <link>/Public-Code/nb/openletter/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/nb/openletter/success/</guid>
+      <description>Underskriften din er bekreftet Takk for at du skrev under på det åpne brevet «Public Money, Public Code». Din støtte betyr mye for oss.
+Om du har valgt at navnet ditt skal vises i den offentlige listen, vil navnet ditt dukke opp i listen over underskrifter innen den neste timen. Om du har valgt å motta ytterligere informasjon, vil vi holde deg oppdatert per e-post med nyheter som vedrører denne kampanjen.</description>
+    </item>
+    
+    <item>
+      <title>Åpent brev</title>
+      <link>/Public-Code/nb/openletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/nb/openletter/</guid>
+      <description>Offentlig finansiert programvare bør være fri og åpen programvare. Selv om det er mange gode grunner til dette, er det mange politikere som ikke vet om dem enda.
+Fri programvare gir alle rett til å bruke, studere, dele og forbedre programvare. Denne retten bidrar til å støtte andre grunnleggende friheter som ytringsfrihet, pressefrihet og retten til privatliv.
+ Det er her du kan hjelpe! Skriv under på det åpne brevet for å gi budskapet vårt mer tyngde.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openletters on Public Money, Public Code</title>
+    <link>/Public-Code/el/openletter/</link>
+    <description>Recent content in Openletters on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>el</language>
+    
+	<atom:link href="/Public-Code/el/openletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Όλες οι Δημόσιες Υπογραφές</title>
+      <link>/Public-Code/el/openletter/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/el/openletter/all-signatures/</guid>
+      <description>Αυτή είναι η πλήρης λίστα των ανθρώπων που υπέγραψαν την ανοιχτή επιστολή και συμφώνησαν να είναι δημόσια τα ονόματα τους. 11 άνθρωποι έχουν εκφράσει την υποστήριξή τους ήδη – είσαι ένας/μία απ&amp;rsquo; αυτούς;
+Η λίστα ανενεώνεται κάθε ώρα.
+  Όνομα Χώρα Σχόλιο      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Ευχαριστούμε για την υπογραφή!</title>
+      <link>/Public-Code/el/openletter/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/el/openletter/success/</guid>
+      <description>Η υπογραφή σου επιβεβαιώθηκε Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή &amp;ldquo;Δημόσιο Χρήμα, Δημόσιος Κώδικας&amp;rdquo;. Η υποστήριξη σου σημαίνει πολλά για μας.
+Αν συμφώνησες να εμφανιστεί το όνομα σου στη δημόσια λίστα, το όνομα σου θα εμφανιστεί στη λίστα υπογραφών μέσα στην επόμενη ώρα. Αν συμφώνησες να λαμβάνεις επιπλέον ενημερώσεις, θα σε κρατήσουμε ενήμερο/η με νέα σχετικά με την καμπάνια αυτή μέσω email.
+Επόμενα βήματα Παρακαλούμε βοήθησε μας δίνοντας μεγαλύτερο βαρύτητα στην υπογραφή σου και μοιράζοντας την καμπάνια με τους φίλους/ες σου.</description>
+    </item>
+    
+    <item>
+      <title>Σχεδόν έτοιμος/η...</title>
+      <link>/Public-Code/el/openletter/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Public-Code/el/openletter/confirm/</guid>
+      <description>Έλεγξε το email σου τώρα Σχεδόν έτοιμος/η! Θα λάβεις ένα email με ένα σύνδεσμο για την τελική επιβεβαίωση της υπογραφής σου. Παρακαλούμε έλεγξε και τον spam φάκελο σου αν δεν λάβεις το email μέσα στα επόμενα 15 λεπτά.
+Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή για Δημόσιο Χρήμα, Δημόσιο Κώδικα.</description>
+    </item>
+    
+  </channel>
+</rss>
