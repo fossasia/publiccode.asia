@@ -30,28 +30,28 @@
 /* Single services with their colours and logos */
 .share-buttons.spread .share-diaspora {
   background-color: #404040;
-  background-image: url("/img/service-icons/diaspora_white.png");
+  background-image: url("../img/service-icons/diaspora_white.png");
 }
 .share-buttons.spread .share-diaspora:hover {
   background-color: #101010 !important;
 }
 .share-buttons.spread .share-gnusocial {
   background-color: #a22430;
-  background-image: url("/img/service-icons/gnusocial_white.png");
+  background-image: url("../img/service-icons/gnusocial_white.png");
 }
 .share-buttons.spread .share-gnusocial:hover {
   background-color: #850713 !important;
 }
 .share-buttons.spread .share-reddit {
   background-color: #ff5700;
-  background-image: url("/img/service-icons/reddit_white.png");
+  background-image: url("../img/service-icons/reddit_white.png");
 }
 .share-buttons.spread .share-reddit:hover {
   background-color: #dd3500 !important;
 }
 .share-buttons.spread .share-flattr {
   background-color: #7ea352;
-  background-image: url("/img/service-icons/flattr_white.png");
+  background-image: url("../img/service-icons/flattr_white.png");
   display: none !important;
 }
 .share-buttons.spread .share-flattr:hover {
@@ -59,7 +59,7 @@
 }
 .share-buttons.spread .share-hnews {
   background-color: #ff6600;
-  background-image: url("/img/service-icons/hackernews_white.png");
+  background-image: url("../img/service-icons/hackernews_white.png");
   display: none !important;
 }
 .share-buttons.spread .share-hnews:hover {
@@ -67,21 +67,21 @@
 }
 .share-buttons.spread .share-twitter {
   background-color: #55acee;
-  background-image: url("/img/service-icons/twitter_white.png");
+  background-image: url("../img/service-icons/twitter_white.png");
 }
 .share-buttons.spread .share-twitter:hover {
   background-color: #338acc !important;
 }
 .share-buttons.spread .share-facebook {
   background-color: #3b5998;
-  background-image: url("/img/service-icons/facebook_white.png");
+  background-image: url("../img/service-icons/facebook_white.png");
 }
 .share-buttons.spread .share-facebook:hover {
   background-color: #143271 !important;
 }
 .share-buttons.spread .share-gplus {
   background-color: #d34836;
-  background-image: url("/img/service-icons/gplus_white.png");
+  background-image: url("../img/service-icons/gplus_white.png");
   display: none !important;
 }
 .share-buttons.spread .share-gplus:hover {
@@ -89,7 +89,7 @@
 }
 .share-buttons.spread .share-support {
   background-color: #47a447;
-  background-image: url("/img/service-icons/support_red.png");
+  background-image: url("../img/service-icons/support_red.png");
 }
 .share-buttons.spread .share-support:hover {
   background-color: #2a872a !important;
