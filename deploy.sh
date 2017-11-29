@@ -59,7 +59,7 @@ fi
 git add -A .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
-openssl aes-256-cbc -k "${pcbuild@Q}" -in ../../id_rsa.enc -out ../deploy_key -d
+openssl aes-256-cbc -k $pcbuild -in ../../id_rsa.enc -out ../deploy_key -d
 chmod 600 ../deploy_key
 eval `ssh-agent -s`
 ssh-add ../deploy_key
