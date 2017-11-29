@@ -31,7 +31,7 @@ cd ..
 # Clean out existing contents
 echo pwd: $(pwd) ls out:
 ls out
-rm -rf out/**/* || exit 0
+rm -rf out/*
 echo pwd: $(pwd) ls out: \(rm executed\)
 ls out
 echo pwd: $(pwd) ls: 
