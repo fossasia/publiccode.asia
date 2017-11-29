@@ -1,6 +1,11 @@
 # == YOUR LANGUAGE ==
 
-# General strings
+## General strings
+#[Languages.XY]
+#  languageCode  = "xy"  # 2-letter code of language (ISO 639-1)
+#  languageName  = "English"  # verbose name of language (e.g. "Français" or "Русский")
+#  description   = "Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"
+#  fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
 [Languages.XY]
   languageCode  = "xy"  # 2-letter code of language (ISO 639-1)
   languageName  = "English"  # verbose name of language (e.g. "Français" or "Русский")
@@ -8,64 +13,119 @@
   fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
 
 
+## Navigation
+#[Languages.en.navigation]
+#[Languages.en.navigation.links]
+#  start     = "Start"
+#  about     = "About"
+#  arguments = "Reasons"
+#  action    = "Take Action"
+#  spread    = "Spread the Word"
 # Navigation
-[Languages.en.navigation]
-[Languages.en.navigation.links]
+[Languages.XY.navigation]
+[Languages.XY.navigation.links]
   start     = "Start"
   about     = "About"
   arguments = "Reasons"
   action    = "Take Action"
   spread    = "Spread the Word"
 
-
 # Start banner
-[Languages.en.start]
+#[Languages.en.start]
+#  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
+#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
+#  subtitle3   = "**Code paid by the people should be available to the people!**" 
+# Start banner
+[Languages.XY.start]
   subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
   subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
   subtitle3   = "**Code paid by the people should be available to the people!**" 
 
-
+## About section
+#[Languages.en.about]
+#  headline    = "Sounds complicated? It's not. It's super easy!"
+#  buttonText  = "More advantages"
 # About section
-[Languages.en.about]
+[Languages.XY.about]
   headline    = "Sounds complicated? It's not. It's super easy!"
   buttonText  = "More advantages"
 
-
+## Arguments section
+#[Languages.en.arguments]
+#  headline    = "Reasons for Public Code"
+#  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
+#  buttonText  = "Sign the Open Letter"
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-eur"  # <-- do not translate this
+#  title       = "Tax savings"
+#  description = "Similar applications don't have to be programmed from scratch every time."
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-handshake-o"  # <-- do not translate this
+#  title       = "Collaboration"
+#  description = "Efforts on major projects can share expertise and costs."  
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-users"  # <-- do not translate this
+#  title       = "Serving the public"
+#  description = "Applications paid by the public should be available for everyone."
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-lightbulb-o"  # <-- do not translate this
+#  title       = "Fostering innovation"
+#  description = "With transparent processes, others don't have to reinvent the wheel."
 # Arguments section
-[Languages.en.arguments]
+[Languages.XY.arguments]
   headline    = "Reasons for Public Code"
   followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
   buttonText  = "Sign the Open Letter"
-[[Languages.en.arguments.list]]
+[[Languages.XY.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
   title       = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
-[[Languages.en.arguments.list]]
+[[Languages.XY.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Collaboration"
   description = "Efforts on major projects can share expertise and costs."  
-[[Languages.en.arguments.list]]
+[[Languages.XY.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Serving the public"
   description = "Applications paid by the public should be available for everyone."
-[[Languages.en.arguments.list]]
+[[Languages.XY.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "Fostering innovation"
   description = "With transparent processes, others don't have to reinvent the wheel."
 
-
+## Action section
+#[Languages.en.action]
+#  headline      = "Tell Your Representatives!"
+#  intro         = "In our [**open letter**](openletter/) we demand:" 
+#  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+#  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
+#  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
+#
+#[Languages.en.action.box]
+#  text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
+#
+#[Languages.en.action.form]
+#  name      = "Name (required)"
+#  email     = "Email (required)"
+#  country   = "Your Country"
+#  zip       = "Zip Code"
+#  comment   = "Your comment (max. 140 characters)"
+#  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
+#  permNews  = "I want to stay informed about the future of this campaign"
+#  permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
+#  submit    = "Sign Now!"
 # Action section
-[Languages.en.action]
+[Languages.XY.action]
   headline      = "Tell Your Representatives!"
   intro         = "In our [**open letter**](openletter/) we demand:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
   description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
 
-[Languages.en.action.box]
+[Languages.XY.action.box]
   text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
 
-[Languages.en.action.form]
+[Languages.XY.action.form]
   name      = "Name (required)"
   email     = "Email (required)"
   country   = "Your Country"
@@ -76,24 +136,42 @@
   permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
   submit    = "Sign Now!"
 
-
+## Organisations section
+#[Languages.en.organisations]
+#  headline  = "Supporting Organisations"
+#  text      = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
 # Organisations section
-[Languages.en.organisations]
+[Languages.XY.organisations]
   headline  = "Supporting Organisations"
   text      = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
 
 
+## Spread the word section
+#[Languages.en.spread]
+#  headline          = "Spread the word!"
+#  promoText         = "Get stickers and flyers from FOSSASIA"
+#  promoButtonText   = "Download Info Material"
+#  shareText         = "Tell your friends and followers about Public Code:"
+#  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 # Spread the word section
-[Languages.en.spread]
+[Languages.XY.spread]
   headline          = "Spread the word!"
   promoText         = "Get stickers and flyers from FOSSASIA"
   promoButtonText   = "Download Info Material"
   shareText         = "Tell your friends and followers about Public Code:"
   defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 
-
+## Legal Section
+#[Languages.en.legal]
+#  by            = "This is a campaign by FOSSASIA"
+#  imprint       = "Imprint"
+#  privacy       = "Privacy"
+#  transparency  = "Transparency"
+#  contribute1   = "The code of this website is licensed as Free and Open Source Software." 
+#  contribute2   = "You're welcome to contribute!"
+#  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 # Legal Section
-[Languages.en.legal]
+[Languages.XY.legal]
   by            = "This is a campaign by FOSSASIA"
   imprint       = "Imprint"
   privacy       = "Privacy"
@@ -102,22 +180,38 @@
   contribute2   = "You're welcome to contribute!"
   license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
-
+## Language selection
+#[Languages.en.language]
+#  description = "Read this page in another language"
 # Language selection
-[Languages.en.language]
+[Languages.XY.language]
   description = "Read this page in another language"
 
 
+## 404 Error Page
+#[Languages.en.error]
+#  headline    = "Error 404 - Page not found"
+#  description = "The page you're looking for does not exist."
+#  button      = "Back to start page"
 # 404 Error Page
-[Languages.en.error]
+[Languages.XY.error]
   headline    = "Error 404 - Page not found"
   description = "The page you're looking for does not exist."
   button      = "Back to start page"
 
 
+## Specific sub-pages
+#[Languages.en.subpage]
+#[Languages.en.subpage.signatures]
+#  headline      = "Individual Open Letter Signatures"
+#  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
+#  allSignatures = "See [all public signatures](all-signatures/)."
+#  tableName     = "Name"
+#  tableCountry  = "Country"
+#  tableComment  = "Comment"
 # Specific sub-pages
-[Languages.en.subpage]
-[Languages.en.subpage.signatures]
+[Languages.XY.subpage]
+[Languages.XY.subpage.signatures]
   headline      = "Individual Open Letter Signatures"
   description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
   allSignatures = "See [all public signatures](all-signatures/)."
