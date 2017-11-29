@@ -34,7 +34,7 @@
 # Arguments section
 [Languages.en.arguments]
   headline    = "Reasons for Public Code"
-  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
+  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince everyone!**"
   buttonText  = "Sign the Open Letter"
 [[Languages.en.arguments.list]]
   icon        = "fa-eur"  # <-- do not translate this
