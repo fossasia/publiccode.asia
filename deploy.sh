@@ -33,8 +33,8 @@ rm -rf out/**/* || exit 0
 cd ..
 # Run our compile script
 doCompile
-cp -r site/public site/out
-cp -r site/static site/out
+cp -r site/public/* site/out
+cp -r site/static/* site/out
 # Now let's go have some fun with the cloned repo
 cd site/out/
 git config user.name "Travis CI"
