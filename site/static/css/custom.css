@@ -200,7 +200,7 @@ select {
   appearance: none;
   background-position: right;
   background-repeat: no-repeat;
-  background-image:url(/img/select-arrow.png);
+  background-image:url(../img/select-arrow.png);
 }
 /* hide browser-styling (arrow) in IE10 */
 select::-ms-expand {
