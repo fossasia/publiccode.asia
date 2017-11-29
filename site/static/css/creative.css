@@ -64,12 +64,12 @@ p {
 }
 
 .bg-primary {
-    background-color: #2093C4;
+    background-color: #b14c4c;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #374154;
 }
 
 .text-faded {
@@ -125,7 +125,7 @@ aside {
   background: #168EC1;
 }
 .navbar .logo #logo-green { 
-  background: #4cbd38 
+  background: #bf6b6b;
 }
 
 .navbar-default {
@@ -276,7 +276,7 @@ header .header-content h1 .logo-blue {
 
 header .header-content h1 .logo-green {
     display: block;
-    background: #4cbd38;
+    background: #bf6b6b;
     margin-top: 7px;
 }
 

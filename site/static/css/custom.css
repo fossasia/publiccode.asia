@@ -77,7 +77,7 @@ blockquote p {
 /* LEGAL SECTION */
 #legal {
   color: #fff;
-  background-color: #367836;
+  background-color: #644652;
   padding: 10px;
   margin: 0px;
 }
@@ -200,7 +200,7 @@ select {
   appearance: none;
   background-position: right;
   background-repeat: no-repeat;
-  background-image:url(/img/select-arrow.png);
+  background-image:url(../img/select-arrow.png);
 }
 /* hide browser-styling (arrow) in IE10 */
 select::-ms-expand {
@@ -433,7 +433,7 @@ a:hover {
   position: fixed;
   top: 60px;
   left: 0px;
-  background: rgba(64,166,46,0.8);
+  background: rgba(181, 79, 79, 0.36);;
   color: #fff;
   max-width: 250px;
   padding: 10px;

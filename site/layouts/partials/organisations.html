@@ -23,7 +23,7 @@
               {{ $lower_int := . }}
               {{ range $int := $orgs }}
                 {{ if eq $lower_int (lower $int.name) }}
-                  <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a></li>
+                  <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url({{ "img/organisations/" | absURL }}{{ .img }})" target="_blank"></a></li>
                 {{ end }}
               {{ end }}
             {{ end }}
