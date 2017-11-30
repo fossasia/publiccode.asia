@@ -2,7 +2,7 @@
 
 <html lang="es">
     <head>
-        <!-- Build time: 2017-11-30 02:20:14.215027997 &#43;0000 UTC-->
+        <!-- Build time: 2017-11-30 06:36:29.220719693 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,37 +14,37 @@
 <!-- Translations -->
 <link type="text/html" rel="alternate" hreflang="es" lang="es" href="/es/" title="Español">
 
+  <link type="text/html" rel="alternate" hreflang="en" lang="en" href="/" title="English">
+
+  <link type="text/html" rel="alternate" hreflang="fr" lang="fr" href="/fr/" title="Français">
+
+  <link type="text/html" rel="alternate" hreflang="xy" lang="xy" href="/xy/" title="Bahasa Melayu">
+
   <link type="text/html" rel="alternate" hreflang="zh_tw" lang="zh_tw" href="/zh_tw/" title="正體中文（臺灣）">
 
   <link type="text/html" rel="alternate" hreflang="de" lang="de" href="/de/" title="Deutsch">
 
-  <link type="text/html" rel="alternate" hreflang="xy" lang="xy" href="/xy/" title="Bahasa Melayu">
+  <link type="text/html" rel="alternate" hreflang="vi" lang="vi" href="/vi/" title="Tiếng Việt">
 
   <link type="text/html" rel="alternate" hreflang="eo" lang="eo" href="/eo/" title="Esperanto">
-
-  <link type="text/html" rel="alternate" hreflang="fr" lang="fr" href="/fr/" title="Français">
-
-  <link type="text/html" rel="alternate" hreflang="en" lang="en" href="/" title="English">
-
-  <link type="text/html" rel="alternate" hreflang="vi" lang="vi" href="/vi/" title="Tiếng Việt">
 
   <link type="text/html" rel="alternate" hreflang="id" lang="id" href="/id/" title="Bahasa Indonesia">
 
 
 <!-- Open Graph meta-data (e.g. Facebook) -->
 <meta property="og:title" content="Public Money, Public Code"/>
-<meta property="og:url" content="https://publiccode.eu/es"/>
-<meta property="og:image" content="https://publiccode.eu/img/share-graphics/why.png"/>
+<meta property="og:url" content="https://publiccode.asia/es"/>
+<meta property="og:image" content="https://publiccode.asia/img/share-graphics/why.png"/>
 <meta property="og:description" content="Dinero público, Código público - Una campaña para que el software financiado públicamente sea Software Libre"/>
 <meta property="og:locale" content="es"/>
 
+<meta property="og:locale:alternate" content="en"/>
+<meta property="og:locale:alternate" content="fr"/>
+<meta property="og:locale:alternate" content="xy"/>
 <meta property="og:locale:alternate" content="zh_tw"/>
 <meta property="og:locale:alternate" content="de"/>
-<meta property="og:locale:alternate" content="xy"/>
-<meta property="og:locale:alternate" content="eo"/>
-<meta property="og:locale:alternate" content="fr"/>
-<meta property="og:locale:alternate" content="en"/>
 <meta property="og:locale:alternate" content="vi"/>
+<meta property="og:locale:alternate" content="eo"/>
 <meta property="og:locale:alternate" content="id"/>
 
 <!-- Twitter meta-data -->
@@ -52,8 +52,8 @@
 <meta name="twitter:site" content="@fsfe"/>
 <meta name="twitter:title" content="Public Money, Public Code"/>
 <meta name="twitter:description" content="Dinero público, Código público - Una campaña para que el software financiado públicamente sea Software Libre"/>
-<meta name="twitter:image" content="https://publiccode.eu/img/share-graphics/why.png"/>
-<meta name="twitter:url" content="https://publiccode.eu/es"/>
+<meta name="twitter:image" content="https://publiccode.asia/img/share-graphics/why.png"/>
+<meta name="twitter:url" content="https://publiccode.asia/es"/>
 <meta name="twitter:creator" content="@fsfe"/>
 
 <!-- Favicon -->
@@ -298,17 +298,17 @@
                 <p><strong>“Implementar una legislación que permita que el software desarrollado para el sector público y con dinero público esté disponible públicamente bajo una licencia de <a href="https://fsfe.org/freesoftware/basics/summary.html" title="El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. Sobre estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.">Software Libre y Código Abierto</a>”</strong></p>
                 <p><strong>1</strong> organizaciones y <strong>11</strong> individuos ya están acompañando este llamado a participar, ellos están firmando nuestra <a href="openletter/">carta abierta</a>. ¡Firmandola tú nos puedes ayudar a conseguir un mayor impacto! Nosotros entregaremos todas las firmas a los representantes en toda Europa que están debatiendo sobre el software libre en la administración pública.</p>
 
-                <form action="https://forms.fsfe.org/email" method="post">
+                <form action="https://freelayers.net/subscribe" method="POST" accept-charset="utf-8">
   <input name="appid" type="hidden" value="pmpc-sign" />
   <label class="sign-input form-na">
-    <input name="name" placeholder="Nombre (obligatorio)" type="text" required />
+    <input name="name" id="name" placeholder="Nombre (obligatorio)" type="text" required />
   </label>
   <label class="sign-input form-em">
-    <input name="confirm" placeholder="Email (obligatorio)" type="email" required />
+    <input name="email" id="email" placeholder="Email (obligatorio)" type="email" required />
   </label>
   <br />
   <label class="sign-input form-cn">
-    <select name="country">
+    <select name="Country" id="Country">
       <option value="">País</option>
       
       
@@ -707,10 +707,10 @@
     </select>
   </label>
   <label class="sign-input form-zp">
-    <input name="zip" placeholder="Código postal" type="text" />
+    <input name="ZipCode" id="ZipCode" placeholder="Código postal" type="text" />
   </label>
   <label class="sign-input form-co">
-    <input name="comment" placeholder="Tu comentario (max. 140 caracteres)" type="text" maxlength="140" />
+    <input name="Comment" id="Comment" placeholder="Tu comentario (max. 140 caracteres)" type="text" maxlength="140" />
   </label>
   <div class="form-pe">
     <div>
@@ -723,19 +723,20 @@
         <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> Quiero que mi firma aparezca en la <a href="/es/openletter/all-signatures">lista de firmas</a>
       </label>
     </div>
-    <div>
-      <label class="form-pe" for="permissionNews">
-        <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" /> Quiero mantenerme informado sobre el futuro de esta campaña
-      </label>
-    </div>
   </div>
+
+  <div style="display:none;">
+    <label for="hp">HP</label><br/>
+    <input type="text" name="hp" id="hp"/>
+  </div>
+  <input type="hidden" name="list" value="3DgINxa6kL069W892X0763H1VA"/>
   
   <label id="honey"> 
     <p>Please do not put anything here:</p>
     <input name="url" type="text" />
   </label>
   <br />
-  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">Firmar Ahora!</button>
+  <button name="submit" id="submit" value="sign" type="submit" class="btn btn-default btn-xl">Firmar Ahora!</button>
 </form>
 
             </div>
@@ -810,7 +811,7 @@
               <form action="https://fsfe.org/share" method="GET" class="share-buttons spread" target="_blank">
   <input name="popup" id="no-share-popup-spread" type="radio" />
   <input name="ref" value="pmpc-spread" type="hidden" />
-  <input name="url" value="https://publiccode.eu/es" type="hidden" />
+  <input name="url" value="https://publiccode.asia/es" type="hidden" />
   <input id="sharetitle-spread" name="title" value="Si es dinero público el código debería ser publico también. Yo acompaño la convocatoria para tener más código público bajo una licencia de Software Libre:" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
@@ -931,7 +932,7 @@
 <form action="https://fsfe.org/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="https://publiccode.eu/es" type="hidden" />
+  <input name="url" value="https://publiccode.asia/es" type="hidden" />
   <input id="sharetitle-side" name="title" value="Si es dinero público el código debería ser publico también. Yo acompaño la convocatoria para tener más código público bajo una licencia de Software Libre:" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   

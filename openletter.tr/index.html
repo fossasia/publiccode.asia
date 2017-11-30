@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <!-- Build time: 2017-11-30 02:20:14.417871873 &#43;0000 UTC-->
+        <!-- Build time: 2017-11-30 06:36:29.003765728 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,8 +16,8 @@
 
 <!-- Open Graph meta-data (e.g. Facebook) -->
 <meta property="og:title" content="Public Money, Public Code"/>
-<meta property="og:url" content="https://publiccode.eu/"/>
-<meta property="og:image" content="https://publiccode.eu/img/share-graphics/why.png"/>
+<meta property="og:url" content="https://publiccode.asia/"/>
+<meta property="og:image" content="https://publiccode.asia/img/share-graphics/why.png"/>
 <meta property="og:description" content="Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"/>
 <meta property="og:locale" content="en"/>
 
@@ -27,8 +27,8 @@
 <meta name="twitter:site" content="@fsfe"/>
 <meta name="twitter:title" content="Public Money, Public Code"/>
 <meta name="twitter:description" content="Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"/>
-<meta name="twitter:image" content="https://publiccode.eu/img/share-graphics/why.png"/>
-<meta name="twitter:url" content="https://publiccode.eu/"/>
+<meta name="twitter:image" content="https://publiccode.asia/img/share-graphics/why.png"/>
+<meta name="twitter:url" content="https://publiccode.asia/"/>
 <meta name="twitter:creator" content="@fsfe"/>
 
 <!-- Favicon -->
@@ -190,17 +190,17 @@ doğuruyor:</p>
                 <h2 class="section-heading">Tell Your Representatives!</h2>
                 <hr class="light">
 
-                <form action="https://forms.fsfe.org/email" method="post">
+                <form action="https://freelayers.net/subscribe" method="POST" accept-charset="utf-8">
   <input name="appid" type="hidden" value="pmpc-sign" />
   <label class="sign-input form-na">
-    <input name="name" placeholder="Name (required)" type="text" required />
+    <input name="name" id="name" placeholder="Name (required)" type="text" required />
   </label>
   <label class="sign-input form-em">
-    <input name="confirm" placeholder="Email (required)" type="email" required />
+    <input name="email" id="email" placeholder="Email (required)" type="email" required />
   </label>
   <br />
   <label class="sign-input form-cn">
-    <select name="country">
+    <select name="Country" id="Country">
       <option value="">Your Country</option>
       
       
@@ -599,10 +599,10 @@ doğuruyor:</p>
     </select>
   </label>
   <label class="sign-input form-zp">
-    <input name="zip" placeholder="Zip Code" type="text" />
+    <input name="ZipCode" id="ZipCode" placeholder="Zip Code" type="text" />
   </label>
   <label class="sign-input form-co">
-    <input name="comment" placeholder="Your comment (max. 140 characters)" type="text" maxlength="140" />
+    <input name="Comment" id="Comment" placeholder="Your comment (max. 140 characters)" type="text" maxlength="140" />
   </label>
   <div class="form-pe">
     <div>
@@ -615,19 +615,20 @@ doğuruyor:</p>
         <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> I want my signature to appear in the <a href="/openletter/all-signatures">list of signatures</a>
       </label>
     </div>
-    <div>
-      <label class="form-pe" for="permissionNews">
-        <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" /> I want to stay informed about the future of this campaign
-      </label>
-    </div>
   </div>
+
+  <div style="display:none;">
+    <label for="hp">HP</label><br/>
+    <input type="text" name="hp" id="hp"/>
+  </div>
+  <input type="hidden" name="list" value="3DgINxa6kL069W892X0763H1VA"/>
   
   <label id="honey"> 
     <p>Please do not put anything here:</p>
     <input name="url" type="text" />
   </label>
   <br />
-  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">Sign Now!</button>
+  <button name="submit" id="submit" value="sign" type="submit" class="btn btn-default btn-xl">Sign Now!</button>
 </form>
 
             </div>
@@ -810,7 +811,7 @@ doğuruyor:</p>
 <form action="https://fsfe.org/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
-  <input name="url" value="https://publiccode.eu/" type="hidden" />
+  <input name="url" value="https://publiccode.asia/" type="hidden" />
   <input id="sharetitle-side" name="title" value="If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
