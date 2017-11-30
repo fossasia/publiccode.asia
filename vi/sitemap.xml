@@ -139,11 +139,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="/de/categories/"
                 />
@@ -154,23 +149,28 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/categories/"
+                hreflang="es"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,11 +233,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="/id/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="/de/openletter/"
                 />
@@ -248,18 +243,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="/es/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -322,11 +322,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="/id/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="/de/"
                 />
@@ -337,23 +332,28 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/"
+                hreflang="es"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -372,11 +372,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="/de/tags/"
                 />
@@ -387,23 +382,28 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/tags/"
+                hreflang="es"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
