@@ -1,9 +1,0 @@
-titleBefore: Μοίρασε στο
-titleAfter:
-# This "customText" shouldn't have more than 115 characters!
-customText: "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe@quitter.no και το #publiccode:"
-
-# Do not translate below here
-id: gnusocial
-name: GNU Social
-userinput: true

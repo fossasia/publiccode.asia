@@ -35,12 +35,6 @@ div.sharecolumn .share-buttons.side {
 .share-buttons.side button:hover, .share-buttons.side label:hover {
   background-color: #4CBD38;
 }
-.share-buttons.side .share-diaspora {
-  background-image: url("../img/service-icons/diaspora_white.png");
-}
-.share-buttons.side .share-gnusocial {
-  background-image: url("../img/service-icons/gnusocial_white.png");
-}
 .share-buttons.side .share-reddit {
   background-image: url("../img/service-icons/reddit_white.png");
 }

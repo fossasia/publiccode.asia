@@ -1,9 +1,0 @@
-titleBefore: Partager sur
-titleAfter: 
-# This "customText" shouldn't have more than 115 characters!
-customText: "Si c'est de l'argent public, le code doit être public aussi ! Je soutiens l'appel de @fsfe@quitter.no's pour plus de #publiccode:"
-
-# Do not translate below here
-id: gnusocial
-name: GNU Social
-userinput: true
