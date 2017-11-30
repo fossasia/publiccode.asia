@@ -7,8 +7,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/categories/"
+                hreflang="de"
+                href="/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,18 +42,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
+                hreflang="xy"
+                href="/xy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,6 +55,21 @@
   <url>
     <loc>/zh_tw/openletter/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/openletter/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -77,21 +92,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/openletter/"
                 />
@@ -102,8 +102,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,18 +137,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
+                hreflang="xy"
+                href="/xy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,8 +152,18 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="xy"
-                href="/xy/tags/"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -177,18 +187,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
+                hreflang="xy"
+                href="/xy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
