@@ -13,9 +13,9 @@
         state: started
         restart: yes
         env:
-          HUGO_BASE_URL: https://publiccode.eu/
-          VIRTUAL_HOST: publiccode.eu,www.publiccode.eu
-          LETSENCRYPT_HOST: publiccode.eu,www.publiccode.eu
+          HUGO_BASE_URL: https://publiccode.asia/
+          VIRTUAL_HOST: publiccode.asia,www.publiccode.asia
+          LETSENCRYPT_HOST: publiccode.asia,www.publiccode.asia
           LETSENCRYPT_EMAIL: jonas@fsfe.org
         volumes:
           - "/srv/forms/pmpc:/usr/share/blog/data/signatures:ro"
