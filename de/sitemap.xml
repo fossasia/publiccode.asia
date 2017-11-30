@@ -46,11 +46,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/tr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/categories/"
                 />
@@ -73,6 +68,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -242,11 +242,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/tr/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/openletter/"
                 />
@@ -272,6 +267,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="/tr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="/de/openletter/"
                 />
@@ -280,11 +280,6 @@
   <url>
     <loc>/de/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
@@ -312,6 +307,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="tr"
+                href="/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="/de/"
                 />
@@ -320,11 +320,6 @@
   <url>
     <loc>/de/tags/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
@@ -349,6 +344,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
