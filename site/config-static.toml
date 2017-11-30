@@ -5,7 +5,7 @@ DefaultContentLanguage = "en"
 
 # Static strings shared by all languages – these are not to be translated!
 [params.static]
-  url         = "https://publiccode.eu"
+  url         = "https://publiccode.asia"
   slogan_1    = "Public Money"
   slogan_2    = "Public Code"
   promoLink   = "https://fsfe.org/promo#pmpc"

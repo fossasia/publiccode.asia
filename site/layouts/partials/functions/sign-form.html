@@ -1,14 +1,14 @@
-<form action="https://forms.fsfe.org/email" method="post">
+<form action="https://freelayers.net/subscribe" method="POST" accept-charset="utf-8">
   <input name="appid" type="hidden" value="pmpc-sign" />
   <label class="sign-input form-na">
-    <input name="name" placeholder="{{ .Site.Params.action.form.name }}" type="text" required />
+    <input name="name" id="name" placeholder="{{ .Site.Params.action.form.name }}" type="text" required />
   </label>
   <label class="sign-input form-em">
-    <input name="confirm" placeholder="{{ .Site.Params.action.form.email }}" type="email" required />
+    <input name="email" id="email" placeholder="{{ .Site.Params.action.form.email }}" type="email" required />
   </label>
   <br />
   <label class="sign-input form-cn">
-    <select name="country">
+    <select name="Country" id="Country">
       <option value="">{{ .Site.Params.action.form.country }}</option>
       {{ $json := getJSON "data/countries/countries.json" }}
       {{ range sort $json "name" "asc" }}
@@ -17,10 +17,10 @@
     </select>
   </label>
   <label class="sign-input form-zp">
-    <input name="zip" placeholder="{{ .Site.Params.action.form.zip }}" type="text" />
+    <input name="ZipCode" id="ZipCode" placeholder="{{ .Site.Params.action.form.zip }}" type="text" />
   </label>
   <label class="sign-input form-co">
-    <input name="comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
+    <input name="Comment" id="Comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
   </label>
   <div class="form-pe">
     <div>
@@ -33,17 +33,18 @@
         <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> {{ replace .Site.Params.action.form.permPub "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}
       </label>
     </div>
-    <div>
-      <label class="form-pe" for="permissionNews">
-        <input name="permissionNews" id="permissionNews" value="yes" type="checkbox" checked="checked" /> {{ .Site.Params.action.form.permNews | markdownify }}
-      </label>
-    </div>
   </div>
+
+  <div style="display:none;">
+    <label for="hp">HP</label><br/>
+    <input type="text" name="hp" id="hp"/>
+  </div>
+  <input type="hidden" name="list" value="3DgINxa6kL069W892X0763H1VA"/>
   
   <label id="honey"> <!-- Honeypot for spam -->
     <p>Please do not put anything here:</p>
     <input name="url" type="text" />
   </label>
   <br />
-  <button name="action" value="sign" type="submit" class="btn btn-default btn-xl">{{ .Site.Params.action.form.submit }}</button>
+  <button name="submit" id="submit" value="sign" type="submit" class="btn btn-default btn-xl">{{ .Site.Params.action.form.submit }}</button>
 </form>
