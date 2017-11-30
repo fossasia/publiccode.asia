@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openletters on Public Money, Public Code</title>
+    <link>/vi/openletter/</link>
+    <description>Recent content in Openletters on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    
+	<atom:link href="/vi/openletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alle openbare handtekeningen</title>
+      <link>/vi/openletter/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/openletter/all-signatures/</guid>
+      <description>Dit is de volledige lijst van alle mensen die de open brief ondertekend hebben, en die toestemming gegeven hebben om hun naam openbaar te maken. 11 mensen hebben hun steun al betuigd – bent u één van hen?
+Deze lijst wordt elk uur ververst.
+  Naam Land Commentaar      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Bedankt voor uw handtekening!</title>
+      <link>/vi/openletter/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/openletter/success/</guid>
+      <description>Uw handtekening is bevestigd Bedankt voor het ondertekenen van de open brief &amp;ldquo;Publiek Geld, Publieke Code&amp;rdquo;. Uw steun betekent veel voor ons
+Als u koos om uw naam toe te voegen aan de openbare lijst, dan zal uw naam verschijnen op de lijst van handtekeningen binnen het uur. Als u koos om meer informatie te ontvangen, dan houden wij u op de hoogte via e-mail over nieuws omtrent deze campagne.</description>
+    </item>
+    
+    <item>
+      <title>Bijna klaar...</title>
+      <link>/vi/openletter/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/openletter/confirm/</guid>
+      <description>Bekijk uw e-mail nu U bent bijna klaar! Binnenkort ontvangt u een e-mail met een link naar de definitieve bevestiging voor uw handtekening. Controlleer uw spam-map als u de link niet ontvangt binnen de komende 15 minuten.
+Bedankt voor het ondertekenen van de open brief van Publiek Geld, Publieke Code.</description>
+    </item>
+    
+  </channel>
+</rss>
