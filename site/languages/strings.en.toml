@@ -56,10 +56,10 @@
 
 # Action section
 [Languages.en.action]
-  headline      = "Tell Your Representatives!"
+  headline      = "Take Action!"
   intro         = "In our [**open initiative**](openinitiative/) we demand:" 
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
+  demand        = "“Promote policies requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
   description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
 
 [Languages.en.action.box]
