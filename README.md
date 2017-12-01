@@ -60,7 +60,7 @@ The website structure is very easy. The most important files and directories are
 
 - `site/config-static.toml`: Static texts and URLs which are the same for any language
 - `site/languages/strings.{en,fr...}.toml`: Headlines, site title, many texts for the various languages.
-- `site/content`: Markdown-files for sub-pages like /openletter, can be translated
+- `site/content`: Markdown-files for sub-pages like /openinitiative, can be translated
 - `site/data/{en,de...}/share`: Services and their very short translatable strings where people can share to. Is being used in the "Spread" section and the left-side sharing icons
 - `site/static/`: CSS, images, and Javascript files for the design.
 - `site/static/css/custom.css`: File where all custom CSS code should be written to.
