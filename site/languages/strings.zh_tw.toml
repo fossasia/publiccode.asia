@@ -21,7 +21,7 @@
 [Languages.zh_TW.start]
   subtitle1   = "為什麼用人民納稅錢所建立的軟體與資訊系統，卻沒有以自由軟體授權公開釋出呢？"
   subtitle2   = "我們要求制定法律，明訂以公務機關的經費，為公務機關需要所開發的軟體，必須以[自由暨開源軟體](https://fsfe.org/freesoftware/basics/summary.html '自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。')授權釋出。也就是說，既然經費是公共的，所做的軟體也必須是公共的。"
-  subtitle3   = "**用納稅人的錢所寫的軟體，全國所有人都應該可以使用！**" 
+  subtitle3   = "**用納稅人的錢所寫的軟體，全國所有人都應該可以使用！**"
 
 
 # About section
@@ -56,7 +56,7 @@
 # Action section
 [Languages.zh_TW.action]
   headline      = "告訴您的選區的立法委員與民意代表！"
-  intro         = "在我們的[**公開信**](openletter/)中我們要求：" 
+  intro         = "在我們的[**公開信**](openletter/)中我們要求："
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "制定法律，明訂以公務機關的經費，為公務機關需要所開發的軟體，必須以[自由暨開源軟體](https://fsfe.org/about/summary.html '自由軟體讓所有人擁有使用、研究、分享與改進的權利。這些權利與其他基本人權自由息息相關、相互支持，例如言論自由、著作出版自由與祕密通訊自由等。')授權釋出。"
   description   = "**$ORGS**個組織與**$INDS**個人已經連署我們的[公開信](openletter/)表達支持。您也可以一起加入連署，讓我們的聲音更壯大！我們會整理所有的連署名單，傳達給議員與民意代表，要求公家機關使用納稅人的錢所開發的軟體必須自由！"
@@ -65,15 +65,16 @@
   text      = "已連署：**$INDS SIGNATURES** – 現在就加入連署！"
 
 [Languages.zh_TW.action.form]
-  name      = "姓名（必填）"
-  email     = "電子郵件地址（必填）"
-  country   = "所屬國家"
-  zip       = "郵遞區號"
-  comment   = "您想說的話（最多 140 個字元）"
-  permPriv  = "我已閱讀並接受[隱私聲明](privacy/)"
-  permNews  = "我想繼續接收此活動的後續消息"
-  permPub   = "我願意將我的姓名公開在[連署名單](openletter/all-signatures)中"
-  submit    = "現在就連署！"
+  name          = "姓名（必填）"
+  email         = "電子郵件地址（必填）"
+  country       = "所屬國家"
+  region        = "地區/城市"
+  organization  = "組織"
+  comment       = "您想說的話（最多 140 個字元）"
+  permPriv      = "我已閱讀並接受[隱私聲明](privacy/)"
+  permNews      = "我想繼續接收此活動的後續消息"
+  permPub       = "我願意將我的姓名公開在[連署名單](openletter/all-signatures)中"
+  submit        = "現在就連署！"
 
 
 # Organisations section
@@ -97,7 +98,7 @@
   imprint       = "版本說明"
   privacy       = "隱私聲明"
   transparency  = "透明度"
-  contribute1   = "此網站本身為自由軟體。" 
+  contribute1   = "此網站本身為自由軟體。"
   contribute2   = "歡迎您一起來貢獻！"
   license       = "這個網站的內容以[創用 CC BY-SA 4.0 授權](http://creativecommons.org/licenses/by-sa/4.0/)。"
 

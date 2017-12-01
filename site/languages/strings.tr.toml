@@ -66,15 +66,16 @@
   text      = "Şimdiye kadar **$INDS İMZA** – açık mektubu hemen imzalayın!"
 
 [Languages.tr.action.form]
-  name      = "Ad-Soyad (gerekli)"
-  email     = "E-posta (gerekli)"
-  country   = "Ülke"
-  zip       = "Posta Kodu"
-  comment   = "Görüşler (en fazla 140 karakter)"
-  permPriv  = "[Gizlilik beyanını](privacy/) okudum ve onaylıyorum"
-  permNews  = "Kampanya hakkında haberdar olmak istiyorum"
-  permPub   = "Adımın [imzacılar listesinde](openletter/all-signatures) gözükmesini istiyorum"
-  submit    = "İmzala!"
+  name          = "Ad-Soyad (gerekli)"
+  email         = "E-posta (gerekli)"
+  country       = "Ülke"
+  region        = "Bölge/şehir"
+  organization  = "Organizasyon"
+  comment       = "Görüşler (en fazla 140 karakter)"
+  permPriv      = "[Gizlilik beyanını](privacy/) okudum ve onaylıyorum"
+  permNews      = "Kampanya hakkında haberdar olmak istiyorum"
+  permPub       = "Adımın [imzacılar listesinde](openletter/all-signatures) gözükmesini istiyorum"
+  submit        = "İmzala!"
 
 
 # Organisations section

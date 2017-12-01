@@ -34,12 +34,12 @@
 #[Languages.en.start]
 #  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
 #  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
-#  subtitle3   = "**Code paid by the people should be available to the people!**" 
+#  subtitle3   = "**Code paid by the people should be available to the people!**"
 # Start banner
 [Languages.XY.start]
   subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
   subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
-  subtitle3   = "**Code paid by the people should be available to the people!**" 
+  subtitle3   = "**Code paid by the people should be available to the people!**"
 
 ## About section
 #[Languages.en.about]
@@ -62,7 +62,7 @@
 #[[Languages.en.arguments.list]]
 #  icon        = "fa-handshake-o"  # <-- do not translate this
 #  title       = "Collaboration"
-#  description = "Efforts on major projects can share expertise and costs."  
+#  description = "Efforts on major projects can share expertise and costs."
 #[[Languages.en.arguments.list]]
 #  icon        = "fa-users"  # <-- do not translate this
 #  title       = "Serving the public"
@@ -83,7 +83,7 @@
 [[Languages.XY.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Collaboration"
-  description = "Efforts on major projects can share expertise and costs."  
+  description = "Efforts on major projects can share expertise and costs."
 [[Languages.XY.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Serving the public"
@@ -96,7 +96,7 @@
 ## Action section
 #[Languages.en.action]
 #  headline      = "Tell Your Representatives!"
-#  intro         = "In our [**open letter**](openletter/) we demand:" 
+#  intro         = "In our [**open letter**](openletter/) we demand:"
 #  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 #  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
 #  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
@@ -117,7 +117,7 @@
 # Action section
 [Languages.XY.action]
   headline      = "Tell Your Representatives!"
-  intro         = "In our [**open letter**](openletter/) we demand:" 
+  intro         = "In our [**open letter**](openletter/) we demand:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
   description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
@@ -126,15 +126,16 @@
   text      = "Already **$INDS SIGNATURES** – sign the open letter now!"
 
 [Languages.XY.action.form]
-  name      = "Name (required)"
-  email     = "Email (required)"
-  country   = "Your Country"
-  zip       = "Zip Code"
-  comment   = "Your comment (max. 140 characters)"
-  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
-  permNews  = "I want to stay informed about the future of this campaign"
-  permPub   = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
-  submit    = "Sign Now!"
+  name          = "Name (required)"
+  email         = "Email (required)"
+  country       = "Your Country"
+  region        = "Region/City"
+  organization  = "Organization"
+  comment       = "Your comment (max. 140 characters)"
+  permPriv      = "I have read and accepted the [privacy statement](privacy/)"
+  permNews      = "I want to stay informed about the future of this campaign"
+  permPub       = "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
+  submit        = "Sign Now!"
 
 ## Organisations section
 #[Languages.en.organisations]
@@ -167,7 +168,7 @@
 #  imprint       = "Imprint"
 #  privacy       = "Privacy"
 #  transparency  = "Transparency"
-#  contribute1   = "The code of this website is licensed as Free and Open Source Software." 
+#  contribute1   = "The code of this website is licensed as Free and Open Source Software."
 #  contribute2   = "You're welcome to contribute!"
 #  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 # Legal Section
@@ -176,7 +177,7 @@
   imprint       = "Imprint"
   privacy       = "Privacy"
   transparency  = "Transparency"
-  contribute1   = "The code of this website is licensed as Free and Open Source Software." 
+  contribute1   = "The code of this website is licensed as Free and Open Source Software."
   contribute2   = "You're welcome to contribute!"
   license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 

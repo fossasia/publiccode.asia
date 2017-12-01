@@ -66,15 +66,16 @@
   text      = "Jam **$INDS SUBSKRIBOJ** – subskribu la publikan leteron nun!"
 
 [Languages.eo.action.form]
-  name      = "Nomo (necesa)"
-  email     = "Retpoŝt-adreso (necesa)"
-  country   = "Via lando"
-  zip       = "Poŝta kodo"
-  comment   = "Via komento (pleje 140 signoj)"
-  permPriv  = "Mi legis kaj konsentis la [privateco-politikon](privacy/)"
-  permNews  = "Mi volas esti informata pri ĉi tiu kampanjo estonte"
-  permPub   = "Mi volas aperigi mian subskrisbon en la [listo de subskriboj](openletter/all-signatures)"
-  submit    = "Subskribi nun!"
+  name          = "Nomo (necesa)"
+  email         = "Retpoŝt-adreso (necesa)"
+  country       = "Via lando"
+  region        = "Regiono/Urbo"
+  organization  = "Organizo"
+  comment       = "Via komento (pleje 140 signoj)"
+  permPriv      = "Mi legis kaj konsentis la [privateco-politikon](privacy/)"
+  permNews      = "Mi volas esti informata pri ĉi tiu kampanjo estonte"
+  permPub       = "Mi volas aperigi mian subskrisbon en la [listo de subskriboj](openletter/all-signatures)"
+  submit        = "Subskribi nun!"
 
 
 # Organisations section
@@ -98,7 +99,7 @@
   imprint       = "Organizaĵo"
   privacy       = "Privateco-politiko"
   transparency  = "Travidebleco"
-  contribute1   = "Kodo de tiu ĉi retejo estas libera programaro." 
+  contribute1   = "Kodo de tiu ĉi retejo estas libera programaro."
   contribute2   = "Ni bonvenigas kontribuojn!"
   license       = "Tiu ĉi verko subas la permesilon [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.eo)."
 
