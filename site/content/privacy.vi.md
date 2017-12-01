@@ -13,7 +13,7 @@ Wanneer dit beleid naar "wij" verwijst, betekent dit de FSFE.
 Wanneer u de website gebruikt om onze open brief te ondertekenen, verzamelen en
 bewaren wij informatie over uw naam, e-mailadres en land -- welke u aangeleverd
 hebt met uw toestemming -- en wij zullen uw naam publiek tentoonstellen in de
-[lijst van handtekeningen](/openletter/all-signatures). Wij zullen ook uw naam
+[lijst van handtekeningen](/openinitiative/all-signatures). Wij zullen ook uw naam
 en land aanleveren aan de ontvangers van de open brief (leden van het Europees
 Parlement en nationale of regionele parlementen). Wij zullen uw e-mailadres niet
 delen. Wij slaan deze informatie op in een database gedurende de looptijd van de
