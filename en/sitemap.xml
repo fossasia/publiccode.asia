@@ -112,6 +112,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="/eo/categories/"
                 />
@@ -129,11 +134,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,6 +218,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/fr/openletter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="/eo/openletter/"
                 />
@@ -235,11 +240,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/openletter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -311,6 +311,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="/eo/"
                 />
@@ -328,11 +333,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -365,6 +365,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="/eo/tags/"
                 />
@@ -382,11 +387,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
