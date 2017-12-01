@@ -66,15 +66,16 @@
   text      = "Hay **$INDS SIGNATURES** – firma la carta abierta ahora!"
 
 [Languages.es.action.form]
-  name      = "Nombre (obligatorio)"
-  email     = "Email (obligatorio)"
-  country   = "País"
-  zip       = "Código postal"
-  comment   = "Tu comentario (max. 140 caracteres)"
-  permPriv  = "He leído y aceptado la [declaración de privacidad](privacy/)"
-  permNews  = "Quiero mantenerme informado sobre el futuro de esta campaña"
-  permPub   = "Quiero que mi firma aparezca en la [lista de firmas](openinitiative/all-signatures)"
-  submit    = "Firmar Ahora!"
+  name          = "Nombre (obligatorio)"
+  email         = "Email (obligatorio)"
+  country       = "País"
+  region        = "Región/ciudad"
+  organization  = "Organización"
+  comment       = "Tu comentario (max. 140 caracteres)"
+  permPriv      = "He leído y aceptado la [declaración de privacidad](privacy/)"
+  permNews      = "Quiero mantenerme informado sobre el futuro de esta campaña"
+  permPub       = "Quiero que mi firma aparezca en la [lista de firmas](openinitiative/all-signatures)"
+  submit        = "Firmar Ahora!"
 
 
 # Organisations section
