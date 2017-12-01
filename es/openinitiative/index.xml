@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openinitiatives on Public Money, Public Code</title>
+    <link>/es/openinitiative/</link>
+    <description>Recent content in Openinitiatives on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="/es/openinitiative/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>!Gracias por firmar!</title>
+      <link>/es/openinitiative/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/openinitiative/success/</guid>
+      <description>Tu firma está confirmada Gracias por firmar la carta abierta &amp;ldquo;Public Money, Public Code&amp;rdquo;. Tu apoyo significa mucho para nosotros.
+Si aceptaste que tu nombre se incluyera en la lista pública, aparecerá en la lista de firmas dentro de una hora. Si aceptaste recibir información te mantendremos informado sobre las noticias relacionadas con la campaña por correo electrónico.
+Próximos pasos Por favor ayudanos a dar un mayor impacto a tu firma compartiendo esta campaña con tus amigos.</description>
+    </item>
+    
+    <item>
+      <title>Todas las firmas públicas</title>
+      <link>/es/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/openinitiative/all-signatures/</guid>
+      <description>Esta es la lista completa con todas las personas que han firmado la carta abierta y quieren que su nombre se publique. Ya 11 personas han expresado su apoyo – ¿Eres una de ellas?
+La lista se actualiza cada hora.
+  Nombre País Comentario      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Ya llegamos...</title>
+      <link>/es/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/openinitiative/confirm/</guid>
+      <description>Por favor verifica sus correos electrónicos ¡Casi acabaste! Vas a recibir próximamente un correo electrónico con un enlace para la confirmación definitiva de su firma. Consulta por favor su carpeta de spam si no recibes el correo dentro de los siguientes 15 minutos.
+Gracias por haber firmado la carta abierta por Dinero público, código público.</description>
+    </item>
+    
+  </channel>
+</rss>

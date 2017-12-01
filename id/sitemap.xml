@@ -7,8 +7,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                hreflang="vi"
+                href="/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,8 +17,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="xy"
+                href="/xy/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,18 +42,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,47 +53,47 @@
   </url>
   
   <url>
-    <loc>/id/openletter/</loc>
+    <loc>/id/openinitiative/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/openletter/"
+                hreflang="vi"
+                href="/vi/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/openletter/"
+                href="/de/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/openletter/"
+                href="/fr/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/openletter/"
+                href="/eo/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/openletter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/openletter/"
+                href="/es/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/openletter/"
+                href="/zh_tw/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/openletter/"
+                href="/id/openinitiative/"
                 />
   </url>
   
@@ -102,8 +102,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/"
+                hreflang="vi"
+                href="/vi/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -112,8 +112,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="xy"
+                href="/xy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,18 +137,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,8 +152,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/tags/"
+                hreflang="vi"
+                href="/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,8 +162,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="xy"
+                href="/xy/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -177,18 +187,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh_tw"
                 href="/zh_tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -198,134 +198,134 @@
   </url>
   
   <url>
-    <loc>/id/openletter/all-signatures/</loc>
+    <loc>/id/openinitiative/all-signatures/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/openletter/all-signatures/"
+                href="/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/openletter/all-signatures/"
+                href="/vi/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/openletter/all-signatures/"
+                href="/de/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/openletter/all-signatures/"
+                href="/es/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/openletter/all-signatures/"
+                href="/fr/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/openletter/all-signatures/"
+                href="/eo/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/openletter/all-signatures/"
+                href="/zh_tw/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/openletter/all-signatures/"
+                href="/id/openinitiative/all-signatures/"
                 />
   </url>
   
   <url>
-    <loc>/id/openletter/</loc>
+    <loc>/id/openinitiative/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/openletter/"
+                href="/es/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/openletter/"
+                href="/fr/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/openletter/"
+                href="/de/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/openletter/"
+                href="/vi/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/openletter/"
+                href="/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/openletter/"
+                href="/eo/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/openletter/"
+                href="/zh_tw/openinitiative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/openletter/"
+                href="/id/openinitiative/"
                 />
   </url>
   
   <url>
-    <loc>/id/openletter/success/</loc>
+    <loc>/id/openinitiative/success/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/openletter/success/"
+                href="/es/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/openletter/success/"
+                href="/vi/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/openletter/success/"
+                href="/de/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/openletter/success/"
+                href="/eo/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/openletter/success/"
+                href="/fr/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/openletter/success/"
+                href="/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/openletter/success/"
+                href="/zh_tw/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/openletter/success/"
+                href="/id/openinitiative/success/"
                 />
   </url>
   
@@ -374,46 +374,46 @@
   </url>
   
   <url>
-    <loc>/id/openletter/confirm/</loc>
+    <loc>/id/openinitiative/confirm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/openletter/confirm/"
+                href="/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/openletter/confirm/"
+                href="/vi/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/openletter/confirm/"
+                href="/de/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/openletter/confirm/"
+                href="/fr/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/openletter/confirm/"
+                href="/eo/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/openletter/confirm/"
+                href="/es/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/openletter/confirm/"
+                href="/zh_tw/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/openletter/confirm/"
+                href="/id/openinitiative/confirm/"
                 />
   </url>
   
