@@ -6,7 +6,7 @@ layout: subpage
 
 ## Your signature is confirmed
 
-Thank you for signing the open initiative "Public Money, Public Code". Your support means a lot to us. 
+Thank you for signing the open letter "Public Money, Public Code". Your support means a lot to us. 
 
 If you opted-in to having your name added to the public list, your name will appear on the [list of signatures](../all-signatures) within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
 

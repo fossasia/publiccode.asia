@@ -10,12 +10,12 @@ When this policy refers to "we", this means FOSSASIA.
 
 ## What we collect and why
 
-When you use the website to sign our open initiative, we collect
+When you use the website to sign our open letter, we collect
 and store information about your name, e-mail address and country,
 which you have provided with your consent. We will publicly
-show your name as a signee to the open initiative if you consented 
+show your name as a signee to the open letter if you consented 
 to publicly show name in the [list of 
-signatures](./openinitiative/all-signatures). We will also
+signatures](./openletter/all-signatures). We will also
 provide your name and country to the recipients of the open
 letter (members of institutions involved in policy shaping). We 
 will not share your e-mail address. We store this information in 

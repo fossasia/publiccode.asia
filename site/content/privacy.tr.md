@@ -15,7 +15,7 @@ Bu web sitesini açık mektubumuzu imzalamak için kullandığınızda kendi
 rızanızla sağladığınız isminiz, e-posta adresiniz ve ülkeniz
 hakkındaki bilgileri topluyor ve saklıyoruz. Herkese açık olarak
 göstermeyi onaylamanız durumunda [imzalayanlar
-listesinde](/openinitiative/all-signatures) imzacı olarak isminizi herkese
+listesinde](/openletter/all-signatures) imzacı olarak isminizi herkese
 açık bir şekilde gösteriyoruz. İsminizi ve ülkenizi açık mektubu
 göndereceğimiz kişilere de (Avrupa Parlamentosu, ulusal veya bölgesel
 meclis üyeleri) göndereceğiz. E-posta adresinizi paylaşmayacağız. Bu

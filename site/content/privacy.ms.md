@@ -14,7 +14,7 @@ Quando usi questo sito per firmare la lettera aperta, raccogliamo
 e conserviamo informazioni da te fornite quali il tuo nome, il tuo indirizzo e-mail e
 la tua nazionalità, per le quali hai espresso il consenso al trattamento. Mostreremo
 pubblicamente il tuo nome come firmatario della lettera aperta solo se darai il tuo consenso
-a mostrare pubblicamente il tuo nome nella [lista dei firmatari](/openinitiative/all-signatures). Comunicheremo anche
+a mostrare pubblicamente il tuo nome nella [lista dei firmatari](/openletter/all-signatures). Comunicheremo anche
 il tuo nome e nazionalità ai destinatari della lettera
 aperta (i membri del Parlamento europeo e dei parlamenti nazionali o
 regionali). Non comunicheremo a terzi il tuo indirizzo e-mail.

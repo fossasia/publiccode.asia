@@ -13,7 +13,7 @@ Cuando en este documento nos referimos a "nosotros" se trata de la FSFE.
 Cuando firmas la carta abierta mediante nuestro sitio web, nosotros
 con tu consentimiento colectamos y guardamos tu nombre, dirección de
 correo electrónico y país. Nosotros mostramos públicamente
-tu nombre como un firmante de la carta abierta en la [lista de firmas](/openinitiative/all-signatures)
+tu nombre como un firmante de la carta abierta en la [lista de firmas](/openletter/all-signatures)
 si tú autorizas publicarlo. Además,
 entregaremos tu nombre y tu país a los destinatarios de la
 carta (miembros del Parlamento Europeo y parlamentarios nacionales

@@ -15,7 +15,7 @@ kolektas kaj konservas informojn pri via nomo, retpoŝt-adreso,
 kaj lando, kiujn vi donis konsente. Ni montros publike vian
 nomon kiel subskribinton de la publika letero, se vi konsentis
 publikan montron en
-la [listo de subskriboj](/openinitiative/all-signatures). Ni ankaŭ
+la [listo de subskriboj](/openletter/all-signatures). Ni ankaŭ
 prezentos vian nomon kaj landon al la ricevontoj de la publika
 letero (membroj de la Eŭropa parlamento kaj landaj aŭ regionaj
 parlamentoj). Ni ne kunhavigos vian retpoŝt-adreson. Ni

@@ -57,10 +57,10 @@
 # Action section
 [Languages.tr.action]
   headline      = "Milletvekilinize Söyleyin!"
-  intro         = "[**Açık mektubumuzda**](openinitiative/) şunu talep ediyoruz:"
+  intro         = "[**Açık mektubumuzda**](openletter/) şunu talep ediyoruz:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fsfe.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun.”"
-  description   = "Şu ana kadar **$ORGS** örgüt ve **$INDS** kişi [açık mektubumuzu](openinitiative/) imzalayarak bu eylem çağrısına desteğini sundu. Siz de imzalayarak daha büyük bir etki yaratmamıza yardımcı olabilirsiniz. Bütün bu imzaları Avrupa çapındaki kamu kurumlarında yazılım özgürlüğünü tartışan milletvekilerine sunacağız."
+  description   = "Şu ana kadar **$ORGS** örgüt ve **$INDS** kişi [açık mektubumuzu](openletter/) imzalayarak bu eylem çağrısına desteğini sundu. Siz de imzalayarak daha büyük bir etki yaratmamıza yardımcı olabilirsiniz. Bütün bu imzaları Avrupa çapındaki kamu kurumlarında yazılım özgürlüğünü tartışan milletvekilerine sunacağız."
 
 [Languages.tr.action.box]
   text      = "Şimdiye kadar **$INDS İMZA** – açık mektubu hemen imzalayın!"
@@ -73,14 +73,14 @@
   comment   = "Görüşler (en fazla 140 karakter)"
   permPriv  = "[Gizlilik beyanını](privacy/) okudum ve onaylıyorum"
   permNews  = "Kampanya hakkında haberdar olmak istiyorum"
-  permPub   = "Adımın [imzacılar listesinde](openinitiative/all-signatures) gözükmesini istiyorum"
+  permPub   = "Adımın [imzacılar listesinde](openletter/all-signatures) gözükmesini istiyorum"
   submit    = "İmzala!"
 
 
 # Organisations section
 [Languages.tr.organisations]
   headline  = "Destekleyen Örgütler"
-  text      = "Aşağıdaki örgütler [açık mektubumuzu](openinitiative/) destekliyorlar. Eğer sizin de örgütünüz Kamusal Kod çağrısına katılmakla ilgileniyorsa, lütfen [bizimle bağlantıya geçin](mailto:contact@fsfe.org)."
+  text      = "Aşağıdaki örgütler [açık mektubumuzu](openletter/) destekliyorlar. Eğer sizin de örgütünüz Kamusal Kod çağrısına katılmakla ilgileniyorsa, lütfen [bizimle bağlantıya geçin](mailto:contact@fsfe.org)."
 
 
 # Spread the word section

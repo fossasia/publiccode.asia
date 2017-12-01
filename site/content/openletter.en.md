@@ -1,5 +1,5 @@
 ---
-title: Open Initiative
+title: Open Letter
 type: page
 layout: subpage
 sigtable: true
@@ -9,7 +9,7 @@ Publicly funded software has to be [Free and Open Source Software][fs]. While th
 
 {{< fsdefinition type="box">}}
 
-This is where you can help! Sign the open initiative to give our message more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. We will hand over the letter and signatures to your representatives and make sure that they understand that: Public Money? Public Code!
+This is where you can help! Sign the open letter to give our message more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. We will hand over the letter and signatures to your representatives and make sure that they understand that: Public Money? Public Code!
 
 > ## Public Money? Public Code!
 > 

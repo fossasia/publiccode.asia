@@ -15,7 +15,7 @@ unterzeichnen, erfassen und speichern wir die Informationen zu deinem
 Namen, E-Mail-Adresse und Land, die du mit deinem Einverständnis 
 übermittelt hast. Wir werden deinen Namen als Unterzeichner des Offenen 
 Briefes öffentlich listen, wenn du zugestimmt hast, deinen Namen in der 
-[Liste aller Unterzeichner](/openinitiative/all-signatures) zu zeigen. Wir 
+[Liste aller Unterzeichner](/openletter/all-signatures) zu zeigen. Wir 
 werden ebenfalls deinen Namen und Land an die Empfänger des Offenen 
 Briefes (Mitglieder des Europäischen Parlaments und nationale oder 
 regionale Parlamente) übermitteln. Deine E-Mail-Adresse werden wir 
