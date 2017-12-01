@@ -22,7 +22,7 @@
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
   subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
-  subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**" 
+  subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**"
 
 
 # About section
@@ -43,7 +43,7 @@
 [[Languages.de.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Zusammenarbeit"
-  description = "Bei großen Projekten können Expertise und Kosten geteilt werden."  
+  description = "Bei großen Projekten können Expertise und Kosten geteilt werden."
 [[Languages.de.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Allgemeinwohl"
@@ -57,7 +57,7 @@
 # Action section
 [Languages.de.action]
   headline      = "Sag es deinen Abgeordneten!"
-  intro         = "In unserem [**Offenen Brief**](openinitiative/) fordern wir:" 
+  intro         = "In unserem [**Offenen Brief**](openinitiative/) fordern wir:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "„Wir brauchen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird.“"
   description   = "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openinitiative/) unterzeichnet haben. Du kannst uns helfen, einen viel größeren Einfluss auszuüben, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die Softwarefreiheit in öffentlichen Verwaltungen erörtern, überreichen."
@@ -66,15 +66,16 @@
   text      = "Schon **$INDS UNTERSCHRIFTEN** – jetzt den offenen Brief unterzeichnen!"
 
 [Languages.de.action.form]
-  name      = "Name (Pflichtfeld)"
-  email     = "E-Mail (Pflichtfeld)"
-  country   = "Dein Land"
-  zip       = "PLZ"
-  comment   = "Dein Kommentar (max. 140 Zeichen)"
-  permPriv  = "Ich habe die [Datenschutzerklärung](privacy/) gelesen und akzeptiere sie"
-  permNews  = "Ich möchte über den Verlauf der Kampagne informiert werden"
-  permPub   = "Meine Unterschrift in der [Unterschriftenliste](openinitiative/all-signatures) anzeigen"
-  submit    = "Jetzt unterzeichnen!"
+  name          = "Name (Pflichtfeld)"
+  email         = "E-Mail (Pflichtfeld)"
+  country       = "Dein Land"
+  region        = "Region/Stadt"
+  organization  = "Organisation"
+  comment       = "Dein Kommentar (max. 140 Zeichen)"
+  permPriv      = "Ich habe die [Datenschutzerklärung](privacy/) gelesen und akzeptiere sie"
+  permNews      = "Ich möchte über den Verlauf der Kampagne informiert werden"
+  permPub       = "Meine Unterschrift in der [Unterschriftenliste](openinitiative/all-signatures) anzeigen"
+  submit        = "Jetzt unterzeichnen!"
 
 
 # Organisations section
@@ -98,7 +99,7 @@
   imprint       = "Impressum"
   privacy       = "Datenschutz"
   transparency  = "Transparenz"
-  contribute1   = "Der Code dieser Website ist Freie Software." 
+  contribute1   = "Der Code dieser Website ist Freie Software."
   contribute2   = "Du kannst dazu beitragen, sie zu verbessern."
   license       = "Diese Seite ist lizensiert unter einer [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)-Lizenz."
 

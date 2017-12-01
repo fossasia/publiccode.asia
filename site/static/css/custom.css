@@ -38,7 +38,7 @@ blockquote p {
   overflow: hidden;
   margin-bottom: 20px;
 }
-.embedvideo iframe, .embedvideo object, .embedvideo embed { 
+.embedvideo iframe, .embedvideo object, .embedvideo embed {
   position: absolute;
   top: 0;
   left: 0;
@@ -236,8 +236,12 @@ select::-ms-expand {
   content: "\f041";
   padding-left: 4px;
 }
-.form-zp:before {
+.form-rg:before {
   content: "\f08d";
+  padding-left: 3px;
+}
+.form-og:before {
+  content: "\f085";
   padding-left: 3px;
 }
 .form-co:before {
@@ -306,10 +310,10 @@ table#sigtable th, table#sigtable td {
 }
 table#sigtable tr:nth-child(even) {
   background-color: rgba(230, 230, 230, 0.05);
-} 
+}
 table#sigtable tr:hover {
   background-color: rgba(230, 230, 230, 0.1);
-} 
+}
 
 /* LINK STYLES */
 .navbar-nav a {
