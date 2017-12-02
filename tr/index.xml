@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Money, Public Code</title>
+    <link>/tr/</link>
+    <description>Recent content on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    
+	<atom:link href="/tr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Açık Mektup</title>
+      <link>/tr/openinitiative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/openinitiative/</guid>
+      <description>Kamu tarafından finanse edilen yazılımların Özgür ve Açık Kaynak Kodlu Yazılım olması gerekmektedir. Bunun için bir çok gerekçe var ancak çoğu politikacı bu gerekçelerden haberdar değil.
+Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.
+ Bu noktada bize yardımcı olabilirsiniz! Açık mektubumuzu imzalayarak mesajımızı güçlendirebilirsiniz. Şimdiye kadar  11 kişi ve  1 örgüt imzaladı.</description>
+    </item>
+    
+    <item>
+      <title>Bitmek üzere...</title>
+      <link>/tr/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/openinitiative/confirm/</guid>
+      <description>Şimdi e-posta gelen kutunuza bakın Neredeyse bitti! Çok kısa bir süre içerisinde imzanızın son doğrulaması için bağlantı içeren bir e-posta alacaksınız. Eğer e-posta 15 dakika içerisinde gelmezse, lütfen istenmeyen/spam e-postalar dizinine de bakın.
+Kamusal Para, Kamusal Kod açık mektubunu imzaladığınız için teşekkür ederiz.</description>
+    </item>
+    
+    <item>
+      <title>Bütün Herkese Açık İmzalar</title>
+      <link>/tr/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/openinitiative/all-signatures/</guid>
+      <description>Bu liste açık mektubu imzalayan ve isminin herkes tarafından görülmesini kabul eden kişilerin listesidir. Şimdiye kadar 11 kişi desteğini ifade etti, sen onlardan biri misin?
+Bu liste saatte bir yenilenmektedir.
+  İsim Ülke Görüş      ÎÏÏÎ® Î· ÏÎµÎ»Î¯Î´Î±  ÑÑÑÐ°Ð½Ð¸ÑÑ Ð¼Ð¾Ð³ ååçç¨æ¶ä¸åéå¶   Test2 Portugal Test again   Fan Czech Republic Yeah   Max2 Bulgaria This is the same email as Max1   Max1 Belgium    Test Testson 2 Sweden Hey Max!</description>
+    </item>
+    
+    <item>
+      <title>Gizlilik Politikası</title>
+      <link>/tr/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/privacy/</guid>
+      <description>publiccode.eu web sitesi FSFE e.V. tarafından yayınlanmaktadır. Bu sayfada &amp;ldquo;biz&amp;rdquo; geçen yerler FSFE&amp;rsquo;yi kastetmektedir.
+Ne topluyoruz ve neden Bu web sitesini açık mektubumuzu imzalamak için kullandığınızda kendi rızanızla sağladığınız isminiz, e-posta adresiniz ve ülkeniz hakkındaki bilgileri topluyor ve saklıyoruz. Herkese açık olarak göstermeyi onaylamanız durumunda imzalayanlar listesinde imzacı olarak isminizi herkese açık bir şekilde gösteriyoruz. İsminizi ve ülkenizi açık mektubu göndereceğimiz kişilere de (Avrupa Parlamentosu, ulusal veya bölgesel meclis üyeleri) göndereceğiz.</description>
+    </item>
+    
+    <item>
+      <title>İmzaladığınız için teşekkürler!</title>
+      <link>/tr/openinitiative/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/openinitiative/success/</guid>
+      <description>İmzanız onaylandı &amp;ldquo;Kamusal Para, Kamusal Kod&amp;rdquo; açık mektubunu imzaladığınız için teşekkür ederiz. Desteğinizin anlamı büyük.
+Eğer isminizin herkese açık listede gözükmesini istediyseniz, sonraki saat içerisinde isminiz imzalayanların listesinde gözükecektir. Daha fazla bilgi almak istiyorum seçeneğini işaretlediyseniz, bu kampanyaya ilişkin haberleri e-posta aracılığıyla size ulaştırmayı sürdüreceğiz.
+Sonraki adımlar Lütfen bu kampanyayı arkadaşlarınızla paylaşın ve imzanızla güçlü bir etki sağlama konusunda bize yardımcı olun. Birlikte kamu kurumlarında ve politikada karar alıcıları yeni finanse edilen yazılımlar için Özgür ve Açık Kaynak Kodlu Yazılım lisanslarını bütün Avrupa&amp;rsquo;daki kamu sektöründe standart model yapmaları için cesaretlendireceğiz.</description>
+    </item>
+    
+  </channel>
+</rss>
