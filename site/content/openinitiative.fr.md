@@ -33,6 +33,6 @@ C'est là que vous pouvez nous aider ! Signez la lettre ouverte pour donner plus
 >
 > **“Mettre en œuvre une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de Logiciel Libre et Open Source.”**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.fr.html "Les Logiciels Libres donnent à tous les droits d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée."
+[fs]: https://fossasia.org/freesoftware/basics/summary.fr.html "Les Logiciels Libres donnent à tous les droits d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée."
 
 <!--- Les personnes suivantes ont déjà signé la lettre et accepté que leur signature soit publiée. En ferez-vous partie ? --->

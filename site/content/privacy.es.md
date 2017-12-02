@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-El sitio web **publiccode.eu** es administrado por la
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
+El sitio web **publiccode.asia** es administrado por la
+[FSFE e.V.](https://fossasia.org/about/legal/imprint.html)
 Cuando en este documento nos referimos a "nosotros" se trata de la FSFE.
 
 ## Que datos recogemos y para que
@@ -51,4 +51,4 @@ Si tienes alguna duda sobre como nosotros usamos tus datos puedes
 pedir una copia de toda la información que tenemos guardada de ti o
 para cualquier otra inquietud puedes hablar con nuestro encargado
 de protección de datos, nuestro encargado es el director ejecutivo de la FSFE y
-puedes contactarlo en [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+puedes contactarlo en [executive-director@fossasia.org](mailto:executive-director@fossasia.org).

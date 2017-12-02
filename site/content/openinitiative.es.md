@@ -31,4 +31,4 @@ El software financiado con fondos públicos ha de ser [Software Libre y de Códi
 > 
 > **"Aplicar la legislación que exige que el software financiado con fondos públicos desarrollado para el sector público se ponga a disposición del público bajo una licencia de Software Libre y de Código Abierto".**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "El Software Libre otorga a todo el mundo el derecho a usar, entender, adaptar y compartir software. Estos derechos ayudan a apoyar otras libertades fundamentales como la libertad de expresión, de prensa y la privacidad."
+[fs]: https://fossasia.org/freesoftware/basics/summary.html "El Software Libre otorga a todo el mundo el derecho a usar, entender, adaptar y compartir software. Estos derechos ayudan a apoyar otras libertades fundamentales como la libertad de expresión, de prensa y la privacidad."

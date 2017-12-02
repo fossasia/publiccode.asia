@@ -4,8 +4,8 @@ type: page
 layout: subpage
 ---
 
-**publiccode.eu** web sitesi [FSFE
-e.V.](https://fsfe.org/about/legal/imprint.html) tarafından
+**publiccode.asia** web sitesi [FSFE
+e.V.](https://fossasia.org/about/legal/imprint.html) tarafından
 yayınlanmaktadır. Bu sayfada "biz" geçen yerler FSFE'yi
 kastetmektedir.
 
@@ -50,6 +50,6 @@ Verilerinizin kullanımına ilişkn sorularınız varsa, hakkınızda
 sakladığımız verilerin bir kopyasını istiyorsanız veya Veri Koruma
 Yetkili'mizle herhangi başka bir konuda konuşmak istiyorsanız
 görevlendirilmiş Veri Koruma Yetkilimiz
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org)
+[executive-director@fossasia.org](mailto:executive-director@fossasia.org)
 e-posta adresi aracılığıyla ulaşabileceğiniz FSFE'nin yönetici
 müdürüdür.

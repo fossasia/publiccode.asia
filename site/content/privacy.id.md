@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-Η ιστοσελίδα **publiccode.eu** συντηρείται από το
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
+Η ιστοσελίδα **publiccode.asia** συντηρείται από το
+[FSFE e.V.](https://fossasia.org/about/legal/imprint.html)
 Όταν αυτό το κείμενο αναφέρεται "εμείς", εννοεί το FSFE.
 
 ## Τι συλλέγουμε και γιατί
@@ -52,4 +52,4 @@ layout: "subpage"
 θες να μιλήσεις με τον υπεύθυνο μας για την Προστασία Δεδομένων για
 οποιοδήποτε άλλο λόγο, ο υπεύθυνος Προστασίας Δεδομένων είναι ο
 εκτελεστικός διευθυντής του FSFE, με τον οποίο μπορείς να επικοινωνήσεις
-στο [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+στο [executive-director@fossasia.org](mailto:executive-director@fossasia.org).
