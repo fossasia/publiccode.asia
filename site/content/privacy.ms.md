@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-Il sito **publiccode.eu** è gestito dalla [FSFE
-e.V.](https://fsfe.org/about/legal/imprint.html). Quando nel presente documento
+Il sito **publiccode.asia** è gestito dalla [FSFE
+e.V.](https://fossasia.org/about/legal/imprint.html). Quando nel presente documento
 ci si riferisce a "noi", ci si riferisce alla FSFE.
 
 ## Cosa raccogliamo e perché
@@ -50,4 +50,4 @@ Nel caso tu abbia domande sull'uso dei tuoi dati, o desiderassi
 richiedere una copia di tutte le informazioni che conserviamo sul tuo conto, o
 desiderassi contattare il nostro Responsabile per la protezione dei dati per altri
 motivi, il nostro Responsabile per la protezione dei dati è il
-direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fossasia.org](mailto:executive-director@fossasia.org).

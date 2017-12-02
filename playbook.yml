@@ -4,7 +4,7 @@
 
   tasks:
     - name: build the pmpc container
-      command: docker build -t pmpc https://git.fsfe.org/pmpc/website.git
+      command: docker build -t pmpc https://git.fossasia.org/pmpc/website.git
 
     - name: run pmpc
       docker_container:
@@ -16,7 +16,7 @@
           HUGO_BASE_URL: https://publiccode.asia/
           VIRTUAL_HOST: publiccode.asia,www.publiccode.asia
           LETSENCRYPT_HOST: publiccode.asia,www.publiccode.asia
-          LETSENCRYPT_EMAIL: jonas@fsfe.org
+          LETSENCRYPT_EMAIL: jonas@fossasia.org
         volumes:
           - "/srv/forms/pmpc:/usr/share/blog/data/signatures:ro"
           - "/srv/pmpc-cred:/srv/cred:ro"

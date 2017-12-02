@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-La retejo **publiccode.eu** estas funkciigata de
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
+La retejo **publiccode.asia** estas funkciigata de
+[FSFE e.V.](https://fossasia.org/about/legal/imprint.html)
 En tiu ĉi politiko, «ni» signifas la organizaĵon FSFE.
 
 ## Kion ni kolektas kaj kial
@@ -51,4 +51,4 @@ Se vi havas demandojn pri nia uzo de viaj datumoj, ŝatus peti
 kopion de ĉiuj konservitaj informoj pri vi, aŭ ŝatus paroli kun
 nia oficisto de datum-protektado por ajna alia celo, nia
 komisiita oficisto de datum-protektado estas la plenuma
-direktoro de FSFE, kiun vi povas kontakti per [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+direktoro de FSFE, kiun vi povas kontakti per [executive-director@fossasia.org](mailto:executive-director@fossasia.org).

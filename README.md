@@ -85,4 +85,4 @@ We are using Travis to automatically build the website. The site is automaticall
 
 ## Licence
 
-This site is based on the website publiccode.eu of the Free Software Foundation Europe e.V. Software applications are all free software and used under the respective licenses. The site itself is Copyright 2017 by the FSFE, FOSSASIA and its contributors and licensed under the GPLv3 license.
+This site is based on the website publiccode.asia of the Free Software Foundation Europe e.V. Software applications are all free software and used under the respective licenses. The site itself is Copyright 2017 by the FSFE, FOSSASIA and its contributors and licensed under the GPLv3 license.

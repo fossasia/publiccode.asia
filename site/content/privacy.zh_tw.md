@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-本網站 **publiccode.eu** 是由
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
+本網站 **publiccode.asia** 是由
+[FSFE e.V.](https://fossasia.org/about/legal/imprint.html)
 （歐洲自由軟體基金會）所營運。此政策中的「我們」指的就是 FSFE。
 
 ## 我們收集什麼資料，又是為什麼收集
@@ -38,4 +38,4 @@ FSFE 的工作人員與實習生均能存取。此外 FSFE 的系統管理團隊
 
 如果您有任何關於我們使用您的資料的問題，或是想要一份所有我們儲存關於您
 的資料的複本，或是有任何原因想與我們的資料保護團隊負責人，也就是 FSFE
-的執行長聯繫，請寫信到[executive-director@fsfe.org](mailto:executive-director@fsfe.org)。
+的執行長聯繫，請寫信到[executive-director@fossasia.org](mailto:executive-director@fossasia.org)。

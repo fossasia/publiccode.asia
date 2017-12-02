@@ -71,4 +71,4 @@ zij begrijpen: Publiek Geld? Publieke Code!
 <!--- De onderstaande mensen hebben de brief al ondertekend en hebben toegestemd
 om hun handtekening openbaar te maken.  Bent u de volgende? --->
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.nl.html "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."
+[fs]: https://fossasia.org/freesoftware/basics/summary.nl.html "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."

@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-Die Webseite **publiccode.eu** wird betrieben von [FSFE 
-e.V.](https://fsfe.org/about/legal/imprint.html). Wenn im folgenden von 
+Die Webseite **publiccode.asia** wird betrieben von [FSFE 
+e.V.](https://fossasia.org/about/legal/imprint.html). Wenn im folgenden von 
 "wir" gesprochen wird, ist damit die FSFE gemeint.
 
 ## Was wir erfassen und warum
@@ -56,5 +56,5 @@ aller Informationen, die wir über dich erhoben haben, erhalten willst,
 oder unseren Datenschutzbeauftragten bezüglich anderer Themen sprechen 
 möchtest, ist unser verantwortlicher Datenschutzbeauftragter der 
 Geschäftsführer der FSFE, den du unter 
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org) 
+[executive-director@fossasia.org](mailto:executive-director@fossasia.org) 
 erreichst.

@@ -4,8 +4,8 @@ type: "page"
 layout: "subpage"
 ---
 
-Le site web **publiccode.eu** est géré par la
-[FSFE e.V.](https://fsfe.org/about/legal/imprint.html)
+Le site web **publiccode.asia** est géré par la
+[FSFE e.V.](https://fossasia.org/about/legal/imprint.html)
 L'utilisation du terme "nous" fait référence à la FSFE.  
 
 ## Ce que nous collectons et pourquoi
@@ -26,4 +26,4 @@ Vous avez un droit d'accès aux données personnelles que nous avons stockées s
 
 ## Qui contacter
 
-Si vous avez des questions sur l'utilisation que nous faisons de vos données, si vous souhaitez demander une copie de toute l'information que nous avons stockée sur vous, ou que vous aimeriez parler à notre Responsable de la Protection des Données,qui est le directeur exécutif de la FSFE, vous pouvez le joindre à [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+Si vous avez des questions sur l'utilisation que nous faisons de vos données, si vous souhaitez demander une copie de toute l'information que nous avons stockée sur vous, ou que vous aimeriez parler à notre Responsable de la Protection des Données,qui est le directeur exécutif de la FSFE, vous pouvez le joindre à [executive-director@fossasia.org](mailto:executive-director@fossasia.org).

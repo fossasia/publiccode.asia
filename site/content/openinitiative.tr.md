@@ -37,4 +37,4 @@ Bu noktada bize yardımcı olabilirsiniz! Açık mektubumuzu imzalayarak mesajı
 >
 > **"Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların Özgür ve Açık Kaynak Kodlu Yazılım lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur."
+[fs]: https://fossasia.org/freesoftware/basics/summary.html "Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur."
