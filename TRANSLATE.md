@@ -30,7 +30,7 @@ There are a few locations where you find translatable files. All of them are ins
 ### Content/
 
 * In `content/` are the sub-pages like [/privacy](https://publiccode.asia/privacy). All files are written in the [Markdown syntax](https://en.wikipedia.org/wiki/Markdown).
-* In the sub-directory called `openletter` are more files that need to be translated.
+* In the sub-directory called `openinitiative` are more files that need to be translated.
 
 In all files you'll find a *header* which starts and ends with `---` (three dashes). In this header, all you have to translate is the `title:` value which
 defines the title and headline of the page. The other values like `type` and`layout` stay the same over all languages.

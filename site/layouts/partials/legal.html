@@ -6,7 +6,6 @@
     <p>{{ .Site.Params.legal.by }} <a href="https://fossasia.org/" target="_blank"></a>
     – <a href="https://fsfe.org/about/legal/imprint.{{ .Lang }}.html" target="_blank">{{ .Site.Params.legal.imprint }}</a> 
     | <a href="{{ "privacy/" | relLangURL }}">{{ .Site.Params.legal.privacy }}</a> 
-    | <a href="https://fossasia.org/" target="_self">{{ .Site.Params.legal.transparency }}</a> 
     – Copyright &copy; {{ (now).Year }}</p>
     <p>{{ .Site.Params.legal.license | markdownify }}</p>
   </div>
