@@ -21,7 +21,7 @@
 # Start banner
 [Languages.es.start]
   subtitle1   = "¿Por qué el software creado con dinero de los impuestos no se publica como Software Libre?"
-  subtitle2   = "Queremos una legislación que permita que el software desarrollado para el sector público y financiado con recursos públicos esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://fsfe.org/freesoftware/basics/summary.html 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.'). Si es dinero público debería ser también código público."
+  subtitle2   = "Queremos una legislación que permita que el software desarrollado para el sector público y financiado con recursos públicos esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.'). Si es dinero público debería ser también código público."
   subtitle3   = "**El código pagado por los ciudadanos debería estar disponible para los ciudadanos!**"
 
 
@@ -59,7 +59,7 @@
   headline      = "¡Hablemos con nuestros representantes!"
   intro         = "En nuestra [**carta abierta**](openinitiative/) pedimos:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implementar una legislación que permita que el software desarrollado para el sector público y con dinero público esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://fsfe.org/freesoftware/basics/summary.html 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. Sobre estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.')”"
+  demand        = "“Implementar una legislación que permita que el software desarrollado para el sector público y con dinero público esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. Sobre estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.')”"
   description   = "**$ORGS** organizaciones y **$INDS** individuos ya están acompañando este llamado a participar, ellos están firmando nuestra [carta abierta](openinitiative/). ¡Firmandola tú nos puedes ayudar a conseguir un mayor impacto! Nosotros entregaremos todas las firmas a los representantes en toda Europa que están debatiendo sobre el software libre en la administración pública."
 
 [Languages.es.action.box]
@@ -81,13 +81,13 @@
 # Organisations section
 [Languages.es.organisations]
   headline  = "Organizaciones acompañantes"
-  text      = "Las siguientes organizaciones apoyan nuestra [carta abierta](openinitiative/). Si tu organización está interesada en ser incluida en la campaña por el código público, por favor [contactanos](mailto:contact@fsfe.org)."
+  text      = "Las siguientes organizaciones apoyan nuestra [carta abierta](openinitiative/). Si tu organización está interesada en ser incluida en la campaña por el código público, por favor [contactanos](mailto:contact@fossasia.org)."
 
 
 # Spread the word section
 [Languages.es.spread]
   headline          = "Corre la voz!"
-  promoText         = "Pide las últimas calcomanías y volantes de la FSFE"
+  promoText         = "Pide las últimas calcomanías y volantes de la FOSSASIA"
   promoButtonText   = "Ver el material promocional"
   shareText         = "Habla con tus amigos y seguidores sobre el Código Público:"
   defaultSocialText = "Si es dinero público el código debería ser publico también. Yo acompaño la convocatoria para tener más código público bajo una licencia de Software Libre:"
