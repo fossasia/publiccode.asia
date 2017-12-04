@@ -19,7 +19,7 @@ retpoŝto.
 Bonvolu helpi nin kaŭzante egan efekton per via subskribo, kaj [kunhavigu ĉi
 tiun kampanjon](../../#spread). Kune ni instigos decidistojn politikajn normigi
 liberajn kaj malfermitkodajn programajn permesilojn por nove financita
-programaro en la publika sektoro tra Eŭropo.
+programaro en la publika sektoro tra Azio.
 
 Kun via subteno, ni helpos al decidistoj tra Asia kompreni, ke eldonado de
 ilia kodo sub liberaj kaj malfermitkodaj programaj permesiloj estas la plej bona
