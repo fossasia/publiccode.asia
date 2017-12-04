@@ -30,10 +30,10 @@
 # Start banner
 [Languages.vi.start]
   # subtitle1   = "Why is software created using taxpayers' money not released as Free Software?"
-  # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fossasia.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
+  # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
   # subtitle3   = "**Code paid by the people should be available to the people!**"
   subtitle1  = "Waarom is software die geschreven is met belastinggeld niet beschikbaar als Vrije Software?"
-  subtitle2  = "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://fossasia.org/freesoftware/basics/summary.html 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn."
+  subtitle2  = "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn."
   subtitle3  = "**Code die betaald is door iedereen moet beschikbaar zijn voor iedereen!**"
 
 
@@ -87,7 +87,7 @@
 [Languages.vi.action]
   # headline      = "Tell Your Representatives!"
   # intro         = "In our [**open initiative**](openinitiative/) we demand:"
-  # demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fossasia.org/freesoftware/basics/summary.html 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"
+  # demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"
   # description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
   headline      = "Vertel uw vertegenwoordigers!"
   intro         = "In onze [**open brief**](openinitiative/) eisen we:"
@@ -132,12 +132,12 @@
 # Spread the word section
 [Languages.vi.spread]
   # headline          = "Spread the word!"
-  # promoText         = "Order the latest stickers and flyers from FSFE"
+  # promoText         = "Order the latest stickers and flyers from FOSSSIA"
   # promoButtonText   = "Get promo material"
   # shareText         = "Tell your friends and followers about Public Code:"
   # defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software license: "
   headline          = "Vertel het verder!"
-  promoText         = "Bestel de nieuwste stickers en flyers van de FSFE"
+  promoText         = "Bestel de nieuwste stickers en flyers van de FOSSASIA"
   promoButtonText   = "Bestel promotiemateriaal"
   shareText         = "Vertel uw vrienden en volgers over Publieke Code:"
   defaultSocialText = "Als het publiek geld is, dan moet het ook publieke code zijn! Ik steun de eis voor meer publieke code onder een Vrije Softwarelicentie:"

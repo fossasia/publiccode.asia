@@ -21,7 +21,7 @@
 # Start banner
 [Languages.tr.start]
   subtitle1   = "Vergi verenlerin parasıyla üretilen yazılımlar neden Özgür Yazılım olarak yayınlanmıyor?"
-  subtitle2   = "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fossasia.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır!"
+  subtitle2   = "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır!"
   subtitle3   = "**Halkın parasıyla üretilen kod, halka açık olmalıdır!**"
 
 
@@ -59,7 +59,7 @@
   headline      = "Milletvekilinize Söyleyin!"
   intro         = "[**Açık mektubumuzda**](openinitiative/) şunu talep ediyoruz:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fossasia.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun.”"
+  demand        = "“Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun.”"
   description   = "Şu ana kadar **$ORGS** örgüt ve **$INDS** kişi [açık mektubumuzu](openinitiative/) imzalayarak bu eylem çağrısına desteğini sundu. Siz de imzalayarak daha büyük bir etki yaratmamıza yardımcı olabilirsiniz. Bütün bu imzaları Avrupa çapındaki kamu kurumlarında yazılım özgürlüğünü tartışan milletvekilerine sunacağız."
 
 [Languages.tr.action.box]
@@ -87,7 +87,7 @@
 # Spread the word section
 [Languages.tr.spread]
   headline          = "Haberi Duyurun!"
-  promoText         = "FSFE'den en güncel çıkartma ve broşürleri sipariş edin"
+  promoText         = "FOSSASIA'den en güncel çıkartma ve broşürleri sipariş edin"
   promoButtonText   = "Tanıtım malzemesi isteyin"
   shareText         = "Arkadaş ve takipçilerinize Kamusal Kod çağrısını duyurun:"
   defaultSocialText = "Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır. Daha fazla kamusal kodun Özgür Yazılım lisansı kapsamına alınması çağrısını destekliyorum:"
