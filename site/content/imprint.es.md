@@ -1,1 +1,5 @@
-this is the imprint
+---
+title: "Aviso Legal"
+type: "page"
+layout: "subpage"
+---

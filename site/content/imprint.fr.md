@@ -1,1 +1,5 @@
-this is the imprint
+---
+title: "Mentions Légales"
+type: "page"
+layout: "subpage"
+---

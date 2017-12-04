@@ -1,1 +1,5 @@
-this is the imprint
+---
+title: "Impressum"
+type: "page"
+layout: "subpage"
+---
