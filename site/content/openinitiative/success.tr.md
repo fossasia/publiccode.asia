@@ -21,7 +21,7 @@ Lütfen [bu kampanyayı arkadaşlarınızla paylaşın](../../#spread) ve
 imzanızla güçlü bir etki sağlama konusunda bize yardımcı olun.
 Birlikte kamu kurumlarında ve politikada karar alıcıları yeni finanse
 edilen yazılımlar için Özgür ve Açık Kaynak Kodlu Yazılım lisanslarını
-bütün Avrupa'daki kamu sektöründe standart model yapmaları için
+bütün Asya'daki kamu sektöründe standart model yapmaları için
 cesaretlendireceğiz.
 
 Desteğinizle bütün Asia'da karar alıcıların, kodları Özgür ve Açık

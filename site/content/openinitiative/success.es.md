@@ -12,6 +12,6 @@ Si aceptaste que tu nombre se incluyera en la lista pública, aparecerá en la [
 
 ## Próximos pasos
 
-Por favor ayudanos a dar un mayor impacto a tu firma [compartiendo esta campaña](../../#spread) con tus amigos. Juntos podemos influir sobre los que toman las decisiones en política y administración pública para hacer a las licencias de Software Libre y Código Abierto el estándar para el software financiado recientemente en el sector público de toda Europa.
+Por favor ayudanos a dar un mayor impacto a tu firma [compartiendo esta campaña](../../#spread) con tus amigos. Juntos podemos influir sobre los que toman las decisiones en política y administración pública para hacer a las licencias de Software Libre y Código Abierto el estándar para el software financiado recientemente en el sector público de toda Asia.
 
 Con tu apoyo ayudaremos a los que toman decisiones sobre toda Asia a entender que publicar el código bajo una licencia de Software Libre y Código Abierto es la mejor solución para ellos, otras administraciones, compañías y especialmente el público en general.
