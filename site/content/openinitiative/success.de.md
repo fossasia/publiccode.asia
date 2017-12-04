@@ -12,10 +12,10 @@ Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterschriftenliste hi
 
 ## Nächste Schritte
 
-Bitte hilf uns, deine Unterschrift einen großen Einfluss zu verleihen und [teile diese Kampagne](../../#spread) mit deinen Freunden. Gemeinsam werden wir Entscheidungsträger in Politik und Öffentlichen Verwaltungen ermutigen, Freie Software und Open Source als Standard für neu finanzierte Software für den öffentlichen Sektor in ganz Europa zu verankern. 
+Bitte hilf uns, deine Unterschrift einen großen Einfluss zu verleihen und [teile diese Kampagne](../../#spread) mit deinen Freunden. Gemeinsam werden wir Entscheidungsträger in Politik und Öffentlichen Verwaltungen ermutigen, Freie Software und Open Source als Standard für neu finanzierte Software für den öffentlichen Sektor in ganz Asien zu verankern.
 
-Du kannst auch [Sticker und Informationsmaterialien](https://fossasia.org/promo#pmpc) von der Free Software Foundation Europe bestellen.
+Du kannst auch [Sticker und Informationsmaterialien](https://fossasia.org/promo#pmpc) von der Free Software Foundation Asia bestellen.
 
-Stärke Freie Software in Europa und [unterstütze die FSFE](https://fossasia.org/donate/?pmpc) oder eine der anderen [unterstützenden Organisationen](../../#organisations).
+Stärke Freie Software in Asien und [unterstütze die FSFE](https://fossasia.org/donate/?pmpc) oder eine der anderen [unterstützenden Organisationen](../../#organisations).
 
-Mit deiner Unterstützung werden wir Entscheidern in ganz Europa dabei helfen zu verstehen, dass die Veröffentlichung von Code unter einer Freie-Software- und Open-Source-Lizenz die beste Lösung für sie, andere Verwaltungen, Firmen und vor allem die Allgemeinheit ist.
+Mit deiner Unterstützung werden wir Entscheidern in ganz Asien dabei helfen zu verstehen, dass die Veröffentlichung von Code unter einer Freie-Software- und Open-Source-Lizenz die beste Lösung für sie, andere Verwaltungen, Firmen und vor allem die Allgemeinheit ist.

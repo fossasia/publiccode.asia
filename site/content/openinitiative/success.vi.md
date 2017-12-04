@@ -12,12 +12,12 @@ Als u koos om uw naam toe te voegen aan de openbare lijst, dan zal uw naam versc
 
 ## Volgende stappen
 
-Help ons door uw handtekening een enorm effect te geven en [deel deze campagne](../../#spread).  Samen zullen we politieke besluitvormers overhalen om het gebruik van Vrije en Open Bron Softwarelicenties standaard te maken in de publieke sector in heel Europa.
+Help ons door uw handtekening een enorm effect te geven en [deel deze campagne](../../#spread).  Samen zullen we politieke besluitvormers overhalen om het gebruik van Vrije en Open Bron Softwarelicenties standaard te maken in de publieke sector in heel Azië.
 
-You can also [order stickers and informational material](https://fossasia.org/promo#pmpc) from the Free Software Foundation Europe.
+You can also [order stickers and informational material](https://fossasia.org/promo#pmpc) from the Free Software Foundation Asia.
 
-U kunt ook [stickers en voorlichtingsmaterial bestellen](https://fossasia.org/promo#pmpc) van de Free Software Foundation Europe.
+U kunt ook [stickers en voorlichtingsmaterial bestellen](https://fossasia.org/promo#pmpc) van de Free Software Foundation Asia.
 
-Maak Vrije Software in Europa sterker en overweeg om [de FSFE](https://fossasia.org/donate/?pmpc) of één van de andere [ondersteunende organisaties](../../#organisations) te steunen.
+Maak Vrije Software in Azië sterker en overweeg om [de FSFE](https://fossasia.org/donate/?pmpc) of één van de andere [ondersteunende organisaties](../../#organisations) te steunen.
 
-Met uw steun zullen besluitvormers in heel Europe begrijpen dat het gebruiken van Vrije en Open Source Softwarelicenties de beste oplossing is voor hen, andere overheden, bedrijven, en voornamelijk het algemeen publiek.
+Met uw steun zullen besluitvormers in heel Asia begrijpen dat het gebruiken van Vrije en Open Source Softwarelicenties de beste oplossing is voor hen, andere overheden, bedrijven, en voornamelijk het algemeen publiek.

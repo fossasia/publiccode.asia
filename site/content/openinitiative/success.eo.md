@@ -19,15 +19,15 @@ retpoŝto.
 Bonvolu helpi nin kaŭzante egan efekton per via subskribo, kaj [kunhavigu ĉi
 tiun kampanjon](../../#spread). Kune ni instigos decidistojn politikajn normigi
 liberajn kaj malfermitkodajn programajn permesilojn por nove financita
-programaro en la publika sektoro tra Eŭropo.
+programaro en la publika sektoro tra Azio.
 
 Vi ankaŭ povas [mendi gluetikedojn kaj informilojn](https://fossasia.org/promo#pmpc)
-de Free Software Foundation Europe.
+de Free Software Foundation Asia.
 
-Fortigu liberan programaron en Eŭropo kaj pripensu [subteni la
+Fortigu liberan programaron en Azio kaj pripensu [subteni la
 FSFE](https://fossasia.org/donate/?pmpc) aŭ unu el la aliaj [subtenantaj
 organizaĵoj](../../#organisations).
 
-Kun via subteno, ni helpos al decidistoj tra Eŭropo kompreni, ke eldonado de
+Kun via subteno, ni helpos al decidistoj tra Azio kompreni, ke eldonado de
 ilia kodo sub liberaj kaj malfermitkodaj programaj permesiloj estas la plej bona
 solvo por ili, aliaj administristaroj, firmaoj, kaj precipe la ĝenerala publiko.

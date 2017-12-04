@@ -60,7 +60,7 @@
   intro         = "En nuestra [**carta abierta**](openinitiative/) pedimos:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Implementar una legislación que permita que el software desarrollado para el sector público y con dinero público esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. Sobre estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.')”"
-  description   = "**$ORGS** organizaciones y **$INDS** individuos ya están acompañando este llamado a participar, ellos están firmando nuestra [carta abierta](openinitiative/). ¡Firmandola tú nos puedes ayudar a conseguir un mayor impacto! Nosotros entregaremos todas las firmas a los representantes en toda Europa que están debatiendo sobre el software libre en la administración pública."
+  description   = "**$ORGS** organizaciones y **$INDS** individuos ya están acompañando este llamado a participar, ellos están firmando nuestra [carta abierta](openinitiative/). ¡Firmandola tú nos puedes ayudar a conseguir un mayor impacto! Nosotros entregaremos todas las firmas a los representantes en toda Asia que están debatiendo sobre el software libre en la administración pública."
 
 [Languages.es.action.box]
   text      = "Hay **$INDS SIGNATURES** – firma la carta abierta ahora!"
@@ -95,7 +95,7 @@
 
 # Legal Section
 [Languages.es.legal]
-  by            = "Esta es una campaña de la Free Software Foundation Europe"
+  by            = "Esta es una campaña de la Free Software Foundation Asia"
   imprint       = "Imprimir"
   privacy       = "Privacidad"
   transparency  = "Transparencia"
