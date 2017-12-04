@@ -12,7 +12,7 @@ Als u koos om uw naam toe te voegen aan de openbare lijst, dan zal uw naam versc
 
 ## Volgende stappen
 
-Help ons door uw handtekening een enorm effect te geven en [deel deze campagne](../../#spread).  Samen zullen we politieke besluitvormers overhalen om het gebruik van Vrije en Open Bron Softwarelicenties standaard te maken in de publieke sector in heel Europa.
+Help ons door uw handtekening een enorm effect te geven en [deel deze campagne](../../#spread).  Samen zullen we politieke besluitvormers overhalen om het gebruik van Vrije en Open Bron Softwarelicenties standaard te maken in de publieke sector in heel Azië.
 
 You can also [order stickers and informational material](https://fossasia.org/promo#pmpc) from the Free Software Foundation Europe.
 

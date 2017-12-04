@@ -88,12 +88,12 @@
   # headline      = "Tell Your Representatives!"
   # intro         = "In our [**open initiative**](openinitiative/) we demand:"
   # demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence.”"
-  # description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+  # description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Asia that are debating software freedom in public administration."
   headline      = "Vertel uw vertegenwoordigers!"
   intro         = "In onze [**open brief**](openinitiative/) eisen we:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
   demand        = "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
-  description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openinitiative/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in overheden."
+  description   = "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openinitiative/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Azië die debatteren over softwarevrijheid in overheden."
 
 [Languages.vi.action.box]
   # text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"

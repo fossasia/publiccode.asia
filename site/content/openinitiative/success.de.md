@@ -12,6 +12,6 @@ Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterschriftenliste hi
 
 ## Nächste Schritte
 
-Bitte hilf uns, deine Unterschrift einen großen Einfluss zu verleihen und [teile diese Kampagne](../../#spread) mit deinen Freunden. Gemeinsam werden wir Entscheidungsträger in Politik und Öffentlichen Verwaltungen ermutigen, Free Open Source Software als Standard für neu finanzierte Software für den öffentlichen Sektor in ganz Europa zu verankern. 
+Bitte hilf uns, deine Unterschrift einen großen Einfluss zu verleihen und [teile diese Kampagne](../../#spread) mit deinen Freunden. Gemeinsam werden wir Entscheidungsträger in Politik und Öffentlichen Verwaltungen ermutigen, Free Open Source Software als Standard für neu finanzierte Software für den öffentlichen Sektor in ganz Asien zu verankern.
 
 Mit deiner Unterstützung werden wir Entscheidern in ganz Asien dabei helfen zu verstehen, dass die Veröffentlichung von Code unter einer Open-Source-Lizenz die beste Lösung für sie, andere Verwaltungen, Firmen und vor allem die Allgemeinheit ist.
