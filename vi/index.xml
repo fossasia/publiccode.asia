@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/vi/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vi/imprint/</guid>
-      <description>this is the imprint</description>
-    </item>
-    
-    <item>
       <title>Alle openbare handtekeningen</title>
       <link>/vi/openinitiative/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +39,15 @@ Als u koos om uw naam toe te voegen aan de openbare lijst, dan zal uw naam versc
       <guid>/vi/openinitiative/confirm/</guid>
       <description>Bekijk uw e-mail nu U bent bijna klaar! Binnenkort ontvangt u een e-mail met een link naar de definitieve bevestiging voor uw handtekening. Controlleer uw spam-map als u de link niet ontvangt binnen de komende 15 minuten.
 Bedankt voor het ondertekenen van de open brief van Publiek Geld, Publieke Code.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/vi/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/imprint/</guid>
+      <description></description>
     </item>
     
     <item>

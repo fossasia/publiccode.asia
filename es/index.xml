@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/es/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/imprint/</guid>
-      <description>this is the imprint</description>
-    </item>
-    
-    <item>
       <title>!Gracias por firmar!</title>
       <link>/es/openinitiative/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,6 +19,15 @@
       <description>Tu firma está confirmada Gracias por firmar la carta abierta &amp;ldquo;Public Money, Public Code&amp;rdquo;. Tu apoyo significa mucho para nosotros.
 Si aceptaste que tu nombre se incluyera en la lista pública, aparecerá en la lista de firmas dentro de una hora. Si aceptaste recibir información te mantendremos informado sobre las noticias relacionadas con la campaña por correo electrónico.
 Próximos pasos Por favor ayudanos a dar un mayor impacto a tu firma compartiendo esta campaña con tus amigos.</description>
+    </item>
+    
+    <item>
+      <title>Aviso Legal</title>
+      <link>/es/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/imprint/</guid>
+      <description></description>
     </item>
     
     <item>

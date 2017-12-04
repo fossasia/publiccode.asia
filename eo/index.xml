@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/eo/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/eo/imprint/</guid>
-      <description>this is the imprint</description>
-    </item>
-    
-    <item>
       <title>Dankon pro via subskribo!</title>
       <link>/eo/openinitiative/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,6 +19,15 @@
       <description>Via subskribo konfirmiĝis Dankon pro via subskribo de la publika letero «Publika mono, publika kodo». Via subteno multe valoras por ni.
 Se vi elektis aldoni vian nomon al la publika listo, via nomo aperos en la listo de subskriboj en unu horo. Se vi elektis ricevi pluajn informojn, ni vin informos pri novaĵoj koncerne ĉi tiun kampanjon per retpoŝto.
 Sekve Bonvolu helpi nin kaŭzante egan efekton per via subskribo, kaj kunhavigu ĉi tiun kampanjon.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/eo/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/eo/imprint/</guid>
+      <description></description>
     </item>
     
     <item>

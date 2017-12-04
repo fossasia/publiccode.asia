@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/hi/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/imprint/</guid>
-      <description>this is the imprint</description>
-    </item>
-    
-    <item>
       <title>All Public Signatures</title>
       <link>/hi/openinitiative/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,6 +29,15 @@ The list is updated hourly.
       <guid>/hi/openinitiative/confirm/</guid>
       <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
 Thank you for signing the open initiative for Public Money, Public Code.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/hi/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/imprint/</guid>
+      <description></description>
     </item>
     
     <item>

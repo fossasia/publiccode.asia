@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/de/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/de/imprint/</guid>
-      <description>this is the imprint</description>
-    </item>
-    
-    <item>
       <title>Alle öffentlichen Unterschriften</title>
       <link>/de/openinitiative/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +48,15 @@ Wenn du zugestimmt hast, dass dein Name der öffentlichen Unterschriftenliste hi
       <guid>/de/openinitiative/confirm/</guid>
       <description>Schaue jetzt in dein E-Mail-Postfach Du bist fast fertig! Du wirst eine E-Mail erhalten, in der du einen Link für die abschließende Bestätigung deiner Unterschrift findest. Bitte überprüfe deinen Spam-Ordner, wenn du keine E-Mail in den nächsten 15 Minuten erhältst.
 Vielen Dank für die Unterzeichnung des Offenen Briefes für Public Money, Public Code.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>/de/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/imprint/</guid>
+      <description></description>
     </item>
     
     <item>
