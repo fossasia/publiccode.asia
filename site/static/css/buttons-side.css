@@ -54,7 +54,7 @@ div.sharecolumn .share-buttons.side {
 }
 .share-buttons.side .share-gplus {
   background-image: url("../img/service-icons/gplus_white.png");
-  display: none !important;
+  /* display: none !important; */
 }
 .share-buttons.side .share-support {
   background-image: url("../img/service-icons/support_red.png");

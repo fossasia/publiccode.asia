@@ -68,7 +68,7 @@
 .share-buttons.spread .share-gplus {
   background-color: #d34836;
   background-image: url("../img/service-icons/gplus_white.png");
-  display: none !important;
+  /* display: none !important; */
 }
 .share-buttons.spread .share-gplus:hover {
   background-color: #b12614 !important;
