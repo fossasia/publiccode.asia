@@ -282,6 +282,10 @@ function openPageFromButton(buton,form) {
             query.append('title',form.title)
             open('https://reddit.com/submit?'+query.toString())
             break;
+        case "gplus":
+            query.append("url",window.location.href)
+            open('https://plus.google.com/share?'+query.toString())
+            break;
     }
 }
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
