@@ -9,7 +9,7 @@ Publicly funded software ought to be Free and Open Source Software (FOSS). While
 
 {{< fsdefinition type="box">}}
 
-Please sign the initiative to give the FOSS message in Asia more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. Your support will help to increase the general publics awareness: Public Money? Public Code!
+Please sign the initiative to give the FOSS message in Asia more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. Your support will help to increase the general public's awareness: Public Money? Public Code!
 
 > ## Public Money? Public Code!
 >
