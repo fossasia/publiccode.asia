@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
     <head>
-        <!-- Build time: 2017-12-04 23:14:14.088499083 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-05 12:25:09.919473528 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -223,7 +223,7 @@
     <h2 class="hidden">Legal Information</h2>
     <p>De code van deze website is Vrije Software. <a href="https://github.com/fossasia/publiccode.asia" target="_blank">U bent van harte welkom om bij te dragen!</a></p>
     <p>Dit is een compagne door Free Software Foundation Europe <a href="https://fossasia.org/" target="_blank"></a>
-    – <a href="/imprint/">Imprint</a> 
+    – <a href="/vi/imprint/">Imprint</a> 
     | <a href="/vi/privacy/">Privacy</a> 
     – Copyright &copy; 2017</p>
     <p>Dit werk valt onder een <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.nl">Creative Commons BY-SA 4.0 Licentie</a>.</p>
@@ -241,7 +241,7 @@
 <div class="sharecolumn">
 
 
-<form action="https://fossasia.org/share" method="GET" class="share-buttons side" target="_blank">
+<form action="https://fsgfe.org/share" method="GET" class="share-buttons side" target="_blank">
   <input name="popup" id="no-share-popup-side" type="radio" />
   <input name="ref" value="pmpc-side" type="hidden" />
   <input name="url" value="https://publiccode.asia/vi" type="hidden" />
@@ -281,6 +281,295 @@
 
 
         <!-- jQuery -->
+<script type="text/javascript">
+var serialize=(function() {
+    var k_r_submitter = /^(?:submit|button|image|reset|file)$/i;
+
+    
+    var k_r_success_contrls = /^(?:input|select|textarea|keygen)/i;
+
+    
+    var brackets = /(\[[^\[\]]*\])/g;
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    function serialize(form, options) {
+        if (typeof options != 'object') {
+            options = {
+                hash: !!options
+            };
+        } else if (options.hash === undefined) {
+            options.hash = true;
+        }
+
+        var result = (options.hash) ? {} : '';
+        var serializer = options.serializer || ((options.hash) ? hash_serializer : str_serialize);
+
+        var elements = form && form.elements ? form.elements : [];
+
+        
+        var radio_store = Object.create(null);
+
+        for (var i = 0; i < elements.length; ++i) {
+            var element = elements[i];
+
+            
+            if ((!options.disabled && element.disabled) || !element.name) {
+                continue;
+            }
+            
+            if (!k_r_success_contrls.test(element.nodeName) ||
+                k_r_submitter.test(element.type)) {
+                continue;
+            }
+
+            var key = element.name;
+            var val = element.value;
+
+            
+            
+            if ((element.type === 'checkbox' || element.type === 'radio') && !element.checked) {
+                val = undefined;
+            }
+
+            
+            if (options.empty) {
+                
+                if (element.type === 'checkbox' && !element.checked) {
+                    val = '';
+                }
+
+                
+                if (element.type === 'radio') {
+                    if (!radio_store[element.name] && !element.checked) {
+                        radio_store[element.name] = false;
+                    } else if (element.checked) {
+                        radio_store[element.name] = true;
+                    }
+                }
+
+                
+                if (val == undefined && element.type == 'radio') {
+                    continue;
+                }
+            } else {
+                
+                if (!val) {
+                    continue;
+                }
+            }
+
+            
+            if (element.type === 'select-multiple') {
+                val = [];
+
+                var selectOptions = element.options;
+                var isSelectedOptions = false;
+                for (var j = 0; j < selectOptions.length; ++j) {
+                    var option = selectOptions[j];
+                    var allowedEmpty = options.empty && !option.value;
+                    var hasValue = (option.value || allowedEmpty);
+                    if (option.selected && hasValue) {
+                        isSelectedOptions = true;
+
+                        
+                        
+                        
+                        
+                        
+                        if (options.hash && key.slice(key.length - 2) !== '[]') {
+                            result = serializer(result, key + '[]', option.value);
+                        } else {
+                            result = serializer(result, key, option.value);
+                        }
+                    }
+                }
+
+                
+                if (!isSelectedOptions && options.empty) {
+                    result = serializer(result, key, '');
+                }
+
+                continue;
+            }
+
+            result = serializer(result, key, val);
+        }
+
+        
+        if (options.empty) {
+            for (var key in radio_store) {
+                if (!radio_store[key]) {
+                    result = serializer(result, key, '');
+                }
+            }
+        }
+
+        return result;
+    }
+
+    function parse_keys(string) {
+        var keys = [];
+        var prefix = /^([^\[\]]*)/;
+        var children = new RegExp(brackets);
+        var match = prefix.exec(string);
+
+        if (match[1]) {
+            keys.push(match[1]);
+        }
+
+        while ((match = children.exec(string)) !== null) {
+            keys.push(match[1]);
+        }
+
+        return keys;
+    }
+
+    function hash_assign(result, keys, value) {
+        if (keys.length === 0) {
+            result = value;
+            return result;
+        }
+
+        var key = keys.shift();
+        var between = key.match(/^\[(.+?)\]$/);
+
+        if (key === '[]') {
+            result = result || [];
+
+            if (Array.isArray(result)) {
+                result.push(hash_assign(null, keys, value));
+            } else {
+                
+                
+                
+                
+                
+                result._values = result._values || [];
+                result._values.push(hash_assign(null, keys, value));
+            }
+
+            return result;
+        }
+
+        
+        if (!between) {
+            result[key] = hash_assign(result[key], keys, value);
+        } else {
+            var string = between[1];
+            
+            
+            
+            var index = +string;
+
+            
+            
+            if (isNaN(index)) {
+                result = result || {};
+                result[string] = hash_assign(result[string], keys, value);
+            } else {
+                result = result || [];
+                result[index] = hash_assign(result[index], keys, value);
+            }
+        }
+
+        return result;
+    }
+
+    
+    function hash_serializer(result, key, value) {
+        var matches = key.match(brackets);
+
+        
+        
+        
+        if (matches) {
+            var keys = parse_keys(key);
+            hash_assign(result, keys, value);
+        } else {
+            
+            var existing = result[key];
+
+            
+            
+            
+            
+            
+            
+            if (existing) {
+                if (!Array.isArray(existing)) {
+                    result[key] = [existing];
+                }
+
+                result[key].push(value);
+            } else {
+                result[key] = value;
+            }
+        }
+
+        return result;
+    }
+
+    
+    function str_serialize(result, key, value) {
+        
+        value = value.replace(/(\r)?\n/g, '\r\n');
+        value = encodeURIComponent(value);
+
+        
+        value = value.replace(/%20/g, '+');
+        return result + (result ? '&' : '') + encodeURIComponent(key) + '=' + value;
+    }
+    return serialize
+})()
+function onformSubmit(form, callback) {
+    var submitActors = form.querySelectorAll("[type='submit']");
+    var submitActor = null;
+    Array.prototype.forEach.call(submitActors, function(button) {
+        button.addEventListener('click', function() {
+            submitActor = button;
+        })
+    })
+    form.onsubmit = function(ev) {
+        if(!submitActor){submitActor=submitActors[0]}
+        callback(submitActor,serialize(form,{hash:true}));
+        ev.preventDefault();
+    }
+}
+
+function openPageFromButton(buton,form) {
+    var query=new URLSearchParams();
+    switch (buton.value) {
+        case "facebook":
+            query.append("u",window.location.href)
+            open("https://www.facebook.com/sharer/sharer.php?"+query.toString());
+            break;
+        case "twitter":{
+            query.append("url",window.location.href)
+            query.append('text',form.title)
+            open("https://twitter.com/share?"+query.toString());
+            break;
+        }
+        case "reddit":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://reddit.com/submit?'+query.toString())
+            break;
+    }
+}
+Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
+    onformSubmit(form, openPageFromButton)
+})
+</script>
 <script type="text/javascript" src="/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
