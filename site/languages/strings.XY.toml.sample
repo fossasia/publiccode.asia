@@ -180,7 +180,7 @@
   transparency  = "Transparency"
   contribute1   = "The code of this website is licensed as Free and Open Source Software."
   contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "This work is licensed by its [contributores](https://github.com/fossasia/publiccode.asia/contributors) under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 ## Language selection
 #[Languages.en.language]
