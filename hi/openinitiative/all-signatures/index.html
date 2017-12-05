@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="hi">
     <head>
-        <!-- Build time: 2017-12-05 21:25:46.801711162 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-05 21:36:46.719531571 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -306,6 +306,7 @@
 
         <!-- jQuery -->
 <script type="text/javascript">
+
 var serialize=(function() {
     var k_r_submitter = /^(?:submit|button|image|reset|file)$/i;
 
@@ -587,6 +588,10 @@ function openPageFromButton(buton,form) {
             query.append("url",window.location.href)
             query.append('title',form.title)
             open('https://reddit.com/submit?'+query.toString())
+            break;
+        case "gplus":
+            query.append("url",window.location.href)
+            open('https://plus.google.com/share?'+query.toString())
             break;
     }
 }
