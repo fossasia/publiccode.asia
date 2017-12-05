@@ -22,7 +22,7 @@ Please sign the initiative to give the FOSS message in Asia more weight. **{{< c
 > We need software that fosters the sharing of best practices and solutions. We need software that guarantees transparency, government oversight and trust. We need software that helps public administrations and businesses regain full control of their critical digital infrastructure, allowing them to remain sovereign and provide their services to the citizens. We call for support of Free and Open Source Software (FOSS) in public administrations, because:
 >
 > * FOSS enables us to use, study, share and improve applications.
-> * FOSS licenses provide safeguards against being locked in to services from providers that use restrictive licences to hinder competition.
+> * FOSS licenses provide safeguards against being locked in to services from providers that use restrictive licensees to hinder competition.
 > * FOSS ensures that the source code is accessible so that security weaknesses and backdoors can be fixed.
 >
 > Public bodies are financed through taxes. It is their mission to make sure they spend funds in the most efficient way possible. If it is public money, it should be public code as well!
@@ -30,6 +30,6 @@ Please sign the initiative to give the FOSS message in Asia more weight. **{{< c
 >
 > That is why we, the undersigned, call decision makers, businesses and representatives to:
 >
-> **"Take all necessary measures and work together to implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence."**
+> **"Take all necessary measures and work together to implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software license."**
 
 [fs]: https://en.wikipedia.org/wiki/Free_and_open-source_software
