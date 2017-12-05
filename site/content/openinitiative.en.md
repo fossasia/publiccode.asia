@@ -15,8 +15,8 @@ Please sign the initiative to give the FOSS message in Asia more weight. **{{< c
 >
 > Digital services offered and used by our public administrations are the critical infrastructure of the 21st century. In order to ensure our systems are trustworthy and reliable, governments and businesses must have full control over the software and the computer systems at the core of the state digital infrastructure. However, right now, this is rarely the case due to restrictive licensing models that:
 >
-> * Prevent sharing and exchanging publicly funded code. This prevents cooperation between public administrations and hinders further development.
-> * Result in formation of monopolies by hindering competition. Make administrations become dependent on a handful of foreign companies.
+> * Prevent sharing and exchanging publicly funded code. This prevents cooperation within the public administration and with businesses and hinders further development.
+> * Result in formation of monopolies by hindering competition. Make administrations become dependent on a handful of companies.
 > * Endanger the security of our digital infrastructure by denying access to the source code. Without code access fixing backdoors and security holes becomes extremely difficult, if not completely impossible.
 >
 > We need software that fosters the sharing of best practices and solutions. We need software that guarantees transparency, government oversight and trust. We need software that helps public administrations and businesses regain full control of their critical digital infrastructure, allowing them to remain sovereign and provide their services to the citizens. We call for support of Free and Open Source Software (FOSS) in public administrations, because:
