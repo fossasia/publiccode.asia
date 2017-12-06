@@ -54,10 +54,10 @@
   followup    = "Gelooft u dat Vrije Software de standaardoptie zou moeten zijn voor publiek gefinancieerde software?  **Laten we onze politieke vertegenwoordigers overtuigen!**"
   buttonText  = "Onderteken de Open Brief"
 [[Languages.vi.arguments.list]]
-  # icon        = "fa-eur"
+  # icon        = "fa-dollar"
   # title       = "Tax savings"
   # description = "Similar applications don't have to be programmed from scratch every time."
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-dollar"  # <-- do not translate this
   title       = "Besparen op belastingen"
   description = "Soortgelijke toepassingen hoeven niet opnieuw van de grond af ontwikkeld te worden."
 [[Languages.vi.arguments.list]]
