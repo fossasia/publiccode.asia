@@ -287,6 +287,11 @@ function openPageFromButton(buton,form) {
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
             break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
+            break;
     }
 }
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
