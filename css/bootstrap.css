@@ -288,8 +288,8 @@ th {
 .glyphicon-plus:before {
   content: "\2b";
 }
-.glyphicon-euro:before,
-.glyphicon-eur:before {
+.glyphicon-dollar:before,
+.glyphicon-usd:before {
   content: "\20ac";
 }
 .glyphicon-minus:before {
