@@ -37,7 +37,7 @@
   followup    = "¿Crees que el Software Libre debe ser la opción principal para el software financiado públicamente? **Necesitamos convencer a los políticos que nos representan!**"
   buttonText  = "Firma la carta abierta"
 [[Languages.es.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Ahorro de impuestos"
   description = "Aplicaciones similares no tienen que ser programadas desde cero una y otra vez."
 [[Languages.es.arguments.list]]
