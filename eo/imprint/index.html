@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="eo">
     <head>
-        <!-- Build time: 2017-12-06 13:27:05.974477876 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-06 19:29:58.767985311 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -252,6 +252,11 @@
     
     
       <button type="submit" name="service" value="gplus" class="button share-gplus" title="Publikigi en Google&#43; " onclick="return changeTitleside('Teme pri publika mono, temu pri publika kodo. Mi subtenas ĉi tiun vokon por pli da publika kodo sub liberaj permesiloj:')">&nbsp;</button>
+    
+  
+    
+    
+      <button type="submit" name="service" value="linkedin" class="button share-linkedin" title="Publikigi en LinkedIn " onclick="return changeTitleside('Teme pri publika mono, temu pri publika kodo! Mi vokas kun @FOSSASIA por pli da publika kodo! #publiccode')">&nbsp;</button>
     
   
     
@@ -568,6 +573,11 @@ function openPageFromButton(buton,form) {
         case "gplus":
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
+            break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
     }
 }

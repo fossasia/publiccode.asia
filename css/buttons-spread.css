@@ -35,6 +35,13 @@
 .share-buttons.spread .share-reddit:hover {
   background-color: #dd3500 !important;
 }
+.share-buttons.spread .share-linkedin {
+  background-color: #007bb5;
+  background-image: url("../img/service-icons/linkedin_white.png");
+}
+.share-buttons.spread .share-linkedin:hover {
+  background-color: #04669A !important;
+}
 .share-buttons.spread .share-flattr {
   background-color: #7ea352;
   background-image: url("../img/service-icons/flattr_white.png");

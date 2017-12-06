@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
     <head>
-        <!-- Build time: 2017-12-06 13:27:06.003756286 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-06 19:29:58.754039294 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -259,6 +259,11 @@
     
     
       <button type="submit" name="service" value="gplus" class="button share-gplus" title="Μοίρασε στο Google&#43; " onclick="return changeTitleside('If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:')">&nbsp;</button>
+    
+  
+    
+    
+      <button type="submit" name="service" value="linkedin" class="button share-linkedin" title="Μοίρασε στο LinkedIn " onclick="return changeTitleside('If it is public money, it should be public code as well! I support @FOSSASIA\x27s initiative for more #PublicCode')">&nbsp;</button>
     
   
     
@@ -575,6 +580,11 @@ function openPageFromButton(buton,form) {
         case "gplus":
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
+            break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
     }
 }

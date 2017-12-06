@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <!-- Build time: 2017-12-06 13:27:05.729912339 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-06 19:29:58.793557212 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -252,6 +252,11 @@
     
     
       <button type="submit" name="service" value="gplus" class="button share-gplus" title="Auf Google&#43; teilen" onclick="return changeTitleside('Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz:')">&nbsp;</button>
+    
+  
+    
+    
+      <button type="submit" name="service" value="linkedin" class="button share-linkedin" title="Auf LinkedIn teilen" onclick="return changeTitleside('Öffentliches Geld muss öffentlichen Code bedeuten! Ich unterstütze die Initiative von @FOSSASIA für mehr #PublicCode')">&nbsp;</button>
     
   
     
@@ -568,6 +573,11 @@ function openPageFromButton(buton,form) {
         case "gplus":
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
+            break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
     }
 }

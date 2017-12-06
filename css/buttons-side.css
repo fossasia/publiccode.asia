@@ -38,6 +38,9 @@ div.sharecolumn .share-buttons.side {
 .share-buttons.side .share-reddit {
   background-image: url("../img/service-icons/reddit_white.png");
 }
+.share-buttons.side .share-linkedin {
+  background-image: url("../img/service-icons/linkedin_white.png");
+}
 .share-buttons.side .share-flattr {
   background-image: url("../img/service-icons/flattr_white.png");
   display: none !important;

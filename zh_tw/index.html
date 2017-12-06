@@ -2,7 +2,7 @@
 
 <html lang="zh_tw">
     <head>
-        <!-- Build time: 2017-12-06 13:27:05.805583021 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-06 19:29:58.608369645 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,27 +18,27 @@
 
   <link type="text/html" rel="alternate" hreflang="hi" lang="hi" href="/hi/" title="Hindi">
 
-  <link type="text/html" rel="alternate" hreflang="de" lang="de" href="/de/" title="Deutsch">
-
-  <link type="text/html" rel="alternate" hreflang="es" lang="es" href="/es/" title="Español">
-
   <link type="text/html" rel="alternate" hreflang="xy" lang="xy" href="/xy/" title="Bahasa Melayu">
 
-  <link type="text/html" rel="alternate" hreflang="vi" lang="vi" href="/vi/" title="Tiếng Việt">
-
-  <link type="text/html" rel="alternate" hreflang="tm" lang="tm" href="/tm/" title="Tamil">
+  <link type="text/html" rel="alternate" hreflang="tr" lang="tr" href="/tr/" title="Türkçe">
 
   <link type="text/html" rel="alternate" hreflang="bg" lang="bg" href="/bg/" title="Bengali">
 
-  <link type="text/html" rel="alternate" hreflang="en" lang="en" href="/" title="English">
-
   <link type="text/html" rel="alternate" hreflang="fr" lang="fr" href="/fr/" title="Français">
 
-  <link type="text/html" rel="alternate" hreflang="eo" lang="eo" href="/eo/" title="Esperanto">
+  <link type="text/html" rel="alternate" hreflang="en" lang="en" href="/" title="English">
 
   <link type="text/html" rel="alternate" hreflang="id" lang="id" href="/id/" title="Bahasa Indonesia">
 
-  <link type="text/html" rel="alternate" hreflang="tr" lang="tr" href="/tr/" title="Türkçe">
+  <link type="text/html" rel="alternate" hreflang="eo" lang="eo" href="/eo/" title="Esperanto">
+
+  <link type="text/html" rel="alternate" hreflang="de" lang="de" href="/de/" title="Deutsch">
+
+  <link type="text/html" rel="alternate" hreflang="tm" lang="tm" href="/tm/" title="Tamil">
+
+  <link type="text/html" rel="alternate" hreflang="vi" lang="vi" href="/vi/" title="Tiếng Việt">
+
+  <link type="text/html" rel="alternate" hreflang="es" lang="es" href="/es/" title="Español">
 
   <link type="text/html" rel="alternate" hreflang="tl" lang="tl" href="/tl/" title="Telugu">
 
@@ -52,17 +52,17 @@
 
 <meta property="og:locale:alternate" content="gj"/>
 <meta property="og:locale:alternate" content="hi"/>
-<meta property="og:locale:alternate" content="de"/>
-<meta property="og:locale:alternate" content="es"/>
 <meta property="og:locale:alternate" content="xy"/>
-<meta property="og:locale:alternate" content="vi"/>
-<meta property="og:locale:alternate" content="tm"/>
-<meta property="og:locale:alternate" content="bg"/>
-<meta property="og:locale:alternate" content="en"/>
-<meta property="og:locale:alternate" content="fr"/>
-<meta property="og:locale:alternate" content="eo"/>
-<meta property="og:locale:alternate" content="id"/>
 <meta property="og:locale:alternate" content="tr"/>
+<meta property="og:locale:alternate" content="bg"/>
+<meta property="og:locale:alternate" content="fr"/>
+<meta property="og:locale:alternate" content="en"/>
+<meta property="og:locale:alternate" content="id"/>
+<meta property="og:locale:alternate" content="eo"/>
+<meta property="og:locale:alternate" content="de"/>
+<meta property="og:locale:alternate" content="tm"/>
+<meta property="og:locale:alternate" content="vi"/>
+<meta property="og:locale:alternate" content="es"/>
 <meta property="og:locale:alternate" content="tl"/>
 
 <!-- Twitter meta-data -->
@@ -843,6 +843,11 @@
   
     
     
+      <button type="submit" name="service" value="linkedin" class="button share-linkedin" title="分享到 LinkedIn " onclick="return changeTitlespread('拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @FOSSASIA 的呼籲！ #PublicCode')">LinkedIn</button>
+    
+  
+    
+    
       <button type="submit" name="service" value="reddit" class="button share-reddit" title="分享到 Reddit " onclick="return changeTitlespread('使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權：')">Reddit</button>
     
   
@@ -954,6 +959,11 @@
     
     
       <button type="submit" name="service" value="gplus" class="button share-gplus" title="分享到 Google&#43; " onclick="return changeTitleside('使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權：')">&nbsp;</button>
+    
+  
+    
+    
+      <button type="submit" name="service" value="linkedin" class="button share-linkedin" title="分享到 LinkedIn " onclick="return changeTitleside('拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @FOSSASIA 的呼籲！ #PublicCode')">&nbsp;</button>
     
   
     
@@ -1276,6 +1286,11 @@ function openPageFromButton(buton,form) {
         case "gplus":
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
+            break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
     }
 }
