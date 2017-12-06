@@ -37,7 +37,7 @@
   followup    = "Vous pensez que le Logiciel Libre devrait être la norme pour le logiciel financé par le public ? Allons convaincre vos responsables politiques !"
   buttonText  = "Signer la lettre ouverte"
 [[Languages.fr.arguments.list]]
-  icon        = "fa-eur"
+  icon        = "fa-usd"
   title       = "Économies fiscales"
   description = "Des applications similaires n’ont pas besoin d’être programmées à partir de zéro à chaque fois."
 [[Languages.fr.arguments.list]]
