@@ -448,3 +448,24 @@ a:hover {
     display: none;
   }
 }
+/* On scroll navigation appearance */
+.navbar-collapse > .nav > li> a,
+.navbar-collapse .nav>li>a:focus{
+    color: #fff !important;
+    border: none;
+}
+.navbar-default {
+    background-color: transparent !important;
+    border-bottom: 1px solid #fff !important;
+}
+.changed-nav {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+}
+.changed-nav > div > .navbar-collapse > .nav > li> a,
+.changed-nav > div > .nav>li>a:focus{
+    color: #222 !important;
+}
+.navbar-collapse > .nav > li > a:active {
+    color: #5a5a5a !important;
+}
+
