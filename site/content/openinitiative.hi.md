@@ -1,5 +1,5 @@
 ---
-title: Open Initiative
+title: खुला पहल
 type: page
 layout: subpage
 sigtable: true
