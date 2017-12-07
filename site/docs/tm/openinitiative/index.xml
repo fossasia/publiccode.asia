@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openinitiatives on Public Money, Public Code</title>
+    <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/</link>
+    <description>Recent content in Openinitiatives on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tm</language>
+    
+	<atom:link href="https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All Public Signatures</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/all-signatures/</guid>
+      <description>This is the complete list of all the people who signed the open initiative and agreed to have their names made public. 0people have expressed their support already – are you one of them?
+The list is updated hourly.
+NameCountryComment</description>
+    </item>
+    
+    <item>
+      <title>Almost done...</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/confirm/</guid>
+      <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
+Thank you for signing the open initiative for Public Money, Public Code.</description>
+    </item>
+    
+    <item>
+      <title>Thank you for signing!</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/tm/openinitiative/success/</guid>
+      <description>Your signature is confirmed Thank you for signing the open initiative &amp;ldquo;Public Money, Public Code&amp;rdquo;. Your support means a lot to us.
+If you opted-in to having your name added to the public list, your name will appear on the list of signatures within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
+Next Steps Please help us by giving your signature a huge impact and share this campaign with your friends.</description>
+    </item>
+    
+  </channel>
+</rss>

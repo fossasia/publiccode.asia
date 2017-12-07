@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+# Redirect 404 errors to nice page
+ErrorDocument 404 /404.html

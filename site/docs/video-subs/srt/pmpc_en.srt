@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:01,240
+Imagine for a moment
+
+2
+00:00:01,240 --> 00:00:03,900
+our government would treat our public infrastructure,
+
+3
+00:00:03,900 --> 00:00:06,100
+like our streets and public buildings,
+
+4
+00:00:06,100 --> 00:00:09,480
+the same way it treats our digital infrastructure:
+
+5
+00:00:09,480 --> 00:00:12,560
+Our members of parliament would work in a rented space
+
+6
+00:00:12,560 --> 00:00:16,360
+where they weren't allowed to vote in favor of stricter environmental laws
+
+7
+00:00:16,360 --> 00:00:19,240
+because the owner - a multinational corporation -
+
+8
+00:00:19,240 --> 00:00:22,580
+didn't allow that kind of voting in its buildings.
+
+9
+00:00:22,840 --> 00:00:25,240
+Nor will it allow a long overdue upgrade
+
+10
+00:00:25,240 --> 00:00:27,240
+to more than 500 seats.
+
+11
+00:00:27,240 --> 00:00:31,820
+This means some members of parliament have to stay outside, in the street.
+
+12
+00:00:31,820 --> 00:00:33,940
+And a couple of blocks away
+
+13
+00:00:33,940 --> 00:00:36,960
+a brand new gym is already being torn down,
+
+14
+00:00:36,960 --> 00:00:39,460
+just six months after it was built.
+
+15
+00:00:39,460 --> 00:00:42,440
+It's being replaced with an exact replica -
+
+16
+00:00:42,440 --> 00:00:44,020
+at great expense.
+
+17
+00:00:44,020 --> 00:00:45,440
+And the only difference:
+
+18
+00:00:45,440 --> 00:00:50,460
+The new manufacturer also provides "Streetball" as an added feature.
+
+19
+00:00:50,540 --> 00:00:51,620
+Meanwhile,
+
+20
+00:00:51,620 --> 00:00:54,620
+every night, through a hidden backdoor in the city hall,
+
+21
+00:00:54,620 --> 00:00:57,920
+documents that contain sensitive information on citizens,
+
+22
+00:00:57,920 --> 00:00:59,920
+from bank data to healthcare records,
+
+23
+00:00:59,920 --> 00:01:01,920
+are being stolen.
+
+24
+00:01:01,920 --> 00:01:05,060
+But no one is allowed to do anything about it,
+
+25
+00:01:05,060 --> 00:01:08,760
+because searching for backdoors and locking them
+
+26
+00:01:08,760 --> 00:01:11,840
+would infringe the signed user agreement.
+
+27
+00:01:11,840 --> 00:01:14,540
+And as absurd as this sounds,
+
+28
+00:01:14,540 --> 00:01:17,120
+when it comes to our digital infrastructure -
+
+29
+00:01:17,120 --> 00:01:19,220
+things like the software and programs
+
+30
+00:01:19,220 --> 00:01:21,560
+that our governments are using everyday -
+
+31
+00:01:21,700 --> 00:01:24,660
+this comparison is pretty accurate.
+
+32
+00:01:24,660 --> 00:01:26,040
+Because mostly,
+
+33
+00:01:26,040 --> 00:01:29,820
+our administrations procure proprietary software.
+
+34
+00:01:29,820 --> 00:01:33,420
+This means a lot of money goes into licenses
+
+35
+00:01:33,420 --> 00:01:35,960
+that last for a limited amount of time
+
+36
+00:01:35,960 --> 00:01:38,360
+and restrict our rights.
+
+37
+00:01:38,360 --> 00:01:41,000
+We aren't allowed to use our infrastructure
+
+38
+00:01:41,000 --> 00:01:43,000
+in a reasonable way.
+
+39
+00:01:43,000 --> 00:01:46,580
+And because the source code of proprietary software
+
+40
+00:01:46,580 --> 00:01:49,320
+is usually a business secret,
+
+41
+00:01:49,320 --> 00:01:52,640
+finding security holes or deliberately installed backdoors
+
+42
+00:01:52,640 --> 00:01:55,960
+is extremely difficult and even illegal.
+
+43
+00:01:55,960 --> 00:01:59,580
+But our public administrations can do better!
+
+44
+00:01:59,580 --> 00:02:04,540
+If all publicly financed software were to be Free and Open Source,
+
+45
+00:02:04,540 --> 00:02:07,440
+we could use and share our infrastructure
+
+46
+00:02:07,440 --> 00:02:10,140
+for anything and for as long as we wanted.
+
+47
+00:02:10,140 --> 00:02:12,140
+We could upgrade it,
+
+48
+00:02:12,140 --> 00:02:14,140
+repair it,
+
+49
+00:02:14,140 --> 00:02:15,580
+and remodel it
+
+50
+00:02:15,580 --> 00:02:18,360
+in any way to fit our needs.
+
+51
+00:02:18,360 --> 00:02:21,800
+And because the "Open Source" in Free Software means
+
+52
+00:02:21,800 --> 00:02:25,080
+that the blueprint is openly readable for everyone,
+
+53
+00:02:25,080 --> 00:02:29,860
+this makes it much easier to find and close security holes.
+
+54
+00:02:29,860 --> 00:02:34,660
+And if something practical and reliable was created digitally,
+
+55
+00:02:34,660 --> 00:02:39,100
+not only can you reuse the blueprint all over your country,
+
+56
+00:02:39,100 --> 00:02:42,960
+but the actual thing itself can be deployed anywhere,
+
+57
+00:02:42,960 --> 00:02:44,960
+even internationally!
+
+58
+00:02:44,960 --> 00:02:48,580
+A great example of this is "FixMyStreet":
+
+59
+00:02:48,580 --> 00:02:50,460
+Originally developed in Great Britain
+
+60
+00:02:50,460 --> 00:02:52,420
+as a Free Software app to report,
+
+61
+00:02:52,420 --> 00:02:54,420
+view and discuss local problems
+
+62
+00:02:54,420 --> 00:02:55,940
+like potholes,
+
+63
+00:02:55,960 --> 00:02:59,080
+it's now being used all over the world.
+
+64
+00:02:59,160 --> 00:03:00,700
+Everyone benefits
+
+65
+00:03:00,700 --> 00:03:02,960
+because new features and improvements
+
+66
+00:03:02,960 --> 00:03:04,960
+are shared by everyone.
+
+67
+00:03:05,200 --> 00:03:08,480
+If all our software were developed like this,
+
+68
+00:03:08,480 --> 00:03:12,220
+we could stop struggling with restrictive licenses
+
+69
+00:03:12,220 --> 00:03:14,860
+and could start thinking about where and how
+
+70
+00:03:14,860 --> 00:03:16,860
+software could help us.
+
+71
+00:03:16,860 --> 00:03:18,040
+We could concentrate
+
+72
+00:03:18,040 --> 00:03:20,920
+on creating a better society for everyone.
+
+73
+00:03:20,920 --> 00:03:24,200
+So, if you think that tomorrow's infrastructure
+
+74
+00:03:24,200 --> 00:03:26,460
+should be in our own hands,
+
+75
+00:03:26,460 --> 00:03:29,680
+help us now by sharing this video
+
+76
+00:03:29,680 --> 00:03:31,460
+and visiting our website:
+
+77
+00:03:31,460 --> 00:03:33,460
+www.publiccode.asia
+
+78
+00:03:33,800 --> 00:03:36,460
+It's time to make our demand:
+
+79
+00:03:36,460 --> 00:03:38,180
+Public money?
+
+80
+00:03:38,180 --> 00:03:39,940
+Public code!
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openinitiatives on Public Money, Public Code</title>
+    <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/</link>
+    <description>Recent content in Openinitiatives on Public Money, Public Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Merci d&#39;avoir signé !</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/success/</guid>
+      <description>Votre signature est confirmée Merci d&amp;rsquo;avoir signé la lettre ouverte &amp;ldquo;Argent public, Code public&amp;rdquo;. Votre soutien est important pour nous.
+Si vous avez accepté que votre nom soit inscrit sur la liste publique, celui-ci apparaîtra sur la liste des signatures dans l&amp;rsquo;heure qui vient. Si vous avez choisi de recevoir davantage d&amp;rsquo;informations, nous vous tiendrons au courant des nouvelles de la campagne par e-mail.
+Prochaines étapes Aidez-nous en donnant à votre signature un énorme impact et en partageant cette campagne autour de vous.</description>
+    </item>
+    
+    <item>
+      <title>On y est presque...</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/confirm/</guid>
+      <description>Veuillez vérifier votre boite de réception maintenant Vous avez presque fini ! Vous allez bientôt recevoir un e-mail avec un lien pour la confirmation définitive de votre signature. Veuillez consulter votre dossier de spam si vous ne recevez pas l&amp;rsquo;e-mail dans les 15 prochaines minutes.
+Merci d&amp;rsquo;avoir signé la la lettre ouverte pour Argent public, Code public.</description>
+    </item>
+    
+    <item>
+      <title>Toutes les signatures publiées</title>
+      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/fr/openinitiative/all-signatures/</guid>
+      <description>Ceci est la liste complète de toutes les personnes qui ont signé la lettre ouverte et accepté que leur nom soit publié. 0personnes ont déjà exprimé leur soutien - êtes-vous l&amp;rsquo;une d&amp;rsquo;entre elles ?
+Cette liste est mise à jour toutes les heures.
+NomPaysCommentaire</description>
+    </item>
+    
+  </channel>
+</rss>
