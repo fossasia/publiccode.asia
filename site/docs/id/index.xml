@@ -1,73 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Public Money, Public Code</title>
-    <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/</link>
-    <description>Recent content on Public Money, Public Code</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>id</language>
-    
-	<atom:link href="https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Imprint</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/imprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Όλες οι Δημόσιες Υπογραφές</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/all-signatures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/all-signatures/</guid>
-      <description>Αυτή είναι η πλήρης λίστα των ανθρώπων που υπέγραψαν την ανοιχτή επιστολή και συμφώνησαν να είναι δημόσια τα ονόματα τους. 0άνθρωποι έχουν εκφράσει την υποστήριξή τους ήδη – είσαι ένας/μία απ&amp;rsquo; αυτούς;
-Η λίστα ανενεώνεται κάθε ώρα.
-NameCountryComment</description>
-    </item>
-    
-    <item>
-      <title>Ανοιχτή Επιστολή</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ευχαριστούμε για την υπογραφή!</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/success/</guid>
-      <description>Η υπογραφή σου επιβεβαιώθηκε Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή &amp;ldquo;Δημόσιο Χρήμα, Δημόσιος Κώδικας&amp;rdquo;. Η υποστήριξη σου σημαίνει πολλά για μας.
-Αν συμφώνησες να εμφανιστεί το όνομα σου στη δημόσια λίστα, το όνομα σου θα εμφανιστεί στη λίστα υπογραφών μέσα στην επόμενη ώρα. Αν συμφώνησες να λαμβάνεις επιπλέον ενημερώσεις, θα σε κρατήσουμε ενήμερο/η με νέα σχετικά με την καμπάνια αυτή μέσω email.
-Επόμενα βήματα Παρακαλούμε βοήθησε μας δίνοντας μεγαλύτερο βαρύτητα στην υπογραφή σου και μοιράζοντας την καμπάνια με τους φίλους/ες σου.</description>
-    </item>
-    
-    <item>
-      <title>Πολιτική Ιδιωτικότητας</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Σχεδόν έτοιμος/η...</title>
-      <link>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/confirm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kubami9.github.io/kuba-michalski-changes-publiccode.asia/id/openinitiative/confirm/</guid>
-      <description>Έλεγξε το email σου τώρα Σχεδόν έτοιμος/η! Θα λάβεις ένα email με ένα σύνδεσμο για την τελική επιβεβαίωση της υπογραφής σου. Παρακαλούμε έλεγξε και τον spam φάκελο σου αν δεν λάβεις το email μέσα στα επόμενα 15 λεπτά.
-Ευχαριστούμε που υπέγραψες την ανοιχτή επιστολή για Δημόσιο Χρήμα, Δημόσιο Κώδικα.</description>
-    </item>
-    
-  </channel>
-</rss>
