@@ -37,7 +37,7 @@
   followup    = "Kamu tarafından finanse edilen yazılımın standart lisans seçeneğinin Özgür Yazılım olması gerektiğine mi inanıyorsunuz? **O zaman politik temsilcinizi ikna edelim!**"
   buttonText  = "Açık Mektubu İmzalayın"
 [[Languages.tr.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Vergi tasarrufu"
   description = "Benzer uygulamalar her seferinde sıfırdan üretilmek zorunda olmayacaktır."
 [[Languages.tr.arguments.list]]

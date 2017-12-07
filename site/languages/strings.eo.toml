@@ -37,7 +37,7 @@
   followup    = "Ĉu vi opinias, ke libera programaro estu la norma agordo por publike financita programaro?  **Ni konvinku viajn politikajn deputitojn!**"
   buttonText  = "Subskribu la publikan leteron"
 [[Languages.eo.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Imposta ŝparado"
   description = "Similaj aplikaĵoj ne devas esti programitaj de nulo ĉiufoje."
 [[Languages.eo.arguments.list]]

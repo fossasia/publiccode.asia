@@ -36,7 +36,7 @@
   followup    = "您支持用納稅人的錢所開發的軟體應該預設使用自由暨開源軟體授權嗎？**讓我們一起向民代們發聲！**"
   buttonText  = "連署支持此封公開信"
 [[Languages.zh_TW.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "節省經費"
   description = "相似的軟體不需要每次都從頭重新開發。"
 [[Languages.zh_TW.arguments.list]]

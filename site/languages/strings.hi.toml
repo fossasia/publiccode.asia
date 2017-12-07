@@ -37,7 +37,7 @@
   followup    = "क्या आप मानते हैं कि सार्वजनिक रूप से वित्तपोषित सॉफ़्टवेयर के लिए निशुल्क और ओपन सोर्स सॉफ़्टवेयर डिफ़ॉल्ट विकल्प होना चाहिए? ** चलो अपने राजनीतिक प्रतिनिधियों को मनाने! **"
   buttonText  = "खुले पहल पर हस्ताक्षर करें"
 [[Languages.hi.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "टैक्स बचत"
   description = "समान अनुप्रयोगों को हर बार खरोंच से क्रमादेशित नहीं करना पड़ता है"
 [[Languages.hi.arguments.list]]
