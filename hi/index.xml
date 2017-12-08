@@ -11,54 +11,6 @@
     
     
     <item>
-      <title>All Public Signatures</title>
-      <link>/hi/openinitiative/all-signatures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/openinitiative/all-signatures/</guid>
-      <description>This is the complete list of all the people who signed the open initiative and agreed to have their names made public. 0 people have expressed their support already – are you one of them?
-The list is updated hourly.
-  Name Country Comment      </description>
-    </item>
-    
-    <item>
-      <title>Almost done...</title>
-      <link>/hi/openinitiative/confirm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/openinitiative/confirm/</guid>
-      <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
-Thank you for signing the open initiative for Public Money, Public Code.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
-      <link>/hi/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/imprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Initiative</title>
-      <link>/hi/openinitiative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/openinitiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/hi/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/hi/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thank you for signing!</title>
       <link>/hi/openinitiative/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,6 +19,54 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
       <description>Your signature is confirmed Thank you for signing the open initiative &amp;ldquo;Public Money, Public Code&amp;rdquo;. Your support means a lot to us.
 If you opted-in to having your name added to the public list, your name will appear on the list of signatures within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
 Next Steps Please help us by giving your signature a huge impact and share this campaign with your friends.</description>
+    </item>
+    
+    <item>
+      <title>खुला पहल</title>
+      <link>/hi/openinitiative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/openinitiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>गोपनीयता नीति</title>
+      <link>/hi/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>छाप</title>
+      <link>/hi/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/imprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>लगभग हो गया...</title>
+      <link>/hi/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/openinitiative/confirm/</guid>
+      <description>अब अपना ईमेल इनबॉक्स जांचें आप लगभग समाप्त हो गए हैं! आपको जल्द ही अपने हस्ताक्षर की अंतिम पुष्टि के लिए एक लिंक के साथ एक ईमेल प्राप्त होगा अगर आपको अगले 15 मिनट के भीतर मेल प्राप्त न हो तो कृपया अपना स्पैम फ़ोल्डर जांचें
+** लोक पैसे, सार्वजनिक संहिता ** के लिए खुली पहल पर हस्ताक्षर करने के लिए धन्यवाद।</description>
+    </item>
+    
+    <item>
+      <title>सभी सार्वजनिक हस्ताक्षर</title>
+      <link>/hi/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hi/openinitiative/all-signatures/</guid>
+      <description>यह उन सभी लोगों की पूरी सूची है, जिन्होंने खुली पहल पर हस्ताक्षर किए हैं और उनके नाम सार्वजनिक किए जाने पर सहमति व्यक्त की है। 0 लोगों ने पहले से ही अपना समर्थन व्यक्त किया है - क्या आप उनमें से एक हैं?
+सूची में प्रति घंटा अपडेट किया जाता है।
+  नाम देश टिप्पणी      </description>
     </item>
     
   </channel>
