@@ -1,5 +1,5 @@
 ---
-title: "Imprint"
+title: "छाप"
 type: "page"
 layout: "subpage"
 ---
