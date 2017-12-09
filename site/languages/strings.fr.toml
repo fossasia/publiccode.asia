@@ -21,7 +21,7 @@
 # Start banner
 [Languages.fr.start]
   subtitle1   = "Pourquoi les logiciels financés par l’impôt ne sont pas publiés sous Licence Libre ?"
-  subtitle2   = "Nous voulons une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Les Logiciels Libres donnent à tous, le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). S’il s’agit d’argent public, le code devrait être également public."
+  subtitle2   = "Nous voulons une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Les Logiciels Libres donnent à tous, le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). S’il s’agit d’argent public, le code devrait être également public. Suite à des initiatives [à travers le monde](https://publiccode.eu), nous demandons la publication de code payé par le public."
   subtitle3   = "**Le code payé par le peuple devrait être disponible pour le peuple!**"
 
 

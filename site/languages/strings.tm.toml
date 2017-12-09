@@ -33,12 +33,12 @@
 # Start banner
 #[Languages.en.start]
 #  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
+#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
 #  subtitle3   = "**Code paid by the people should be available to the people!**"
 # Start banner
 [Languages.tm.start]
   subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
+  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
   subtitle3   = "**Code paid by the people should be available to the people!**"
 
 ## About section
