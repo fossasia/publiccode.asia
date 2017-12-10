@@ -58,7 +58,7 @@ Regarding the campaign name *Public Money, Public Code*. In the past we haven't 
 
 ### static/js/
 
-Here there is a file called `onScrollMenu.js` which contains the abbreviations of all the languages used in an array, on the 3rd line. Add the abbreviation of the language you've added to this array.
+Here there is a file called `onScrollMenu.js` which contains the abbreviations of all the languages used in an array, on the 3rd line. Add the abbreviation of the language you've added to this array. Note that these abbreviations are the same as the language code mentioned in the toml file in `site/languages`
 
 ## Where to upload the translations?
 
