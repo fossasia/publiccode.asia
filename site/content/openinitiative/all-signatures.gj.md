@@ -1,12 +1,12 @@
 ---
-title: "All Public Signatures"
+title: "બધા સાર્વજનિક સહીઓ"
 type: page
 layout: subpage
 ---
 
-This is the complete list of all the people who signed the open initiative and agreed to have their names made public. {{< count type="signatures" >}} people have expressed their support already – are you one of them?
+આ તે તમામ લોકોની સંપૂર્ણ યાદી છે જેમણે ખુલ્લા પહેલ પર હસ્તાક્ષર કર્યા હતા અને તેમના નામો જાહેર કર્યા તે સંમત થયા હતા. {{< count type="signatures" >}} લોકોએ પહેલેથી જ તેમનું સમર્થન વ્યક્ત કર્યું છે - તમે તેમાંથી એક છો?
 
-The list is updated hourly.
+આ યાદી કલાકદીઠ અપડેટ થયેલ છે
 
 {{< show_signatures >}}
 

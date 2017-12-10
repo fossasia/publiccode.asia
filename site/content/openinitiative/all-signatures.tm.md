@@ -1,12 +1,12 @@
 ---
-title: "All Public Signatures"
+title: "அனைத்து பொது கையொப்பங்களும்"
 type: page
 layout: subpage
 ---
 
-This is the complete list of all the people who signed the open initiative and agreed to have their names made public. {{< count type="signatures" >}} people have expressed their support already – are you one of them?
+திறந்த முன்முயற்சியில் கையொப்பமிட்ட அனைவரின் முழுமையான பட்டியல் இதுவாகும். அவர்களின் பெயர்களை பொதுமக்களுக்கு அறிவிக்க வேண்டும். {{< count type="signatures" >}}பேர் ஏற்கனவே தங்கள் ஆதரவை தெரிவித்துள்ளனர் - நீங்கள் அவற்றில் ஒன்றுதானா?
 
-The list is updated hourly.
+பட்டியல் மணிநேரம் புதுப்பிக்கப்பட்டது.
 
 {{< show_signatures >}}
 
