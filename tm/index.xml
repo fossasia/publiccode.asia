@@ -11,28 +11,7 @@
     
     
     <item>
-      <title>All Public Signatures</title>
-      <link>/tm/openinitiative/all-signatures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tm/openinitiative/all-signatures/</guid>
-      <description>This is the complete list of all the people who signed the open initiative and agreed to have their names made public. 0 people have expressed their support already – are you one of them?
-The list is updated hourly.
-  Name Country Comment      </description>
-    </item>
-    
-    <item>
-      <title>Almost done...</title>
-      <link>/tm/openinitiative/confirm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tm/openinitiative/confirm/</guid>
-      <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
-Thank you for signing the open initiative for Public Money, Public Code.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
+      <title>அடித்தளங்களை</title>
       <link>/tm/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,16 +20,39 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
     </item>
     
     <item>
-      <title>Open Initiative</title>
-      <link>/tm/openinitiative/</link>
+      <title>அனைத்து பொது கையொப்பங்களும்</title>
+      <link>/tm/openinitiative/all-signatures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tm/openinitiative/</guid>
-      <description></description>
+      <guid>/tm/openinitiative/all-signatures/</guid>
+      <description>திறந்த முன்முயற்சியில் கையொப்பமிட்ட அனைவரின் முழுமையான பட்டியல் இதுவாகும். அவர்களின் பெயர்களை பொதுமக்களுக்கு அறிவிக்க வேண்டும். 0 பேர் ஏற்கனவே தங்கள் ஆதரவை தெரிவித்துள்ளனர் - நீங்கள் அவற்றில் ஒன்றுதானா?
+பட்டியல் மணிநேரம் புதுப்பிக்கப்பட்டது.
+  பெயர் நாடு கருத்து      </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>கிட்டத்தட்ட முடிந்து விட்டது...</title>
+      <link>/tm/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tm/openinitiative/confirm/</guid>
+      <description>உங்கள் மின்னஞ்சல் இன்பாக்ஸை இப்போது பாருங்கள் நீங்கள் கிட்டத்தட்ட முடித்துவிட்டீர்கள்! விரைவில் உங்கள் கையொப்பத்தின் இறுதி உறுதிப்படுத்தலுக்கான இணைப்புடன் மின்னஞ்சலைப் பெறுவீர்கள். அடுத்த 15 நிமிடங்களில் நீங்கள் அஞ்சல் பெறாதபட்சத்தில் உங்கள் ஸ்பேம் கோப்புறையைச் சரிபார்க்கவும்.
+** பொது பணம், பொதுக் கோட்டிற்கான திறந்த முயற்சியை கையொப்பமிட்டதற்கு நன்றி.</description>
+    </item>
+    
+    <item>
+      <title>கையெழுத்திட்டதற்கு நன்றி!</title>
+      <link>/tm/openinitiative/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tm/openinitiative/success/</guid>
+      <description>கையொப்பம் உறுதிப்படுத்தப்பட்டுள்ளது திறந்த முயற்சியை &amp;ldquo;பொது பணம், பொது கோட்&amp;rdquo; கையெழுத்திட்டதற்கு நன்றி. உங்கள் ஆதரவு எங்களுக்கு நிறைய இருக்கிறது.
+பொதுப் பட்டியலில் உங்கள் பெயரைச் சேர்க்க நீங்கள் தேர்வுசெய்தால், அடுத்த நாளில் உங்கள் பெயர் [கையெழுத்துப் பட்டியல்] இல் (../ அனைத்து கையொப்பங்கள்) தோன்றும். மேலும் தகவலைப் பெற நீங்கள் தேர்வுசெய்தால், மின்னஞ்சல் மூலம் இந்த பிரச்சாரத்தைப் பற்றிய செய்திகளை உங்களுக்குத் தெரிவிப்போம்.
+அடுத்த படிகள் உங்கள் கையொப்பத்தை ஒரு பெரிய தாக்கத்தை கொடுத்து, உங்கள் நண்பர்களுடன் பகிர்ந்து கொள்ளுங்கள் (இந்த பிரச்சாரத்தை பகிர்ந்து கொள்ளுங்கள்) (../../# பரவல்) எங்களுக்கு உதவுங்கள். ஒன்றாக ஆசியா முழுவதும் பொதுத் துறையில் நிலையான அமைப்பானது புதிதாக நிதியளிக்கப்பட்ட மென்பொருளுக்கான இலவச மற்றும் திறந்த மூல மென்பொருள் உரிமங்களை உருவாக்குவதற்கு அரசியலிலும் பொது நிர்வாகத்திலும் முடிவெடுக்கும் தயாரிப்பாளர்களை நாங்கள் ஊக்குவிப்போம்.</description>
+    </item>
+    
+    <item>
+      <title>தனியுரிமை கொள்கை</title>
       <link>/tm/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -59,14 +61,15 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
     </item>
     
     <item>
-      <title>Thank you for signing!</title>
-      <link>/tm/openinitiative/success/</link>
+      <title>திறந்த முயற்சி</title>
+      <link>/tm/openinitiative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tm/openinitiative/success/</guid>
-      <description>Your signature is confirmed Thank you for signing the open initiative &amp;ldquo;Public Money, Public Code&amp;rdquo;. Your support means a lot to us.
-If you opted-in to having your name added to the public list, your name will appear on the list of signatures within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
-Next Steps Please help us by giving your signature a huge impact and share this campaign with your friends.</description>
+      <guid>/tm/openinitiative/</guid>
+      <description>பொதுவில் நிதியளிக்கப்பட்ட மென்பொருள் இலவச மற்றும் திறந்த மூல மென்பொருள் (FOSS) ஆக இருக்க வேண்டும். இந்த வரிக்கு ஏராளமான நல்ல காரணங்கள் இருந்தாலும், பொது நிர்வாகத்தில் பல முடிவெடுப்போர் இன்னும் தெரியாது.
+இலவச மற்றும் திறந்த மூல மென்பொருள் அனைவருக்கும் மென்பொருளை உபயோகிக்கவும், படிக்கவும், பகிர்ந்து கொள்ளவும், மேம்படுத்தவும் உரிமை அளிக்கிறது.
+ ஆசியாவில் அதிக எடை கொண்ட FOSS செய்தியை வழங்குவதற்கு முயற்சியில் கையொப்பமிடுங்கள்.  0 பேர் மற்றும்  1 நிறுவனங்கள் ஏற்கனவே கையெழுத்திட்டிருக்கின்றன. பொது மக்களின் விழிப்புணர்வு அதிகரிக்க உங்கள் ஆதரவு உதவும்: பொது பணம்? பொது கோட்!
+ பொது பணம்?</description>
     </item>
     
   </channel>

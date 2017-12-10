@@ -3,180 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/gj/openinitiative/all-signatures/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="/bg/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="/tl/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tm"
-                href="/tm/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/eo/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="/hi/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/openinitiative/all-signatures/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/openinitiative/all-signatures/"
-                />
-  </url>
-  
-  <url>
-    <loc>/gj/openinitiative/confirm/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="/bg/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="/tl/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tm"
-                href="/tm/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/eo/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="/hi/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/openinitiative/confirm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/openinitiative/confirm/"
-                />
-  </url>
-  
-  <url>
     <loc>/gj/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tm"
-                href="/tm/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/categories/"
+                hreflang="bg"
+                href="/bg/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -185,33 +17,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="/tl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="/bg/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="/hi/categories/"
+                hreflang="tr"
+                href="/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -220,13 +27,367 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/tr/categories/"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="/tl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/zh_tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gj"
                 href="/gj/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gj/openinitiative/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/bg/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="/tl/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/zh_tw/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/openinitiative/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/openinitiative/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gj/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="/tl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/zh_tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gj/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/bg/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="/tl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/zh_tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="xy"
+                href="/xy/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/gj/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="/bg/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="/tl/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="/eo/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_tw"
+                href="/zh_tw/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/privacy/"
                 />
   </url>
   
@@ -269,11 +430,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tm"
-                href="/tm/imprint/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tr"
                 href="/tr/imprint/"
                 />
@@ -296,6 +452,11 @@
                 rel="alternate"
                 hreflang="hi"
                 href="/hi/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -348,11 +509,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tm"
-                href="/tm/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="eo"
                 href="/eo/openinitiative/"
                 />
@@ -368,31 +524,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/openinitiative/"
-                />
-  </url>
-  
-  <url>
-    <loc>/gj/openinitiative/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/eo/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tm"
                 href="/tm/openinitiative/"
                 />
@@ -403,287 +534,156 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="/tl/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="/bg/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="/hi/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/openinitiative/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="gj"
                 href="/gj/openinitiative/"
                 />
   </url>
   
   <url>
-    <loc>/gj/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/privacy/"
-                />
+    <loc>/gj/openinitiative/all-signatures/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="/bg/privacy/"
+                href="/bg/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/privacy/"
+                href="/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
-                href="/tl/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tm"
-                href="/tm/privacy/"
+                href="/tl/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/privacy/"
+                href="/vi/openinitiative/all-signatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/openinitiative/all-signatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/openinitiative/all-signatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/openinitiative/all-signatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/privacy/"
+                href="/eo/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/privacy/"
+                href="/id/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="/hi/privacy/"
+                href="/hi/openinitiative/all-signatures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_tw"
-                href="/zh_tw/privacy/"
+                href="/zh_tw/openinitiative/all-signatures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gj"
-                href="/gj/privacy/"
+                href="/gj/openinitiative/all-signatures/"
                 />
   </url>
   
   <url>
-    <loc>/gj/</loc>
-    <priority>0</priority>
+    <loc>/gj/openinitiative/confirm/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="eo"
-                href="/eo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tm"
-                href="/tm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
+                hreflang="bg"
+                href="/bg/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/"
+                href="/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
-                href="/tl/"
+                href="/tl/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="/bg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hi"
-                href="/hi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
+                hreflang="vi"
+                href="/vi/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/tr/"
+                href="/tr/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gj"
-                href="/gj/"
-                />
-  </url>
-  
-  <url>
-    <loc>/gj/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eo"
-                href="/eo/tags/"
+                hreflang="de"
+                href="/de/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/fr/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tm"
-                href="/tm/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="xy"
-                href="/xy/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh_tw"
-                href="/zh_tw/tags/"
+                hreflang="eo"
+                href="/eo/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="/tl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="/bg/tags/"
+                href="/es/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/tags/"
+                href="/id/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hi"
-                href="/hi/tags/"
+                href="/hi/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
+                hreflang="tm"
+                href="/tm/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/"
+                hreflang="zh_tw"
+                href="/zh_tw/openinitiative/confirm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gj"
-                href="/gj/tags/"
+                href="/gj/openinitiative/confirm/"
                 />
   </url>
   
@@ -736,11 +736,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="tm"
-                href="/tm/openinitiative/success/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tr"
                 href="/tr/openinitiative/success/"
                 />
@@ -748,6 +743,11 @@
                 rel="alternate"
                 hreflang="id"
                 href="/id/openinitiative/success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tm"
+                href="/tm/openinitiative/success/"
                 />
     <xhtml:link
                 rel="alternate"
