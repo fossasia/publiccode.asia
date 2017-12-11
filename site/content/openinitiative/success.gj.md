@@ -1,18 +1,18 @@
 ---
-title: "Thank you for signing!"
+title: "સાઇન ઇન કરવા બદલ આભાર!"
 type: page
 layout: subpage
 ---
 
-## Your signature is confirmed
+## તમારી સહી પુષ્ટિ છે
 
-Thank you for signing the open initiative "Public Money, Public Code". Your support means a lot to us.
+ઓપન પહેલ "પબ્લિક મની, પબ્લિક કોડ" પર સહી કરવા બદલ આભાર. તમારા સપોર્ટનો અર્થ અમને ઘણો થાય છે
 
-If you opted-in to having your name added to the public list, your name will appear on the [list of signatures](../all-signatures) within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
+જો તમે પબ્લિક લિસ્ટમાં તમારું નામ ઉમેર્યું હોય, તો તમારું નામ આગામી કલાકમાં [signatures ની સૂચિ](../all-signatures)પર દેખાશે. જો તમે વધુ માહિતી પ્રાપ્ત કરવા માટે પસંદ કરેલ હોય, તો અમે ઇમેઇલ દ્વારા આ ઝુંબેશ અંગેના સમાચાર વિશે તમને જાણ કરીશું.
 
-## Next Steps
+## આગામી પગલાં
 
-Please help us by giving your signature a huge impact and [share this campaign](../../#spread) with your friends. Together we will encourage decision makers in politics and public administrations to make Free and Open Source Software licences for newly funded software the standard setting in the public sector all over Asia.
+કૃપા કરીને તમારા મિત્રો સાથે તમારી હસ્તાક્ષરને મોટી અસર અને [આ ઝુંબેશ શેર કરો](../../#spread) આપીને સહાય કરો. એકસાથે અમે રાજકારણ અને જાહેર વહીવટમાં નિર્ણય ઉત્પાદકોને નવા ભંડોળથી સૉફ્ટવેર માટે ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર લાઇસેંસ બનાવવા અને સમગ્ર એશિયામાં જાહેર ક્ષેત્રમાં માનક સેટિંગને પ્રોત્સાહિત કરીશું.
 
 
-With your support we will help decision makers all over Asia understand that publishing their code under Free and Open Source Software licences is the best solution for them, other administrations, companies, and especially the general public.
+તમારા સપોર્ટ સાથે અમે એશિયામાં નિર્ણય ઉત્પાદકોને મદદ કરીશું કે તે મુક્ત અને ઓપન સોર્સ સૉફ્ટવેર લાઇસન્સ હેઠળ તેમના કોડને પ્રકાશિત કરે છે તે તેમના માટે શ્રેષ્ઠ ઉપાય, અન્ય વહીવટ, કંપનીઓ અને ખાસ કરીને સામાન્ય જનતા છે.
