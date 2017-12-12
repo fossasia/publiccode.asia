@@ -1,17 +1,17 @@
 ---
-title: "Thank you for signing!"
+title: "கையெழுத்திட்டதற்கு நன்றி!"
 type: page
 layout: subpage
 ---
 
-## Your signature is confirmed
+## உங்கள் கையொப்பம் உறுதிப்படுத்தப்பட்டுள்ளது
 
-Thank you for signing the open initiative "Public Money, Public Code". Your support means a lot to us.
+திறந்த முயற்சியில் கையெழுத்திட்டதற்கு நன்றி "Public Money, Public Code". உங்கள் ஆதரவு எங்களுக்கு நிறைய இருக்கிறது.
 
-If you opted-in to having your name added to the public list, your name will appear on the [list of signatures](../all-signatures) within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
+உங்கள் பெயரை பொது பட்டியலில் சேர்க்க நீங்கள் தேர்வு செய்தால், உங்கள் பெயர் தோன்றும் [list of signatures](../all-signatures) அடுத்த மணி நேரத்திற்குள்.மேலும் தகவலைப் பெற நீங்கள் தேர்வுசெய்தால், மின்னஞ்சல் மூலம் இந்த பிரச்சாரத்தைப் பற்றிய செய்திகளை உங்களுக்குத் தெரிவிப்போம்.
 
-## Next Steps
+## அடுத்த படிகள்
 
-Please help us by giving your signature a huge impact and [share this campaign](../../#spread) with your friends. Together we will encourage decision makers in politics and public administrations to make Free and Open Source Software licences for newly funded software the standard setting in the public sector all over Asia.
+உங்கள் கையொப்பத்தை ஒரு பெரிய தாக்கத்தை கொடுத்து எங்களுக்கு உதவவும். [share this campaign](../../#spread) ஆசியா முழுவதும் பொதுத் துறையில் நிலையான அமைப்பானது புதிதாக நிதியளிக்கப்பட்ட மென்பொருளுக்கு இலவச மற்றும் திறந்த மூல மென்பொருள் உரிமங்களை உருவாக்க அரசியல் மற்றும் பொது நிர்வாகங்களில் முடிவெடுப்பவர்களை உருவாக்குவதை ஊக்குவிப்போம்..
 
-With your support we will help decision makers all over Asia understand that publishing their code under Free and Open Source Software licences is the best solution for them, other administrations, companies, and especially the general public.
+உங்கள் ஆதரவுடன் நாங்கள் ஆசியா முழுவதும் முடிவெடுக்கும் தயாரிப்பாளர்கள் இலவச மற்றும் திறந்த மூல மென்பொருள் உரிமங்களின் கீழ் தங்கள் குறியீட்டை வெளியிடுவது அவற்றிற்கு சிறந்த தீர்வு, மற்ற நிர்வாகங்கள், நிறுவனங்கள் மற்றும் பொதுமக்கள்.
