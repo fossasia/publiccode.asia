@@ -4,7 +4,7 @@
 [Languages.de]
   languageCode  = "de"
   languageName  = "Deutsch"
-  description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie Software veröffentlicht wird"
+  description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie und Open Source Software veröffentlicht wird"
   fsdefinition  = "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."
 
 
@@ -95,7 +95,7 @@
 
 # Legal Section
 [Languages.de.legal]
-  by            = "Eine Kampagne der Free Software Foundation Europe"
+  by            = "Eine Kampagne der Public Code Initiative Asien"
   imprint       = "Impressum"
   privacy       = "Datenschutz"
   transparency  = "Transparenz"
