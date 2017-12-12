@@ -1,221 +1,128 @@
 # == GUJARATI ==
 
-## General strings
-#[Languages.en]
-#  languageCode  = "en"  # 2-letter code of language (ISO 639-1)
-#  languageName  = "English"  # verbose name of language (e.g. "Français" or "Русский")
-#  description   = "Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"
-#  fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
 [Languages.gj]
   languageCode  = "gj"  # 2-letter code of language (ISO 639-1)
   languageName  = "Gujarati"  # verbose name of language (e.g. "Français" or "Русский")
-  description   = "Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"
-  fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
+  description   = "પબ્લિક મની, પબ્લિક કોડ - ફ્રી એન્ડ ઓપન સોર્સ સૉફ્ટવેર તરીકે સાર્વજનિક રૂપે ફાઇનાન્સ સૉફ્ટવેર રિલીઝ કરવા માટે ફોસ્સેઆમ ઝુંબેશ"
+  fsdefinition  = "ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર દરેકને સૉફ્ટવેરનો ઉપયોગ, અભ્યાસ, શેર અને બહેતર બનાવવાનો અધિકાર આપે છે."
 
 
-## Navigation
-#[Languages.en.navigation]
-#[Languages.en.navigation.links]
-#  start     = "Start"
-#  about     = "About"
-#  arguments = "Reasons"
-#  action    = "Take Action"
-#  spread    = "Spread the Word"
 # Navigation
 [Languages.gj.navigation]
 [Languages.gj.navigation.links]
-  start     = "Start"
-  about     = "About"
-  arguments = "Reasons"
-  action    = "Take Action"
-  spread    = "Spread the Word"
+  start     = "શરૂઆત"
+  about     = "વિશે"
+  arguments = "કારણો"
+  action    = "પગલાં લેવા"
+  spread    = "સમાચાર કે કોઈ વાત ને બહુ બધા લોકો સાથે ફેલાવવું"
 
-# Start banner
-#[Languages.en.start]
-#  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
-#  subtitle3   = "**Code paid by the people should be available to the people!**"
+
 # Start banner
 [Languages.gj.start]
-  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
-  subtitle3   = "**Code paid by the people should be available to the people!**"
+  subtitle1   = "ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર તરીકે રિલીઝ થયેલા કરદાતાઓના મની દ્વારા સૉફ્ટવેર શા માટે બનાવવામાં આવ્યું છે?"
+  subtitle2   = "અમે ઇચ્છતા હોઈએ છીએ કે જાહેર ક્ષેત્ર માટે વિકસિત જાહેર નાણાંકીય સૉફ્ટવેરને [ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર] (https://en.wikipedia.org/wiki/Free_and_open-source_software) લાઇસેન્સ હેઠળ સાર્વજનિક રૂપે ઉપલબ્ધ કરાવવું જોઈએ. જો તે સાર્વજનિક નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ. [સમગ્ર વિશ્વમાં] (https://publiccode.eu) પગલે, અમે જાહેર જનતા દ્વારા ચૂકવવામાં આવેલો કોડ પ્રકાશન માટે કૉલ કરવા માટે એક પહેલ શરૂ કરી રહ્યા છીએ."
+  subtitle3   = "**લોકો દ્વારા આપવામાં આવેલ કોડ લોકો માટે ઉપલબ્ધ હોવો જોઈએ!**"
 
-## About section
-#[Languages.en.about]
-#  headline    = "Sounds complicated? It's not. It's super easy!"
-#  buttonText  = "More advantages"
+
 # About section
 [Languages.gj.about]
-  headline    = "Sounds complicated? It's not. It's super easy!"
-  buttonText  = "More advantages"
+  headline    = "જટિલ લાગે છે? તે નથી. તે સુપર સરળ છે!"
+  buttonText  = "વધુ ફાયદા"
 
-## Arguments section
-#[Languages.en.arguments]
-#  headline    = "Reasons for Public Code"
-#  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
-#  buttonText  = "Sign the Open Initiative"
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-eur"  # <-- do not translate this
-#  title       = "Tax savings"
-#  description = "Similar applications don't have to be programmed from scratch every time."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-handshake-o"  # <-- do not translate this
-#  title       = "Collaboration"
-#  description = "Efforts on major projects can share expertise and costs."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-users"  # <-- do not translate this
-#  title       = "Serving the public"
-#  description = "Applications paid by the public should be available for everyone."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-lightbulb-o"  # <-- do not translate this
-#  title       = "Fostering innovation"
-#  description = "With transparent processes, others don't have to reinvent the wheel."
+
 # Arguments section
 [Languages.gj.arguments]
-  headline    = "Reasons for Public Code"
-  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
-  buttonText  = "Sign the Open Initiative"
+  headline    = "જાહેર કોડના કારણો"
+  followup    = "શું તમે માનો છો કે મુક્ત અને ઓપન સોર્સ સૉફ્ટવેર જાહેરમાં ફાઇનાન્સ સૉફ્ટવેર માટે ડિફોલ્ટ વિકલ્પ હોવા જોઈએ? **ચાલો તમારા રાજકીય પ્રતિનિધિઓને સહમત કરીએ!**"
+  buttonText  = "ઓપન પહેલ સાઇન ઇન કરો"
 [[Languages.gj.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
-  title       = "Tax savings"
-  description = "Similar applications don't have to be programmed from scratch every time."
+  icon        = "fa-usd"  # <-- do not translate this
+  title       = "કર બચત"
+  description = "સમાન એપ્લિકેશન્સને દરેક વખતે શરૂઆતથી પ્રોગ્રામ કરવાની જરૂર નથી."
 [[Languages.gj.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
-  title       = "Collaboration"
-  description = "Efforts on major projects can share expertise and costs."
+  title       = "સહકાર"
+  description = "મુખ્ય પ્રોજેક્ટ્સ પર પ્રયત્નો કુશળતા અને ખર્ચ શેર કરી શકે છે"
 [[Languages.gj.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
-  title       = "Serving the public"
-  description = "Applications paid by the public should be available for everyone."
+  title       = "જાહેર સેવા આપતા"
+  description = "લોકો દ્વારા ચૂકવવામાં આવતી એપ્લિકેશન્સ દરેક જણ માટે ઉપલબ્ધ હોવી જોઈએ."
 [[Languages.gj.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
-  title       = "Fostering innovation"
-  description = "With transparent processes, others don't have to reinvent the wheel."
+  title       = "નવીનતા ઉત્તેજન"
+  description = "પારદર્શક પ્રક્રિયાઓ સાથે, અન્યને વ્હીલને પુનઃશોધવાની જરૂર નથી."
 
-## Action section
-#[Languages.en.action]
-#  headline      = "Tell Your Representatives!"
-#  intro         = "In our [**open initiative**](openinitiative/) we demand:"
-#  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-#  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
-#  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
-#
-#[Languages.en.action.box]
-#  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
-#
-#[Languages.en.action.form]
-#  name      = "Name (required)"
-#  email     = "Email (required)"
-#  country   = "Your Country"
-#  zip       = "Zip Code"
-#  comment   = "Your comment (max. 140 characters)"
-#  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
-#  permNews  = "I want to stay informed about the future of this campaign"
-#  permPub   = "I want my signature to appear in the [list of signatures](openinitiative/all-signatures)"
-#  submit    = "Sign Now!"
+
 # Action section
 [Languages.gj.action]
-  headline      = "Tell Your Representatives!"
-  intro         = "In our [**open initiative**](openinitiative/) we demand:"
+  headline      = "તમારા પ્રતિનિધિઓને કહો!"
+  intro         = "અમારી [**ઓપન પહેલ**](openinitiative/) માં અમે માગણી કરીએ છીએ:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
-  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
+  demand        = "“પબ્લિક સેક્ટર માટે વિકસાવવામાં આવતી સાર્વજનિક ફાયનાન્સ સોફ્ટવેરની આવશ્યકતા કાયદો લાગુ કરવી [ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર] (https://en.wikipedia.org/wiki/Free_and_open-source_software) લાઇસેંસ હેઠળ જાહેરમાં ઉપલબ્ધ કરાવવી.”"
+  description   = "**$ORGS** સંગઠનો અને **$INDS** વ્યક્તિઓ પહેલેથી જ અમારી [ઓપન પહેલ] (openinitiative/) પર સહી કરીને ક્રિયા માટે આ કોલને સમર્થન આપે છે. તમે તેના પર હસ્તાક્ષર કરીને અમને ઘણી મોટી અસરમાં મદદ કરી શકો છો! અમે બધા હસ્તાક્ષરોની સૂચિબદ્ધ કરીશું અને એશિયામાં પ્રતિનિધિઓને તેના હાથમાં સોંપીશું જે જાહેર વહીવટમાં સૉફ્ટવેરની નીતિઓ અંગે ચર્ચા કરે છે."
+
 
 [Languages.gj.action.box]
-  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
+  text      = "પહેલેથી **$INDS SIGNATURES** - હવે ઓપન પહેલ સાઇન ઇન કરો!"
+
 
 [Languages.gj.action.form]
-  name          = "Name (required)"
-  email         = "Email (required)"
-  country       = "Your Country"
-  region        = "Region/City"
-  organization  = "Organization"
-  comment       = "Your comment (max. 140 characters)"
-  permPriv      = "I have read and accepted the [privacy statement](privacy/)"
-  permNews      = "I want to stay informed about the future of this campaign"
-  permPub       = "I want my signature to appear in the [list of signatures](openinitiative/all-signatures)"
-  submit        = "Sign Now!"
+  name          = "નામ (જરૂરી)"
+  email         = "ઇમેઇલ (જરૂરી)"
+  country       = "તમારો દેશ"
+  region        = "પ્રદેશ/શહેર"
+  organization  = "સંસ્થા"
+  comment       = "તમારી ટિપ્પણી (મહત્તમ 140 અક્ષરો)"
+  permPriv      = "મેં [ગોપનીયતા વિધાન](privacy/) વાંચી અને સ્વીકારી છે"
+  permNews      = "હું આ ઝુંબેશના ભાવિ વિશે માહિતગાર રહેવા માગું છું"
+  permPub       = "હું [હસ્તાક્ષરોની સૂચિ](openinitiative/all-signatures) માં મારી હસ્તાક્ષરને દેખાવા માંગુ છું."
+  submit        = "હમણાં સાઇન ઇન કરો!"
 
-## Organisations section
-#[Languages.en.organisations]
-#  headline  = "Supporting Organisations"
-#  text      = "The following organisations support our [open initiative](openinitiative/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
+
 # Organisations section
 [Languages.gj.organisations]
-  headline  = "Supporting Organisations"
-  text      = "The following organisations support our [open initiative](openinitiative/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
+  headline  = "સહાયક સંસ્થાઓ"
+  text      = "નીચેના સંસ્થાઓ અમારી [ઓપન પહેલ](openinitiative/). ને ટેકો આપે છે. જો તમારી સંસ્થા પબ્લીક કોડ માટે કૉલ કરવા માટે પણ રસ ધરાવે છે, તો કૃપા કરીને [અમારો સંપર્ક કરો](mailto:publiccode@fossasia.org)."
 
 
-## Spread the word section
-#[Languages.en.spread]
-#  headline          = "Spread the word!"
-#  promoText         = "Get stickers and flyers from FOSSASIA"
-#  promoButtonText   = "Download Info Material"
-#  shareText         = "Tell your friends and followers about Public Code:"
-#  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 # Spread the word section
 [Languages.gj.spread]
-  headline          = "Spread the word!"
-  promoText         = "Get stickers and flyers from FOSSASIA"
-  promoButtonText   = "Download Info Material"
-  shareText         = "Tell your friends and followers about Public Code:"
-  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
+  headline          = "સમાચાર કે કોઈ વાત ને બહુ બધા લોકો સાથે ફેલાવવું!"
+  promoText         = "FOSSASIA થી સ્ટીકરો અને ફ્લાયર્સ મેળવો"
+  promoButtonText   = "માહિતી સામગ્રી ડાઉનલોડ કરો"
+  shareText         = "સાર્વજનિક કોડ વિશે તમારા મિત્રો અને અનુયાયીઓને કહો:"
+  defaultSocialText = "જો તે સાર્વજનિક નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ. હું ફ્રી સૉફ્ટવેર લાઇસેંસ હેઠળ વધુ સાર્વજનિક કોડ માટે આ કૉલનું સમર્થન કરું છું:"
 
-## Legal Section
-#[Languages.en.legal]
-#  by            = "This is a campaign by FOSSASIA"
-#  imprint       = "Imprint"
-#  privacy       = "Privacy"
-#  transparency  = "Transparency"
-#  contribute1   = "The code of this website is licensed as Free and Open Source Software."
-#  contribute2   = "You're welcome to contribute!"
-#  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
 # Legal Section
 [Languages.gj.legal]
-  by            = "This is a campaign by FOSSASIA"
-  imprint       = "Imprint"
-  privacy       = "Privacy"
-  transparency  = "Transparency"
-  contribute1   = "The code of this website is licensed as Free and Open Source Software."
-  contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  by            = "આ FOSSASIA દ્વારા ઝુંબેશ છે"
+  imprint       = "છાપવું"
+  privacy       = "ગોપનીયતા"
+  transparency  = "પારદર્શિતા"
+  contribute1   = "આ વેબસાઇટનું કોડ ફ્રી અને ઓપન સોર્સ સૉફ્ટવેર તરીકે લાઇસેંસ પ્રાપ્ત છે."
+  contribute2   = "ફાળો આપવા માટે આપનું સ્વાગત છે!"
+  license       = "આ કાર્ય તેના [ફાળો આપનારા](https://github.com/fossasia/publiccode.asia/contributors) દ્વારા [ક્રિએટિવ કૉમન્સ BY-SA 4.0 લાઇસેંસ](http://creativecommons.org/licenses/by-sa/4.0/) દ્વારા લાઇસેંસ પ્રાપ્ત છે"
 
-## Language selection
-#[Languages.en.language]
-#  description = "Read this page in another language"
+
 # Language selection
 [Languages.gj.language]
-  description = "Read this page in another language"
+  description = "આ પૃષ્ઠને બીજી ભાષામાં વાંચો"
 
 
-## 404 Error Page
-#[Languages.en.error]
-#  headline    = "Error 404 - Page not found"
-#  description = "The page you're looking for does not exist."
-#  button      = "Back to start page"
 # 404 Error Page
 [Languages.gj.error]
-  headline    = "Error 404 - Page not found"
-  description = "The page you're looking for does not exist."
-  button      = "Back to start page"
+  headline    = "ભૂલ 404 - પૃષ્ઠ મળ્યું નથી"
+  description = "તમે શોધી રહ્યાં છો તે પૃષ્ઠ અસ્તિત્વમાં નથી"
+  button      = "પ્રારંભ પૃષ્ઠ પર પાછા ફરો"
 
 
-## Specific sub-pages
-#[Languages.en.subpage]
-#[Languages.en.subpage.signatures]
-#  headline      = "Individual Open Initiative Signatures"
-#  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
-#  allSignatures = "See [all public signatures](all-signatures/)."
-#  tableName     = "Name"
-#  tableCountry  = "Country"
-#  tableComment  = "Comment"
 # Specific sub-pages
 [Languages.gj.subpage]
 [Languages.gj.subpage.signatures]
-  headline      = "Individual Open Initiative Signatures"
-  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
-  allSignatures = "See [all public signatures](all-signatures/)."
-  tableName     = "Name"
-  tableCountry  = "Country"
-  tableComment  = "Comment"
+  headline      = "વ્યક્તિગત ઓપન પહેલ સહીઓ"
+  description   = "નીચે એવા સિગ્નેચરોનાં સહીઓ છે જેમણે તેમના નામો જાહેર કર્યા છે. આગામી એક બનો!"
+  allSignatures = "[બધા જાહેર હસ્તાક્ષરો](all-signatures/) જુઓ."
+  tableName     = "નામ"
+  tableCountry  = "દેશ"
+  tableComment  = "ટિપ્પણી કરો"

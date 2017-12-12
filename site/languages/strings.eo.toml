@@ -21,7 +21,7 @@
 # Start banner
 [Languages.eo.start]
   subtitle1   = "Kial oni ne eldonas programaron kreitan per mono de impostpagantoj kiel liberan?"
-  subtitle2   = "Ni volas leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://en.wikipedia.org/wiki/Free_and_open-source_software'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo. Teme pri publika mono, ankaŭ temu pri publika kodo!"
+  subtitle2   = "Ni volas leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://en.wikipedia.org/wiki/Free_and_open-source_software'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo. Teme pri publika mono, ankaŭ temu pri publika kodo!Sekvante iniciatojn [trans la mondo](https://publiccode.eu), ni vokas la liberigon de kodo pagata de la publiko."
   subtitle3   = "**Kodo pagita de la popolo estu disponebla al la popolo!**"
 
 
@@ -37,7 +37,7 @@
   followup    = "Ĉu vi opinias, ke libera programaro estu la norma agordo por publike financita programaro?  **Ni konvinku viajn politikajn deputitojn!**"
   buttonText  = "Subskribu la publikan leteron"
 [[Languages.eo.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Imposta ŝparado"
   description = "Similaj aplikaĵoj ne devas esti programitaj de nulo ĉiufoje."
 [[Languages.eo.arguments.list]]
@@ -95,13 +95,13 @@
 
 # Legal Section
 [Languages.eo.legal]
-  by            = "Ĉi tio estas kampanjo de Free Software Foundation Europe"
+  by            = "Ĉi tio estas kampanjo de Public Code Initiative Asia"
   imprint       = "Organizaĵo"
   privacy       = "Privateco-politiko"
   transparency  = "Travidebleco"
   contribute1   = "Kodo de tiu ĉi retejo estas libera programaro."
   contribute2   = "Ni bonvenigas kontribuojn!"
-  license       = "Tiu ĉi verko subas la permesilon [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.eo)."
+  license       = "Tiu ĉi verko subas la permesilon by its [contributors](https://github.com/fossasia/publiccode.asia/contributors) [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.eo)."
 
 
 # Language selection

@@ -1,5 +1,5 @@
 ---
-title: "Imprint"
+title: "છાપવું"
 type: "page"
 layout: "subpage"
 ---

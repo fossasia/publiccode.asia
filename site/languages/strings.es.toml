@@ -21,7 +21,7 @@
 # Start banner
 [Languages.es.start]
   subtitle1   = "¿Por qué el software creado con dinero de los impuestos no se publica como Software Libre?"
-  subtitle2   = "Queremos una legislación que permita que el software desarrollado para el sector público y financiado con recursos públicos esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.'). Si es dinero público debería ser también código público."
+  subtitle2   = "Queremos una legislación que permita que el software desarrollado para el sector público y financiado con recursos públicos esté disponible públicamente bajo una licencia de [Software Libre y Código Abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software 'El Software Libre da a todos el derecho a usar, estudiar, compartir y mejorar el software. En estos derechos se fundan otras libertades fundamentales como la libertad de expresión, de prensa y el derecho a la privacidad.'). Si es dinero público debería ser también código público. A raíz de las iniciativas [en todo el mundo](https://publiccode.eu), pedimos la publicación del código que paga el público."
   subtitle3   = "**El código pagado por los ciudadanos debería estar disponible para los ciudadanos!**"
 
 
@@ -37,7 +37,7 @@
   followup    = "¿Crees que el Software Libre debe ser la opción principal para el software financiado públicamente? **Necesitamos convencer a los políticos que nos representan!**"
   buttonText  = "Firma la carta abierta"
 [[Languages.es.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Ahorro de impuestos"
   description = "Aplicaciones similares no tienen que ser programadas desde cero una y otra vez."
 [[Languages.es.arguments.list]]
@@ -95,13 +95,13 @@
 
 # Legal Section
 [Languages.es.legal]
-  by            = "Esta es una campaña de la Free Software Foundation Europe"
+  by            = "Esta es una campaña de la Public Code Initiative Asia"
   imprint       = "Imprimir"
   privacy       = "Privacidad"
   transparency  = "Transparencia"
   contribute1   = "El código de este sitio web es Software Libre."
   contribute2   = "Eres bienvenido a contribuir!"
-  license       = "Este trabajo está bajo la licencia [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "Este trabajo está bajo sulle [contributores](https://github.com/fossasia/publiccode.asia/contributors) la licencia [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 
 # Language selection

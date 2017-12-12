@@ -1,7 +1,7 @@
 titleBefore: Μοίρασε στο
 titleAfter:
 # This "customText" must not have more than 115 characters!
-customText: "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το κάλεσμα του @fsfe για #publiccode:"
+customText: "If it is public money, it should be public code as well! I support @FOSSASIA's initiative for more #PublicCode:"
 
 # Do not translate below here
 id: twitter

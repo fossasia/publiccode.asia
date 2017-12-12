@@ -33,7 +33,7 @@
   # subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Free Software gives everybody the rights to use, study, share and improve software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.') licence. If it is public money, it should be public code as well."
   # subtitle3   = "**Code paid by the people should be available to the people!**"
   subtitle1  = "Waarom is software die geschreven is met belastinggeld niet beschikbaar als Vrije Software?"
-  subtitle2  = "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn."
+  subtitle2  = "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn. In navolging van initiatieven [wereldwijd](https://publiccode.eu) vragen we om de release van code die wordt betaald door het publiek."
   subtitle3  = "**Code die betaald is door iedereen moet beschikbaar zijn voor iedereen!**"
 
 
@@ -54,10 +54,10 @@
   followup    = "Gelooft u dat Vrije Software de standaardoptie zou moeten zijn voor publiek gefinancieerde software?  **Laten we onze politieke vertegenwoordigers overtuigen!**"
   buttonText  = "Onderteken de Open Brief"
 [[Languages.vi.arguments.list]]
-  # icon        = "fa-eur"
+  # icon        = "fa-usd"
   # title       = "Tax savings"
   # description = "Similar applications don't have to be programmed from scratch every time."
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Besparen op belastingen"
   description = "Soortgelijke toepassingen hoeven niet opnieuw van de grond af ontwikkeld te worden."
 [[Languages.vi.arguments.list]]
@@ -152,14 +152,13 @@
   # contribute1   = "The code of this website is Free Software."
   # contribute2   = "You're welcome to contribute!"
   # license       = "This work is licensed under a [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
-  by            = "Dit is een compagne door Free Software Foundation Europe"
+  by            = "Dit is een compagne door Public Code Initiative Asia"
   imprint       = "Imprint"  # TODO
   privacy       = "Privacy"
   transparency  = "Openheid"
   contribute1   = "De code van deze website is Vrije Software."
   contribute2   = "U bent van harte welkom om bij te dragen!"
-  license       = "Dit werk valt onder een [Creative Commons BY-SA 4.0 Licentie](http://creativecommons.org/licenses/by-sa/4.0/deed.nl)."
-
+  license       = "This work is licensed by its [contributores](https://github.com/fossasia/publiccode.asia/contributors) under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Language selection
 [Languages.vi.language]

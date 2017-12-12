@@ -5,30 +5,31 @@ layout: subpage
 sigtable: true
 ---
 
-Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for this, many politicians don't know about them yet.
+સાર્વજનિક રીતે ભંડોળ પૂરું પાડવામાં આવેલ સોફ્ટવેર મફત અને ઓપન સોર્સ સૉફ્ટવેર (FOSS) હોવું જોઈએ. આ રેખા માટે ઘણાં સારા કારણો હોવા છતાં, જાહેર વહીવટમાં ઘણા નિર્ણય ઉત્પાદકો હજી અજાણ છે.
 
 {{< fsdefinition type="box">}}
 
-This is where you can help! Sign the open initiative to give our message more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. We will hand over the letter and signatures to your representatives and make sure that they understand that: Public Money? Public Code!
+એશિયામાં ફોસ્સ સંદેશને વધુ વજન આપવા માટે પહેલ પર સહી કરો. **{{< count type="signatures" >}} લોકો** અને **{{< count type="organisations" >}} સંગઠનો** પહેલાથી જ સાઇન ઇન થયા છે. તમારી સપોર્ટ સામાન્ય જનતાની જાગૃતિ વધારવા માટે મદદ કરશે: પબ્લિક મની? જાહેર કોડ!
 
-> ## Public Money? Public Code!
+## જાહેર નાણાં? જાહેર કોડ!
 >
-> Digital services offered and used by our public administrations are the critical infrastructure of 21st century democratic nations. In order to establish trustworthy systems, public bodies must ensure they have full control over the software and the computer systems at the core of our state digital infrastructure. However, right now, this is rarely the case due to restrictive software licences that:
+> અમારા જાહેર વહીવટ દ્વારા આપવામાં આવતી અને ઉપયોગમાં લેવાતી ડિજિટલ સેવાઓ 21 મી સદીના મહત્વપૂર્ણ ઇન્ફ્રાસ્ટ્રક્ચર છે. તેની ખાતરી કરવા માટે કે અમારી સિસ્ટમ્સ વિશ્વસનીય અને વિશ્વસનીય છે, સરકારો અને વ્યવસાયોને રાજ્ય ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચરના મુખ્ય ભાગમાં સૉફ્ટવેર અને કમ્પ્યુટર સિસ્ટમ્સ પર સંપૂર્ણ નિયંત્રણ હોવું આવશ્યક છે. જો કે, હમણાં, આ ભાગ્યે જ પ્રતિબંધિત પરવાના મોડેલને કારણે છે જે:
 >
-> * Forbid sharing and exchanging publicly funded code. This prevents cooperation between public administrations and hinders further development.
-> * Support monopolies by hindering competition. As a result, many administrations become dependent on a handful of companies.
-> * Pose a threat to the security of our digital infrastructure by forbidding access to the source code. This makes fixing backdoors and security holes extremely difficult, if not completely impossible.
+> * શેરિંગને અટકાવો અને જાહેરમાં ભંડોળ કોડનું વિમોચન કરો. આ જાહેર વહીવટ અને વ્યવસાયોમાં સહકારથી અટકાવે છે અને વધુ વિકાસમાં અવરોધે છે.
+* * સ્પર્ધામાં અવરોધીને મોનોપોલી બનાવવાના પરિણામ. વહીવટીતંત્રની એક મુઠ્ઠીક કંપનીઓ પર આધાર રાખે છે.
+> * સ્રોત કોડની ઍક્સેસને નકારીને અમારા ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચરની સુરક્ષાને જોખમમાં મૂકે છે. કોડ એક્સેસ ફિક્સિંગ બેકડોર્સ અને સુરક્ષા છિદ્રો વિના અત્યંત મુશ્કેલ બની જાય છે, જો સંપૂર્ણપણે અશક્ય નથી.
 >
-> We need software that fosters the sharing of good ideas and solutions. Like this we will be able to improve IT services for people all over Asia. We need software that guarantees freedom of choice, access, and competition. We need software that helps public administrations regain full control of their critical digital infrastructure, allowing them to become and remain independent from a handful of companies. That is why we call our representatives to support Free and Open Source Software in public administrations, because:
+> અમને સૉફ્ટવેરની જરૂર છે જે શ્રેષ્ઠ વ્યવહારો અને ઉકેલોના શેરને પ્રોત્સાહન આપે છે. અમને સૉફ્ટવેરની જરૂર છે જે પારદર્શિતા, સરકારી દેખરેખ અને ટ્રસ્ટની બાંયધરી આપે છે. અમને એવી સોફ્ટવેરની જરૂર છે જે જાહેર વહીવટ અને વ્યવસાયોને મદદ કરે છે, તેમના નિર્ણાયક ડિજિટલ ઇન્ફ્રાસ્ટ્રક્ચર પર સંપૂર્ણ અંકુશ જાળવી રાખે છે અને તેમને સાર્વભૌમ રહેવાની અને નાગરિકોને તેમની સેવાઓ પૂરી પાડવા માટે પરવાનગી આપે છે. અમે જાહેર વહીવટમાં મુક્ત અને ઓપન સોર્સ સૉફ્ટવેર (FOSS) ના સમર્થન માટે કૉલ કરીએ છીએ, કારણ કે:
 >
-> * Free and Open Source Software is a modern public good that allows everybody to freely use, study, share and improve applications we use on a daily basis.
-> * Free and Open Source Software licences provide safeguards against being locked in to services from specific companies that use restrictive licences to hinder competition.
-> * Free and Open Source Software ensures that the source code is accessible so that backdoors and security holes can be fixed without depending on one service provider.
+> * FOSS  અમને એપ્લિકેશન્સનો ઉપયોગ, અભ્યાસ, શેર અને સુધારવામાં સક્ષમ કરે છે.
+> * FOSS લાઇસન્સ સ્પર્ધાત્મકતાને રોકવા માટે પ્રતિબંધિત લાઇસેંસધારકોનો ઉપયોગ કરતા પ્રદાતાઓની સેવાઓમાં લૉક થવા સામે સલામતી પૂરી પાડે છે.
+> * FOSS એ સુનિશ્ચિત કરે છે કે સ્રોત કોડ સુલભ છે જેથી સુરક્ષા નબળાઈઓ અને બેકડોર્સને સુધારી શકાય.
 >
-> Public bodies are financed through taxes. They must make sure they spend funds in the most efficient way possible. If it is public money, it should be public code as well!
+> સાર્વજનિક સંસ્થાઓને કર દ્વારા નાણાં આપવામાં આવે છે. તે શક્ય છે કે તેઓ શક્ય તેટલી અસરકારક રીતે ફંડ ભંડોળ ખર્ચવા માટેનું તેમનું લક્ષ્ય છે. જો તે જાહેર નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ!
+
 >
-> That is why we, the undersigned, call our representatives to:
+> તેથી, અમે, અંડરસ્ટેડ, કૉલ નિર્ણય ઉત્પાદકો, ધંધાઓ અને પ્રતિનિધિઓને આનો જવાબ આપીએ છીએ:
 >
-> **"Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence."**
+> **"બધા જ જરૂરી પગલાં લો અને જાહેર ક્ષેત્ર માટે વિકસાવવામાં આવતી જાહેર રીતે નાણાંકીય સોફ્ટવેરને મુક્ત અને ઓપન સોર્સ સોફ્ટવેર લાઇસન્સ હેઠળ જાહેરમાં ઉપલબ્ધ કરાવવું જરૂરી છે તે કાયદો અમલમાં મૂકવા સાથે મળીને કામ કરો."**
 
 [fs]: https://en.wikipedia.org/wiki/Free_and_open-source_software

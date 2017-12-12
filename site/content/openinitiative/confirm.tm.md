@@ -1,11 +1,12 @@
 ---
-title: "Almost done..."
+title: "கிட்டத்தட்ட முடிந்து விட்டது..."
 type: page
 layout: subpage
 ---
 
-## Check your email inbox now
+## உங்கள் மின்னஞ்சல் இன்பாக்ஸை இப்போது பாருங்கள்
 
-You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes. 
+நீங்கள் கிட்டத்தட்ட முடித்துவிட்டீர்கள்! விரைவில் உங்கள் கையொப்பத்தின் இறுதி உறுதிப்படுத்தலுக்கான இணைப்புடன் மின்னஞ்சலைப் பெறுவீர்கள். அடுத்த 15 நிமிடங்களில் நீங்கள் அஞ்சல் பெறாதபட்சத்தில் உங்கள் ஸ்பேம் கோப்புறையைச் சரிபார்க்கவும்.
 
-Thank you for signing the open initiative for **Public Money, Public Code**.
+** பொது பணம், பொதுக் கோட்டிற்கான திறந்த முயற்சியை கையொப்பமிட்டதற்கு நன்றி.
+

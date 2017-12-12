@@ -288,9 +288,9 @@ th {
 .glyphicon-plus:before {
   content: "\2b";
 }
-.glyphicon-euro:before,
-.glyphicon-eur:before {
-  content: "\20ac";
+.glyphicon-dollar:before,
+.glyphicon-usd:before {
+  content: "\e148";
 }
 .glyphicon-minus:before {
   content: "\2212";
@@ -726,9 +726,6 @@ th {
 }
 .glyphicon-pushpin:before {
   content: "\e146";
-}
-.glyphicon-usd:before {
-  content: "\e148";
 }
 .glyphicon-gbp:before {
   content: "\e149";

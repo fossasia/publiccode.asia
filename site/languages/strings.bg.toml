@@ -33,12 +33,12 @@
 # Start banner
 #[Languages.en.start]
 #  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
+#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
 #  subtitle3   = "**Code paid by the people should be available to the people!**"
 # Start banner
 [Languages.bg.start]
   subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.asia), we are starting an initiative to call for the release of code that is paid by the public."
+  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
   subtitle3   = "**Code paid by the people should be available to the people!**"
 
 ## About section
@@ -56,7 +56,7 @@
 #  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
 #  buttonText  = "Sign the Open Initiative"
 #[[Languages.en.arguments.list]]
-#  icon        = "fa-eur"  # <-- do not translate this
+#  icon        = "fa-usd"  # <-- do not translate this
 #  title       = "Tax savings"
 #  description = "Similar applications don't have to be programmed from scratch every time."
 #[[Languages.en.arguments.list]]
@@ -77,7 +77,7 @@
   followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
   buttonText  = "Sign the Open Initiative"
 [[Languages.bg.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Tax savings"
   description = "Similar applications don't have to be programmed from scratch every time."
 [[Languages.bg.arguments.list]]
@@ -179,7 +179,7 @@
   transparency  = "Transparency"
   contribute1   = "The code of this website is licensed as Free and Open Source Software."
   contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  license       = "This work is licensed by its [contributors](https://github.com/fossasia/publiccode.asia/contributors) under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 ## Language selection
 #[Languages.en.language]

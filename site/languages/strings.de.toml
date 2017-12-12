@@ -4,7 +4,7 @@
 [Languages.de]
   languageCode  = "de"
   languageName  = "Deutsch"
-  description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie Software veröffentlicht wird"
+  description   = "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie und Open Source Software veröffentlicht wird"
   fsdefinition  = "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."
 
 
@@ -21,7 +21,7 @@
 # Start banner
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
-  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein! Nach den Initiativen [auf der ganzen Welt](https://publiccode.eu) fordern wir die Veröffentlichung von Code, der von der Öffentlichkeit bezahlt wird."
   subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**"
 
 
@@ -37,7 +37,7 @@
   followup    = "Glaubst du, dass Freie Software die Standardoption für öffentlich finanzierte Software sein sollte? **Dann lass uns deine Abgeordneten überzeugen!**"
   buttonText  = "Den Offenen Brief unterzeichnen"
 [[Languages.de.arguments.list]]
-  icon        = "fa-eur"  # <-- do not translate this
+  icon        = "fa-usd"  # <-- do not translate this
   title       = "Steuereinsparungen"
   description = "Ähnliche Programme müssen nicht komplett neu programmiert werden."
 [[Languages.de.arguments.list]]
@@ -95,13 +95,13 @@
 
 # Legal Section
 [Languages.de.legal]
-  by            = "Eine Kampagne der Free Software Foundation Europe"
+  by            = "Eine Kampagne der Public Code Initiative Asien"
   imprint       = "Impressum"
   privacy       = "Datenschutz"
   transparency  = "Transparenz"
   contribute1   = "Der Code dieser Website ist Freie Software."
   contribute2   = "Du kannst dazu beitragen, sie zu verbessern."
-  license       = "Diese Seite ist lizensiert unter einer [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)-Lizenz."
+  license       = "Diese Seite ist lizensiert von den [Contributors](https://github.com/fossasia/publiccode.asia/contributors) unter einer [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)-Lizenz."
 
 
 # Language selection
