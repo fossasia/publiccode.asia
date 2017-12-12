@@ -21,7 +21,7 @@
 # Start banner
 [Languages.de.start]
   subtitle1  = "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
-  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+  subtitle2  = "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://en.wikipedia.org/wiki/Free_and_open-source_software 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein! Nach den Initiativen [auf der ganzen Welt](https://publiccode.eu) fordern wir die Veröffentlichung von Code, der von der Öffentlichkeit bezahlt wird."
   subtitle3  = "**Von allen bezahlter Code sollte für alle verfügbar sein!**"
 
 
