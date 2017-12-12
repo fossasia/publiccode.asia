@@ -1,8 +1,8 @@
 titleBefore: શેર કરો
-titleAfter: 
+titleAfter:
 # This "customText" must not have more than 115 characters!
 customText: "જો તે જાહેર નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ! વધુ #publiccode કોડ માટે હું @FOSSASIA પહેલને સપોર્ટ કરું છું"
 
 # Do not translate below here
-id: twitter
-name: Twitter
+id: linkedin
+name: LinkedIn

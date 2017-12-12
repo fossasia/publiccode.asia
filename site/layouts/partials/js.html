@@ -287,6 +287,11 @@ function openPageFromButton(buton,form) {
             query.append("url",window.location.href)
             open('https://plus.google.com/share?'+query.toString())
             break;
+        case "linkedin":
+            query.append("url",window.location.href)
+            query.append('title',form.title)
+            open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
+            break;
     }
 }
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
@@ -302,3 +307,5 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 <script type="text/javascript" src="{{ "js/wow.min.js" | absURL }}"></script>
 {{ "<!-- Custom Theme JavaScript -->" | safeHTML }}
 <script type="text/javascript" src="{{ "js/creative.js" | absURL }}"></script>
+<!-- On scroll changing menu -->
+<script type="text/javascript" src="{{ "js/onScrollMenu.js" | absURL }}"></script>

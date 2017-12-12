@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "गोपनीयता नीति"
 type: "page"
 layout: "subpage"
 ---

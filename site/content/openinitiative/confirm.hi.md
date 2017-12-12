@@ -1,11 +1,11 @@
 ---
-title: "Almost done..."
+title: "लगभग हो गया..."
 type: page
 layout: subpage
 ---
 
-## Check your email inbox now
+## अब अपना ईमेल इनबॉक्स जांचें
 
-You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes. 
+आप लगभग समाप्त हो गए हैं! आपको जल्द ही अपने हस्ताक्षर की अंतिम पुष्टि के लिए एक लिंक के साथ एक ईमेल प्राप्त होगा अगर आपको अगले 15 मिनट के भीतर मेल प्राप्त न हो तो कृपया अपना स्पैम फ़ोल्डर जांचें
 
-Thank you for signing the open initiative for **Public Money, Public Code**.
+** लोक पैसे, सार्वजनिक संहिता ** के लिए खुली पहल पर हस्ताक्षर करने के लिए धन्यवाद।
