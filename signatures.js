@@ -18,7 +18,7 @@ function forEach(obj, fn, path) {
         if (thing.email) {
             thingy={"include_vars":thing}
             thingy.timestamp=thing.timestamp
-            table.push(thingy)}
+            table.push(thingy)
             return false
         } else {
             return true
