@@ -32,6 +32,17 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
     </item>
     
     <item>
+      <title>Dziękujemy za podpisanie!</title>
+      <link>/openinitiative/success.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openinitiative/success.pl/</guid>
+      <description>Twój podpis został potwierdzony Dziękujemy Ci za podpisanie otwartej inicjatywy &amp;ldquo;Public Money, Public Code&amp;rdquo;. Twoje wsparcie wiele dla nas znaczy.
+Jeśli zgodziłeś/aś się aby Twoje imię zostało dodane do publicznej listy, Twoje imię pojawi się na liście wszystkich podpisów w przeciągu następnej godziny. Jeśli zgodziłeś/aś się by otrzymać więcej informacji, będziemy stale informować Cię o nowościach związanych z tą kampanią przez pocztę email.
+Następne kroki Prosimy, pomóż nam nadając swojemu podpisowi większy impakt i podziel się tą kampanią z przyjaciółmi.</description>
+    </item>
+    
+    <item>
       <title>Grazie per aver firmato!</title>
       <link>/openinitiative/success.ms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +51,16 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
       <description>La tua firma è stata confermata Grazie per aver firmato la lettera aperta &amp;ldquo;Public Money, Public Code&amp;rdquo;. Il tuo supporto significa molto per noi.
 Se hai autorizzato l&amp;rsquo;aggiunta del tuo nome all&amp;rsquo;elenco pubblico dei firmatari, apparirà nell&amp;rsquo;elenco di firme entro la prossima ora. Se ha autorizzato la richiesta di ricevere ulteriori informazioni, ti manterremo informato sulle notizie concernenti questa campagna via email.
 Prossimi passi Per favore aiutaci dando alla tua firma un grande impatto condividendo questa campagna con i tuoi amici.</description>
+    </item>
+    
+    <item>
+      <title>Prawie zrobione...</title>
+      <link>/openinitiative/confirm.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openinitiative/confirm.pl/</guid>
+      <description>Check your email inbox now Już prawie skończyłeś/aś! Wkrótce otrzymasz wiadomość na swój adres email z linkiem do ostatecznego potwierdzenia Twojego podpisu. Prosimy, sprawdź swój folder spamu jeśli nie otrzymasz wiadomości w ciągu następnych 15 minut.
+Dziękujemy Ci za podpisanie otwartej inicjatywy Public Money, Public Code.</description>
     </item>
     
     <item>
@@ -71,6 +92,17 @@ Next Steps Please help us by giving your signature a huge impact and share this 
       <guid>/openinitiative/all-signatures.ms/</guid>
       <description>Questa è la lista completa di tutte le persone che hanno firmato la lettera aperta ed hanno acconsentito a render pubblico il loro nome. 0 persone hanno già espresso il loro supporto, sei uno di loro?
 Questa lista è aggiornata ogni ora.
+  Name Country Comment      </description>
+    </item>
+    
+    <item>
+      <title>Wszystkie publiczne podpisy</title>
+      <link>/openinitiative/all-signatures.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/openinitiative/all-signatures.pl/</guid>
+      <description>To jest lista wszystkich ludzi którzy podpisali otawrtą inicjatywę i zgodzili się by upublicznić ich imiona. 0 ludzi wyraziło już swoje wsparcie – czy jesteś jednym z nich?
+Ta lista jest aktualizowana co godzinę.
   Name Country Comment      </description>
     </item>
     
