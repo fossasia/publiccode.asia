@@ -1,5 +1,5 @@
 ---
-title: "அடித்தளங்களை"
+title: "அடித்தளம்"
 type: "page"
 layout: "subpage"
 ---
