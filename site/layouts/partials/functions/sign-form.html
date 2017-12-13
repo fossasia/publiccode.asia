@@ -8,7 +8,7 @@
   </label>
   <br />
   <label class="sign-input form-cn">
-    <select name="Country" id="Country">
+    <select name="country" id="Country">
       <option value="">{{ .Site.Params.action.form.country }}</option>
       {{ $json := getJSON "data/countries/countries.json" }}
       {{ range sort $json "name" "asc" }}
@@ -23,7 +23,7 @@
     <input name="Organization" id="Organization" placeholder="{{ .Site.Params.action.form.organization }}" type="text" />
   </label>
   <label class="sign-input form-co">
-    <input name="Comment" id="Comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
+    <input name="comment" id="Comment" placeholder="{{ .Site.Params.action.form.comment }}" type="text" maxlength="140" />
   </label>
   <div class="form-pe">
     <div>
