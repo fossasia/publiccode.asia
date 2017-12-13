@@ -1,7 +1,7 @@
 var fs=require('fs');
 var obj=require('./signatures.json');
 function forEach(obj, fn, path) {
-    if (typeof obj == "object")
+    if (obj&&typeof obj == "object")
         Object.keys(obj).forEach(function(key) {
             var deepPath = path ? path + '.' + key : key;
             // Note that we always use obj[key] because it might be mutated by forEach
