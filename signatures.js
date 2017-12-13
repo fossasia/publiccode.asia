@@ -12,11 +12,13 @@ function forEach(obj, fn, path) {
 
  var table = [];
     forEach(obj, function(thing, key, obj, path) {
+
         var thingy;
+        
         if (thing.email) {
             thingy={"include_vars":thing}
             thingy.timestamp=thing.timestamp
-            table.push(thingy)
+            table.push(thingy)}
             return false
         } else {
             return true
