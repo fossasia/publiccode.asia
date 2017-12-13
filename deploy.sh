@@ -34,7 +34,7 @@ cd ..
 # Run our compile script
 wget -q https://publiccodeasia.firebaseio.com/subscribers.json?auth=tLtEcFft4F34hknRsT8sPEty0PGOqBMg1n8fLN13 -O signatures.json
 node signatures.json
- mv signatures.json site/data/signatures/.
+mv signatures.json site/data/signatures/.
 doCompile
 cp -r site/public/* site/out
 cp -r site/static/* site/out
