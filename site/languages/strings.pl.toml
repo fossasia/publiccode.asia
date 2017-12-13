@@ -1,0 +1,116 @@
+# == POLISH ==
+
+# General strings
+[Languages.pl]
+  languageCode  = "pl"  # 2-letter code of language (ISO 639-1)
+  languageName  = "Public Money, Public Code - Kampania FOSSASIA dla wydawania publicznie finansowanego oprogramowania jako Darmowe oprogramowanie Open Source Otwarte Źródła"
+  fsdefinition  = "Darmowe i otwarte oprogramowanie daje każdemu prawo do użytku, nauki, dzielenia się i ulepszania oprogramowania."
+
+# Navigation
+[Languages.pl.navigation]
+[Languages.pl.navigation.links]
+  start     = "Start"
+  about     = "O akcji"
+  arguments = "Powody"
+  action    = "Podejmij działanie"
+  spread    = "Powiedz światu"
+
+# Start banner
+[Languages.pl.start]
+  subtitle1   = "Dlaczego oprogramowanie tworzone dzięki pieniądzom podatników nie jest wydawane jako darmowe i otwarte?"
+  subtitle2   = "Chcemy ustawy wymagającej aby publicznie finansowane oprogramowanie zarządzane dla publicznego sektora było publicznie dostępne pod licencją [Darmowe i Otwarte Oprogramowanie](https://en.wikipedia.org/wiki/Free_and_open-source_software). Jeśli to są publiczne pieniędze, to kod również powinien być publiczny. Następujące inicjatywy [na całym świecie](https://publiccode.asia), zaczynamy inicjatywę by wezwać do wydawania kodu opłacanego publicznie."
+  subtitle3   = "**Kod opłacany przez ludzi powinien być dostęny dla ludzi!**"
+
+# About section
+[Languages.pl.about]
+  headline    = "Brzmi skomplikowanie? Wcale nie. To bardzo proste!"
+  buttonText  = "Więcej zalet"
+
+# Arguments section
+[Languages.pl.arguments]
+  headline    = "Powody dla publicznego kodu"
+  followup    = "Wierzysz, że darmowe i otwarte oprogramowanie powinno być domyślną opcją dla publicznie finansowanego oprogramowania? **Przkonaj innych!**"
+  buttonText  = "Podpisz otwartą inicjatywę"
+[[Languages.pl.arguments.list]]
+  icon        = "fa-eur"  # <-- do not translate this
+  title       = "Oszczędzanie podatków"
+  description = "Podobne aplikacje nie muszą być za każdym razem tworzone od zera."
+[[Languages.pl.arguments.list]]
+  icon        = "fa-handshake-o"  # <-- do not translate this
+  title       = "Współpraca"
+  description = "Starania w zakresie głównych projektów mogą dzielić wiedzę i koszty."
+[[Languages.pl.arguments.list]]
+  icon        = "fa-users"  # <-- do not translate this
+  title       = "Służba społeczeństwu"
+  description = "Aplikacje opłacane publicznie powinny być dostępne dla wszystkich."
+[[Languages.pl.arguments.list]]
+  icon        = "fa-lightbulb-o"  # <-- do not translate this
+  title       = "Wspieranie innowacji"
+  description = "Przy widocznych procesach, inni nie muszą od nowa wymyślać koła."
+
+# Action section
+[Languages.XY.action]
+  headline      = "Powiedz swoim Przedstawicielom!"
+  intro         = "W naszej [**otwartej inicjatywie**](openinitiative/) żądamy:"
+  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+  demand        = "“Zaimplementować ustawę wymagającą aby publicznie finansowane oprogramowanie zarządzane dla publicznego sektora, było publicznie dostępne pod licencją [Wolne i Otwarte Oprogramowanie](https://en.wikipedia.org/wiki/Free_and_open-source_software).”"
+  description   = "**$ORGS** organizacji i **$INDS** osób już wsparło to wezwanie do akcji poprzez podpisanie naszej [otwartej inicjatywy](openinitiative/). Możesz pomóc nam wywołać większy impakt też ją podpisując! Zbierzemy wszytkie podpisy i dostarczymy je do Reprezentantów w całej Azji którzy debatują zasady otwartego oprogramowania w administracji publicznej."
+
+[Languages.pl.action.box]
+  text      = "Już **$INDS SIGNATURES** – podpisz teraz otwartą inicjatywę!"
+
+[Languages.pl.action.form]
+  name          = "Imię (wymagane)"
+  email         = "Email (wymagane)"
+  country       = "Twój kraj"
+  region        = "Region/Miasto"
+  organization  = "Organizacja"
+  comment       = "Twój komentarz (max. 140 znaków)"
+  permPriv      = "Oświadczam iż przeczytałem i akceptuję [oświadczenie o prywatności](privacy/)"
+  permNews      = "Chcę być informowany/a o tym jak przebiega kampania"
+  permPub       = "Chcę by mój podpis pojawił się na [liście podpisów](openinitiative/all-signatures)"
+  submit        = "Podpisz Teraz!"
+
+# Organisations section
+[Languages.pl.organisations]
+  headline  = "Wspierające organizacje"
+  text      = "Następujące organizacje wspierają naszą [otwartą inicjatywę](openinitiative/). Jeśli Towja organizacja jest również zainteresowana dołączeniem do akcji Public Code, prosimy [skontaktuj się z nami.](mailto:publiccode@fossasia.org)."
+
+# Spread the word section
+[Languages.pl.spread]
+  headline          = "Powiedz światu!"
+  promoText         = "Odbierz naklejki i ulotki od FOSSASIA"
+  promoButtonText   = "Pobierz materiały informujące"
+  shareText         = "Powiedz swoim przyjaciołom i znajomym o Public Code:"
+  defaultSocialText = "Jeśli to są publiczne pieniądze, to kod również powinien być publiczny. Wspieram tą inicjatywę dla publicznego kodu pod licencją Darmowego Oprogramowania:"
+
+# Legal Section
+[Languages.pl.legal]
+  by            = "Kampania zorganizowana przez FOSSASIA"
+  imprint       = "Imprint"
+  privacy       = "Privacy"
+  transparency  = "Transparency"
+  contribute1   = "Kod na tej stronie jest darmowy i otwarty."
+  contribute2   = "Zapraszmy do współtworzenia!"
+  license       = "Ta praca jest licencjonowana przez jej [kontrybutorów](https://github.com/fossasia/publiccode.asia/contributors) pod licencję [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[Languages.pl.language]
+  description = "Przeczytaj w innym języku"
+
+# 404 Error Page
+[Languages.pl.error]
+  headline    = "Błąd 404 - nie znaleziono strony"
+  description = "Strona której poszukujesz nie istnieje."
+  button      = "Powrót na stronę główną"
+
+# Specific sub-pages
+[Languages.pl.subpage]
+[Languages.pl.subpage.signatures]
+  headline      = "Podpisy Otwartej Inicjatywy osób indywidualnych"
+  description   = "Poniżej znajdują się imiona osób które zdecydowały by ich imiona zostały upulicznione. Bądź następny/a!"
+  allSignatures = "Zobacz [wszystkie podpisy](all-signatures/)."
+  tableName     = "Imię"
+  tableCountry  = "Kraj"
+  tableComment  = "Komentarz"
+  
