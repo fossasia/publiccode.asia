@@ -469,3 +469,74 @@ a:hover {
     color: #5a5a5a !important;
 }
 
+/* Lightbox PayPal style */
+#lightBox {
+  background-color: #eee;
+  color: #333;
+  position: fixed;
+  z-index: 1;
+  width: 45%;
+  display: none;
+  transition: 0.3s;
+  display: none;
+  top: 12%;
+  left: 27%;
+  border: 1px solid #333;
+  font-size: 45vm;
+}
+@media (max-width: 1000px) {
+  #lightBox {
+    left: 5%;
+    width: 90%;
+  }
+}
+#close {
+  transition: 0.3s;
+  position: absolute;
+  font-size: 30px;
+  right: 2%;
+  top: 0;
+  cursor: pointer;
+}
+#close:hover {
+  transform: rotate(-90deg);
+}
+.stripe-button-el {
+  background-image: -webkit-linear-gradient(#28a0e5,#015e94);
+  border: none;
+  text-decoration: none;
+  padding: 1px;
+  user-select: none;
+  border-radius: 5px;
+}
+
+/* 'Become a supporter!' button */
+.support {
+  background-color: #d62700;
+  background-image: url("../img/service-icons/support_red.png");
+  display: inline-block;
+  margin: 0px 5px 10px 0;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1em;
+  font-family: "Open Sans","Helvetica Neue",Arial,sans-serif;
+  line-height: normal;
+  text-align: center;
+  text-decoration: none;
+  padding: 7px 7px 7px 20px;
+  min-width: 120px;
+  box-sizing: border-box;
+  display: inline-block;
+  border: none;
+  border-radius: 3px;
+  background-position: left 5px center;
+  background-repeat: no-repeat;
+  background-size: 20px auto;
+  opacity: 0.9;
+  vertical-align: top;
+  line-height: 1.2em;
+  padding-left: 30px !important;
+}
+.support:hover {
+  background-color: #842d2d !important;
+}
