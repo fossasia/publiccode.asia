@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh_tw">
     <head>
-        <!-- Build time: 2017-12-14 06:26:11.931114003 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-14 20:35:39.659087465 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -272,11 +272,6 @@
     
     
       <button type="submit" name="service" value="facebook" class="button share-facebook" title="分享到 Facebook " onclick="return changeTitleside('使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權：')">&nbsp;</button>
-    
-  
-    
-    
-      <button type="submit" name="service" value="support" class="button share-support" title=" 支持歐洲自由軟體基金會！ " onclick="return changeTitleside('使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權：')">&nbsp;</button>
     
   
 </form>
@@ -581,6 +576,19 @@ function openPageFromButton(buton,form) {
             break;
     }
 }
+  
+var lightBox = document.getElementById('lightBox');
+
+
+function openLightBox() {
+  lightBox.style.display = "block";
+}
+    
+
+function closeLightBox() {
+  lightBox.style.display = "none";
+}
+  
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
     onformSubmit(form, openPageFromButton)
 })
@@ -596,6 +604,8 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 <script type="text/javascript" src="/js/creative.js"></script>
 
 <script type="text/javascript" src="/js/onScrollMenu.js"></script>
+
+<script type="text/javascript" src="/js/donate.js"></script>
 
     </body>
 </html>

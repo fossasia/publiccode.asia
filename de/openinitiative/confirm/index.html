@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <!-- Build time: 2017-12-14 06:26:11.570596095 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-14 20:35:39.742739134 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -279,11 +279,6 @@
     
     
       <button type="submit" name="service" value="facebook" class="button share-facebook" title="Auf Facebook teilen" onclick="return changeTitleside('Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz:')">&nbsp;</button>
-    
-  
-    
-    
-      <button type="submit" name="service" value="support" class="button share-support" title=" Werde Supporter! " onclick="return changeTitleside('Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz:')">&nbsp;</button>
     
   
 </form>
@@ -588,6 +583,19 @@ function openPageFromButton(buton,form) {
             break;
     }
 }
+  
+var lightBox = document.getElementById('lightBox');
+
+
+function openLightBox() {
+  lightBox.style.display = "block";
+}
+    
+
+function closeLightBox() {
+  lightBox.style.display = "none";
+}
+  
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
     onformSubmit(form, openPageFromButton)
 })
@@ -603,6 +611,8 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 <script type="text/javascript" src="/js/creative.js"></script>
 
 <script type="text/javascript" src="/js/onScrollMenu.js"></script>
+
+<script type="text/javascript" src="/js/donate.js"></script>
 
     </body>
 </html>

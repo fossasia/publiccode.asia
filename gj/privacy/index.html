@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="gj">
     <head>
-        <!-- Build time: 2017-12-14 06:26:11.797781083 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-14 20:35:39.668570115 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -272,11 +272,6 @@
     
     
       <button type="submit" name="service" value="facebook" class="button share-facebook" title="શેર કરો Facebook " onclick="return changeTitleside('જો તે સાર્વજનિક નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ. હું ફ્રી સૉફ્ટવેર લાઇસેંસ હેઠળ વધુ સાર્વજનિક કોડ માટે આ કૉલનું સમર્થન કરું છું:')">&nbsp;</button>
-    
-  
-    
-    
-      <button type="submit" name="service" value="support" class="button share-support" title=" સમર્થક બનો! " onclick="return changeTitleside('જો તે સાર્વજનિક નાણાં છે, તો તે સાર્વજનિક કોડ પણ હોવો જોઈએ. હું ફ્રી સૉફ્ટવેર લાઇસેંસ હેઠળ વધુ સાર્વજનિક કોડ માટે આ કૉલનું સમર્થન કરું છું:')">&nbsp;</button>
     
   
 </form>
@@ -581,6 +576,19 @@ function openPageFromButton(buton,form) {
             break;
     }
 }
+  
+var lightBox = document.getElementById('lightBox');
+
+
+function openLightBox() {
+  lightBox.style.display = "block";
+}
+    
+
+function closeLightBox() {
+  lightBox.style.display = "none";
+}
+  
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
     onformSubmit(form, openPageFromButton)
 })
@@ -596,6 +604,8 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 <script type="text/javascript" src="/js/creative.js"></script>
 
 <script type="text/javascript" src="/js/onScrollMenu.js"></script>
+
+<script type="text/javascript" src="/js/donate.js"></script>
 
     </body>
 </html>
