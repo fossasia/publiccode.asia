@@ -59,9 +59,6 @@ div.sharecolumn .share-buttons.side {
   background-image: url("../img/service-icons/gplus_white.png");
   /* display: none !important; */
 }
-.share-buttons.side .share-support {
-  background-image: url("../img/service-icons/support_red.png");
-}
 
 /* Share pop-up behaviour hacks */
 .share-buttons.side input[type="radio"],

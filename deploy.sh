@@ -32,6 +32,9 @@ cd ..
 rm -rf out/*
 cd ..
 # Run our compile script
+wget -q https://publiccodeasia.firebaseio.com/subscribers/permission.json?auth=tLtEcFft4F34hknRsT8sPEty0PGOqBMg1n8fLN13 -O signatures.json
+node signatures.js
+mv signatures.json site/data/signatures/.
 doCompile
 cp -r site/public/* site/out
 cp -r site/static/* site/out
