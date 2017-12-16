@@ -1,12 +1,12 @@
 ---
-title: "All Public Signatures"
+title: "গোপনীয়তা নীতি..."
 type: page
 layout: subpage
 ---
 
-This is the complete list of all the people who signed the open initiative and agreed to have their names made public. {{< count type="signatures" >}} people have expressed their support already – are you one of them?
+এটি খোলা উদ্যোগে স্বাক্ষরিত সকল ব্যক্তিদের সম্পূর্ণ তালিকা এবং তাদের নাম প্রকাশ করার জন্য সম্মত হয়। {{< count type="signatures" >}} জন লোক ইতিমধ্যে তাদের সমর্থন প্রকাশ করেছে - আপনি তাদের মধ্যে একজন?
 
-The list is updated hourly.
+তালিকাটি প্রতি ঘন্টায় আপডেট করা হয়।
 
 {{< show_signatures >}}
 

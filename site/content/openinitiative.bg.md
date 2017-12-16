@@ -1,34 +1,34 @@
 ---
-title: Open Initiative
+title: খোলা উদ্যোগ
 type: page
 layout: subpage
 sigtable: true
 ---
 
-Publicly funded software has to be [Free and Open Source Software][fs]. While there are plenty of good reasons for this, many politicians don't know about them yet.
+পাবলিকে ফান্ডেড সফটওয়্যারটি হতে হবে [ফ্রি এবং ওপেন সোর্স সফটওয়্যার][fs]। এই জন্য প্রচুর কারণ আছে, অনেক রাজনীতিবিদ এখনো তাদের সম্পর্কে জানেন না।
 
 {{< fsdefinition type="box">}}
 
-This is where you can help! Sign the open initiative to give our message more weight. **{{< count type="signatures" >}} people** and **{{< count type="organisations" >}} organisations** have already signed. We will hand over the letter and signatures to your representatives and make sure that they understand that: Public Money? Public Code!
+এই যেখানে আপনি সাহায্য করতে পারেন! আমাদের বার্তা আরো ওজন দিতে খোলা উদ্যোগ সাইন ইন করুন। **{{< count type="signatures" >}} মানুষ** এবং **{{< count type="organisations" >}} সংস্থার** ইতিমধ্যেই স্বাক্ষরিত হয়েছে। আমরা আপনার প্রতিনিধির চিঠি এবং স্বাক্ষর হস্তান্তর এবং নিশ্চিত যে তারা বুঝতে হবে যে: পাবলিক টাকা? পাবলিক কোড!
 
-> ## Public Money? Public Code!
+> ## সরকারি অর্থ? পাবলিক কোড!
 >
-> Digital services offered and used by our public administrations are the critical infrastructure of 21st century democratic nations. In order to establish trustworthy systems, public bodies must ensure they have full control over the software and the computer systems at the core of our state digital infrastructure. However, right now, this is rarely the case due to restrictive software licences that:
+> আমাদের পাবলিক প্রশাসনের দেওয়া এবং ব্যবহৃত ডিজিটাল সেবা 21 শতকের গণতান্ত্রিক রাষ্ট্রগুলির গুরুত্বপূর্ণ অবকাঠামো। বিশ্বস্ত সিস্টেম স্থাপন করার জন্য, পাবলিক সংস্থাগুলি অবশ্যই নিশ্চিত করতে হবে যে তারা আমাদের রাষ্ট্রীয় ডিজিটাল পরিকাঠামোর কেন্দ্রস্থলে সফ্টওয়্যার এবং কম্পিউটার সিস্টেমের উপর সম্পূর্ণ নিয়ন্ত্রণ রাখে। যাইহোক, এই মুহূর্তে, এটি খুব কমই বিধিনিষেধ সফ্টওয়্যার লাইসেন্সের কারণে যে:
 >
-> * Forbid sharing and exchanging publicly funded code. This prevents cooperation between public administrations and hinders further development.
-> * Support monopolies by hindering competition. As a result, many administrations become dependent on a handful of companies.
-> * Pose a threat to the security of our digital infrastructure by forbidding access to the source code. This makes fixing backdoors and security holes extremely difficult, if not completely impossible.
+> * সার্বিকভাবে ফান্ডেড কোড বিনিময় এবং বিনিময় এটি পাবলিক প্রশাসনের মধ্যে সহযোগিতা রোধ করে এবং আরও উন্নয়নকে বাধা দেয়।
+> প্রতিযোগিতা প্রতিবন্ধকতা দ্বারা সমর্থন একচেটিয়া। ফলস্বরূপ, অনেক প্রশাসন একটি মুষ্টিমেয় কোম্পানীর উপর নির্ভরশীল হয়ে যায়।
+> * সোর্স কোড অ্যাক্সেস নিষিদ্ধ করে আমাদের ডিজিটাল পরিকাঠামোর নিরাপত্তা হুমকি রাখুন। এই backdoors এবং নিরাপত্তা গর্ত অত্যন্ত কঠিন ফিক্স করে তোলে, যদি না সম্পূর্ণরূপে অসম্ভব
 >
-> We need software that fosters the sharing of good ideas and solutions. Like this we will be able to improve IT services for people all over Asia. We need software that guarantees freedom of choice, access, and competition. We need software that helps public administrations regain full control of their critical digital infrastructure, allowing them to become and remain independent from a handful of companies. That is why we call our representatives to support Free and Open Source Software in public administrations, because:
+> আমাদের এমন সফ্টওয়্যার দরকার যা ভাল ধারণা ও সমাধান ভাগ করে দেয়। এভাবে আমরা এশিয়াতে সকলের জন্য আইটি সেবা উন্নত করতে সক্ষম হবো। আমাদের এমন সফ্টওয়্যার দরকার যা পছন্দ, অ্যাক্সেস এবং প্রতিযোগিতার স্বাধীনতার নিশ্চয়তা দেয়। আমরা সফ্টওয়্যার প্রয়োজন যে জন প্রশাসন তাদের জটিল ডিজিটাল অবকাঠামোর পূর্ণ নিয়ন্ত্রণ ফিরে পেতে সাহায্য করে, তাদের একটি মুষ্টিমেয় কোম্পানীর থেকে স্বাধীন হয়ে স্থায়ী হয়। এ কারণে আমরা জনসাধারণের প্রশাসনে ফ্রি এবং ওপেন সোর্স সফটওয়্যার সমর্থন করার জন্য আমাদের প্রতিনিধিদেরকে কল করি কারণ:
 >
-> * Free and Open Source Software is a modern public good that allows everybody to freely use, study, share and improve applications we use on a daily basis.
-> * Free and Open Source Software licences provide safeguards against being locked in to services from specific companies that use restrictive licences to hinder competition.
-> * Free and Open Source Software ensures that the source code is accessible so that backdoors and security holes can be fixed without depending on one service provider.
+> * ফ্রি ও ওপেন সোর্স সফটওয়্যার হল একটি আধুনিক পাবলিক ভাল যা প্রত্যেকের অবাধে ব্যবহার, গবেষণা, ভাগ এবং অ্যাপ্লিকেশনগুলির ব্যবহারকে আমরা দৈনন্দিন কাজে ব্যবহার করতে সহায়তা করে।
+> * ফ্রি এবং ওপেন সোর্স সফটওয়্যার লাইসেন্সগুলি এমন নির্দিষ্ট কোম্পানীর পরিষেবাগুলিতে লক করা হচ্ছে যা প্রতিযোগিতামূলক লাইসেন্স ব্যবহার করে প্রতিযোগিতায় বাধা দেয়ার বিরুদ্ধে সুরক্ষা প্রদান করে।
+> * ফ্রি এবং ওপেন সোর্স সফ্টওয়্যারটি নিশ্চিত করে যে সোর্স কোড অ্যাক্সেসযোগ্য তাই যাতে ব্যাকডোর এবং নিরাপত্তা গর্তগুলি এক পরিষেবা প্রদানকারীর উপর নির্ভর না করেই ঠিক করা যায়।
 >
-> Public bodies are financed through taxes. They must make sure they spend funds in the most efficient way possible. If it is public money, it should be public code as well!
+> পাবলিক সংস্থা ট্যাক্স মাধ্যমে অর্থায়ন করা হয়। তারা নিশ্চিত যে তারা সম্ভাব্য সবচেয়ে কার্যকর উপায় তহবিল ব্যয় করতে হবে। যদি এটা জনসাধারণের অর্থ হয়, তাহলে এটিও সার্বজনীন কোড হওয়া উচিত!
 >
-> That is why we, the undersigned, call our representatives to:
+> সেইজন্য আমরা, অধীনস্ত, আমাদের প্রতিনিধিদেরকে এই বলে ডাকি:
 >
-> **"Implement legislation requiring that publicly financed software developed for public sector must be made publicly available under a Free and Open Source Software licence."**
+> **"পাবলিক সেক্টরের জন্য উন্মুক্ত জনসাধারণের অর্থায়ন সফটওয়্যারটি মুক্ত ও ওপেন সোর্স সফটওয়্যার লাইসেন্সের অধীনে সর্বজনীনভাবে উপলব্ধ করা আবশ্যক আইন প্রণয়ন"।**
 
 [fs]: https://en.wikipedia.org/wiki/Free_and_open-source_software

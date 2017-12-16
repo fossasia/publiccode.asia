@@ -1,18 +1,18 @@
 ---
-title: "Thank you for signing!"
+title: "স্বাক্ষর করার জন্য আপনাকে ধন্যবাদ!"
 type: page
 layout: subpage
 ---
 
-## Your signature is confirmed
+## আপনার স্বাক্ষর নিশ্চিত করা হয়
 
-Thank you for signing the open initiative "Public Money, Public Code". Your support means a lot to us.
+খোলা উদ্যোগ "পাবলিক মানি, পাবলিক কোড" সাইন ইন করার জন্য আপনাকে ধন্যবাদ। আপনার সমর্থন আমাদের অনেক মানে।
 
-If you opted-in to having your name added to the public list, your name will appear on the [list of signatures](../all-signatures) within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
+যদি আপনি আপনার নামটি পাবলিক তালিকায় যোগ করার জন্য বেছে নেন, তাহলে আপনার নাম পরবর্তী সাইনের মধ্যে [স্বাক্ষরগুলির তালিকা](../all-signatures) প্রদর্শিত হবে। যদি আপনি আরও তথ্য পেতে পছন্দ করেন, আমরা ইমেলের মাধ্যমে এই প্রচারাভিযানের বিষয়ে আপনাকে খবর জানাই।
 
-## Next Steps
+## পরবর্তী পদক্ষেপ
 
-Please help us by giving your signature a huge impact and [share this campaign](../../#spread) with your friends. Together we will encourage decision makers in politics and public administrations to make Free and Open Source Software licences for newly funded software the standard setting in the public sector all over Asia.
+আপনার বন্ধুদের সঙ্গে আপনার স্বাক্ষর একটি বিশাল প্রভাব এবং [এই প্রচারণা ভাগ করুন](../../#spread) দ্বারা আমাদের সাহায্য করুন। একসঙ্গে আমরা রাজনীতিবিদ ও জনসাধারণের প্রশাসকদের নতুন উদ্যোক্তাদের মুক্ত ও ওপেনসোর্স সফটওয়্যার লাইসেন্সের জন্য এবং এশিয়ায় সর্বজনীন খাতে প্রাতিষ্ঠানিক রূপান্তর করার জন্য উত্সাহিত করব।
 
 
-With your support we will help decision makers all over Asia understand that publishing their code under Free and Open Source Software licences is the best solution for them, other administrations, companies, and especially the general public.
+আপনার সহযোগিতার মাধ্যমে আমরা এশিয়া বিষয়ক সিদ্ধান্ত প্রস্তুতকারকদের সাহায্য করবো যে বুঝা যায় যে ফ্রি এবং ওপেন সোর্স সফ্টওয়্যার লাইসেন্সের অধীনে তাদের কোড প্রকাশ করা তাদের জন্য অন্যতম সেরা সমাধান, অন্যান্য প্রশাসন, কোম্পানিগুলি এবং বিশেষ করে সাধারণ জনগণ।
