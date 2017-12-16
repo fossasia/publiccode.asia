@@ -264,7 +264,7 @@ function onformSubmit(form, callback) {
         ev.preventDefault();
     }
 }
-
+var donateLightBox = document.getElementById('donateLightBox');
 function openPageFromButton(buton,form) {
     var query=new URLSearchParams();
     switch (buton.value) {
@@ -298,7 +298,6 @@ function openPageFromButton(buton,form) {
     }
 }
   
-var donateLightBox = document.getElementById('donatedonateLightBox');
 
 // donatedonateLightBox PayPal open function
 function showDonateDialog() {
