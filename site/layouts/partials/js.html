@@ -292,19 +292,22 @@ function openPageFromButton(buton,form) {
             query.append('title',form.title)
             open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
+        case "support":
+            showDonateDialog()
+            break;
     }
 }
   
-var lightBox = document.getElementById('lightBox');
+var donateLightBox = document.getElementById('donatedonateLightBox');
 
-// LIGHTBOX PayPal open function
-function openLightBox() {
-  lightBox.style.display = "block";
+// donatedonateLightBox PayPal open function
+function showDonateDialog() {
+  donateLightBox.style.display = "block";
 }
     
-// LIGHTBOX PayPal close function
-function closeLightBox() {
-  lightBox.style.display = "none";
+// donatedonateLightBox PayPal close function
+function closeddonateLightBox() {
+  donateLightBox.style.display = "none";
 }
   
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {

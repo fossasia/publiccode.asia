@@ -469,8 +469,8 @@ a:hover {
     color: #5a5a5a !important;
 }
 
-/* Lightbox PayPal style */
-#lightBox {
+/* donateLightBox PayPal style */
+#donateLightBox {
   background-color: #eee;
   color: #333;
   position: fixed;
@@ -485,7 +485,7 @@ a:hover {
   font-size: 45vm;
 }
 @media (max-width: 1000px) {
-  #lightBox {
+  #donateLightBox {
     left: 5%;
     width: 90%;
   }
