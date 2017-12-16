@@ -1,7 +1,9 @@
 titleBefore: பகிர்
 titleAfter: 
 # This "customText" must not have more than 115 characters!
+
 customText: "அது பொது பணமாக இருந்தால், அது பொதுக் குறியீடுகளாக இருக்க வேண்டும்! நான் @ FOSSASIA இன் உதவியுடன் # PublicCode க்கு ஆதரவு தருகிறேன்:"
+
 
 # Do not translate below here
 id: twitter

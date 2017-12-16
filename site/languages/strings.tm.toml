@@ -3,8 +3,10 @@
 ## General strings
 [Languages.tm]
   languageCode  = "tm"  # 2-letter code of language (ISO 639-1)
+
   languageName  = "தமிழ்"  # verbose name of language (e.g. "Français" or "Русский")
   description   = "பொது பணம், பொதுக் குறியீடு - பொது நிதியளித்த மென்பொருளை இலவச மற்றும் ஓப்பன் சோர்ஸ் மென்பொருளாக வெளியிட ஒரு FOSSASIA பிரச்சாரம்"
+
   fsdefinition  = "இலவச மற்றும் திறந்த மூல மென்பொருள் அனைவருக்கும் மென்பொருளை உபயோகிக்கவும், படிக்கவும், பகிர்ந்து கொள்ளவும், மேம்படுத்தவும் உரிமை அளிக்கிறது."
 
 
@@ -20,18 +22,45 @@
 # Start banner
 [Languages.tm.start]
   subtitle1   = "இலவச மற்றும் ஓபன் சோர்ஸ் மென்பொருளாக வெளியிடப்படாத வரி செலுத்துவோர் பணத்தைப் பயன்படுத்தி மென்பொருள் ஏன் உருவாக்கப்பட்டது?"
+
   subtitle2   = "பொதுத் துறைக்கு பகிரங்கமாக நிதியுதவி பெற்ற மென்பொருள், ஒரு [இலவச மற்றும் திறந்த மூல மென்பொருள்] (https://en.wikipedia.org/wiki/Free_and_open-source_software) உரிமத்தின் கீழ் பகிரங்கமாக வழங்கப்பட வேண்டும் என்று சட்டம் தேவை. பொதுமக்கள் பணமாக இருந்தால், அது பொதுக் குறியீடாகவும் இருக்க வேண்டும். [உலகம் முழுவதும்] (https://publiccode.eu) முன்முயற்சிகள் தொடர்ந்து, பொதுமக்களிடமிருந்து பெறப்படும் குறியீட்டை வெளியீடு செய்ய அழைக்க ஒரு முன்முயற்சியை நாங்கள் தொடங்குகிறோம்."
   subtitle3   = "**மக்களுக்கு வழங்கப்படும் கோட் மக்களுக்கு கிடைக்க வேண்டும்!**"
+
 
 # About section
 [Languages.tm.about]
   headline    = "சிக்கலான ஒலிகள்? அது இல்லை. இது சூப்பர் எளிது!"
   buttonText  = "மேலும் நன்மைகள்"
 
+
+## Arguments section
+#[Languages.en.arguments]
+#  headline    = "Reasons for Public Code"
+#  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
+#  buttonText  = "Sign the Open Initiative"
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-usd"  # <-- do not translate this
+#  title       = "Tax savings"
+#  description = "Similar applications don't have to be programmed from scratch every time."
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-handshake-o"  # <-- do not translate this
+#  title       = "Collaboration"
+#  description = "Efforts on major projects can share expertise and costs."
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-users"  # <-- do not translate this
+#  title       = "Serving the public"
+#  description = "Applications paid by the public should be available for everyone."
+#[[Languages.en.arguments.list]]
+#  icon        = "fa-lightbulb-o"  # <-- do not translate this
+#  title       = "Fostering innovation"
+#  description = "With transparent processes, others don't have to reinvent the wheel."
+# Arguments section
+
 # Arguments section
 [Languages.tm.arguments]
   headline    = "பொதுக் கோட்டிற்கான காரணங்கள்"
   followup    = "பொது மற்றும் நிதியளித்த மென்பொருளுக்கு இலவச மற்றும் திறந்த மூல மென்பொருள் இருக்க வேண்டும் என்று நீங்கள் நம்புகிறீர்களா? **உங்கள் அரசியல் பிரதிநிதிகளை நம்பவைக்கிறேன்!**"
+
   buttonText  = "திறந்த முயற்சியில் கையெழுத்திடுங்கள்"
 [[Languages.tm.arguments.list]]
   icon        = "fa-usd"  # <-- do not translate this
@@ -44,11 +73,37 @@
 [[Languages.tm.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "பொது மக்களுக்கு சேவை செய்தல்"
-  description = "பொது மக்களுக்கு சேவை செய்தல்..."
+
+  description = "பொதுமக்கள் வழங்கிய விண்ணப்பங்கள் அனைவருக்கும் கிடைக்க வேண்டும்."
+
 [[Languages.tm.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
   title       = "கண்டுபிடிப்புகளை வளர்ப்பது"
   description = "வெளிப்படையான செயல்முறைகளால், மற்றவர்கள் சக்கரத்தை புதிதாக்குவது இல்லை."
+
+
+## Action section
+#[Languages.en.action]
+#  headline      = "Tell Your Representatives!"
+#  intro         = "In our [**open initiative**](openinitiative/) we demand:"
+#  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+#  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
+#  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
+#
+#[Languages.en.action.box]
+#  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
+#
+#[Languages.en.action.form]
+#  name      = "Name (required)"
+#  email     = "Email (required)"
+#  country   = "Your Country"
+#  zip       = "Zip Code"
+#  comment   = "Your comment (max. 140 characters)"
+#  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
+#  permNews  = "I want to stay informed about the future of this campaign"
+#  permPub   = "I want my signature to appear in the [list of signatures](openinitiative/all-signatures)"
+#  submit    = "Sign Now!"
+# Action section
 
 # Action section
 [Languages.tm.action]
@@ -60,6 +115,7 @@
 
 [Languages.tm.action.box]
   text      = "ஏற்கனவே **$INDS SIGNATURES** - இப்போது திறந்த முயற்சியை கையெழுத்திட!"
+
 
 [Languages.tm.action.form]
   name          = "பெயர் (தேவை)"
@@ -79,13 +135,25 @@
   text      = "பின்வரும் அமைப்புகள் எங்கள் [திறந்த முன்முயற்சியை ஆதரிக்கின்றன](openinitiative/). பொதுக் கோட்டிற்கான அழைப்பில் சேர உங்கள் ஆர்வமும் ஆர்வமாக இருந்தால், தயவுசெய்து [எங்களை தொடர்பு கொள்ளவும்](mailto:publiccode@fossasia.org)."
 
 
+
 # Spread the word section
 [Languages.tm.spread]
-  headline          = "வார்த்தை பரவியது!"
+
+  headline          = "வார்த்தையை பரப்புங்கள்!"
   promoText         = "FOSSASIA இலிருந்து ஸ்டிக்கர்கள் மற்றும் ஃபிளையர்கள் கிடைக்கும்"
   promoButtonText   = "தகவல் பொருள் பதிவிறக்க"
-  shareText         = "பொதுக் கோட் பற்றி உங்கள் நண்பர்களுக்கும் பின்பற்றுபவர்களுக்கும் சொல்லுங்கள்:"
+  shareText         = "பொது கோட் பற்றி உங்கள் நண்பர்களுக்கும் பின்பற்றுபவர்களுக்கும் சொல்லுங்கள்:"
   defaultSocialText = "பொதுமக்கள் பணமாக இருந்தால், அது பொதுக் குறியீடாகவும் இருக்க வேண்டும். ஒரு இலவச மென்பொருள் உரிமத்தின் கீழ் பொதுக் குறியீடுக்கு இந்த அழைப்பை ஆதரிக்கிறேன்:"
+
+## Legal Section
+#[Languages.en.legal]
+#  by            = "This is a campaign by FOSSASIA"
+#  imprint       = "Imprint"
+#  privacy       = "Privacy"
+#  transparency  = "Transparency"
+#  contribute1   = "The code of this website is licensed as Free and Open Source Software."
+#  contribute2   = "You're welcome to contribute!"
+#  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Legal Section
 [Languages.tm.legal]
@@ -95,7 +163,13 @@
   transparency  = "வெளிப்படைத்தன்மை"
   contribute1   = "இந்த வலைத்தளத்தின் குறியீடு இலவச மற்றும் திறந்த மூல மென்பொருள் உரிமம்."
   contribute2   = "பங்களிக்க நீங்கள் வரவேற்கப்படுகிறீர்கள்!"
+
+## Language selection
+#[Languages.en.language]
+#  description = "Read this page in another language"
+
   license       = "இந்த வேலை அதன் [பங்களிப்பாளர்கள்](https://github.com/fossasia/publiccode.asia/contributors) [கிரியேட்டிவ் காமன்ஸ் BY-SA 4.0 உரிமத்தின் கீழ்](http://creativecommons.org/licenses/by-sa/4.0/)."
+
 
 # Language selection
 [Languages.tm.language]
@@ -109,12 +183,15 @@
   button      = "பக்கத்தைத் தொடங்க மீண்டும்"
 
 
+
 # Specific sub-pages
 [Languages.tm.subpage]
 [Languages.tm.subpage.signatures]
   headline      = "தனிப்பட்ட ஓபன் சம்மந்தப்பட்ட கையொப்பங்கள்"
+
   description   = "தங்கள் பெயர்களை பொதுமக்களிடம் கொண்டுவர ஒப்புக்கொண்ட கையெழுத்துக்களின் கையெழுத்துக்கள் கீழே கொடுக்கப்பட்டுள்ளன. அடுத்ததாக இருங்கள்!"
   allSignatures = "பார்க்க [அனைத்து பொது கையொப்பங்களும்](all-signatures/)."
+
   tableName     = "பெயர்"
   tableCountry  = "நாடு"
   tableComment  = "கருத்து"

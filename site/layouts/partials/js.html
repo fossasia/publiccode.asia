@@ -294,6 +294,19 @@ function openPageFromButton(buton,form) {
             break;
     }
 }
+  
+var lightBox = document.getElementById('lightBox');
+
+// LIGHTBOX PayPal open function
+function openLightBox() {
+  lightBox.style.display = "block";
+}
+    
+// LIGHTBOX PayPal close function
+function closeLightBox() {
+  lightBox.style.display = "none";
+}
+  
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
     onformSubmit(form, openPageFromButton)
 })
@@ -309,3 +322,5 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 <script type="text/javascript" src="{{ "js/creative.js" | absURL }}"></script>
 <!-- On scroll changing menu -->
 <script type="text/javascript" src="{{ "js/onScrollMenu.js" | absURL }}"></script>
+<!-- PayPal donation Script -->
+<script type="text/javascript" src="{{ "js/donate.js" | absURL }}"></script>

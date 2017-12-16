@@ -1,5 +1,9 @@
 ---
-title: "அடித்தளம்"
+title: "Polityka Prywatności"
 type: "page"
 layout: "subpage"
 ---
+
+
+
+
