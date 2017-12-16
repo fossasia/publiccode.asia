@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
     <head>
-        <!-- Build time: 2017-12-16 14:47:39.019663385 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-16 18:32:26.641826639 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -245,7 +245,7 @@ anlamalarına yardımcı olacağız.</p>
         
         <!-- LEGAL -->
 <section id="legal">
-  <div class="text-center">
+  <div class="text-center">  
     <h2 class="hidden">Legal Information</h2>
     <p>Bu web sitesinin kodu Özgür Yazılımdır. <a href="https://github.com/fossasia/publiccode.asia" target="_blank">Katkı verebilirsiniz!</a></p>
     <p>Bu Avrupa Özgür Yazılım Vakfı&#39;nın bir kampanyasıdır <a href="https://fossasia.org/" target="_blank"></a>
@@ -605,19 +605,22 @@ function openPageFromButton(buton,form) {
             query.append('title',form.title)
             open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
+        case "support":
+            showDonateDialog()
+            break;
     }
 }
   
-var lightBox = document.getElementById('lightBox');
+var donateLightBox = document.getElementById('donatedonateLightBox');
 
 
-function openLightBox() {
-  lightBox.style.display = "block";
+function showDonateDialog() {
+  donateLightBox.style.display = "block";
 }
     
 
-function closeLightBox() {
-  lightBox.style.display = "none";
+function closeddonateLightBox() {
+  donateLightBox.style.display = "none";
 }
   
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {

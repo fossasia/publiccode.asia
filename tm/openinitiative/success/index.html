@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="tm">
     <head>
-        <!-- Build time: 2017-12-16 14:47:38.877159952 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-16 18:32:26.661047836 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -232,7 +232,7 @@
         
         <!-- LEGAL -->
 <section id="legal">
-  <div class="text-center">
+  <div class="text-center">  
     <h2 class="hidden">Legal Information</h2>
     <p>இந்த வலைத்தளத்தின் குறியீடு இலவச மற்றும் திறந்த மூல மென்பொருள் உரிமம். <a href="https://github.com/fossasia/publiccode.asia" target="_blank">பங்களிக்க நீங்கள் வரவேற்கப்படுகிறீர்கள்!</a></p>
     <p>இது FOSSASIA இன் பிரச்சாரமாகும் <a href="https://fossasia.org/" target="_blank"></a>
@@ -592,19 +592,22 @@ function openPageFromButton(buton,form) {
             query.append('title',form.title)
             open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
+        case "support":
+            showDonateDialog()
+            break;
     }
 }
   
-var lightBox = document.getElementById('lightBox');
+var donateLightBox = document.getElementById('donatedonateLightBox');
 
 
-function openLightBox() {
-  lightBox.style.display = "block";
+function showDonateDialog() {
+  donateLightBox.style.display = "block";
 }
     
 
-function closeLightBox() {
-  lightBox.style.display = "none";
+function closeddonateLightBox() {
+  donateLightBox.style.display = "none";
 }
   
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {

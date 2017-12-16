@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <!-- Build time: 2017-12-16 14:47:38.666129653 &#43;0000 UTC-->
+        <!-- Build time: 2017-12-16 18:32:26.769647128 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -798,7 +798,7 @@
         
         <!-- LEGAL -->
 <section id="legal">
-  <div class="text-center">
+  <div class="text-center">  
     <h2 class="hidden">Legal Information</h2>
     <p>Le code de ce site web est sous Logiciel Libre. <a href="https://github.com/fossasia/publiccode.asia" target="_blank">Votre contribution est la bienvenue !</a></p>
     <p>Ceci est une campagne menée par la Public Code Initiative Asia <a href="https://fossasia.org/" target="_blank"></a>
@@ -1158,19 +1158,22 @@ function openPageFromButton(buton,form) {
             query.append('title',form.title)
             open('https://www.linkedin.com/shareArticle?mini=true&'+query.toString())
             break;
+        case "support":
+            showDonateDialog()
+            break;
     }
 }
   
-var lightBox = document.getElementById('lightBox');
+var donateLightBox = document.getElementById('donatedonateLightBox');
 
 
-function openLightBox() {
-  lightBox.style.display = "block";
+function showDonateDialog() {
+  donateLightBox.style.display = "block";
 }
     
 
-function closeLightBox() {
-  lightBox.style.display = "none";
+function closeddonateLightBox() {
+  donateLightBox.style.display = "none";
 }
   
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
