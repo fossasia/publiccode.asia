@@ -80,6 +80,16 @@
 .share-buttons.spread .share-gplus:hover {
   background-color: #b12614 !important;
 }
+.share-buttons.spread .share-support {
+  background-color: #d62700;
+  background-image: url("../img/service-icons/support_red.png");
+}
+.share-buttons.spread .share-support:hover {
+  background-color: #842d2d !important;
+}
+.share-buttons.spread .share-support {
+  padding-left: 30px !important;
+}
 
 /* Share pop-up behaviour hacks */
 .share-buttons.spread input[type="radio"],
