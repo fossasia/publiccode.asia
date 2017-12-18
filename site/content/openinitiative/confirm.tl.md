@@ -1,12 +1,11 @@
 ---
-title: "Almost done..."
+title: "దాదాపుగా అయిపోయింది..."
 type: page
 layout: subpage
 ---
 
-## Check your email inbox now
+## ఇప్పుడు మీ ఇమెయిల్ ఇన్బాక్స్ను తనిఖీ చేయండి
 
-You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes. 
+మీరు దాదాపు పూర్తి అయ్యారు! త్వరలో మీ సంతకం యొక్క తుది ధృవీకరణ కోసం మీరు ఒక ఇమెయిల్ను అందుకుంటారు. దయచేసి మీరు తదుపరి 15 నిమిషాల్లో మెయిల్ను స్వీకరించకుంటే మీ స్పామ్ ఫోల్డర్ను తనిఖీ చేయండి.
 
-Thank you for signing the open initiative for **Public Money, Public Code**.
-
+**పబ్లిక్ మనీ, పబ్లిక్ కోడ్** కోసం ఓపెన్ చొరవ సంతకం చేసినందుకు ధన్యవాదాలు.

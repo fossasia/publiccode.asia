@@ -1,221 +1,120 @@
 # == TELUGU ==
 
 ## General strings
-#[Languages.en]
-#  languageCode  = "en"  # 2-letter code of language (ISO 639-1)
-#  languageName  = "English"  # verbose name of language (e.g. "Français" or "Русский")
-#  description   = "Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"
-#  fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
 [Languages.tl]
   languageCode  = "tl"  # 2-letter code of language (ISO 639-1)
-  languageName  = "Telugu"  # verbose name of language (e.g. "Français" or "Русский")
-  description   = "Public Money, Public Code - A FOSSASIA campaign for releasing publicly financed software as Free and Open Source Software"
-  fsdefinition  = "Free and Open Source Software gives everybody the right to use, study, share and improve software."
+  languageName  = "తెలుగు"  # verbose name of language (e.g. "Français" or "Русский")
+  description   = "పబ్లిక్ మనీ, పబ్లిక్ కోడ్ - బహిరంగంగా ఆర్ధిక సాఫ్ట్వేర్ను ఉచితంగా మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్గా విడుదల చేయడానికి ఒక FOSSASIA ప్రచారం"
+  fsdefinition  = "ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్ అందరికీ సాఫ్ట్వేర్ను ఉపయోగించడానికి, అధ్యయనం చేయడానికి, భాగస్వామ్యం చేయడానికి మరియు మెరుగుపరచడానికి హక్కు ఇస్తుంది."
 
 
-## Navigation
-#[Languages.en.navigation]
-#[Languages.en.navigation.links]
-#  start     = "Start"
-#  about     = "About"
-#  arguments = "Reasons"
-#  action    = "Take Action"
-#  spread    = "Spread the Word"
 # Navigation
 [Languages.tl.navigation]
 [Languages.tl.navigation.links]
-  start     = "Start"
-  about     = "About"
-  arguments = "Reasons"
-  action    = "Take Action"
-  spread    = "Spread the Word"
+  start     = "ప్రారంభం"
+  about     = "గురించి"
+  arguments = "కారణాలు"
+  action    = "చర్య తీస్కో"
+  spread    = "ఈ మాటను విస్తరింపచేయు"
 
-# Start banner
-#[Languages.en.start]
-#  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-#  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
-#  subtitle3   = "**Code paid by the people should be available to the people!**"
 # Start banner
 [Languages.tl.start]
-  subtitle1   = "Why is software created using taxpayers' money not released as Free and Open Source Software?"
-  subtitle2   = "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence. If it is public money, it should be public code as well. Following initiatives [across the globe](https://publiccode.eu), we are starting an initiative to call for the release of code that is paid by the public."
-  subtitle3   = "**Code paid by the people should be available to the people!**"
+  subtitle1   = "ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్ వలె విడుదల చేయని పన్ను చెల్లింపుదారుల డబ్బును సాఫ్ట్వేర్ ఎందుకు సృష్టించింది?"
+  subtitle2   = "పబ్లిక్ సెక్టార్ కోసం బహిరంగంగా అభివృద్ధి చేసిన సాఫ్ట్ వేర్ ఒక [ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్](https://en.wikipedia.org/wiki/Free_and_open-source_software) లైసెన్స్ ద్వారా బహిరంగంగా అందుబాటులో ఉంచాలని చట్టాల అవసరం మాకు అవసరం. ఇది పబ్లిక్ డబ్బు ఉంటే, అది పబ్లిక్ కోడ్ అయి ఉండాలి. [ప్రపంచవ్యాప్తంగా](https://publiccode.eu) చొరవలను అనుసరిస్తూ, ప్రజల ద్వారా చెల్లించిన కోడ్ విడుదల కోసం మేము ఒక చొరవ ప్రారంభించాము."
+  subtitle3   = "**ప్రజలు చెల్లించే కోడ్ ప్రజలకు అందుబాటులో ఉండాలి!**"
 
-## About section
-#[Languages.en.about]
-#  headline    = "Sounds complicated? It's not. It's super easy!"
-#  buttonText  = "More advantages"
 # About section
 [Languages.tl.about]
-  headline    = "Sounds complicated? It's not. It's super easy!"
-  buttonText  = "More advantages"
+  headline    = "సంక్లిష్టమైన ధ్వనులు? ఇది కాదు. ఇది సూపర్ సులభం!"
+  buttonText  = "మరింత ప్రయోజనాలు"
 
-## Arguments section
-#[Languages.en.arguments]
-#  headline    = "Reasons for Public Code"
-#  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
-#  buttonText  = "Sign the Open Initiative"
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-usd"  # <-- do not translate this
-#  title       = "Tax savings"
-#  description = "Similar applications don't have to be programmed from scratch every time."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-handshake-o"  # <-- do not translate this
-#  title       = "Collaboration"
-#  description = "Efforts on major projects can share expertise and costs."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-users"  # <-- do not translate this
-#  title       = "Serving the public"
-#  description = "Applications paid by the public should be available for everyone."
-#[[Languages.en.arguments.list]]
-#  icon        = "fa-lightbulb-o"  # <-- do not translate this
-#  title       = "Fostering innovation"
-#  description = "With transparent processes, others don't have to reinvent the wheel."
 # Arguments section
 [Languages.tl.arguments]
-  headline    = "Reasons for Public Code"
-  followup    = "Do you believe that Free and Open Source Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
-  buttonText  = "Sign the Open Initiative"
+  headline    = "పబ్లిక్ కోడ్ కోసం కారణాలు"
+  followup    = "బహిరంగంగా ఆర్ధిక సాఫ్ట్వేర్ కోసం ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్ డిఫాల్ట్ ఎంపికగా ఉండాలని మీరు నమ్ముతున్నారా? **మీ రాజకీయ ప్రతినిధులను ఒప్పిద్దాం!**"
+  buttonText  = "ఓపెన్ ఇనిషియేటివ్ సైన్ ఇన్ చేయండి"
 [[Languages.tl.arguments.list]]
   icon        = "fa-usd"  # <-- do not translate this
-  title       = "Tax savings"
-  description = "Similar applications don't have to be programmed from scratch every time."
+  title       = "పన్ను పొదుపులు"
+  description = "ప్రత్యామ్నాయ అనువర్తనాలు ప్రతిసారీ స్క్రాచ్ నుండి ప్రోగ్రామ్ చేయవలసిన అవసరం లేదు."
 [[Languages.tl.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
-  title       = "Collaboration"
-  description = "Efforts on major projects can share expertise and costs."
+  title       = "సహకారం"
+  description = "ప్రధాన ప్రాజెక్టులపై చేసిన ప్రయత్నాలు నైపుణ్యం మరియు వ్యయాలను పంచుకోవచ్చు."
 [[Languages.tl.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
-  title       = "Serving the public"
-  description = "Applications paid by the public should be available for everyone."
+  title       = "పబ్లిక్ అందిస్తోంది"
+  description = "ప్రజలకు చెల్లించిన దరఖాస్తులు ప్రతి ఒక్కరికీ అందుబాటులో ఉండాలి."
 [[Languages.tl.arguments.list]]
   icon        = "fa-lightbulb-o"  # <-- do not translate this
-  title       = "Fostering innovation"
-  description = "With transparent processes, others don't have to reinvent the wheel."
+  title       = "ఆవిష్కరణ వృద్ధి"
+  description = "పారదర్శక ప్రక్రియలతో, ఇతరులు చక్రం ఆవిష్కరణ లేదు."
 
-## Action section
-#[Languages.en.action]
-#  headline      = "Tell Your Representatives!"
-#  intro         = "In our [**open initiative**](openinitiative/) we demand:"
-#  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-#  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
-#  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
-#
-#[Languages.en.action.box]
-#  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
-#
-#[Languages.en.action.form]
-#  name      = "Name (required)"
-#  email     = "Email (required)"
-#  country   = "Your Country"
-#  zip       = "Zip Code"
-#  comment   = "Your comment (max. 140 characters)"
-#  permPriv  = "I have read and accepted the [privacy statement](privacy/)"
-#  permNews  = "I want to stay informed about the future of this campaign"
-#  permPub   = "I want my signature to appear in the [list of signatures](openinitiative/all-signatures)"
-#  submit    = "Sign Now!"
 # Action section
 [Languages.tl.action]
-  headline      = "Tell Your Representatives!"
-  intro         = "In our [**open initiative**](openinitiative/) we demand:"
+  headline      = "మీ ప్రతినిధులకు చెప్పండి!"
+  intro         = "మా [**ఓపెన్ చొరవ**](openinitiative/) లో మేము డిమాండ్ చేస్తున్నాము:"
   # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
-  demand        = "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) licence.”"
-  description   = "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open initiative](openinitiative/). You can help us make a much bigger impact by signing it, too! We will list all signatories and hand it over to representatives all over Asia that are debating software policies in public administration."
+  demand        = "“పబ్లిక్ సెక్టార్ కోసం బహిరంగంగా అభివృద్ధి చేసిన సాఫ్ట్వేర్ను [ఫ్రీ అండ్ ఓపెన్ సోర్స్ సాఫ్ట్వేర్](https://en.wikipedia.org/wiki/Free_and_open-source_software) లైసెన్స్ ద్వారా బహిరంగంగా అందుబాటులో ఉంచాలని చట్టాలను అమలు చేయండి.”"
+  description   = "**$ORGS** సంస్థలు మరియు **$INDS** మంది వ్యక్తులు మా [బహిరంగ కార్యక్రమంలో](openinitiative/) సంతకం చేయడం ద్వారా చర్య కోసం ఇప్పటికే ఈ కాల్కి మద్దతు ఇస్తున్నారు. సంతకం చేయడం ద్వారా మాకు చాలా ఎక్కువ ప్రభావం చూపడానికి మీకు సహాయం చేయవచ్చు! మేము అన్ని సంతకాలు జాబితా మరియు ప్రజా పరిపాలన లో సాఫ్ట్వేర్ విధానాలు చర్చించడం ఆ ఆసియా అంతటా ప్రతినిధులకు అప్పగించండి ఉంటుంది."
 
 [Languages.tl.action.box]
-  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
+  text      = "ఇప్పటికే **$INDS SIGNATURES** - ఓపెన్ చొరవ ఇప్పుడు సైన్ ఇన్!"
 
 [Languages.tl.action.form]
-  name          = "Name (required)"
-  email         = "Email (required)"
-  country       = "Your Country"
-  region        = "Region/City"
-  organization  = "Organization"
-  comment       = "Your comment (max. 140 characters)"
-  permPriv      = "I have read and accepted the [privacy statement](privacy/)"
-  permNews      = "I want to stay informed about the future of this campaign"
-  permPub       = "I want my signature to appear in the [list of signatures](openinitiative/all-signatures)"
-  submit        = "Sign Now!"
+  name          = "పేరు (అవసరం)"
+  email         = "ఇమెయిల్ (అవసరం)"
+  country       = "మీ దేశం"
+  region        = "ప్రాంతం / సిటీ"
+  organization  = "సంస్థ"
+  comment       = "మీ వ్యాఖ్య (గరిష్టంగా 140 అక్షరాలు)"
+  permPriv      = "నేను [గోప్య ప్రకటన](privacy/) ను చదివాను మరియు అంగీకరించాను"
+  permNews      = "నేను ఈ ప్రచారం యొక్క భవిష్యత్తు గురించి తెలియజేయాలనుకుంటున్నాను"
+  permPub       = "నా సంతకం [సంతకం జాబితాలో](openinitiative/all-signatures)"
+  submit        = "ఇప్పుడు సైన్ ఇన్ చేయండి!"
 
-## Organisations section
-#[Languages.en.organisations]
-#  headline  = "Supporting Organisations"
-#  text      = "The following organisations support our [open initiative](openinitiative/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
 # Organisations section
 [Languages.tl.organisations]
-  headline  = "Supporting Organisations"
-  text      = "The following organisations support our [open initiative](openinitiative/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:publiccode@fossasia.org)."
+  headline  = "సహాయక సంస్థలు"
+  text      = "కింది సంస్థలు మా [ఓపెన్ చొరవని](openinitiative/) మద్దతు ఇస్తుంది. మీ సంస్థ ప్రజా కోడ్ కోసం పిలుపులో చేరడానికి కూడా ఆసక్తి కలిగి ఉంటే, దయచేసి [మమ్మల్ని సంప్రదించండి](mailto:publiccode@fossasia.org)."
 
 
-## Spread the word section
-#[Languages.en.spread]
-#  headline          = "Spread the word!"
-#  promoText         = "Get stickers and flyers from FOSSASIA"
-#  promoButtonText   = "Download Info Material"
-#  shareText         = "Tell your friends and followers about Public Code:"
-#  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
 # Spread the word section
 [Languages.tl.spread]
-  headline          = "Spread the word!"
-  promoText         = "Get stickers and flyers from FOSSASIA"
-  promoButtonText   = "Download Info Material"
-  shareText         = "Tell your friends and followers about Public Code:"
-  defaultSocialText = "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
+  headline          = "ఈ మాటను విస్తరింపచేయు!"
+  promoText         = "ఈ మాటను విస్తరింపచేయు!..."
+  promoButtonText   = "సమాచారం మెటీరియల్ డౌన్లోడ్"
+  shareText         = "పబ్లిక్ కోడ్ గురించి మీ స్నేహితులకు మరియు అనుచరులకు చెప్పండి:"
+  defaultSocialText = "ఇది పబ్లిక్ డబ్బు ఉంటే, అది పబ్లిక్ కోడ్ అయి ఉండాలి. నేను ఒక ఫ్రీ సాఫ్ట్వేర్ లైసెన్సు క్రింద మరింత ప్రజా కోడ్ కోసం ఈ కాల్కు మద్దతు ఇస్తున్నాను:"
 
-## Legal Section
-#[Languages.en.legal]
-#  by            = "This is a campaign by FOSSASIA"
-#  imprint       = "Imprint"
-#  privacy       = "Privacy"
-#  transparency  = "Transparency"
-#  contribute1   = "The code of this website is licensed as Free and Open Source Software."
-#  contribute2   = "You're welcome to contribute!"
-#  license       = "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 # Legal Section
 [Languages.tl.legal]
-  by            = "This is a campaign by FOSSASIA"
-  imprint       = "Imprint"
-  privacy       = "Privacy"
-  transparency  = "Transparency"
-  contribute1   = "The code of this website is licensed as Free and Open Source Software."
-  contribute2   = "You're welcome to contribute!"
-  license       = "This work is licensed by its [contributores](https://github.com/fossasia/publiccode.asia/contributors) under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+  by            = "ఇది FOSSASIA ద్వారా ప్రచారం"
+  imprint       = "మనసులో దృఢమైన ముద్రవేయు"
+  privacy       = "గోప్యతా"
+  transparency  = "పారదర్శకత"
+  contribute1   = "ఈ వెబ్సైట్ యొక్క కోడ్ ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్ లైసెన్స్."
+  contribute2   = "మీరు సహకరించడానికి స్వాగతం!"
+  license       = "ఈ పని [క్రియేటివ్ కామన్స్ BY-SA 4.0 లైసెన్సు](https://github.com/fossasia/publiccode.asia/contributors) కింద [లైసెన్సుల](http://creativecommons.org/licenses/by-sa/4.0/)ద్వారా లైసెన్స్ చేయబడింది."
 
-## Language selection
-#[Languages.en.language]
-#  description = "Read this page in another language"
 # Language selection
 [Languages.tl.language]
-  description = "Read this page in another language"
+  description = "మరొక పేజీలో ఈ పేజీని చదవండి"
 
 
-## 404 Error Page
-#[Languages.en.error]
-#  headline    = "Error 404 - Page not found"
-#  description = "The page you're looking for does not exist."
-#  button      = "Back to start page"
 # 404 Error Page
 [Languages.tl.error]
-  headline    = "Error 404 - Page not found"
-  description = "The page you're looking for does not exist."
-  button      = "Back to start page"
+  headline    = "లోపం 404 - పేజీ దొరకలేదు"
+  description = "మీరు వెతుకుతున్న పేజీ లేదు."
+  button      = "పేజీని ప్రారంభించడానికి వెనుకకు"
 
 
-## Specific sub-pages
-#[Languages.en.subpage]
-#[Languages.en.subpage.signatures]
-#  headline      = "Individual Open Initiative Signatures"
-#  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
-#  allSignatures = "See [all public signatures](all-signatures/)."
-#  tableName     = "Name"
-#  tableCountry  = "Country"
-#  tableComment  = "Comment"
 # Specific sub-pages
 [Languages.tl.subpage]
 [Languages.tl.subpage.signatures]
-  headline      = "Individual Open Initiative Signatures"
-  description   = "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
-  allSignatures = "See [all public signatures](all-signatures/)."
-  tableName     = "Name"
-  tableCountry  = "Country"
-  tableComment  = "Comment"
+  headline      = "వ్యక్తిగత ఓపెన్ ఇనిషియేటివ్ సంతకాలు"
+  description   = "క్రింద ఇవ్వబడిన సంతకం యొక్క సంతకాలు వారి పేర్లు బహిర్గతమయ్యాయి. తదుపరిది అవ్వండి!"
+  allSignatures = "[అన్ని పబ్లిక్ సంతకాలను](all-signatures/) చూడండి."
+  tableName     = "పేరు"
+  tableCountry  = "దేశం"
+  tableComment  = "వ్యాఖ్య"

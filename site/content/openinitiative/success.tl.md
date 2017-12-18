@@ -1,17 +1,17 @@
 ---
-title: "Thank you for signing!"
+title: "సంతకం చేసినందుకు ధన్యవాదాలు!"
 type: page
 layout: subpage
 ---
 
-## Your signature is confirmed
+## సంతకం నిర్ధారించబడింది
 
-Thank you for signing the open initiative "Public Money, Public Code". Your support means a lot to us.
+ఓపెన్ చొరవ సంతకం చేసినందుకు ధన్యవాదాలు "పబ్లిక్ మనీ, పబ్లిక్ కోడ్". మీ మద్దతు మాకు చాలా బాగుంటుంది.
 
-If you opted-in to having your name added to the public list, your name will appear on the [list of signatures](../all-signatures) within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
+మీరు పబ్లిక్ జాబితాలో మీ పేరుని జోడించాలని ఎంచుకుంటే, మీ పేరు [వచ్చే సంతకాలను జాబితాలో](../all-signatures). మీరు మరింత సమాచారాన్ని స్వీకరించడానికి ఎంచుకున్నట్లయితే, ఇమెయిల్ ద్వారా ఈ ప్రచారానికి సంబంధించిన వార్తల గురించి మీకు తెలియజేస్తాము.
 
-## Next Steps
+## తదుపరి దశలు
 
-Please help us by giving your signature a huge impact and [share this campaign](../../#spread) with your friends. Together we will encourage decision makers in politics and public administrations to make Free and Open Source Software licences for newly funded software the standard setting in the public sector all over Asia.
+దయచేసి మీ సంతకాన్ని భారీ ప్రభావాన్ని ఇవ్వడం మరియు మీ స్నేహితులతో ఈ ప్రచారాన్ని [ఈ ప్రచారాన్ని భాగస్వామ్యం చేయండి](../../#spread) ఇవ్వండి. కొత్తగా నిధులు సమకూర్చిన సాఫ్ట్ వేర్ కోసం ఆసియా మరియు ఆసియా దేశాలలో ఉన్న సాధారణ ప్రమాణాల కోసం ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్ వేర్ లైసెన్సులను చేయడానికి రాజకీయ మరియు ప్రజా పరిపాలనలో నిర్ణయం తీసుకునేవారిని మేము ప్రోత్సహిస్తాము.
 
-With your support we will help decision makers all over Asia understand that publishing their code under Free and Open Source Software licences is the best solution for them, other administrations, companies, and especially the general public.
+మీ మద్దతుతో, మనం అన్నిటికి, ఉచిత మరియు ఓపెన్ సోర్స్ సాఫ్ట్వేర్ లైసెన్సుల క్రింద వారి కోడ్ను ప్రచురించడం, వారికి, ఇతర పరిపాలనలకు, కంపెనీలకు మరియు ప్రత్యేకించి ప్రజలకు ఉత్తమ పరిష్కారం అని ఆసియాలో అంతటా నిర్ణయం తీసుకునేవారికి సహాయం చేస్తుంది.
