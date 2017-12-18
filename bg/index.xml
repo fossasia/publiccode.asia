@@ -11,28 +11,7 @@
     
     
     <item>
-      <title>All Public Signatures</title>
-      <link>/bg/openinitiative/all-signatures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bg/openinitiative/all-signatures/</guid>
-      <description>This is the complete list of all the people who signed the open initiative and agreed to have their names made public. 8 people have expressed their support already – are you one of them?
-The list is updated hourly.
-  Name Country Comment     test3 India test3   test3 India test3   Aditya Dutt India Never thought about this! Totally support this cause!   test2 India test2   test2 India test2   test2 India test   test2 India test   test Germany test    </description>
-    </item>
-    
-    <item>
-      <title>Almost done...</title>
-      <link>/bg/openinitiative/confirm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bg/openinitiative/confirm/</guid>
-      <description>Check your email inbox now You are almost finished! You will receive an email with a link for the final confirmation of your signature soon. Please check your spam folder if you do not receive the mail within the next 15 minutes.
-Thank you for signing the open initiative for Public Money, Public Code.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
+      <title>অঙ্কিত করা</title>
       <link>/bg/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -41,18 +20,18 @@ Thank you for signing the open initiative for Public Money, Public Code.</descri
     </item>
     
     <item>
-      <title>Open Initiative</title>
+      <title>খোলা উদ্যোগ</title>
       <link>/bg/openinitiative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bg/openinitiative/</guid>
-      <description>Publicly funded software has to be Free and Open Source Software. While there are plenty of good reasons for this, many politicians don&amp;rsquo;t know about them yet.
-Free and Open Source Software gives everybody the right to use, study, share and improve software.
- This is where you can help! Sign the open initiative to give our message more weight.  8 people and  1 organisations have already signed.</description>
+      <description>পাবলিকে ফান্ডেড সফটওয়্যারটি হতে হবে ফ্রি এবং ওপেন সোর্স সফটওয়্যার। এই জন্য প্রচুর কারণ আছে, অনেক রাজনীতিবিদ এখনো তাদের সম্পর্কে জানেন না।
+ফ্রি এবং ওপেন সোর্স সফটওয়্যার আপনাকে সফটওয়্যার ব্যবহার, গবেষণা, শেয়ার এবং উন্নত করার অধিকার দেয়।
+ এই যেখানে আপনি সাহায্য করতে পারেন! আমাদের বার্তা আরো ওজন দিতে খোলা উদ্যোগ সাইন ইন করুন।  8 মানুষ এবং  1 সংস্থার ইতিমধ্যেই স্বাক্ষরিত হয়েছে। আমরা আপনার প্রতিনিধির চিঠি এবং স্বাক্ষর হস্তান্তর এবং নিশ্চিত যে তারা বুঝতে হবে যে: পাবলিক টাকা?</description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>গোপনীয়তা নীতি</title>
       <link>/bg/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -61,14 +40,35 @@ Free and Open Source Software gives everybody the right to use, study, share and
     </item>
     
     <item>
-      <title>Thank you for signing!</title>
+      <title>গোপনীয়তা নীতি...</title>
+      <link>/bg/openinitiative/all-signatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bg/openinitiative/all-signatures/</guid>
+      <description>এটি খোলা উদ্যোগে স্বাক্ষরিত সকল ব্যক্তিদের সম্পূর্ণ তালিকা এবং তাদের নাম প্রকাশ করার জন্য সম্মত হয়। 8 জন লোক ইতিমধ্যে তাদের সমর্থন প্রকাশ করেছে - আপনি তাদের মধ্যে একজন?
+তালিকাটি প্রতি ঘন্টায় আপডেট করা হয়।
+  নাম দেশ মন্তব্য     test3 India test3   test3 India test3   Aditya Dutt India Never thought about this! Totally support this cause!   test2 India test2   test2 India test2   test2 India test   test2 India test   test Germany test    </description>
+    </item>
+    
+    <item>
+      <title>প্রায় শেষ...</title>
+      <link>/bg/openinitiative/confirm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bg/openinitiative/confirm/</guid>
+      <description>এখন আপনার ইমেল ইনবক্স চেক করুন আপনি প্রায় সমাপ্ত হয়! আপনি শীঘ্রই আপনার স্বাক্ষরের চূড়ান্ত নিশ্চিতকরণের জন্য একটি লিঙ্ক সহ একটি ইমেল পাবেন। যদি আপনি পরবর্তী 15 মিনিটের মধ্যে মেল না পান তবে দয়া করে আপনার স্প্যাম ফোল্ডারটি চেক করুন।
+পাবলিক মানি, পাবলিক কোড এর জন্য উন্মুক্ত উদ্যোগ সাইন করার জন্য আপনাকে ধন্যবাদ।</description>
+    </item>
+    
+    <item>
+      <title>স্বাক্ষর করার জন্য আপনাকে ধন্যবাদ!</title>
       <link>/bg/openinitiative/success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bg/openinitiative/success/</guid>
-      <description>Your signature is confirmed Thank you for signing the open initiative &amp;ldquo;Public Money, Public Code&amp;rdquo;. Your support means a lot to us.
-If you opted-in to having your name added to the public list, your name will appear on the list of signatures within the next hour. If you opted-in to receive further information, we will keep you informed about news concerning this campaign via email.
-Next Steps Please help us by giving your signature a huge impact and share this campaign with your friends.</description>
+      <description>আপনার স্বাক্ষর নিশ্চিত করা হয় খোলা উদ্যোগ &amp;ldquo;পাবলিক মানি, পাবলিক কোড&amp;rdquo; সাইন ইন করার জন্য আপনাকে ধন্যবাদ। আপনার সমর্থন আমাদের অনেক মানে।
+যদি আপনি আপনার নামটি পাবলিক তালিকায় যোগ করার জন্য বেছে নেন, তাহলে আপনার নাম পরবর্তী সাইনের মধ্যে স্বাক্ষরগুলির তালিকা প্রদর্শিত হবে। যদি আপনি আরও তথ্য পেতে পছন্দ করেন, আমরা ইমেলের মাধ্যমে এই প্রচারাভিযানের বিষয়ে আপনাকে খবর জানাই।
+পরবর্তী পদক্ষেপ আপনার বন্ধুদের সঙ্গে আপনার স্বাক্ষর একটি বিশাল প্রভাব এবং এই প্রচারণা ভাগ করুন দ্বারা আমাদের সাহায্য করুন। একসঙ্গে আমরা রাজনীতিবিদ ও জনসাধারণের প্রশাসকদের নতুন উদ্যোক্তাদের মুক্ত ও ওপেনসোর্স সফটওয়্যার লাইসেন্সের জন্য এবং এশিয়ায় সর্বজনীন খাতে প্রাতিষ্ঠানিক রূপান্তর করার জন্য উত্সাহিত করব।</description>
     </item>
     
   </channel>
