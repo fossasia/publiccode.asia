@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
   url         = "https://publiccode.asia"
   slogan_1    = "Public Money"
   slogan_2    = "Public Code"
-  promoLink   = "https://github.com/fossasia/fossasia-artwork/tree/master/PublicCode"
+  promoLink   = "https://github.com/fossasia/fossasia-artwork/blob/master/PublicCode/publiccode.zip?raw=true"
   language    = "Language"
 
 [params.static.meta]
