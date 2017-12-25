@@ -1,0 +1,117 @@
+# == German ==
+
+## General strings
+#[Languages.gm]
+#  languageCode  = "gm"  
+#  languageName  = "German"
+#  description   = "Öffentliches Geld, öffentlicher Code -Eine FOSSASIA Kampagne zur Freigabe von öffentlich finanzierter Software als Freie und Open Source Software"
+#  fsdefinition  = "Freie und Open-Source-Software gibt jedem das Recht, Software zu verwenden, zu studieren, zu teilen und zu verbessern"
+
+## Navigation
+#[Languages.gm.navigation]
+#[Languages.gm.navigation.links]
+#  start     = "Anfang"
+#  about     = "Über"
+#  arguments = "Gründe dafür"
+#  action    = "Handeln Sie"
+#  spread    = "Verbreite das Wort"
+# Navigation
+
+# Start banner
+#[Languages.gm.start]
+#  subtitle1   = "Warum wird Software, die mit Steuergeldern erstellt wurde, nicht als Freie und Open-Source-Software veröffentlicht?"
+#  subtitle2   = "Wir fordern eine Gesetzgebung, die öffentlich finanzierte Software, die für den öffentlichen Sektor entwickelt wurde, unter einer [Free and Open Source Software] (https://en.wikipedia.org/wiki/Free_and_open-source_software) Lizenz öffentlich zugänglich macht. Wenn es sich um öffentliches Geld handelt, sollte es auch öffentlicher Code sein. Nach Initiativen [auf der ganzen Welt] (https://publiccode.eu) starten wir eine Initiative, die die Freigabe von Code fordert, der von der Öffentlichkeit bezahlt wird."
+#  subtitle3   = "** Von den Leuten bezahlter Code sollte den Leuten zur Verfügung stehen! **"
+
+## About section
+#[Languages.gm.about]
+#  headline    = "Klingt kompliziert? Es ist nicht. Es ist super einfach!"
+#  buttonText  = "Mehr Vorteile"
+
+## Arguments section
+#[Languages.gm.arguments]
+#  headline    = "Gründe für den öffentlichen Kodex"
+#  followup    = "Glauben Sie, dass Freie und Open Source Software die Standardoption für öffentlich finanzierte Software sein sollte? Lassen Sie uns Ihre politischen Vertreter überzeugen!"
+#  buttonText  = "Sign the Open Initiative"
+#[[Languages.gm.arguments.list]]
+#  icon        = "fa-usd"  # <-- do not translate this
+#  title       = "Steuerersparnis"
+#  description = "Ähnliche Anwendungen müssen nicht jedes Mal neu programmiert werden."
+#[[Languages.gm.arguments.list]]
+#  icon        = "fa-handshake-o"  # <-- do not translate this
+#  title       = "Zusammenarbeit"
+#  description = "Bei Großprojekten können Fachwissen und Kosten geteilt werden."
+#[[Languages.gm.arguments.list]]
+#  icon        = "fa-users"  # <-- do not translate this
+#  title       = "Der Öffentlichkeit dienen"
+#  description = "Von der Öffentlichkeit bezahlte Anträge sollten für alle zugänglich sein."
+#[[Languages.gm.arguments.list]]
+#  icon        = "fa-lightbulb-o"  # <-- do not translate this
+#  title       = "Innovationen fördern"
+#  description = "Bei transparenten Prozessen müssen andere das Rad nicht neu erfinden."
+
+## Action section
+#[Languages.gm.action]
+#  headline      = "Erzähle deinen Vertretern!"
+#  intro         = "In unserer [** offene Initiative **] (offeneInitiative /) fordern wir:"
+#  # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+#  demand        = "“Umsetzung einer Gesetzgebung, die öffentlich finanzierte Software, die für den öffentlichen Sektor entwickelt wurde, unter einer [Free and Open Source Software] (https://en.wikipedia.org/wiki/Free_and_open-source_software) Lizenz öffentlich zugänglich macht.”"
+#  description   = "** $ ORGS ** Organisationen und ** $ INDS ** Personen unterstützen diesen Aufruf bereits, indem sie unsere [open initiative] (openinitiative /) unterzeichnen. Sie können uns helfen, eine größere Wirkung zu erzielen, indem Sie es auch unterzeichnen! Wir werden alle Unterzeichner auflisten und sie Vertretern in ganz Asien übergeben, die über Software-Richtlinien in der öffentlichen Verwaltung diskutieren."
+#
+#[Languages.gm.action.box]
+#  text      = "Already **$INDS SIGNATURES** – sign the open initiative now!"
+#
+#[Languages.gm.action.form]
+#  name         = "Name (erforderlich)"
+#  email        = "Email (erforderlich)"
+#  country      = "Dein Land"
+#  region       = "Region / Stadt"
+#  organization = "Organisation"
+#  comment      = "Dein Kommentar (max. 140 Zeichen)"
+#  permPriv     = "Ich habe die [Datenschutzerklärung] gelesen und akzeptiert (Datenschutz /)"
+#  permNews     = "Ich möchte über die Zukunft dieser Kampagne informiert bleiben"
+#  permPub      = "Ich möchte, dass meine Unterschrift in der [Unterschriftenliste] erscheint (Openinitiative / All-Signaturen)"
+#  submit       = "Unterschreibe jetzt!"
+
+## Organisations section
+#[Languages.gm.organisations]
+#  headline  = "Unterstützende Organisationen"
+#  text      = "Die folgenden Organisationen unterstützen unsere [offene Initiative] (openinitiative /). Wenn Ihre Organisation auch daran interessiert ist, dem Aufruf zum Public Code beizutreten, wenden Sie sich bitte an uns (mailto: publiccode@fossasia.org)."
+
+## Spread the word section
+#[Languages.gm.spread]
+#  headline          = "Verbreite das Wort!"
+#  promoText         = "Hol dir Sticker und Flyer von FOSSASIA"
+#  promoButtonText   = "Informationsmaterial herunterladen"
+#  shareText         = "Informiere deine Freunde und Follower über den Public Code:"
+#  defaultSocialText = "Wenn es sich um öffentliches Geld handelt, sollte es auch öffentlicher Code sein. Ich unterstütze diesen Aufruf für mehr öffentlichen Code unter einer Frei-Software-Lizenz:"
+
+## Legal Section
+#[Languages.gm.legal]
+#  by            = "This is a campaign by FOSSASIA"
+#  imprint       = "Impressum"
+#  privacy       = "Privatsphäre"
+#  transparency  = "Transparency"
+#  contribute1   = "Der Code dieser Website ist als Freie und Open-Source-Software lizenziert."
+#  contribute2   = "Du kannst gerne dazu beitragen!"
+#  license       = "Diese Arbeit wird unter einer [Creative Commons BY-SA 4.0 Lizenz] (http://creativecommons.org/licenses/by-sa/4.0/) lizenziert."
+
+## Language selection
+#[Languages.gm.language]
+#  description = "Lesen Sie diese Seite in einer anderen Sprache"
+
+## 404 Error Page
+#[Languages.gm.error]
+#  headline    = "Fehler 404 - Seite nicht gefunden"
+#  description = "Die von Ihnen gesuchte Seite existiert nicht."
+#  button      = "zurück zur Startseite"
+
+## Specific sub-pages
+#[Languages.gm.subpage]
+#[Languages.gm.subpage.signatures]
+#  headline      = "Individuelle Open Initiative Signaturen"
+#  description   = "Im Folgenden sind die Unterschriften der Unterzeichner aufgeführt, die ihre Veröffentlichung bekannt gegeben haben. Sei der Nächste!"
+#  allSignatures = "Siehe [alle öffentlichen Signaturen] (alle Signaturen /)."
+#  tableName     = "Name"
+#  tableCountry  = "Land"
+#  tableComment  = "Kommentar"
