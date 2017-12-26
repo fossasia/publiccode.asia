@@ -24,6 +24,18 @@ computer. If Hugo isn't available in your package manager, obtain it from its
 from version 0.20.7 upwards. Please make sure that you use an as recent version
 as possible to avoid errors.
 
+## Issue and Branch Policy
+
+Before making a pull request, please file an issue. So, other developers have the chance to give feedback or discuss details. Match every pull request with an issue please and add the issue number in description e.g. like "Fixes #123".
+
+We have the following branches   
+ * **gh-pages**   
+   Github Pages
+ * **master**   
+   This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update, and make a release.
+
+
+Also read [CONTRIBUTING.md](https://github.com/fossasia/publiccode.asia/blob/master/CONTRIBUTING.md)
 
 ### Getting involved
 
