@@ -6,9 +6,6 @@
         <hr />
         <!-- replace the URL defined in config.toml because this snipped is used in sub-pages too -->
         <p>{{ replace .Site.Params.organisations.text "openinitiative/" ("/openinitiative" | relLangURL)  | markdownify }}</p>
-        <div class="expand" tabindex="0">
-          <i class="fa fa-share" aria-hidden="true"></i>
-        </div>
         <div class="orgs">
           <ul>
             {{ $orgs := getJSON "data/organisations/organisations.json" }}
@@ -28,6 +25,9 @@
               {{ end }}
             {{ end }}
           </ul>
+        </div>
+        <div class="expand" tabindex="0">
+          <i class="fa fa-share" aria-hidden="true"></i>
         </div>
       </div>
     </div>
