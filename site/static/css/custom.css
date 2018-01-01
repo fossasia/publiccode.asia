@@ -474,6 +474,11 @@ a:hover {
   border: 1px solid #333;
   font-size: 45vm;
 }
+
+#donation2{
+  text-align: center;
+  margin: auto;
+}
 @media (max-width: 1000px) {
   #donateLightBox {
     left: 5%;
@@ -498,8 +503,13 @@ a:hover {
   padding: 1px;
   user-select: none;
   border-radius: 5px;
+  width: 150px;
+  height: 35px;
 }
 
+.paypal-text{
+  padding-left: 35px;
+}
 /* 'Become a supporter!' button */
 .support {
   background-color: #d62700;
