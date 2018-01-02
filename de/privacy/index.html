@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <!-- Build time: 2018-01-01 23:46:05.750837819 &#43;0000 UTC-->
+        <!-- Build time: 2018-01-02 00:05:40.145006522 &#43;0000 UTC-->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -603,39 +603,7 @@ Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), fu
 </script>
 <script src="https://checkout.stripe.com/checkout.js"></script> 
 <script type="text/javascript" src="/js/jquery.js"></script>
-<script>
-var amount=25;
-var handler = StripeCheckout.configure({
-  key: 'pk_test_IHdlNeCcW1H44btA1bcjWXa9',
-  image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FOSSASIA_Logo.svg/2000px-FOSSASIA_Logo.svg.png',
-  token: function(token) {
 
-    $("#stripeToken").val(token.id);
-    $("#stripeEmail").val(token.email);
-    $("#amounts").val(amount* 100);
-    $("#paymentMethod").val("stripe")
-    $("#myForm").submit();
-  }
-});
-$("#button1id").on("click",function(){
-var form=serialize($(this).closest("form")[0],true);
-amount=form.otheram||form.amount
-handler.open({
-    name: 'Donate to fossasia',
-    description: 'Donating: ($' + amount + ')',
-    amount: amount*100
-  });
-return false
-});
-
-$("#myForm").on("change","[name=amount]",function(){
-$("#otheram").val("")
-})
-$("#otheram").on("type change input paste",function(){
-$("#myForm [name=amount]").removeAttr("checked");
-});
-
-</script>
 
 <!-- Bootstrap Core JavaScript -->
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>

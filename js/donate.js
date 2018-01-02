@@ -58,57 +58,38 @@ function hider(channel,no) {
 Two seperate jquery functions are used in stripe payment for donation and regular supporter.
 On clicking the donate button with ids customButton and customButtone respective fumctions 
 will be called*/
-  
-  
-  var handler = StripeCheckout.configure({
-    key: 'pk_test_6pRNASCoBOKtIshFeQd4XMUh',
-    image: 'https://stripe.com/img/documentation/checkout/marketplace.png',
-    token: function (token) {
-        $("#stripeToken").val(token.id);
-        $("#stripeEmail").val(token.email);
-        $("#amount").val($("#amount").val() * 100);
-        $("#myForm").submit();
-    }
-});
-
-$('#customButton').on('click', function (e) {
-    var amount = $("#amount").val() * 100;
-    var displayAmount = parseFloat(Math.floor($("#amount").val() * 100) / 100).toFixed(2);
-    // Open Checkout with further options
-    handler.open({
-        name: 'Demo Site',
-        description: 'Custom amount ($' + displayAmount + ')',
-        amount: amount
-    });
-    e.preventDefault();
-});
-
-// Close Checkout on page navigation
-$(window).on('popstate', function () {
-    handler.close();
-});
+  (function(){
+var amount=25;
 var handler = StripeCheckout.configure({
-    key: 'pk_test_6pRNASCoBOKtIshFeQd4XMUh',
-    image: 'https://stripe.com/img/documentation/checkout/marketplace.png',
-    token: function (token) {
-        $("#stripeTokene").val(token.id);
-        $("#stripeEmaile").val(token.email);
-        $("#amounte").val($("#amount").val() * 100);
-        $("#myForme").submit();
-    }
+  key: 'pk_test_IHdlNeCcW1H44btA1bcjWXa9',
+  image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FOSSASIA_Logo.svg/2000px-FOSSASIA_Logo.svg.png',
+  token: function(token) {
+
+    $("#stripeToken").val(token.id);
+    $("#stripeEmail").val(token.email);
+    $("#amounts").val(amount* 100);
+    $("#paymentMethod").val("stripe")
+    $("#myForm").submit();
+  }
+});
+$("#button1id").on("click",function(){
+var form=serialize($(this).closest("form")[0],true);
+amount=form.otheram||form.amount
+handler.open({
+    name: 'Donate to fossasia',
+    description: 'Donating: ($' + amount + ')',
+    amount: amount*100
+  });
+return false
 });
 
-$('#customButtone').on('click', function (e) {
-    var amount = $("#amounte").val() * 100;
-    var displayAmount = parseFloat(Math.floor($("#amounte").val() * 100) / 100).toFixed(2);
-    // Open Checkout with further options
-    handler.open({
-        name: 'Demo Site',
-        description: 'Custom amount ($' + displayAmount + ')',
-        amount: amount
-    });
-    e.preventDefault();
+$("#myForm").on("change","[name=amount]",function(){
+$("#otheram").val("")
+})
+$("#otheram").on("type change input paste",function(){
+$("#myForm [name=amount]").removeAttr("checked");
 });
+})()
 
 // Close Checkout on page navigation
 $(window).on('popstate', function () {
