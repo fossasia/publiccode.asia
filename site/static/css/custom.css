@@ -550,3 +550,83 @@ a:hover {
 .support:hover {
   background-color: #842d2d !important;
 }
+
+
+.switch-field>input[type="radio"] {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    width: 1px;
+    border: 0;
+    overflow: hidden;
+}
+
+
+.switch-field>label {
+/*  display: inline-block;
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: none;
+  padding: 8px;
+  margin:20px 8px;
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition:    all 0.1s ease-in-out;
+  -ms-transition:     all 0.1s ease-in-out;
+  -o-transition:      all 0.1s ease-in-out;
+  transition:         all 0.1s ease-in-out;
+*/
+
+}
+
+
+
+.switch-field>input:checked + label {
+  background-color: #e12b00;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color:white;
+}
+.switch-field>label:hover {
+	cursor: pointer;
+	background-color: #e64620;
+}
+
+.form-horizontal .radio-inline {
+    /* padding:10px; */
+    /* margin-top: 0; */
+    /* margin-bottom: 0; */
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+.completeForm>div{
+padding:10px 4px;
+}
+.inline-video {
+    padding: 60px 13px;
+}
+
+.btn-donate {
+    padding: 15px 15px;
+}
+.switch-field>label {margin: 5px 4px;}
+
+legend {
+     margin-bottom: 10px; 
+}
+
+.creditCard{
+  background-color:#0079C1;
+}
+.creditCard:hover{
+  background-color: #0d93e2;
+}

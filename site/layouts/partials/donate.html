@@ -1,0 +1,141 @@
+<style>
+
+	.action {
+    -moz-osx-font-smoothing: antialiased;
+     -webkit-font-smoothing: antialiased; 
+     font-size: 0.875rem; 
+     line-height: 1.375rem; 
+     font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; 
+     font-weight: bold; 
+     text-decoration: none; 
+     cursor: pointer; 
+     text-align: left; 
+     display: inline-block; 
+     vertical-align: bottom; 
+     outline: none; 
+     color: #fff; 
+     background-color: #7d0068; 
+     padding: 3px 15px; 
+    
+    
+    border: 1px solid #7d0068; 
+    border-radius: 1000px; 
+}
+
+.action:focus,.action:active,.action:hover {
+    color: #fff;
+    background-color: #4a003e;
+    border-color: #4a003e;
+    text-decoration: none
+}
+		.paypal__button {
+		        width: 118px;
+background-repeat: no-repeat;
+    background-color: #0079C1;
+    background-size: 93px;
+    background-image: url(img/ppcom-white.svg);
+    background-position: left 12px center;
+	}
+	.paypal__button:hover {
+	        width: 118px;
+	  background-repeat: no-repeat;
+    background-color: #0d93e2;
+    background-size: 93px;
+    background-image: url(img/ppcom-white.svg);
+    background-position: left 12px center;
+	}
+	
+	.contribute-controls__input {
+    width: 100%; 
+    display: block; 
+}
+ .completeForm{
+   display:none;
+ }
+  input:checked ~ .completeForm{
+   display:block; 
+   clear:both;
+  }
+  
+  .radios>label{
+    float:left;
+  }
+  .radios>input{
+    float:left;
+    margin:13px;
+  }
+  
+	</style>
+ 
+	<link type="text/css" rel="stylesheet" href="https://checkout.stripe.com/v3/checkout/button-qpwW2WfkB0oGWVWIASjIOQ.css">
+
+
+
+<form class="form-horizontal"  id="myForm" action="https://us-central1-publiccodeasia.cloudfunctions.net/donate" method="POST">
+    <input type="hidden" id="paymentMethod"  name="pay" />
+  								    <input type="hidden" id="stripeToken"  name="stripeToken" /><!-- set value=stripe token -->
+    								<input type="hidden" id="stripeEmail" name="email" /><!-- set value= stripe email id -->
+								    <input type="hidden" id="amounts" name="amounts" />
+								    <input type="hidden" name="redirect" value="https://fossasia.org/thankyou" />
+<fieldset class="radios switch-field">
+
+<!-- Form Name -->
+<legend><h2 class="section-heading">Support</h2></legend>
+
+<!-- Multiple Radios (inline) -->
+<input type="radio" name="contributionType" id="contributionType-0" value="oneoff">
+    <label class="btn-default btn btn-donate" for="contributionType-0"> Donate   </label> 
+<input type="radio" name="contributionType" id="contributionType-1" value="regular">
+    <label class="btn-default btn btn-donate" for="contributionType-1">  Regular supporter     </label>
+      
+    
+
+
+
+<fieldset class="completeForm">
+<!-- Multiple Radios (inline) -->
+<div class="form-group">
+  
+  <div> 
+    <label class="radio-inline" for="amount-0">
+      <input type="radio" name="amount" id="amount-0" value="5">
+      $5
+    </label> 
+    <label class="radio-inline" for="amount-1">
+      <input type="radio" name="amount" id="amount-1" value="25" checked="checked">
+      $25
+    </label> 
+    <label class="radio-inline" for="amount-2">
+      <input type="radio" name="amount" id="amount-2" value="50">
+      $50
+    </label> 
+    <label class="radio-inline" for="amount-3">
+      <input type="radio" name="amount" id="amount-3" value="250">
+      $250
+    </label>
+  </div>
+</div>
+
+<!-- Prepended text-->
+<div>
+  
+  <div>
+    <div class="input-group">
+      <span class="input-group-addon">$</span>
+      <input id="otheram" name="otheram" class="form-control" placeholder="Other" type="number">
+    </div>
+  </div>
+</div>
+
+<!-- Button (Double) -->
+<div class="form-group">
+  
+  <div class="col-md-8">
+    <button id="button1id" name="button1id" class="btn btn-info btn-donate">Credit card</button>
+    <button id="Paypal" name="Paypal" class="btn btn-info paypal__button btn-donate">&nbsp;</button>
+  </div>
+</div>
+
+</fieldset>
+</fieldset>
+</form>
