@@ -99,6 +99,153 @@
 
 					</div>
 		    	</div>
+                    	<style>
+
+	.action {
+    -moz-osx-font-smoothing: antialiased;
+     -webkit-font-smoothing: antialiased; 
+     font-size: 0.875rem; 
+     line-height: 1.375rem; 
+     font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif; 
+     font-weight: bold; 
+     text-decoration: none; 
+     cursor: pointer; 
+     text-align: left; 
+     display: inline-block; 
+     vertical-align: bottom; 
+     outline: none; 
+     color: #fff; 
+     background-color: #7d0068; 
+     padding: 3px 15px; 
+    
+    
+    border: 1px solid #7d0068; 
+    border-radius: 1000px; 
+}
+
+.action:focus,.action:active,.action:hover {
+    color: #fff;
+    background-color: #4a003e;
+    border-color: #4a003e;
+    text-decoration: none
+}
+		.paypal__button {
+    background-repeat: no-repeat;
+    background-color: #0079C1;
+    background-size: 93px;
+    background-image: url(img/ppcom-white.svg);
+    background-position: left 40px center;
+	}
+	.paypal__button:hover {
+	  background-repeat: no-repeat;
+    background-color: #0d93e2;
+    background-size: 93px;
+    background-image: url(img/ppcom-white.svg);
+    background-position: left 40px center;
+	}
+	
+	.contribute-controls__input {
+    width: 100%; 
+    display: block; 
+}
+ .completeForm{
+   display:none;
+ }
+  input:checked ~ .completeForm{
+   display:block; 
+   clear:both;
+  }
+  
+  .radios>label{
+    float:left;
+  }
+  .radios>input{
+    float:left;
+    margin:13px;
+  }
+  input[type="text"]{
+        color: #666;
+  }
+	</style>
+ 
+	<link type="text/css" rel="stylesheet" href="https://checkout.stripe.com/v3/checkout/button-qpwW2WfkB0oGWVWIASjIOQ.css">
+
+
+
+<form class="form-horizontal"  id="myForm" action="https://us-central1-publiccodeasia.cloudfunctions.net/donate" method="POST">
+    <input type="hidden" id="paymentMethod"  name="pay" />
+  								    <input type="hidden" id="stripeToken"  name="stripeToken" /><!-- set value=stripe token -->
+    								<input type="hidden" id="stripeEmail" name="email" /><!-- set value= stripe email id -->
+								    <input type="hidden" id="amounts" name="amounts" />
+								    <input type="hidden" name="redirect" value="https://fossasia.org/thankyou" />
+<fieldset class="radios">
+
+<!-- Form Name -->
+<legend>Donate</legend>
+
+<!-- Multiple Radios (inline) -->
+
+    <label class="radio-inline" for="contributionType-0"> One-off contribution    </label> 
+      <input type="radio" name="contributionType" id="contributionType-0" value="oneoff">
+     
+
+    <label class="radio-inline" for="contributionType-1">  Regular supporter     </label>
+      <input type="radio" name="contributionType" id="contributionType-1" value="regular">
+    
+
+
+
+<fieldset class="completeForm">
+<!-- Multiple Radios (inline) -->
+<div class="form-group">
+  
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="amount-0">
+      <input type="radio" name="amount" id="amount-0" value="5">
+      $5
+    </label> 
+    <label class="radio-inline" for="amount-1">
+      <input type="radio" name="amount" id="amount-1" value="25" checked="checked">
+      $25
+    </label> 
+    <label class="radio-inline" for="amount-2">
+      <input type="radio" name="amount" id="amount-2" value="50">
+      $50
+    </label> 
+    <label class="radio-inline" for="amount-3">
+      <input type="radio" name="amount" id="amount-3" value="250">
+      $250
+    </label>
+  </div>
+</div>
+
+<!-- Prepended text-->
+<div class="form-group">
+  
+  <div class="col-md-4">
+    <div class="input-group">
+      <span class="input-group-addon">$</span>
+      <input id="otheram" name="otheram" class="form-control" placeholder="100" type="number">
+    </div>
+    <p class="help-block">other amount</p>
+  </div>
+</div>
+
+<!-- Button (Double) -->
+<div class="form-group">
+  
+  <div class="col-md-8">
+    <button id="button1id" name="button1id" class="btn btn-info">Credit card</button>
+    <button id="Paypal" name="Paypal" class="btn btn-info paypal__button">&nbsp;</button>
+  </div>
+</div>
+
+</fieldset>
+</fieldset>
+</form>
+
+                </section>
+            </div></div>
 
 				<div class="share-buttons">
 	              {{ .Site.Params.spread.shareTitle }}

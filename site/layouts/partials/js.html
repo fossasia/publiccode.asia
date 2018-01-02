@@ -312,8 +312,12 @@ function closedonateLightBox() {
 Array.prototype.forEach.call(document.querySelectorAll("form.share-buttons"), function(form) {
     onformSubmit(form, openPageFromButton)
 })
+
 </script>
+<script src="https://checkout.stripe.com/checkout.js"></script> 
 <script type="text/javascript" src="{{ "js/jquery.js" | absURL }}"></script>
+
+
 {{ "<!-- Bootstrap Core JavaScript -->" | safeHTML }}
 <script type="text/javascript" src="{{ "js/bootstrap.min.js" | absURL }}"></script>
 {{ "<!-- Plugin JavaScript -->" | safeHTML }}
