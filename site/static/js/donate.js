@@ -95,3 +95,12 @@ $("#myForm [name=amount]").removeAttr("checked");
 $(window).on('popstate', function () {
     handler.close();
 });
+
+function createN(name,key){
+return $("<input type='hidden'>").attr("name",name).attr("value",key)
+}
+$("#Paypal").click(function(){
+    
+$("#myForm").attr("action","https://www.paypal.com/cgi-bin/webscr").append(createN("business","office@fossasia.org")).append(createN("cmd","donations")).append(createN("item_name","FOSSASIA friends")).append(createN("item_number","Supportin FOSSASIA")).append(createN("currency_code","USD"));
+
+})
