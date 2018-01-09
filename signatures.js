@@ -1,7 +1,8 @@
-var fs=require('fs');
-var obj=require('./signatures.json');
+var fs = require('fs');
+var obj = require('./signatures.json');
+
 function forEach(obj, fn, path) {
-    if (obj&&typeof obj == "object")
+    if (obj && typeof obj == "object")
         Object.keys(obj).forEach(function(key) {
             var deepPath = path ? path + '.' + key : key;
             // Note that we always use obj[key] because it might be mutated by forEach
@@ -10,18 +11,22 @@ function forEach(obj, fn, path) {
         })
 }
 
- var table = [];
-    forEach(obj, function(thing, key, obj, path) {
+var table = [];
+forEach(obj, function(thing, key, obj, path) {
 
-        var thingy;
-        
-        if (thing.email) {
-            thingy={"include_vars":thing}
-            thingy.timestamp=thing.timestamp
-            table.push(thingy)
-            return false
-        } else {
-            return true
+    var thingy;
+
+    if (thing.email) {
+        thingy = {
+            "include_vars": thing
         }
-    });
-fs.writeFile("signatures.json",JSON.stringify(table),"UTF-8",function(a){a&&console.log(a)})
+        thingy.timestamp = thing.timestamp
+        table.push(thingy)
+        return false
+    } else {
+        return true
+    }
+});
+fs.writeFile("signatures.json", JSON.stringify(table), "UTF-8", function(a) {
+    a && console.log(a)
+})
