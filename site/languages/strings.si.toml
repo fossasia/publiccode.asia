@@ -1,0 +1,127 @@
+﻿#== SINHALA ==
+
+# General strings
+[Languages.si]
+  languageCode  = "si"
+  languagName  = "සිංහල"
+  description   = "පොදු මුදල්, පොදු කේත - පොදුවේ මුදල් සපයන ලද මෘදුකාංග විවෘත කේතන මෘදුකාංග ලෙස නිදහස් කිරීම සදහා FOSSASIA වැඩසටහන."
+  fsdefinition  = "නිදහස් හා විවෘත මෘදුකාංග, මෘදුකාංගය භාවිතා කරන්නන්ට අධ්‍යනයට, බෙදාහදා ගැනීමට සහ දියුණු කිරීමට අයිතිය ලබා දෙයි."
+
+
+#Navigation
+[Languages.si.navigation]
+[Languages.si.navigation.links]
+  start     = "ආරම්භය"
+  about     = "පිළිබදව"
+  arguments = "හේතු"
+  action    = "පියවර ගන්න"
+  spread    = "දැනුවත් කරන්න"
+
+
+#Start banner
+[Languages.si.start]
+  subtitle1   = "බදු ගෙවන්නන්ගේ මුදල් භාවිතයෙන් නිර්මාණය කරන ලද මෘදුකාංග, නිදහස් සහ විවෘත මෘදුකාංගයක් ලෙස නිකුත් නොකරන්නේ ඇයි?"
+  subtitle2   = "රාජ්‍ය අංශය සඳහා සංවර්ධනය කරන ලද පොදු මූල්‍යනය කරන ලද මෘදුකාංග [නිදහස් හා විවෘත මෘදුකාංග](https://lk.wikipedia.org/wiki/Free_and_open-source_software) liclkce යටතේ ප්‍රසිද්ධියට පත් කළ යුතු බව අඩංගු වන නීති සම්පාදනය කිරීමට අපට අවශ්‍යයි. එය රාජ්‍ය මුදල් නම් එය පොදු කේතයක් විය යුතුය. මහජනතාව විසින් ගෙවනු ලබන කේත නිදහස් කිරීමට ඇවැසි පහත සඳහන් මූලික පියවර [ලෝකය පුරා](https://publiccode.eu) අපි ආරම්භ කරමු."
+  subtitle3   = "**ජනතාව විසින් මුදල් ගෙවන ලද කේත, ජනතාවට ලබා දිය යුතුය!**"
+
+
+#About section
+[Languages.si.about]
+  headline    = "සංකීර්ණ ලෙස දැනෙනවා ද? එය එසේ නොවෙයි. එය ඉතාමත් පහසුයි!"
+  buttonText  = "වැඩි වාසි"
+
+
+#Arguments section
+[Languages.si.arguments]
+  headline    = "පොදු කේතයට හේතු"
+  followup    = "නිදහස් හා විවෘත මූලාශ්‍ර මෘදුකාංග ප්‍රසිද්ධියේ මූල්‍යනය කළ මෘදුකාංග සඳහා පෙරනිමි විකල්පයක් විය යුතු බව ඔබ විශ්වාස කරනවාද? **ඔබගේ දේශපාලන ආයාචනා ඒත්තු ගන්වමු!**"
+  buttonText  = "විවෘත කේතනය ආරම්භයට අත්සන් කරන්න"
+[[Languages.si.arguments.list]]
+  icon        = "fa-usd"   #<-- do not translate this
+  title       = "බදු ඉතිරි කිරීම"
+  description = "සමාන යෙදුම් සෑම විටම මුලසිට වැඩසටහන් ගත කළ යුතු නැත."
+[[Languages.si.arguments.list]]
+  icon        = "fa-handshake-o"   #<-- do not translate this
+  title       = "එක්වන්න"
+  description = "ප්‍රධාන ව්යාපෘති සඳහා දරන ප්‍රයත්නයන්ගෙන් විශේෂඥ ඥාණය හා පිරිවැය බෙදාගත හැකිය."
+[[Languages.si.arguments.list]]
+  icon        = "fa-users"   #<-- do not translate this
+  title       = "මහජනතාවට සේවය කිරීම"
+  description = "මහජනතාව විසින් ගෙවන ලද යෙදුම් සෑම අයෙකුටම ලබා ගත හැකි විය යුතුය."
+[[Languages.si.arguments.list]]
+  icon        = "fa-lightbulb-o"   #<-- do not translate this
+  title       = "නව්‍යකරණය පෝෂණය කිරීම"
+  description = "විනිවිද පෙනෙන ක්‍රියාවලියක් සමඟ, අනෙක් අයට රෝදය නැවත නිර්මාණය කිරීමට සිදු නොවේ."
+
+
+#Action section
+[Languages.si.action]
+  headline      = "ඔබේ නියෝජිතයන්ට කියන්න!"
+  intro         = "අපගේ [**විවෘත මුල් පිරීම**](openinitiative/)[**open initiative**] අපි ඉල්ලා සිටිමු:"
+  #In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://lk.wikipedia.org/wiki/Quotation_mark
+  demand        = "“රාජ්‍ය අංශයේ මූල්‍යකරණය කරන ලද මෘදුකාංග [නිදහස් හා විවෘත මෘදුකාංග](https://lk.wikipedia.org/wiki/Free_and_open-source_software) මගින් බලපත්‍ර ප්‍රසිද්ධියට පත්කිරීමට අවශ්‍ය නීති සම්පාදනය කළ යුතුය.”"
+  description   = "**$ORGS** සංවිධාන සහ **$INDS** පුද්ගලයින් දැනටමත් අපගේ [විවෘත ආරම්භකත්වය](openinitiative/) අත්සන් කිරීමෙන් මෙම ක්‍රියාවලිය සඳහා සහයෝගය දක්වයි. එය අත්සන් කිරීමෙන් ඔබට, වඩා විශාල බලපෑමක් කිරීමට අපට සහාය විය හැකිය! පුර්ණ ආසියාවේ සියලු ආයාචනා ලැයිස්තු අපි ලැයිස්තුගත කරනු ලැබේ. ආසියාවේ සියලුම අත්සන් ලබාදුන් පිරිස් ලැයිස්තු ගත කර එය ආසියාව පුරා සිටින රාජ්‍ය පරිපාලනය පිළිබඳ මෘදුකාංග ප්‍රතිපත්ති පිලිබඳ විවාද කරන නියෝජිතයන්ට භාර දෙන්නෙමු."
+
+[Languages.si.action.box]
+  text      = "දැනටමත් **$INDS SIGNATURES** – දැන් විවෘත ආරම්භකත්වය අත්සන් කරන්න!"
+
+[Languages.si.action.form]
+  name         = "නම (අවශ්‍යයි)"
+  email        = "විද්‍යුත් තැපෑල (අවශ්‍යයි)"
+  country      = "ඔබගේ රට"
+  region       = "කලාපය / නගරය"
+  organization = "ආයතනය"
+  comment      = "ඔබගේ අදහස් (උපරිම අකුරු 140යි)"
+  permPriv     = "මම කියවා පිළිගත්තා[පෞද්ගලිකත්ව ප්‍රකාශය](privacy/)"
+  permNews     = "මෙම ව්‍යාපෘතියේ අනාගතය ගැන දැනුවත් වීමට මට අවශ්‍යයි"
+  permPub      = "මට මගේ අත්සන පෙනෙන්නට අවශ්‍යයි[අත්සන් ලැයිස්තුවේ](openinitiative/all-signatures)"
+  submit       = "දැන් අත්සන් කරන්න!"
+
+
+#Organisations section
+[Languages.si.organisations]
+  headline  = "සහාය සංවිධාන"
+  text      = "පහත දැක්වෙන සංවිධාන අපට සහාය දක්වයි.[විවෘත මූලාරම්භය සඳහා](openinitiative/). පොදු කේතකරණයට සහභාගී වීමට ඔබේ සංවිධානය උනන්දුවක් දක්වනව නම්, කරුණාකර [අප හා සම්බන්ධ වන්න](mailto:publiccode@fossasia.org)."
+
+
+#Spread the word section
+[Languages.si.spread]
+  headline          = "දැනුවත් කරන්න!"
+  promoText         = "FOSSASIA වෙතින් ස්ටිකර් සහ දැන්වීම් ලබා ගන්න"
+  promoButtonText   = "තොරතුරු ද්‍රව්‍ය බාගත කරන්න"
+  shareText         = "ඔබේ මිතුරට සහ අනුගාමිකයන්ට කියන්න Public Code ගැන:"
+  defaultSocialText = "එය ජනතාවගේ මුදල් නම්, එය පොදු කේතයක් විය යුතුය. නිදහස් මෘදුකාංග බලපත්‍රයක් යටතේ මම තවත් ප්‍රසිද්ධ කේතයක් සඳහා මෙම කැඳවුමට සහාය දක්වමි.:"
+
+
+#Legal Section
+[Languages.si.legal]
+  by            = "මෙය ප්‍රසිද්ධ නීති සංග්‍රහයක් මගින් ගෙනයන වැඩ සටහනකි"
+  imprint       = "ආමන්ත්‍රණය"
+  privacy       = "පෞද්ගලිකත්වය"
+  transparency  = "විනිවිදභාවය"
+  contribute1   = "මෙම වෙබ් අඩවියේ කේතය නිදහස් හා විවෘත මෘදුකාංගයක් ලෙස බලපත්‍ර ලබා ඇත."
+  contribute2   = "දායකත්වය දැක්වීමට සාදරයෙන් පිළිගන්නවා!"
+  license       = "මෙම කාර්යය එහි [දායකයන්](https://github.com/fossasia/publiccode.asia/contributors) විසින් [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/) යටතේ බලපත්‍ර ගත කොට ඇත."
+
+#Language selection
+[Languages.si.language]
+  description = "මෙම පිටුව වෙනත් භාෂාවකින් කියවන්න"
+
+
+#404 Error Page
+[Languages.si.error]
+  headline    = "404 වැනි වැරැද්ද - පිටුව සොයාගත නොහැක"
+  description = "ඔබ සොයන පිටුව පවතින්නේ නැත."
+  button      = "නැවත ආරම්භක පිටුව වෙත"
+
+
+#Specific sub-pages
+[Languages.si.subpage]
+[Languages.si.subpage.signatures]
+  headline      = "තනි විවෘත ආරම්භක අත්සන"
+  description   = "පහත දැක්වෙන්නේ ඔවුන්ගේ නම් ප්‍රසිද්ධියට පත් කිරීමට එකඟ වෙමින් අත්සන් කල අයගේ අත්සන්. ඔබත් එක වන්න!"
+  allSignatures = "බලන්න [සියලුම පොදු අත්සන්](all-signatures/)."
+  tabllkame     = "නම"
+  tableCountry  = "රට"
+  tableComment  = "අදහස"
+
