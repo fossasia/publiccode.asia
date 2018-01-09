@@ -4,7 +4,10 @@ addons:
   apt:
     packages:
       - python-pygments
-
+cache:
+  directories:
+  - "$HOME/.cache/pip"
+  - "$HOME/.pyenv"
 # Clean and don't fail
 install:
   - wget https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.deb
