@@ -442,6 +442,7 @@ a:hover {
   border-left: none;
   text-align: center;
   font-size: 1.1em;
+  z-index: 10;
 }
 @media screen and (max-width: 767px) {
   #action-box {
