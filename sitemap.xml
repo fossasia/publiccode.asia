@@ -2,37 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/tm/sitemap.xml</loc>
+	   	<loc>/bg/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/eo/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/es/sitemap.xml</loc>
+	   	<loc>/hi/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>/gj/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/tl/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/id/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/zh_tw/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -47,7 +27,17 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
+	   	<loc>/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/tl/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/eo/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -57,22 +47,32 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/hi/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/bg/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/de/sitemap.xml</loc>
+	   	<loc>/id/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>/fr/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/zh_tw/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/tm/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/de/sitemap.xml</loc>
 		
 	</sitemap>
 	
