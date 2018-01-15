@@ -1,3 +1,4 @@
+# using sudo enabled linux VM
 sudo: enabled
 # Install the apt prerequisites
 addons:

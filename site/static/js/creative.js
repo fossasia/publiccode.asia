@@ -3,7 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
 (function($) {
     "use strict"; // Start of use strict
 
@@ -40,11 +39,12 @@
 
 })(jQuery); // End of use strict
 
-function changeTitlespread(val){
+function changeTitlespread(val) {
     document.getElementById('sharetitle-spread').value = val;
     return true;
 }
-function changeTitleside(val){
+
+function changeTitleside(val) {
     document.getElementById('sharetitle-side').value = val;
     return true;
 }
