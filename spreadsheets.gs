@@ -22,7 +22,7 @@ function ObjectToArray2D(json) {
 }
 
 function forEach(obj, fn, path) {
-    if (obj&&typeof obj == "object")
+    if (obj && typeof obj == "object")
         Object.keys(obj).forEach(function(key) {
             var deepPath = path ? path + '.' + key : key;
             // Note that we always use obj[key] because it might be mutated by forEach
@@ -77,7 +77,7 @@ function readFirebase() {
         }
     });
     table = ObjectToArray2D(table);
-    table=NArray.fromArray(table).permute(1,0).grid
+    table = NArray.fromArray(table).permute(1, 0).grid
     var range = sheet.getRange(1, 1, table.length, table[0].length);
     // Logger.log(range.getValues())
     range.setValues(table)
@@ -116,48 +116,64 @@ function f2DArraytoObject(arr) {
 }
 
 function createArray(length) {
-  var arr = Array.apply(Array,{length:length || 0}),
-      i = length;
+    var arr = Array.apply(Array, {
+            length: length || 0
+        }),
+        i = length;
 
-  if (arguments.length > 1) {
-    var args = Array.prototype.slice.call(arguments, 1);
-    while(i--) arr[i] = createArray.apply(this, args);
-  }        
-  return arr;
- }
+    if (arguments.length > 1) {
+        var args = Array.prototype.slice.call(arguments, 1);
+        while (i--) arr[i] = createArray.apply(this, args);
+    }
+    return arr;
+}
 /*
 So, have you ever wanted to make a N dimensional Array?
 Initialize the N dimensional array, arguments is the number of dimensions.
 */
-function NArray(){
-    this.lengths=Array.prototype.slice.call(arguments)
-    this.grid=createArray.apply(this,arguments);
+function NArray() {
+    this.lengths = Array.prototype.slice.call(arguments)
+    this.grid = createArray.apply(this, arguments);
 }
-NArray.fromArray=function(arr){
-var ar=new NArray(0);
-ar.lengths=[]
-var d=ar.grid=arr;
-while(d){
-ar.lengths.push(d.length.l)
-d=d[0];
+NArray.fromArray = function(arr) {
+    var ar = new NArray(0);
+    ar.lengths = []
+    var d = ar.grid = arr;
+    while (d) {
+        ar.lengths.push(d.length.l)
+        d = d[0];
+    }
+    return ar;
 }
-return ar;
-}
-NArray.prototype.each=function(f,mutate){
-    var d=[];
-    var i=-1;
-function ea(a,b,c){d[++i]=b;if(Array.isArray(a))a.forEach(ea);else {var e=f(a,d);if(mutate){c[b]=e;}};--i;}
+NArray.prototype.each = function(f, mutate) {
+    var d = [];
+    var i = -1;
+
+    function ea(a, b, c) {
+        d[++i] = b;
+        if (Array.isArray(a)) a.forEach(ea);
+        else {
+            var e = f(a, d);
+            if (mutate) {
+                c[b] = e;
+            }
+        };
+        --i;
+    }
     this.grid.forEach(ea)
 }
-NArray.prototype.permute=function(permutation){
-var ar=[]
-this.each(function(a,b){
-pathArraySet(b.map(function(d,e){return b[permutation[e]]}),ar,a)
-});
-return NArray.fromArray(ar)
+NArray.prototype.permute = function(permutation) {
+    var ar = []
+    this.each(function(a, b) {
+        pathArraySet(b.map(function(d, e) {
+            return b[permutation[e]]
+        }), ar, a)
+    });
+    return NArray.fromArray(ar)
 }
+
 function pathArraySet(path, obj, val) {
-    var paths = (typeof path=="string")?path.split('.'):path;
+    var paths = (typeof path == "string") ? path.split('.') : path;
     for (var i = 0, currobj = obj, pat = paths[i]; i < paths.length - 1; i++, pat = paths[i]) {
         if (!currobj[pat]) {
             currobj[pat] = []
@@ -175,7 +191,7 @@ function writeFirebase() {
     var [rows, columns] = [sheet.getLastRow(), sheet.getLastColumn()];
     //Get the data contained in those rows and columns as a 2 dimensional array
     var data = sheet.getRange(1, 1, rows, columns).getValues();
-    data=NArray.fromArray(data).permute([1,0]).grid
+    data = NArray.fromArray(data).permute([1, 0]).grid
     //Use the syncMasterSheet function defined before to push this data to the "masterSheet" key in the firebase database
     syncMasterSheet(f2DArraytoObject(data));
 }
