@@ -53,7 +53,7 @@ will be called*/
     var amount = 25;
     var handler = StripeCheckout.configure({
         key: 'pk_test_IHdlNeCcW1H44btA1bcjWXa9',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FOSSASIA_Logo.svg/2000px-FOSSASIA_Logo.svg.png',
+        image: '/img/fossasia_400x400.png',
         token: function(token) {
 
             $("#stripeToken").val(token.id);
