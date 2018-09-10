@@ -1,4 +1,4 @@
-# using sudo enabled linux VM
+code # using sudo enabled linux VM
 sudo: enabled
 # Install the apt prerequisites
 addons:
@@ -16,3 +16,11 @@ install:
   - rm -rf public || exit 0
 # Deploy to GitHub pages
 script: bash ./deploy.sh
+
+language: java
+sudo: false # faster builds
+
+script: "mvn cobertura:cobertura"
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
