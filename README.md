@@ -18,7 +18,7 @@ This is the website of "Public Money, Public Code" [publiccode.asia](https://pub
 
 ### Prerequisites
 
-In order to modify the website, you need `hugo` and `git` installed on your
+In order to modify the website, you need `hugo` and `git` to be installed on your
 computer. If Hugo isn't available in your package manager, obtain it from its
 [official website](https://gohugo.io). We tested the website build with Hugo
 from version 0.20.7 upwards. Please make sure that you use an as recent version
