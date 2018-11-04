@@ -494,7 +494,7 @@ a:hover {
   border: none;
 }
 .navbar-default {
-  background-color: rgba(90,90,90,0.85) !important;
+  background-color: transparent !important;
   border-bottom: 1px solid #fff !important;
 }
 .changed-nav {

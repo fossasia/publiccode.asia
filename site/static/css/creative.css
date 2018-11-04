@@ -199,7 +199,7 @@ aside {
 
   .navbar-default.affix {
     border-color: rgba(34, 34, 34, 0.05);
-
+    background-color: #fff;
   }
 
   .navbar-default.affix .navbar-header .navbar-brand {
