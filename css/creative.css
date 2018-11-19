@@ -602,3 +602,29 @@ body {
   overflow: visible;
   position: relative;
 }
+
+
+.drop-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.drop-content a {
+  color: black;
+  border-bottom-width: 0px;
+  padding: 10px 53px;
+  
+  display: block;
+  text-align: center
+}
+
+.drop-content a:hover {
+  background-color: rgb(214, 29, 29);
+  color: white;
+  font-weight: bold
+}
+

@@ -332,7 +332,7 @@ table#sigtable tr:hover {
   display: inline-block;
   overflow: hidden;
   position: relative;
-  transform: perspective(1px) translateZ(0px);
+  /*transform: perspective(1px) translateZ(0px); transform: perspective(1px) translateZ(0px);*/
   vertical-align: middle;
   margin-top: -3px;
 }
