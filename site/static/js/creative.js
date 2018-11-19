@@ -22,9 +22,9 @@
     })
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function() {
+    /*$('.navbar-collapse ul li a').click(function() {
         $('.navbar-toggle:visible').click();
-    });
+    });*/
 
     // Fit Text Plugin for Main Header
     $("h1").fitText(
@@ -48,3 +48,12 @@ function changeTitleside(val) {
     document.getElementById('sharetitle-side').value = val;
     return true;
 }
+
+function showLanguages(){
+    var dropdownList = document.getElementById("myDropdown");
+    dropdownList.classList.toggle("show");
+}
+
+var language = document.querySelector('.language');
+language.addEventListener('click', showLanguages);
+
