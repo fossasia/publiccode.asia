@@ -682,3 +682,7 @@ legend {
 .creditCard:hover {
   background-color: #0d93e2;
 }
+input:focus,
+textarea:focus{
+    outline: none;
+}
