@@ -7,36 +7,6 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/bg/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/zh_tw/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/xy/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/id/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/tm/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>/gj/sitemap.xml</loc>
 		
 	</sitemap>
@@ -47,7 +17,17 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/tl/sitemap.xml</loc>
+	   	<loc>/id/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/zh_tw/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -58,6 +38,26 @@
 	
 	<sitemap>
 	   	<loc>/vi/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/tl/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/bg/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/tm/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/xy/sitemap.xml</loc>
 		
 	</sitemap>
 	
