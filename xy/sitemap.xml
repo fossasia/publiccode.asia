@@ -12,13 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/categories/"
+                hreflang="en"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                hreflang="bg"
+                href="/bg/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,23 +32,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="hi"
-                href="/hi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tl"
                 href="/tl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +47,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="/bg/categories/"
+                hreflang="vi"
+                href="/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,13 +77,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/"
+                hreflang="en"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/"
+                hreflang="bg"
+                href="/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,23 +97,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="hi"
-                href="/hi/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tl"
                 href="/tl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -122,8 +112,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="/bg/"
+                hreflang="vi"
+                href="/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -142,13 +142,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="vi"
-                href="/vi/tags/"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/tags/"
+                hreflang="bg"
+                href="/bg/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -157,23 +162,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="hi"
-                href="/hi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="tl"
                 href="/tl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gj"
-                href="/gj/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -187,8 +177,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="bg"
-                href="/bg/tags/"
+                hreflang="vi"
+                href="/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gj"
+                href="/gj/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="/hi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
