@@ -36,6 +36,21 @@ div.sharecolumn .share-buttons.side {
 .share-buttons.side label:hover {
   background-color: #4cbd38;
 }
+.share-buttons.side .share-reddit:hover {
+  background-color: #ff4301 !important;
+}
+.share-buttons.side .share-linkedin:hover {
+  background-color: #0e76a8 !important;
+}
+.share-buttons.side .share-twitter:hover {
+  background-color: #55acee !important;
+}
+.share-buttons.side .share-facebook:hover {
+  background-color: #3b5998 !important;
+}
+.share-buttons.side .share-gplus:hover {
+  background-color: #dd4b39 !important;
+}
 .share-buttons.side .share-reddit {
   background-image: url("../img/service-icons/reddit_white.png");
 }
