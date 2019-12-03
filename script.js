@@ -6,7 +6,7 @@ $(function() {
     var $form = $('.donation-form');
     var $otherAmount = $form.find('.other-amount');
     var $amount = $form.find('.amount');
-    var outputError = function(error) {
+    var outputError =(error)=> {
         $('.messages')
             .html('<p>' + error + '</p>')
             .addClass('active');
@@ -14,28 +14,30 @@ $(function() {
             .removeProp('disabled')
             .val('Submit Donation');
     };
-    var stripeResponseHandler = function(status, response) {
-        if (response.error) {
+    var stripeResponseHandler =(status, response)=> {
+        if (response.error) 
+	{
             outputError(response.error.message);
-        } else {
+        } else 
+	{
             var token = response['id'];
             $form.append('<input type="hidden" name="stripeToken" value="' + token + '">');
             $form.get(0).submit();
         }
     };
-    var disableinput = function(amount) {
+    var disableinput =(amount)=> {
         $amount
             .val(amount)
             .blur()
             .prop('disabled');
     };
-    var enableinput = function() {
+    var enableinput =()=> {
         $amount
             .removeProp('disabled')
             .focus();
     };
 
-    $('.donation-form').on('submit', function(event) {
+    $('.donation-form').on('submit',(event)=> {
         // Disable processing button to prevent multiple submits
         $('.submit-button')
             .prop('disabled', true)
@@ -61,7 +63,7 @@ $(function() {
         return false;
     });
 
-    $('.form-amount label').on('click', function() {
+    $('.form-amount label').on('click',()=> {
         var $label = $(this);
 
         $label.addClass('active').parent().children('label').removeClass('active');
