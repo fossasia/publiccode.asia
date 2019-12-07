@@ -432,6 +432,8 @@ a:hover {
   height: 50px;
   text-decoration: none;
   border-radius: 50%;
+  display:none;
+
 }
 #scroll-to-top i {
   color: #fff;

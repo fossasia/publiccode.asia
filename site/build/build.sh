@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Put all available languages here, except "en". Separated by spaces
 TRANSLATIONS="bg eo gj hi id ms tl tm tr vi zh_tw"
