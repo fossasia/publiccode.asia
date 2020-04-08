@@ -7,11 +7,23 @@ $(window).scroll(function() {
         lightLogoPath = "../" + lightLogoPath;
         darkLogoPath = "../" + darkLogoPath;
     }
-    if ($(window).scrollTop() > 1) {
-        $('.navbar-default').addClass('changed-nav');
-        $('#logo').replaceWith('<img id="logo" src=\"' + darkLogoPath + '\" alt="Logo of the campaign" />');
+    
+    var tagHeight = $('#page-top').height();
+    if(tagHeight > 550) {
+        if ($(window).scrollTop() >= tagHeight) {
+            $('.navbar-default').addClass('changed-nav');
+            $('#logo').replaceWith('<img id="logo" src=\"' + darkLogoPath + '\" alt="Logo of the campaign" />');
+        } else {
+            $('.navbar-default').removeClass('changed-nav');
+            $('#logo').replaceWith('<img id="logo" src=\"' + lightLogoPath + '\" alt="Logo of the campaign" />');
+        }
     } else {
-        $('.navbar-default').removeClass('changed-nav');
-        $('#logo').replaceWith('<img id="logo" src=\"' + lightLogoPath + '\" alt="Logo of the campaign" />');
+        if ($(window).scrollTop() >= 989) {
+            $('.navbar-default').addClass('changed-nav');
+            $('#logo').replaceWith('<img id="logo" src=\"' + darkLogoPath + '\" alt="Logo of the campaign" />');
+        } else {
+            $('.navbar-default').removeClass('changed-nav');
+            $('#logo').replaceWith('<img id="logo" src=\"' + lightLogoPath + '\" alt="Logo of the campaign" />');
+        } 
     }
 });
