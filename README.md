@@ -32,7 +32,7 @@ We have the following branches
  * **gh-pages**   
    Github Pages
  * **master**   
-   This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update, and make a release.
+   This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update and make a release.
 
 
 Also read [CONTRIBUTING.md](https://github.com/fossasia/publiccode.asia/blob/master/CONTRIBUTING.md)
@@ -43,7 +43,7 @@ First of all, you'll need an account on [github.com](https://github.com) and bec
 [member here](https://orgmanager.miguelpiedrafita.com/o/fossasia).
 
 
-You can now clone the repo, open issues and make pull requests to solve issues.
+You can now clone the repo, open issues, and make pull requests to solve issues.
 
 
 ## Translate
@@ -95,6 +95,6 @@ Adding a new supporting organisation requires two steps:
 We are using Travis to automatically build the website. The site is automatically deployed when there's a push to the master branch of the repository.
 
 
-## Licence
+## License
 
 This site is based on the website publiccode.asia of the Free Software Foundation Europe e.V. Software applications are all free software and used under the respective licenses. The site itself is Copyright 2017 by the FSFE, FOSSASIA and its contributors and licensed under the GPLv3 license.
