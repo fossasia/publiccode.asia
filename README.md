@@ -61,7 +61,7 @@ execute Bash scripts in your command line.
 2. In the terminal, execute `cd site/` to navigate in the right directory for hugo's website build.
 3. Only if you added a new languages which doesn't exist on the website yet: Add you 2-letter language code in line 4 of the [build.sh
    file](./site/build/build.sh#L4).
-4. In your terminal, execute `./build/build.sh server`. This command will build the website and enable you to browse the result on your computer only. Open [localhost:1313](http://localhost:1313/) in your web  browser to see it.
+4. In your terminal, execute `site/build/build.sh server`. This command will build the website and enable you to browse the result on your computer only. Open [localhost:1313](http://localhost:1313/) in your web  browser to see it.
 
 
 ## HowTos and FAQs
