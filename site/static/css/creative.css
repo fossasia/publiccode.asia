@@ -164,7 +164,6 @@ aside {
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
   color: #690e0e !important;
-  background-color: transparent;
 }
 
 .navbar-default .nav > li.active > a:hover,
@@ -627,4 +626,5 @@ body {
   color: white;
   font-weight: bold
 }
+
 
