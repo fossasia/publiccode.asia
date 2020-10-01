@@ -8,7 +8,7 @@ Many people want to contribute translations.
 
 1. To get started and join the team please do the following:
 
-- Please become member of [FOSSASIA here](https://orgmanager.miguelpiedrafita.com/o/fossasia).
+- Please become member of [FOSSASIA here](https://community.fossasia.org/membership/).
 - Join the [chat channel](https://gitter.im/fossasia/fossasia)
 - Write to the list that you'd like to start a translation to language
 
