@@ -49,12 +49,12 @@ function hider(channel, no) {
 Two seperate jquery functions are used in stripe payment for donation and regular supporter.
 On clicking the donate button with ids customButton and customButtone respective fumctions 
 will be called*/
-(function() {
+(function () {
     var amount = 25;
     var handler = StripeCheckout.configure({
         key: 'pk_live_TYUOty0alel95s5ZGMydBd8Q',
         image: '/img/fossasia_400x400.png',
-        token: function(token) {
+        token: function (token) {
 
             $("#stripeToken").val(token.id);
             $("#stripeEmail").val(token.email);
@@ -63,7 +63,7 @@ will be called*/
             $("#myForm").submit();
         }
     });
-    $("#button1id").on("click", function() {
+    $("#button1id").on("click", function () {
         var form = serialize($(this).closest("form")[0], true);
         amount = form.otheram || form.amount
         handler.open({
@@ -74,23 +74,24 @@ will be called*/
         return false
     });
 
-    $("#myForm").on("change", "[name=amount]", function() {
+    $("#myForm").on("change", "[name=amount]", function () {
         $("#otheram").val("")
     })
-    $("#otheram").on("type change input paste", function() {
+    $("#otheram").on("type change input paste", function () {
         $("#myForm [name=amount]").removeAttr("checked");
     });
+    // Close Checkout on page navigation
+    $(window).on('popstate', function () {
+        handler.close();
+    });
+
 })()
 
-// Close Checkout on page navigation
-$(window).on('popstate', function() {
-    handler.close();
-});
 
 function createN(name, key) {
     return $("<input type='hidden'>").attr("name", name).attr("value", key)
 }
-$("#Paypal").click(function() {
+$("#Paypal").click(function () {
 
     $("#myForm").attr("action", "https://www.paypal.com/cgi-bin/webscr").append(createN("business", "office@fossasia.org")).append(createN("cmd", "donations")).append(createN("item_name", "FOSSASIA friends")).append(createN("item_number", "Supportin FOSSASIA")).append(createN("currency_code", "USD"));
 
