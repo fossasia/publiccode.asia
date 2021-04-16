@@ -7,7 +7,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/bg/sitemap.xml</loc>
+	   	<loc>/tl/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -22,7 +22,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/gj/sitemap.xml</loc>
+	   	<loc>/zh_tw/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -42,7 +42,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/tl/sitemap.xml</loc>
+	   	<loc>/gj/sitemap.xml</loc>
 		
 	</sitemap>
 	
@@ -52,7 +52,7 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/zh_tw/sitemap.xml</loc>
+	   	<loc>/bg/sitemap.xml</loc>
 		
 	</sitemap>
 	
