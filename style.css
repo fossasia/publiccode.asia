@@ -1,0 +1,221 @@
+/* =============================================================================
+   Stripe Donation Form stylesheet
+   ========================================================================== */
+
+body {
+  background-color: #ecf5fb;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background: #fff;
+  box-shadow: 0 0 15px #ccc;
+  margin: 100px auto;
+  padding: 30px;
+  text-align: center;
+  width: 760px;
+}
+
+.wrapper h1 {
+  font-size: 40px;
+  font-weight: 300;
+  margin: 20px 0;
+}
+
+.wrapper p {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.donation-form {
+  display: none;
+}
+
+.donation-form fieldset {
+  border-radius: 10px;
+  border: 1px solid #eee;
+  display: inline-block;
+  min-height: 360px;
+  padding: 5px 20px 20px;
+  text-align: left;
+  vertical-align: top;
+  width: 320px;
+}
+
+.donation-form fieldset:first-child {
+  margin-right: 20px;
+}
+
+.donation-form fieldset legend {
+  font-size: 18px;
+  margin-left: -13px;
+  padding: 0 15px;
+}
+
+.donation-form label {
+  display: block;
+  font-size: 13px;
+  padding-left: 2px;
+  vertical-align: top;
+}
+
+.donation-form .text {
+  border: 2px solid #e8e8e8;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  margin-bottom: 8px;
+  outline: none;
+  padding: 4px;
+  resize: none;
+  width: 100%;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.donation-form select.text {
+  margin-top: 4px;
+  height: 30px;
+}
+
+.donation-form .text:focus {
+  border: 2px solid #d0d0d0;
+}
+
+.donation-form .form-first-name,
+.donation-form .form-last-name,
+.donation-form .form-city,
+.donation-form .form-state,
+.donation-form .form-zip {
+  display: inline-block;
+}
+
+.donation-form .form-first-name,
+.donation-form .form-last-name {
+  width: 153px;
+}
+
+.donation-form .form-last-name {
+  margin-left: 10px;
+}
+
+.donation-form .form-city {
+  width: 160px;
+}
+
+.donation-form .form-state {
+  margin: 0 10px;
+  width: 60px;
+}
+
+.donation-form .form-zip {
+  width: 70px;
+}
+
+.donation-form .form-amount {
+  margin-bottom: 20px;
+}
+
+.donation-form .form-amount label {
+  background-color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 2;
+  width: 92px;
+  padding: 1px 4px;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.donation-form .form-amount label.active {
+  background-color: #fbf7ec;
+  font-weight: 400;
+}
+
+.donation-form .form-amount .amount {
+  margin: 0;
+  width: 90px;
+}
+
+.donation-form .form-cvc,
+.donation-form .form-expiry {
+  display: inline-block;
+  vertical-align: top;
+  width: 75px;
+}
+
+.donation-form .form-expiry {
+  margin-left: 10px;
+  width: 225px;
+}
+
+.donation-form .form-expiry select {
+  width: 120px;
+}
+
+.donation-form .form-expiry select:last-child {
+  margin-left: 10px;
+  width: 90px;
+}
+
+.donation-form .form-submit {
+  margin: 15px 0;
+  text-align: center;
+}
+.donation-form .submit-button {
+  background-color: #008939;
+  border-radius: 4px;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 15px 30px;
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.donation-form .submit-button:hover {
+  background-color: #119347;
+}
+
+.messages {
+  margin: 6px;
+  background-color: #efe1e1;
+  border-radius: 4px;
+  box-shadow: 0 0 4px #943e3e;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  opacity: 0;
+}
+
+.messages.active {
+  opacity: 1;
+}
+
+.messages p {
+  color: #570707;
+  padding: 10px 20px;
+  font-weight: 600;
+}
