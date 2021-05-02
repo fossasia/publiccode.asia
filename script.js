@@ -2,6 +2,7 @@
 	Script for Simple Donation Form
 	Handles validation and form processing
 */
+
 $(function() {
     var $form = $('.donation-form');
     var $otherAmount = $form.find('.other-amount');
