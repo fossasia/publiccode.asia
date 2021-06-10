@@ -195,6 +195,11 @@
     "genc3a": "COM"
   },
   {
+    "name": "Cyprus",
+    "genc2a": "CY",
+    "genc3a": "CYP"
+  },
+  {
     "name": "Republic of the Congo",
     "genc2a": "CG",
     "genc3a": "COG"
@@ -610,6 +615,11 @@
     "genc3a": "MOZ"
   },
   {
+    "name": "Myanmar",
+    "genc2a": "MY",
+    "genc3a": "MYN"
+  },
+  {
     "name": "Namibia",
     "genc2a": "NA",
     "genc3a": "NAM"
@@ -655,6 +665,11 @@
     "genc3a": "NOR"
   },
   {
+    "name": "North Korea",
+    "genc2a": "NK",
+    "genc3a": "NKR"
+  },
+  {
     "name": "Oman",
     "genc2a": "OM",
     "genc3a": "OMN"
@@ -668,6 +683,11 @@
     "name": "Palau",
     "genc2a": "PW",
     "genc3a": "PLW"
+  },
+  {
+    "name": "Palestine",
+    "genc2a": "PA",
+    "genc3a": "PAL"
   },
   {
     "name": "Panama",
@@ -758,6 +778,11 @@
     "name": "Saudi Arabia",
     "genc2a": "SA",
     "genc3a": "SAU"
+  },
+  {
+    "name": "South Korea",
+    "genc2a": "SO",
+    "genc3a": "SOU"
   },
   {
     "name": "Senegal",
