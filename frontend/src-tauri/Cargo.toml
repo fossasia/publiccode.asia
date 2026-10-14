@@ -56,7 +56,7 @@ openmp = ["whisper-rs/openmp"]     # OpenMP parallel processing
 tauri-build = { version = "2.3.0", features = [] }
 reqwest = { version = "0.11", features = ["blocking", "multipart", "json", "stream"] }
 which = "6.0.1"
-zip = "2.2"           # ZIP extraction (Windows, macOS)
+zip = "9.0"           # ZIP extraction (Windows, macOS)
 tar = "0.4"           # TAR extraction (Linux)
 xz2 = "0.1"           # XZ decompression (Linux)
 sha2 = "0.10"
