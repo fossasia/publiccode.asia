@@ -137,7 +137,7 @@ esaxx-rs = "0.1.10"
 symphonia = { version = "0.5.4", features = ["aac", "isomp4", "mp3", "flac", "ogg", "vorbis", "pcm", "wav", "opt-simd"] }
 rand = "0.8.5"
 rayon = "1.10"
-rubato = "0.15.0"
+rubato = "5.0.1"
 ringbuf = "0.4.8"
 tempfile = "3.3.0"
 whatlang = "0.16.4"
