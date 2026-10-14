@@ -134,7 +134,7 @@ ndarray = "0.16"
 bytes = { version = "1.9.0", features = ["serde"] }
 
 esaxx-rs = "0.1.10"
-symphonia = { version = "0.5.4", features = ["aac", "isomp4", "mp3", "flac", "ogg", "vorbis", "pcm", "wav", "opt-simd"] }
+symphonia = { version = "0.6.1", features = ["aac", "isomp4", "mp3", "flac", "ogg", "vorbis", "pcm", "wav", "opt-simd"] }
 rand = "0.8.5"
 rayon = "1.10"
 rubato = "0.15.0"
