@@ -157,7 +157,7 @@ tauri-plugin-process = "2.3.0"
 
 # Desktop-only single instance guard
 [target.'cfg(any(target_os = "macos", windows, target_os = "linux"))'.dependencies]
-tauri-plugin-single-instance = "=2.3.7"
+tauri-plugin-single-instance = "=2.5.3"
 
 # macOS-specific dependencies with Metal GPU acceleration
 [target.'cfg(target_os = "macos")'.dependencies]
