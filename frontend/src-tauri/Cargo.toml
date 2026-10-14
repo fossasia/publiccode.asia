@@ -54,7 +54,7 @@ openmp = ["whisper-rs/openmp"]     # OpenMP parallel processing
 
 [build-dependencies]
 tauri-build = { version = "2.3.0", features = [] }
-reqwest = { version = "0.11", features = ["blocking", "multipart", "json", "stream"] }
+reqwest = { version = "0.13", features = ["blocking", "multipart", "json", "stream"] }
 which = "6.0.1"
 zip = "2.2"           # ZIP extraction (Windows, macOS)
 tar = "0.4"           # TAR extraction (Linux)
@@ -111,7 +111,7 @@ tokio = { version = "1.32.0", features = ["full", "tracing"] }
 tokio-util = "0.7"  # Utilities for tokio including CancellationToken
 async-trait = "0.1"  # Trait abstraction for async methods
 
-reqwest = { version = "0.11", features = ["blocking", "multipart", "json", "stream"] }
+reqwest = { version = "0.13", features = ["blocking", "multipart", "json", "stream"] }
 
 # crossbeam
 crossbeam = "0.8.4"
@@ -167,7 +167,7 @@ objc = "0.2.7"
 tauri-plugin-log = { version = "2.6.0", features = ["colored"] }
 anyhow = "1.0"
 time = { version = "0.3", features = ["formatting"] }
-reqwest = { version = "0.11", features = ["multipart", "json"] }
+reqwest = { version = "0.13", features = ["multipart", "json"] }
 core-graphics = "0.23"
 cidre = { git = "https://github.com/yury/cidre", rev = "a9587fa", features = ["av"] }
 dasp = "0.11.0"
