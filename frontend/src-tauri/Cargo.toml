@@ -59,7 +59,7 @@ which = "6.0.1"
 zip = "2.2"           # ZIP extraction (Windows, macOS)
 tar = "0.4"           # TAR extraction (Linux)
 xz2 = "0.1"           # XZ decompression (Linux)
-sha2 = "0.10"
+sha2 = "0.11"
 
 
 [dependencies]
