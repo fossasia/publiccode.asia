@@ -3656,6 +3656,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "ndarray"
+version = "0.17.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "520080814a7a6b4a6e9070823bb24b4531daac8c4627e08ba5de8c5ef2f2752d"
+dependencies = [
+ "matrixmultiply",
+ "num-complex",
+ "num-integer",
+ "num-traits",
+ "portable-atomic",
+ "portable-atomic-util",
+ "rawpointer",
+]
+
+[[package]]
 name = "ndk"
 version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -4200,7 +4215,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1fa7e49bd669d32d7bc2a15ec540a527e7764aec722a45467814005725bcd721"
 dependencies = [
  "libloading 0.8.9",
- "ndarray",
+ "ndarray 0.16.1",
  "ort-sys",
  "smallvec 2.0.0-alpha.10",
  "tracing",
@@ -5643,7 +5658,7 @@ version = "0.1.0"
 source = "git+https://github.com/emotechlab/silero-rs?rev=26a6460#26a646003cd8532ae2dde424ccdab1b6cdf5d7b0"
 dependencies = [
  "anyhow",
- "ndarray",
+ "ndarray 0.16.1",
  "ort",
  "rubato 0.16.2",
  "thiserror 2.0.18",
@@ -7570,7 +7585,7 @@ dependencies = [
  "lazy_static",
  "log",
  "memory-stats",
- "ndarray",
+ "ndarray 0.17.2",
  "nnnoiseless",
  "objc",
  "once_cell",
