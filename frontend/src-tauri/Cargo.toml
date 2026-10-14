@@ -118,7 +118,7 @@ crossbeam = "0.8.4"
 dashmap = "6.1.0"
 
 # Directories
-dirs = "5.0.1"
+dirs = "7.0.0"
 
 # Additional dependencies for notification system
 url = "2.5.0"
